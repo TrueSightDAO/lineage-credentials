@@ -1,40 +1,28 @@
 {
-  "generated_at": "2026-05-15T03:25:49.005559+00:00",
+  "generated_at": "2026-05-15T04:06:22Z",
   "count": 2,
   "members": [
     {
-      "slug": "fatima-toledo",
-      "display_name": "Fatima Toledo",
+      "slug": "emelin-frances-lisboa",
+      "display_name": "Emelin",
+      "pk_hash": null,
       "is_governor": false,
       "voting_rights": 0,
       "primary_program": null,
-      "pk_hashes": [],
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "total_contributions": 236,
-      "total_tdg_provisioned": 33446.43000000002,
-      "date_range": {
-        "earliest": "20210631",
-        "latest": "20250820"
-      },
-      "last_updated": "2026-05-15T03:25:49.005559+00:00"
+      "last_updated": "2026-05-15T04:06:22Z"
     },
     {
-      "slug": "emelin-frances-lisboa",
-      "display_name": "Emelin Frances Lisboa",
+      "slug": "fatima-toledo",
+      "display_name": "Fatima Toledo",
+      "pk_hash": null,
       "is_governor": false,
       "voting_rights": 0,
       "primary_program": null,
-      "pk_hashes": [],
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "total_contributions": 354,
-      "total_tdg_provisioned": 8508.290000000014,
-      "date_range": {
-        "earliest": "20230925",
-        "latest": "20250905"
-      },
-      "last_updated": "2026-05-15T03:25:49.005559+00:00"
+      "last_updated": "2026-05-15T04:06:22Z"
     }
   ]
 }

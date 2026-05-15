@@ -1,0 +1,377 @@
+{
+  "slug": "jenifer-runnion",
+  "display_name": "Jenifer Runnion",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 13,
+    "total_tdg_provisioned": 703.3399999999999,
+    "date_range": {
+      "earliest": "20250527",
+      "latest": "20250826"
+    },
+    "source": {
+      "contributor_name": "Jenifer Runnion",
+      "generated_date": "2026-05-14T22:06:13.480178",
+      "summary": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 703.3399999999999,
+        "total_tdg_issued": 703.3399999999999,
+        "projects": [
+          "20250617_beerhall",
+          "20250917_agroverse",
+          "Recurring Tokenizations",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250527",
+          "latest": "20250826"
+        }
+      },
+      "analysis": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 703.3399999999999,
+        "total_tdg_issued": 703.3399999999999,
+        "projects": [
+          "20250617_beerhall",
+          "20250917_agroverse",
+          "Recurring Tokenizations",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 9,
+          "1TDG For every 1 USD of liquidity injected": 2,
+          "\"100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20250527",
+          "latest": "20250826"
+        },
+        "contribution_types": [
+          {
+            "description": "Jen spent 1 hour sharing our cacao with attendees of the burning cow barter faire",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20250527",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jen spent 1 hour sharing our cacao with attendees of the burning cow barter faire",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20250527",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jen spent 1 hour sharing our cacao with attendees of the burning cow barter faire",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20250527",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thanks Jen for spending 10 minutes to record the video and then post it",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250528",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jenifer Runnion spent 5 minutes responding my request to check package status",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250629",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jenifer spent 5 minutes responding providing the shipping address",
+            "project": "20250917_agroverse",
+            "tdg": 8.33,
+            "date": "20250619",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Jenifer Runnion spent 5 minutes confirming that two separate packages will be arriving at her property",
+            "project": "20250917_agroverse",
+            "tdg": 8.33,
+            "date": "20250619",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jenifer Runnion - Corvalis Oregon USA Warehousing\n\nStart Date: 20250626",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250726",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jenifer Runnion - Corvalis Oregon USA Warehousing\n\nStart Date: 20250626",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250826",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes requesting for Jenifer’s help to check our package from Val warehouse",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250629",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes responding to Jenifer Reunnion request",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250715",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jenifer enthusiastically agreed to onboard to our SunMint program for Tree Planting in the Amazon rainforest via the sale of her drums.\n\nThis is her store front\nhttps://www.facebook.com/profile.php?id=61558625842455&rdid=nFz6fw9T29h7lUN3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1QQxUpbJxe%2F#\n\nHow it works\n- we will issue her 10 QR codes to start with which she will engrave onto the inside of her drums\n- When each drum gets sold, she will scan the QR code of the drum and send it to us for activation along with the $5 via Venmo for Tree planting\n- Her drums are made using recycled wood scavenged from discarded pallets\n\nI spent 30 minutes having the conversation with her",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20250716",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Jenifer Runnion discussed about planting cacao trees in Oregon \n\nWe spent 10 minutes doing introductions doing so",
+            "project": "telegram_chatlog",
+            "tdg": 8.34,
+            "date": "20250719",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 13
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Jen spent 1 hour sharing our cacao with attendees of the burning cow barter faire",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250527",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Jen spent 1 hour sharing our cacao with attendees of the burning cow barter faire",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250527",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Jen spent 1 hour sharing our cacao with attendees of the burning cow barter faire",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250527",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thanks Jen for spending 10 minutes to record the video and then post it",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250528",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Jenifer Runnion spent 5 minutes responding my request to check package status",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250629",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "20250917_agroverse",
+          "Contribution Made": "Jenifer spent 5 minutes responding providing the shipping address",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250619",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "20250917_agroverse",
+          "Contribution Made": "Me and Jenifer Runnion spent 5 minutes confirming that two separate packages will be arriving at her property",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250619",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "Jenifer Runnion - Corvalis Oregon USA Warehousing\n\nStart Date: 20250626",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250726",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "Jenifer Runnion - Corvalis Oregon USA Warehousing\n\nStart Date: 20250626",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250826",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes requesting for Jenifer’s help to check our package from Val warehouse",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "4.17",
+          "Status date": "20250629",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes responding to Jenifer Reunnion request",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "4.17",
+          "Status date": "20250715",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Jenifer enthusiastically agreed to onboard to our SunMint program for Tree Planting in the Amazon rainforest via the sale of her drums.\n\nThis is her store front\nhttps://www.facebook.com/profile.php?id=61558625842455&rdid=nFz6fw9T29h7lUN3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1QQxUpbJxe%2F#\n\nHow it works\n- we will issue her 10 QR codes to start with which she will engrave onto the inside of her drums\n- When each drum gets sold, she will scan the QR code of the drum and send it to us for activation along with the $5 via Venmo for Tree planting\n- Her drums are made using recycled wood scavenged from discarded pallets\n\nI spent 30 minutes having the conversation with her",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250716",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jenifer Runnion",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Me and Jenifer Runnion discussed about planting cacao trees in Oregon \n\nWe spent 10 minutes doing introductions doing so",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.34",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.34",
+          "Status date": "20250719",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

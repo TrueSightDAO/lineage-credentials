@@ -1,0 +1,125 @@
+{
+  "slug": "elvisyong",
+  "display_name": "@elvisyong",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 750.0,
+    "date_range": {
+      "earliest": "20220327",
+      "latest": "20220328"
+    },
+    "source": {
+      "contributor_name": "@elvisyong",
+      "generated_date": "2026-05-14T22:06:12.795729",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 750.0,
+        "total_tdg_issued": 750.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220327",
+          "latest": "20220328"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 750.0,
+        "total_tdg_issued": 750.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Engineering - Advise on how to get around a bug": 3
+        },
+        "date_range": {
+          "earliest": "20220327",
+          "latest": "20220328"
+        },
+        "contribution_types": [
+          {
+            "description": "Engineering: Generally, the accounts data are first serialized into bytecode before they are encoded into either base58 or base64, so the \"gibberish\" you are getting from the decoded base64 are the bytecode serialized data. You will then need to deserialize this bytecode into readable struct data. If you are building with anchor will also need to cut out the the first 8 byte as they are just discriminators and the remaining slice would be where the data lies in.\n\nhttps://t.me/c/1615218389/1436",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220327",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Engineering: If you're using anchor you can simply just leverage on their tools. Anchor uses borsh(https://github.com/near/borsh-rs) to serialise their data so you could use borsh directly too.\n\nhttps://t.me/c/1615218389/1448",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220327",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Engineering: Solana Programs can freely choose how they serialize and deserialize data within the block\n\nYup, the serialization and deserializastion are free to be specified, so it’s not necessary that programs use borsh. See https://docs.solana.com/developing/programming-model/transactions#instruction-data. For example look at how raydium does packing and unpacking of data. https://github.com/raydium-io/raydium-contract-instructions/blob/master/src/amm_instruction.rs#L278\n\nhttps://t.me/c/1615218389/1452",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220328",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "@elvisyong",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Generally, the accounts data are first serialized into bytecode before they are encoded into either base58 or base64, so the \"gibberish\" you are getting from the decoded base64 are the bytecode serialized data. You will then need to deserialize this bytecode into readable struct data. If you are building with anchor will also need to cut out the the first 8 byte as they are just discriminators and the remaining slice would be where the data lies in.\n\nhttps://t.me/c/1615218389/1436",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220327",
+          "Solana Transfer Hash": "4nRRFV5QirDBeAekQqPLAaYNKHUSzECKmqZpU3tyyv78QSkeMTAaZ4abEeVw4LX1GnNqLsxchTCkLy6R2H3JhQ8h",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@elvisyong",
+          "Project Name": "",
+          "Contribution Made": "Engineering: If you're using anchor you can simply just leverage on their tools. Anchor uses borsh(https://github.com/near/borsh-rs) to serialise their data so you could use borsh directly too.\n\nhttps://t.me/c/1615218389/1448",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220327",
+          "Solana Transfer Hash": "4nRRFV5QirDBeAekQqPLAaYNKHUSzECKmqZpU3tyyv78QSkeMTAaZ4abEeVw4LX1GnNqLsxchTCkLy6R2H3JhQ8h",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@elvisyong",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Solana Programs can freely choose how they serialize and deserialize data within the block\n\nYup, the serialization and deserializastion are free to be specified, so it’s not necessary that programs use borsh. See https://docs.solana.com/developing/programming-model/transactions#instruction-data. For example look at how raydium does packing and unpacking of data. https://github.com/raydium-io/raydium-contract-instructions/blob/master/src/amm_instruction.rs#L278\n\nhttps://t.me/c/1615218389/1452",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220328",
+          "Solana Transfer Hash": "4nRRFV5QirDBeAekQqPLAaYNKHUSzECKmqZpU3tyyv78QSkeMTAaZ4abEeVw4LX1GnNqLsxchTCkLy6R2H3JhQ8h",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

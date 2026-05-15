@@ -1,0 +1,220 @@
+{
+  "slug": "nishanth-sudharsanam",
+  "display_name": "Nishanth Sudharsanam",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20220110",
+      "latest": "20220125"
+    },
+    "source": {
+      "contributor_name": "Nishanth Sudharsanam",
+      "generated_date": "2026-05-14T22:06:13.732816",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 8850.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220110",
+          "latest": "20220125"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 8850.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220110",
+          "latest": "20220125"
+        },
+        "contribution_types": [
+          {
+            "description": "Coined the term: Verifiable marketing",
+            "project": "",
+            "tdg": 0,
+            "date": "20220110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Cross chain compatibility architecture advice: Curve DAO",
+            "project": "",
+            "tdg": 0,
+            "date": "20220112",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Collaboration: Buyer prediction purchase protocol design",
+            "project": "",
+            "tdg": 0,
+            "date": "20220115",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Identified polymarket protocol as a way to resolve predictions for items not easily quantifiable \nhttps://docs.polymarket.com/faq/resolution",
+            "project": "",
+            "tdg": 0,
+            "date": "20220115",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "The difficulty and process of establishing onchain verifiability: https://assets.1729.com/algorithmic-fact-checking.pdf",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Check up RAI on how to manage volatility",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Suggested to list on Raydium",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220125",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5,
+          "Work in Progress": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Nishanth Sudharsanam",
+          "Project Name": "",
+          "Contribution Made": "Coined the term: Verifiable marketing ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220110",
+          "Solana Transfer Hash": "HvJAEbtGmGJttY7S7A7UorgHhEEZD3mHNhTfHYFQUrXtyGecBwnrvwdAKYsWrKrmzytzJtufZBcZkbqd2beSmhF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nishanth Sudharsanam",
+          "Project Name": "",
+          "Contribution Made": "Cross chain compatibility architecture advice: Curve DAO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220112",
+          "Solana Transfer Hash": "HvJAEbtGmGJttY7S7A7UorgHhEEZD3mHNhTfHYFQUrXtyGecBwnrvwdAKYsWrKrmzytzJtufZBcZkbqd2beSmhF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nishanth Sudharsanam",
+          "Project Name": "",
+          "Contribution Made": "Collaboration: Buyer prediction purchase protocol design",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220115",
+          "Solana Transfer Hash": "HvJAEbtGmGJttY7S7A7UorgHhEEZD3mHNhTfHYFQUrXtyGecBwnrvwdAKYsWrKrmzytzJtufZBcZkbqd2beSmhF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nishanth Sudharsanam",
+          "Project Name": "",
+          "Contribution Made": "Identified polymarket protocol as a way to resolve predictions for items not easily quantifiable \nhttps://docs.polymarket.com/faq/resolution",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220115",
+          "Solana Transfer Hash": "HvJAEbtGmGJttY7S7A7UorgHhEEZD3mHNhTfHYFQUrXtyGecBwnrvwdAKYsWrKrmzytzJtufZBcZkbqd2beSmhF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nishanth Sudharsanam",
+          "Project Name": "",
+          "Contribution Made": "The difficulty and process of establishing onchain verifiability: https://assets.1729.com/algorithmic-fact-checking.pdf",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nishanth Sudharsanam",
+          "Project Name": "",
+          "Contribution Made": "Check up RAI on how to manage volatility",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nishanth Sudharsanam",
+          "Project Name": "",
+          "Contribution Made": "Suggested to list on Raydium",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220125",
+          "Solana Transfer Hash": "HvJAEbtGmGJttY7S7A7UorgHhEEZD3mHNhTfHYFQUrXtyGecBwnrvwdAKYsWrKrmzytzJtufZBcZkbqd2beSmhF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

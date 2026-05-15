@@ -1,0 +1,131 @@
+{
+  "slug": "johnny-browaeys",
+  "display_name": "Johnny Browaeys",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 510.0,
+    "date_range": {
+      "earliest": "20230617",
+      "latest": "20230617"
+    },
+    "source": {
+      "contributor_name": "Johnny Browaeys",
+      "generated_date": "2026-05-14T22:06:13.512109",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 510.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230617",
+          "latest": "20230617"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 510.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Bring Builders - brought on a active contributor": 2,
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 1
+        },
+        "date_range": {
+          "earliest": "20230617",
+          "latest": "20230617"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduction to Ivan Leku \n\nhere is the profile of Ivan Leku, a reliable hard working friend i know from my time in Uganda - https://www.linkedin.com/in/ivan-leku-6537446a/ - his uncle is the former ambassador of Uganda to China and his family is in fact the descendant from the royal family from Uganda (but no longer ruling the coutry)",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Introduction to Jophes\n\nJophes, a student at the time but now quite active, also good to know https://www.linkedin.com/in/muhindo-jophes/",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "During my assignment with Yara in 2021 I dug a bit deeper in China's agricultural development and noticed a lot going on around ecosystems and value chains being built, and how blockchain was an enabler for this, the concept of GEP was particularly interesting\n\nGross Ecosystem Production, which allows to turn individual players that are hard to invest (eg. an AI company that improves cameras in drones to spot and address plant diseases) into an an easily investible ecosystem that includes the whole value chain from land to crop to farmer to harvesting to logistics to e-commerce to the cities and including finance and insurance - all in line with the goals of the central plan economy and therefore supported (the basket of eggs I mentioned above)",
+            "project": "TrueSight DAO",
+            "tdg": 10.0,
+            "date": "20230617",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 2,
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Johnny Browaeys",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduction to Ivan Leku \n\nhere is the profile of Ivan Leku, a reliable hard working friend i know from my time in Uganda - https://www.linkedin.com/in/ivan-leku-6537446a/ - his uncle is the former ambassador of Uganda to China and his family is in fact the descendant from the royal family from Uganda (but no longer ruling the coutry)",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+32 487 25 80 73",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Johnny Browaeys",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduction to Jophes\n\nJophes, a student at the time but now quite active, also good to know https://www.linkedin.com/in/muhindo-jophes/ ",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+32 487 25 80 73",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Johnny Browaeys",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "During my assignment with Yara in 2021 I dug a bit deeper in China's agricultural development and noticed a lot going on around ecosystems and value chains being built, and how blockchain was an enabler for this, the concept of GEP was particularly interesting\n\nGross Ecosystem Production, which allows to turn individual players that are hard to invest (eg. an AI company that improves cameras in drones to spot and address plant diseases) into an an easily investible ecosystem that includes the whole value chain from land to crop to farmer to harvesting to logistics to e-commerce to the cities and including finance and insurance - all in line with the goals of the central plan economy and therefore supported (the basket of eggs I mentioned above)",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230617",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "+32 487 25 80 73",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

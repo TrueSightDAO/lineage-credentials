@@ -1,0 +1,283 @@
+{
+  "slug": "allison-d-laureano",
+  "display_name": "Allison D. Laureano",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 9,
+    "total_tdg_provisioned": 306.1700000000001,
+    "date_range": {
+      "earliest": "20230810",
+      "latest": "20250503"
+    },
+    "source": {
+      "contributor_name": "Allison D. Laureano",
+      "generated_date": "2026-05-14T22:06:12.848713",
+      "summary": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 306.1700000000001,
+        "total_tdg_issued": 318.6700000000001,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "Sun Mint",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230810",
+          "latest": "20250503"
+        }
+      },
+      "analysis": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 306.1700000000001,
+        "total_tdg_issued": 318.6700000000001,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "Sun Mint",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing": 1,
+          "50 : Commerce - Offline tasks (30 minutes)": 1,
+          "1 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending": 1,
+          "100TDG For every 1 hour of human effort": 4,
+          "\"100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20230810",
+          "latest": "20250503"
+        },
+        "contribution_types": [
+          {
+            "description": "Solid state servers with no moving parts for it to run forever",
+            "project": "Sun Mint",
+            "tdg": 1.0,
+            "date": "20230810",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "1 hour cacao nibs tasting session 20231005\n\nhttps://drive.google.com/drive/u/0/folders/10yJWacoMORuObi4tYogH-BQ8QXakrM7w",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20231005",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfaced concern why Agroverse instead of Agriverse",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231023",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent an hour last night with Jerry and Allison \n\nKey insights \n\n- it is a very healthy sign that the value aligned partners upon hearing the message immediately extends offer to support the cause. This means our brand story is on point \n\n- ours is a value/identity based marketing \n\n- as such video/visual content on our site should be centric around the people as opposed to the product \n\n- the CTA to action to be tested should be Join the Movement \n\n- some references of companies that have implemented good content based conversion are as attached \n\n- 501c registration was surfaced again a second time. This time by Allison who has experience registering non-profits in the USA as an activist. The church should be registered as an LLC and then using the details of the LLC registration with IRS as a later step to acquire 501c status \n\n- Jerry has expressed intention to support our efforts by joining and offer cacao in Davos next season.",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20250214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@14158669401 spent 5 minutes proposing that each batch of ceremonial cacao is limited edition and every year is a different vintage with a different taste profile",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "me and @14158669401 spent 30 minutes discussing the carbon credit industry",
+            "project": "20250617_beerhall",
+            "tdg": 50.0,
+            "date": "20250502",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@14158669401 spent 15 minutes reiterating the same message shared during yesterday morning’s cacao circle in Petaluma which basically addresses the concern that Lukas raised",
+            "project": "20250617_beerhall",
+            "tdg": 12.5,
+            "date": "20250426",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@14158669401 spent 10 minutes proposing yesterday that the limited edition bags of cacao should be serialized.",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250426",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@14158669401 spent 10 minutes explaining about the crowd we seem to have ended up targeting for Agroverse which reasonate with the following keywords",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250503",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 9
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "Solid state servers with no moving parts for it to run forever",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230810",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "Agroverse",
+          "Contribution Made": "1 hour cacao nibs tasting session 20231005\n\nhttps://drive.google.com/drive/u/0/folders/10yJWacoMORuObi4tYogH-BQ8QXakrM7w",
+          "Rubric classification": "50 : Commerce - Offline tasks (30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20231005",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Surfaced concern why Agroverse instead of Agriverse",
+          "Rubric classification": "1 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231023",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent an hour last night with Jerry and Allison \n\nKey insights \n\n- it is a very healthy sign that the value aligned partners upon hearing the message immediately extends offer to support the cause. This means our brand story is on point \n\n- ours is a value/identity based marketing \n\n- as such video/visual content on our site should be centric around the people as opposed to the product \n\n- the CTA to action to be tested should be Join the Movement \n\n- some references of companies that have implemented good content based conversion are as attached \n\n- 501c registration was surfaced again a second time. This time by Allison who has experience registering non-profits in the USA as an activist. The church should be registered as an LLC and then using the details of the LLC registration with IRS as a later step to acquire 501c status \n\n- Jerry has expressed intention to support our efforts by joining and offer cacao in Davos next season.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250214",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "@14158669401 spent 5 minutes proposing that each batch of ceremonial cacao is limited edition and every year is a different vintage with a different taste profile",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "me and @14158669401 spent 30 minutes discussing the carbon credit industry",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20250502",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "@14158669401 spent 15 minutes reiterating the same message shared during yesterday morning’s cacao circle in Petaluma which basically addresses the concern that Lukas raised",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "12.5",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250426",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "@14158669401 spent 10 minutes proposing yesterday that the limited edition bags of cacao should be serialized.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250426",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Allison D. Laureano",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "@14158669401 spent 10 minutes explaining about the crowd we seem to have ended up targeting for Agroverse which reasonate with the following keywords",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250503",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

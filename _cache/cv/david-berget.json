@@ -1,0 +1,220 @@
+{
+  "slug": "david-berget",
+  "display_name": "David Berget",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 200.0,
+    "date_range": {
+      "earliest": "20211224",
+      "latest": "20220216"
+    },
+    "source": {
+      "contributor_name": "David Berget",
+      "generated_date": "2026-05-14T22:06:13.032053",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 7700.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20211224",
+          "latest": "20220216"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 7700.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20211224",
+          "latest": "20220216"
+        },
+        "contribution_types": [
+          {
+            "description": "Extending TrueSight.Me to connect with and read from Solana Wallet",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "DAO governance: discovered https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e",
+            "project": "",
+            "tdg": 0,
+            "date": "20211224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "The Solana cookbook https://solanacookbook.com/recipes/basic-transactions.html#sending-spl-tokens",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220104",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Implementation of TrueSight double blind protocol set https://www.pivotaltracker.com/story/show/180833732",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "The solana full stack tutorial: https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220104",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Protocol: choice of Anchor Framework for Solana\nhttps://project-serum.github.io/anchor/getting-started/introduction.html",
+            "project": "",
+            "tdg": 0,
+            "date": "20220216",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "TrueSight Protocol initial stub",
+            "project": "",
+            "tdg": 0,
+            "date": "20220216",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 2,
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "David Berget",
+          "Project Name": "",
+          "Contribution Made": "Extending TrueSight.Me to connect with and read from Solana Wallet ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David Berget",
+          "Project Name": "",
+          "Contribution Made": "DAO governance: discovered https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20211224",
+          "Solana Transfer Hash": "YLP4FTWMJx9BRDyqasM1Fhx9V9g1UCyTtCedkfSnabtEgBrzTPdgnGLwaHftbjuh6PjqG2whLysPqoHHa3zDZRk",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David Berget",
+          "Project Name": "",
+          "Contribution Made": "The Solana cookbook https://solanacookbook.com/recipes/basic-transactions.html#sending-spl-tokens",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220104",
+          "Solana Transfer Hash": "YLP4FTWMJx9BRDyqasM1Fhx9V9g1UCyTtCedkfSnabtEgBrzTPdgnGLwaHftbjuh6PjqG2whLysPqoHHa3zDZRk",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David Berget",
+          "Project Name": "",
+          "Contribution Made": "Implementation of TrueSight double blind protocol set https://www.pivotaltracker.com/story/show/180833732",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David Berget",
+          "Project Name": "",
+          "Contribution Made": "The solana full stack tutorial: https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220104",
+          "Solana Transfer Hash": "YLP4FTWMJx9BRDyqasM1Fhx9V9g1UCyTtCedkfSnabtEgBrzTPdgnGLwaHftbjuh6PjqG2whLysPqoHHa3zDZRk",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David Berget",
+          "Project Name": "",
+          "Contribution Made": "Protocol: choice of Anchor Framework for Solana\nhttps://project-serum.github.io/anchor/getting-started/introduction.html",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220216",
+          "Solana Transfer Hash": "YLP4FTWMJx9BRDyqasM1Fhx9V9g1UCyTtCedkfSnabtEgBrzTPdgnGLwaHftbjuh6PjqG2whLysPqoHHa3zDZRk",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David Berget",
+          "Project Name": "",
+          "Contribution Made": "TrueSight Protocol initial stub",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220216",
+          "Solana Transfer Hash": "YLP4FTWMJx9BRDyqasM1Fhx9V9g1UCyTtCedkfSnabtEgBrzTPdgnGLwaHftbjuh6PjqG2whLysPqoHHa3zDZRk",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

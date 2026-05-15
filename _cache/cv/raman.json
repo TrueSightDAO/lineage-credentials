@@ -1,0 +1,99 @@
+{
+  "slug": "raman",
+  "display_name": "Raman",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 200.0,
+    "date_range": {
+      "earliest": "20220215",
+      "latest": "20220215"
+    },
+    "source": {
+      "contributor_name": "Raman",
+      "generated_date": "2026-05-14T22:06:13.775673",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220215",
+          "latest": "20220215"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220215",
+          "latest": "20220215"
+        },
+        "contribution_types": [
+          {
+            "description": "Ethereum blockchain oracle: ChainLink",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Ethereum prediction markets to reference Merkel Chain implementations: https://defiprime.com/prediction-markets",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Raman",
+          "Project Name": "",
+          "Contribution Made": "Ethereum blockchain oracle: ChainLink",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220215",
+          "Solana Transfer Hash": "4WkZ3fQp6ygQw7reQ81UAqMf6Ep9upf46UxavJnvB7DBxxDJth4igRt96PfjPPmj3kZdkvXWMmaui4KzibXTvumQ",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raman",
+          "Project Name": "",
+          "Contribution Made": "Ethereum prediction markets to reference Merkel Chain implementations: https://defiprime.com/prediction-markets",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220215",
+          "Solana Transfer Hash": "4WkZ3fQp6ygQw7reQ81UAqMf6Ep9upf46UxavJnvB7DBxxDJth4igRt96PfjPPmj3kZdkvXWMmaui4KzibXTvumQ",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

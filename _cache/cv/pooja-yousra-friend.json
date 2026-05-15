@@ -1,0 +1,105 @@
+{
+  "slug": "pooja-yousra-friend",
+  "display_name": "Pooja - Yousra Friend",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 16.66,
+    "date_range": {
+      "earliest": "20250428",
+      "latest": "20250429"
+    },
+    "source": {
+      "contributor_name": "Pooja - Yousra Friend",
+      "generated_date": "2026-05-14T22:06:13.763144",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 16.66,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "date_range": {
+          "earliest": "20250428",
+          "latest": "20250429"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 16.66,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20250428",
+          "latest": "20250429"
+        },
+        "contribution_types": [
+          {
+            "description": "Thank you @15074016141 for spending 5 minutes sharing about the cacao and driving a sale ‎<This message was edited>",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250428",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes onboarding @15074016141",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250429",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Pooja - Yousra Friend",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you @15074016141 for spending 5 minutes sharing about the cacao and driving a sale ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250428",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Pooja - Yousra Friend",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent 5 minutes onboarding @15074016141",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250429",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

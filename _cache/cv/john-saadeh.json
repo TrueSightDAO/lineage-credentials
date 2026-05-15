@@ -1,0 +1,81 @@
+{
+  "slug": "john-saadeh",
+  "display_name": "John Saadeh",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 500.0,
+    "date_range": {
+      "earliest": "20230516",
+      "latest": "20230516"
+    },
+    "source": {
+      "contributor_name": "John Saadeh",
+      "generated_date": "2026-05-14T22:06:13.502458",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 500.0,
+        "total_tdg_issued": 500.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230516",
+          "latest": "20230516"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 500.0,
+        "total_tdg_issued": 500.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "500 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic": 1
+        },
+        "date_range": {
+          "earliest": "20230516",
+          "latest": "20230516"
+        },
+        "contribution_types": [
+          {
+            "description": "Researched end to end the importing process for Food into USA\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230516%20-%20John%20research%20on%20US%20importing%20process.pdf",
+            "project": "Agroverse",
+            "tdg": 500.0,
+            "date": "20230516",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "John Saadeh",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Researched end to end the importing process for Food into USA\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230516%20-%20John%20research%20on%20US%20importing%20process.pdf",
+          "Rubric classification": "500 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20230516",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

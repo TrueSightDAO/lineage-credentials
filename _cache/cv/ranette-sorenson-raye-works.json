@@ -1,0 +1,81 @@
+{
+  "slug": "ranette-sorenson-raye-works",
+  "display_name": "Ranette Sorenson - Raye Works",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20251213",
+      "latest": "20251213"
+    },
+    "source": {
+      "contributor_name": "Ranette Sorenson - Raye Works",
+      "generated_date": "2026-05-14T22:06:13.780834",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20251213",
+          "latest": "20251213"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20251213",
+          "latest": "20251213"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Shared about our Cacao in various facebook groups in Arizona\r\n  \r\n  [12/13/25, 3:25:36 PM] Gary Teh: https://www.facebook.com/share/p/1AwHCVSZ7p/?mibextid=wwXIfr\r\n  [12/13/25, 3:25:36 PM] Gary Teh: https://www.facebook.com/share/p/17mmHNumah/?mibextid=wwXIfr\r\n  [12/13/25, 3:25:36 PM] Gary Teh: https://www.facebook.com/share/p/1DczRm3EJ1/?mibextid=wwXIfr\r\n  [12/13/25, 3:25:37 PM] Gary Teh: https://www.facebook.com/share/p/17Bbq1hZt1/?mibextid=wwXIfr\r\n  \r\n  https://www.facebook.com/groups/1180376599189046/?multi_permalinks=1961201581106540&notif_id=1765472523483567&notif_t=feedback_reaction_generic_tagged&ref=notif\r\n- Contributor(s): Ranette Sorenson - Raye Works\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: uhkX2uE7SynuGuIMq6M7G3E2eETF7zNQyR7PoLLrVO6au8vuFnsRqsKqZtbqYkCFvTRezvcsxE3hSzxTWOr8W+JxZaxNxmlH4X9Fdw/EpABgRRFKFSyA6HiYdnZO9em77tBuFBaondoMZlmNOk1gH2PslkW3nSGIpIAd6xCoFeLZyfX0ZQMwCUk3+LhsBdJedaG6VX3lrjR7MibT/T9zCpJ9NT3oivqdoUvEFluPIhe/Ls0nkMBdWwiYj3VabSgHEvBPYO1wlVf7GWAgqsHUOnx2mau3KtOxOb8GJyKB7MgX8HMtfhYl3X5sjiAO1pqU5K8goXtrG8Mwahr5t8cBvg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20251213",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ranette Sorenson - Raye Works",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Shared about our Cacao in various facebook groups in Arizona\r\n  \r\n  [12/13/25, 3:25:36 PM] Gary Teh: https://www.facebook.com/share/p/1AwHCVSZ7p/?mibextid=wwXIfr\r\n  [12/13/25, 3:25:36 PM] Gary Teh: https://www.facebook.com/share/p/17mmHNumah/?mibextid=wwXIfr\r\n  [12/13/25, 3:25:36 PM] Gary Teh: https://www.facebook.com/share/p/1DczRm3EJ1/?mibextid=wwXIfr\r\n  [12/13/25, 3:25:37 PM] Gary Teh: https://www.facebook.com/share/p/17Bbq1hZt1/?mibextid=wwXIfr\r\n  \r\n  https://www.facebook.com/groups/1180376599189046/?multi_permalinks=1961201581106540&notif_id=1765472523483567&notif_t=feedback_reaction_generic_tagged&ref=notif\r\n- Contributor(s): Ranette Sorenson - Raye Works\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: uhkX2uE7SynuGuIMq6M7G3E2eETF7zNQyR7PoLLrVO6au8vuFnsRqsKqZtbqYkCFvTRezvcsxE3hSzxTWOr8W+JxZaxNxmlH4X9Fdw/EpABgRRFKFSyA6HiYdnZO9em77tBuFBaondoMZlmNOk1gH2PslkW3nSGIpIAd6xCoFeLZyfX0ZQMwCUk3+LhsBdJedaG6VX3lrjR7MibT/T9zCpJ9NT3oivqdoUvEFluPIhe/Ls0nkMBdWwiYj3VabSgHEvBPYO1wlVf7GWAgqsHUOnx2mau3KtOxOb8GJyKB7MgX8HMtfhYl3X5sjiAO1pqU5K8goXtrG8Mwahr5t8cBvg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20251213",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

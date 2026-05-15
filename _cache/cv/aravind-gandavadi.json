@@ -1,0 +1,103 @@
+{
+  "slug": "aravind-gandavadi",
+  "display_name": "Aravind Gandavadi",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 300.0,
+    "date_range": {
+      "earliest": "20220717",
+      "latest": "20220717"
+    },
+    "source": {
+      "contributor_name": "Aravind Gandavadi",
+      "generated_date": "2026-05-14T22:06:12.925326",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 300.0,
+        "total_tdg_issued": 50.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220717",
+          "latest": "20220717"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 300.0,
+        "total_tdg_issued": 50.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Engineering - Completed a minor function": 1,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1
+        },
+        "date_range": {
+          "earliest": "20220717",
+          "latest": "20220717"
+        },
+        "contribution_types": [
+          {
+            "description": "Engineering: transfer the right amount of TSD to the proper wallet addresses once the prediction record has been validated\n\nhttps://www.pivotaltracker.com/story/show/182023296",
+            "project": "",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Attended 30 minutes engineering meeting with (Gary, Satheesh and Aravind) 14th July 2022\n\nhttps://www.youtube.com/watch?v=yDxQEPsl5n4&feature=youtu.be",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 1,
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Aravind Gandavadi",
+          "Project Name": "",
+          "Contribution Made": "Engineering: transfer the right amount of TSD to the proper wallet addresses once the prediction record has been validated\n\nhttps://www.pivotaltracker.com/story/show/182023296",
+          "Rubric classification": "250 : Build Game - Engineering - Completed a minor function",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Aravind Gandavadi",
+          "Project Name": "",
+          "Contribution Made": "Attended 30 minutes engineering meeting with (Gary, Satheesh and Aravind) 14th July 2022\n\nhttps://www.youtube.com/watch?v=yDxQEPsl5n4&feature=youtu.be",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220717",
+          "Solana Transfer Hash": "2Y88agKd4q5qDMhHkvd7Xn5Tv6s7CyJyDCzMW6yhfyvnXr5eULZVc9nKBB9J8nt428vCTDXuy7rB9KcP8qti84W7",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "leslie-lim",
+  "display_name": "Leslie Lim",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20220215",
+      "latest": "20220215"
+    },
+    "source": {
+      "contributor_name": "Leslie Lim",
+      "generated_date": "2026-05-14T22:06:13.616004",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 1000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220215",
+          "latest": "20220215"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 1000.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220215",
+          "latest": "20220215"
+        },
+        "contribution_types": [
+          {
+            "description": "https://mapofthemoney.com/",
+            "project": "",
+            "tdg": 0,
+            "date": "20220215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Leslie Lim",
+          "Project Name": "",
+          "Contribution Made": "https://mapofthemoney.com/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220215",
+          "Solana Transfer Hash": "WovD8q7Kfg58QHiD59R1wExu9rdBsubDPG3VezEYmcPNcB8vs3oJFdP7sVuXfzYqWYGi9UDhAR1EqcJtpi6dWmm",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

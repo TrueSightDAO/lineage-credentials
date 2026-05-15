@@ -1,0 +1,105 @@
+{
+  "slug": "jen-chan",
+  "display_name": "Jen Chan",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 25.0,
+    "date_range": {
+      "earliest": "20250108",
+      "latest": "20250108"
+    },
+    "source": {
+      "contributor_name": "Jen Chan",
+      "generated_date": "2026-05-14T22:06:13.477861",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 25.0,
+        "total_tdg_issued": 25.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20250108",
+          "latest": "20250108"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 25.0,
+        "total_tdg_issued": 25.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20250108",
+          "latest": "20250108"
+        },
+        "contribution_types": [
+          {
+            "description": "Jen Chan spent 10 minutes providing insights on where we could market our product in SF bay area",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250108",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Jen Chan spent another 5 minutes further isolating the venues to target",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250108",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jen Chan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Jen Chan spent 10 minutes providing insights on where we could market our product in SF bay area",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250108",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jen Chan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Jen Chan spent another 5 minutes further isolating the venues to target",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250108",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

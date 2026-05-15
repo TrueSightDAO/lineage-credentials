@@ -1,0 +1,75 @@
+{
+  "slug": "dirk-watkins",
+  "display_name": "Dirk Watkins",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20211222",
+      "latest": "20211222"
+    },
+    "source": {
+      "contributor_name": "Dirk Watkins",
+      "generated_date": "2026-05-14T22:06:13.048382",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 2000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20211222",
+          "latest": "20211222"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 2000.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20211222",
+          "latest": "20211222"
+        },
+        "contribution_types": [
+          {
+            "description": "New Brand landing page implementation - https://truesight.dirq.net/",
+            "project": "",
+            "tdg": 0,
+            "date": "20211222",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Dirk Watkins",
+          "Project Name": "",
+          "Contribution Made": "New Brand landing page implementation - https://truesight.dirq.net/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2000",
+          "Status date": "20211222",
+          "Solana Transfer Hash": "4eNjZxTtHJVuC3eYSJyFsmqc7ujUtVJ657B8qGP9DbjsyoCLAvxqC8QsQkyR2uxKgHA5kmvJfADpYNnJb3mDtBTC",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

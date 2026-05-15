@@ -1,0 +1,131 @@
+{
+  "slug": "paulo-hernandez",
+  "display_name": "Paulo Hernandez",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 225.0,
+    "date_range": {
+      "earliest": "20240717",
+      "latest": "20250917"
+    },
+    "source": {
+      "contributor_name": "Paulo Hernandez",
+      "generated_date": "2026-05-14T22:06:13.748612",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 225.0,
+        "total_tdg_issued": 225.0,
+        "projects": [
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20240717",
+          "latest": "20250917"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 225.0,
+        "total_tdg_issued": 225.0,
+        "projects": [
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 3
+        },
+        "date_range": {
+          "earliest": "20240717",
+          "latest": "20250917"
+        },
+        "contribution_types": [
+          {
+            "description": "Paulo Hernandez spent an hour crafting this video and sharing it on Instagram\n\nhttps://www.instagram.com/reel/C9iEjoXuZJ2/?igsh=cm5ydWVsZnIwaXky",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20240717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Paulo Hernandez spent an hour crafting this video and also sharing it on Instagram\n\nhttps://www.instagram.com/p/C9Ao14uuZ4z/?igsh=MTE0ZmJha21yOGRnbA==",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20240717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Getting pricing information for the tree seedlings in Para\r\n- Contributor(s): Paulo Hernandez\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_2053.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250917180805_gary_teh_img_2053.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: il/Z/dt4djQ369t54QRcrs+obQ7N3TMpmpvbgFkz2MVBlWX1MMwX0BsU7kWr6ZcP7ZBUWevmnz7+VfW+ECulyQrRk6s9F9gPb+3oNRk+TjZqTbS/n/+DopgCTVEfevOR7xL8sMTQlfUT8Ar4YUZajmqpWKJqjadHHJNxGjoUDOU4jUObX+Ib+UYPt2b1sfBDAsNeUbkVIYn+bYIXOpmFge+SaVskEskyO9fFsJ0Qzlx+zlNH4JXEAv8PmQzM/OeFvKyvAGXLaxHfP5vDMIfZxUn588RjuvFCLF1GCGgp/GEtbYU6eikxXFzYNwohFQM0or87kl8RFXvmY1tEuxgG+g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20250917",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Paulo Hernandez",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Paulo Hernandez spent an hour crafting this video and sharing it on Instagram\n\nhttps://www.instagram.com/reel/C9iEjoXuZJ2/?igsh=cm5ydWVsZnIwaXky",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20240717",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Paulo Hernandez",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Paulo Hernandez spent an hour crafting this video and also sharing it on Instagram\n\nhttps://www.instagram.com/p/C9Ao14uuZ4z/?igsh=MTE0ZmJha21yOGRnbA==",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20240717",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Paulo Hernandez",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Getting pricing information for the tree seedlings in Para\r\n- Contributor(s): Paulo Hernandez\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_2053.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250917180805_gary_teh_img_2053.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: il/Z/dt4djQ369t54QRcrs+obQ7N3TMpmpvbgFkz2MVBlWX1MMwX0BsU7kWr6ZcP7ZBUWevmnz7+VfW+ECulyQrRk6s9F9gPb+3oNRk+TjZqTbS/n/+DopgCTVEfevOR7xL8sMTQlfUT8Ar4YUZajmqpWKJqjadHHJNxGjoUDOU4jUObX+Ib+UYPt2b1sfBDAsNeUbkVIYn+bYIXOpmFge+SaVskEskyO9fFsJ0Qzlx+zlNH4JXEAv8PmQzM/OeFvKyvAGXLaxHfP5vDMIfZxUn588RjuvFCLF1GCGgp/GEtbYU6eikxXFzYNwohFQM0or87kl8RFXvmY1tEuxgG+g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250917",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

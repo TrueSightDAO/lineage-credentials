@@ -1,0 +1,81 @@
+{
+  "slug": "evan-sui",
+  "display_name": "Evan Sui",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 8.34,
+    "date_range": {
+      "earliest": "20250424",
+      "latest": "20250424"
+    },
+    "source": {
+      "contributor_name": "Evan Sui",
+      "generated_date": "2026-05-14T22:06:13.139245",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 8.34,
+        "total_tdg_issued": 16.67,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "date_range": {
+          "earliest": "20250424",
+          "latest": "20250424"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 8.34,
+        "total_tdg_issued": 16.67,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250424",
+          "latest": "20250424"
+        },
+        "contribution_types": [
+          {
+            "description": "Thank you Evan Sui for spending 10 minutes arranging the setup for this evenings cacao circle and then taking the photos and sharing it",
+            "project": "20250617_beerhall",
+            "tdg": 8.34,
+            "date": "20250424",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Evan Sui",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you Evan Sui for spending 10 minutes arranging the setup for this evenings cacao circle and then taking the photos and sharing it",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.34",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250424",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

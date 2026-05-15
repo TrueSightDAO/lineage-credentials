@@ -1,0 +1,225 @@
+{
+  "slug": "bing",
+  "display_name": "Bing",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 895.0,
+    "date_range": {
+      "earliest": "20220409",
+      "latest": "20220615"
+    },
+    "source": {
+      "contributor_name": "Bing",
+      "generated_date": "2026-05-14T22:06:12.953584",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 895.0,
+        "total_tdg_issued": 7145.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220409",
+          "latest": "20220615"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 895.0,
+        "total_tdg_issued": 7145.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Bring Liquidity - Suggested a way to fund raise for liquidity": 1,
+          "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO": 2,
+          "5000 : Partnerships / Business Development - Successful tie up with a channel partner": 1,
+          "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending": 2,
+          "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO": 1
+        },
+        "date_range": {
+          "earliest": "20220409",
+          "latest": "20220615"
+        },
+        "contribution_types": [
+          {
+            "description": "Liquidity: COINLIST SEED SPRING 2022 BATCH: Are you working on a new crypto startup? We want to hear from you! CoinList is accepting applications from entrepreneurs that are interested in participating in the Spring 2022 batch of the CoinList Seed program. Apply by May 1, 11:59pm PT.",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220409",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: TSD earned through contribution should be vested via in game activity to be unlocked for transfer to personal wallet. \n\nThis helps reduce dumping of TSD Tokens on the open market and shifts us away from time based vesting which is essentially meaningless while stabilizing the price of TSD on the exchanges once they are listed.\n\nThe initial 1000TSD can be transferred to personal wallets without in-game activity based vesting",
+            "project": "",
+            "tdg": 0,
+            "date": "20220409",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Finalized agreement with DAOversal group to contribute 14,000TSD worth of manpower effort per month\n    - Engineering \n    - Design\n    - Marketing\n    - Community Management\n\nhttps://truesight.me/rubric",
+            "project": "",
+            "tdg": 0,
+            "date": "20220410",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed Trading Strategy: Crypto entry signal when red line crosses blackline on the To The Moon chart is a good time to enter into BTC\n\nhttps://truesight.me/large_crypto_spikes",
+            "project": "",
+            "tdg": 0,
+            "date": "20220410",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Social Recognition is a very strong motivator",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested to focus on the following\n\n- bring in another relevant high profile subject matter experts as core contributor to boost up team profile\n- bring in investors willing to park cash\n- bring in investors who are Key Opinion Leaders willing to promote our game amongst their own followers\n\nOperations advice\n- building the game can come later since it is not rocket science\n- the operations team does not need to be the same as the team presented in the deck",
+            "project": "",
+            "tdg": 625.0,
+            "date": "20220605",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested the AI and Knowledge Graphs are very important component while DAO is just for governance",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220615",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Bing",
+          "Project Name": "",
+          "Contribution Made": "Liquidity: COINLIST SEED SPRING 2022 BATCH: Are you working on a new crypto startup? We want to hear from you! CoinList is accepting applications from entrepreneurs that are interested in participating in the Spring 2022 batch of the CoinList Seed program. Apply by May 1, 11:59pm PT.",
+          "Rubric classification": "250 : Bring Liquidity - Suggested a way to fund raise for liquidity",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220409",
+          "Solana Transfer Hash": "5wErLUBqc7CCVeKhTTMck85Kfddj1Ub7GSiD5mjCb2gcbXmqmBVairbP7fj52Gp6V3LYzvvDbK3MMnXhLkk7xDYu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bing",
+          "Project Name": "",
+          "Contribution Made": "Governance: TSD earned through contribution should be vested via in game activity to be unlocked for transfer to personal wallet. \n\nThis helps reduce dumping of TSD Tokens on the open market and shifts us away from time based vesting which is essentially meaningless while stabilizing the price of TSD on the exchanges once they are listed.\n\nThe initial 1000TSD can be transferred to personal wallets without in-game activity based vesting",
+          "Rubric classification": "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20220409",
+          "Solana Transfer Hash": "5wErLUBqc7CCVeKhTTMck85Kfddj1Ub7GSiD5mjCb2gcbXmqmBVairbP7fj52Gp6V3LYzvvDbK3MMnXhLkk7xDYu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bing",
+          "Project Name": "",
+          "Contribution Made": "Finalized agreement with DAOversal group to contribute 14,000TSD worth of manpower effort per month\n    - Engineering \n    - Design\n    - Marketing\n    - Community Management\n\nhttps://truesight.me/rubric",
+          "Rubric classification": "5000 : Partnerships / Business Development - Successful tie up with a channel partner",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220410",
+          "Solana Transfer Hash": "5wErLUBqc7CCVeKhTTMck85Kfddj1Ub7GSiD5mjCb2gcbXmqmBVairbP7fj52Gp6V3LYzvvDbK3MMnXhLkk7xDYu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bing",
+          "Project Name": "",
+          "Contribution Made": "Proposed Trading Strategy: Crypto entry signal when red line crosses blackline on the To The Moon chart is a good time to enter into BTC\n\nhttps://truesight.me/large_crypto_spikes",
+          "Rubric classification": "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220410",
+          "Solana Transfer Hash": "5wErLUBqc7CCVeKhTTMck85Kfddj1Ub7GSiD5mjCb2gcbXmqmBVairbP7fj52Gp6V3LYzvvDbK3MMnXhLkk7xDYu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bing",
+          "Project Name": "",
+          "Contribution Made": "Social Recognition is a very strong motivator",
+          "Rubric classification": "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10",
+          "Status date": "20220414",
+          "Solana Transfer Hash": "5wErLUBqc7CCVeKhTTMck85Kfddj1Ub7GSiD5mjCb2gcbXmqmBVairbP7fj52Gp6V3LYzvvDbK3MMnXhLkk7xDYu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bing ",
+          "Project Name": "",
+          "Contribution Made": "Suggested to focus on the following\n\n- bring in another relevant high profile subject matter experts as core contributor to boost up team profile\n- bring in investors willing to park cash\n- bring in investors who are Key Opinion Leaders willing to promote our game amongst their own followers\n\nOperations advice\n- building the game can come later since it is not rocket science\n- the operations team does not need to be the same as the team presented in the deck",
+          "Rubric classification": "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO",
+          "TDGs Provisioned": "625.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "625",
+          "Status date": "20220605",
+          "Solana Transfer Hash": "5wErLUBqc7CCVeKhTTMck85Kfddj1Ub7GSiD5mjCb2gcbXmqmBVairbP7fj52Gp6V3LYzvvDbK3MMnXhLkk7xDYu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bing ",
+          "Project Name": "",
+          "Contribution Made": "Suggested the AI and Knowledge Graphs are very important component while DAO is just for governance",
+          "Rubric classification": "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220615",
+          "Solana Transfer Hash": "3oEHuBMHd4BFxF8FHg5nfuP3RHw7TpfWJhsaaT35cKMz2b8pDqJuF3aR1cZVzKt5eCaucSNQK9C2zcwqxBdweQAN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

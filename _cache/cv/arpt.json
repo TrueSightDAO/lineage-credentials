@@ -1,0 +1,81 @@
+{
+  "slug": "arpt",
+  "display_name": "ARPT",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 12.5,
+    "date_range": {
+      "earliest": "20250628",
+      "latest": "20250628"
+    },
+    "source": {
+      "contributor_name": "ARPT",
+      "generated_date": "2026-05-14T22:06:12.815302",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 12.5,
+        "total_tdg_issued": 12.5,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250628",
+          "latest": "20250628"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 12.5,
+        "total_tdg_issued": 12.5,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250628",
+          "latest": "20250628"
+        },
+        "contribution_types": [
+          {
+            "description": "I spent 15 minutes corresponding with ARPT about planting 50 cacao trees",
+            "project": "telegram_chatlog",
+            "tdg": 12.5,
+            "date": "20250628",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "ARPT",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 15 minutes corresponding with ARPT about planting 50 cacao trees",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "12.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "12.50",
+          "Status date": "20250628",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

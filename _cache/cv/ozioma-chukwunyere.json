@@ -1,0 +1,184 @@
+{
+  "slug": "ozioma-chukwunyere",
+  "display_name": "Ózìómà Chúkwúnyéré",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 278.33,
+    "date_range": {
+      "earliest": "20201015",
+      "latest": "20250411"
+    },
+    "source": {
+      "contributor_name": "Ózìómà Chúkwúnyéré",
+      "generated_date": "2026-05-14T22:06:13.991216",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 278.33,
+        "total_tdg_issued": 5278.33,
+        "projects": [
+          "20250617_beerhall",
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20250411"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 278.33,
+        "total_tdg_issued": 5278.33,
+        "projects": [
+          "20250617_beerhall",
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Build Game - Marketing - Write and post short social media text post (Facebook or IG, Twitter or Reddit) by an account with at least 10,000 followers": 1,
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 2,
+          "5000 : Events Planning - Venue sourcing and setup for Event": 1,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20250411"
+        },
+        "contribution_types": [
+          {
+            "description": "Shared about TrueSight DAO on LinkedIN \n\nhttps://www.linkedin.com/posts/ozioma-chukwunyere_community-blockchain-dao-activity-6985940072030187520-9NYj?utm_source=share&utm_medium=member_desktop",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Retagged more influencers to participate in the qualitative data gathering process\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986417885858410496%29",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Provided further insights into personal security concerns \n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986600608526970880%29",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Setup fireside chat for TrueSight DAO to share RnD on AI at the AI assemblage\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230323%20-%20AI%20summit%20recording.ogg",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20230319",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent five minutes, asking @2348123243309 about the hourly wage of people in his country. I’m assuming his in Kenya.",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250411",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ózìómà Chúkwúnyéré ",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Shared about TrueSight DAO on LinkedIN \n\nhttps://www.linkedin.com/posts/ozioma-chukwunyere_community-blockchain-dao-activity-6985940072030187520-9NYj?utm_source=share&utm_medium=member_desktop",
+          "Rubric classification": "250 : Build Game - Marketing - Write and post short social media text post (Facebook or IG, Twitter or Reddit) by an account with at least 10,000 followers",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "RurfVnzHGWvTBFk29EZduJWWoEM83eABt7ZJEgmu7E2hQ3DNLRhZyXkrpcUQ3a1trFRyVF7hQEca25craYa6B3u",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ózìómà Chúkwúnyéré ",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Retagged more influencers to participate in the qualitative data gathering process\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986417885858410496%29",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "RurfVnzHGWvTBFk29EZduJWWoEM83eABt7ZJEgmu7E2hQ3DNLRhZyXkrpcUQ3a1trFRyVF7hQEca25craYa6B3u",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ózìómà Chúkwúnyéré ",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Provided further insights into personal security concerns \n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986600608526970880%29",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "RurfVnzHGWvTBFk29EZduJWWoEM83eABt7ZJEgmu7E2hQ3DNLRhZyXkrpcUQ3a1trFRyVF7hQEca25craYa6B3u",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ózìómà Chúkwúnyéré ",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Setup fireside chat for TrueSight DAO to share RnD on AI at the AI assemblage\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230323%20-%20AI%20summit%20recording.ogg",
+          "Rubric classification": "5000 : Events Planning - Venue sourcing and setup for Event",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20230319",
+          "Solana Transfer Hash": "2CgbPvxPKkYDwKDg4sTGvTAgwCP6cUgXmY71i23h41f5oSVUnkJUuv93UWtWBivzJJmjiZkbGBwXE63Jm61uHV5k",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ózìómà Chúkwúnyéré ",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent five minutes, asking @2348123243309 about the hourly wage of people in his country. I’m assuming his in Kenya.",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250411",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

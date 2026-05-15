@@ -3,24 +3,24 @@
   "display_name": "Emelin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T04:23:24Z",
+  "generated_at": "2026-05-15T05:06:14Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
-    "total_contributions": 354,
-    "total_tdg_provisioned": 8508.290000000014,
+    "total_contributions": 356,
+    "total_tdg_provisioned": 8524.120000000014,
     "date_range": {
       "earliest": "20230925",
       "latest": "20250905"
     },
     "source": {
       "contributor_name": "Emelin",
-      "generated_date": "2025-10-08T13:37:23.309014",
+      "generated_date": "2026-05-14T22:06:13.107955",
       "summary": {
-        "total_contributions": 354,
-        "total_tdg_provisioned": 8508.290000000014,
-        "total_tdg_issued": 26606.019999999953,
+        "total_contributions": 356,
+        "total_tdg_provisioned": 8524.120000000014,
+        "total_tdg_issued": 26621.849999999955,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -28,7 +28,8 @@
           "20250917_beerhall",
           "Agroverse",
           "Sun Mint",
-          "TrueSight DAO"
+          "TrueSight DAO",
+          "telegram_chatlog"
         ],
         "date_range": {
           "earliest": "20230925",
@@ -36,9 +37,9 @@
         }
       },
       "analysis": {
-        "total_contributions": 354,
-        "total_tdg_provisioned": 8508.290000000014,
-        "total_tdg_issued": 26606.019999999953,
+        "total_contributions": 356,
+        "total_tdg_provisioned": 8524.120000000014,
+        "total_tdg_issued": 26621.849999999955,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -46,7 +47,8 @@
           "20250917_beerhall",
           "Agroverse",
           "Sun Mint",
-          "TrueSight DAO"
+          "TrueSight DAO",
+          "telegram_chatlog"
         ],
         "rubric_categories": {
           "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 3,
@@ -66,7 +68,7 @@
           "100TDG For every 1 hour of human effort": 309,
           "100TDG for every 1 hour of human effort": 3,
           "1TDG For every 1 USD of liquidity injected": 1,
-          "\"100TDG For every 1 hour of human effort": 3,
+          "\"100TDG For every 1 hour of human effort": 5,
           "-1TDG For every 1USDT sent": 1
         },
         "date_range": {
@@ -2551,10 +2553,24 @@
             "tdg": 8.33,
             "date": "20250622",
             "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you emelin for spending 2 minutes to mention Agroverse on Instagram",
+            "project": "20250617_beerhall",
+            "tdg": 3.33,
+            "date": "20250428",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 15 minutes informing Emelin that her tokens on the wallet she asked me to help managed were also stolen as well",
+            "project": "telegram_chatlog",
+            "tdg": 12.5,
+            "date": "20250704",
+            "status": "Successfully Completed / Full Provision Awarded"
           }
         ],
         "status_breakdown": {
-          "Successfully Completed / Full Provision Awarded": 354
+          "Successfully Completed / Full Provision Awarded": 356
         }
       },
       "raw_contributions": [
@@ -8539,8 +8555,8 @@
           "Discord ID": "+55 71 9103-5605",
           "Within past 90 days": "#REF!",
           "Within past 90 days vesting": "#REF!",
-          "Within past 180 days": "1",
-          "Within past 180 days vesting": "-10050.4"
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
         },
         {
           "Contributor Name": "Emelin",
@@ -8568,6 +8584,40 @@
           "Status": "Successfully Completed / Full Provision Awarded",
           "TDGs Issued": "8.33",
           "Status date": "20250622",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Emelin",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you emelin for spending 2 minutes to mention Agroverse on Instagram",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20250428",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Emelin",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 15 minutes informing Emelin that her tokens on the wallet she asked me to help managed were also stolen as well",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "12.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "12.50",
+          "Status date": "20250704",
           "Solana Transfer Hash": "",
           "TDGs yet Air Dropped": "",
           "Discord ID": "",

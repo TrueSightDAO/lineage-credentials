@@ -1,0 +1,105 @@
+{
+  "slug": "anabel",
+  "display_name": "Anabel",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 16.5,
+    "date_range": {
+      "earliest": "20240715",
+      "latest": "20240717"
+    },
+    "source": {
+      "contributor_name": "Anabel",
+      "generated_date": "2026-05-14T22:06:12.863159",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 16.5,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "Edgar"
+        ],
+        "date_range": {
+          "earliest": "20240715",
+          "latest": "20240717"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 16.5,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "Edgar"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20240715",
+          "latest": "20240717"
+        },
+        "contribution_types": [
+          {
+            "description": "Anabel from Shanghai spent 5 minutes to inform that China is looking to setup an energy trading market for surplus energy generated using solar power.\n\nhttps://mp.weixin.qq.com/s/oOQ9LsCpJmeqUqsbGGLPlg",
+            "project": "Edgar",
+            "tdg": 8.25,
+            "date": "20240715",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Anabel spent five minutes providing this article on virtual power plants in China\n\nhttps://mp.weixin.qq.com/s/mc-0Q8s2kE362yrekVn8PQ",
+            "project": "Edgar",
+            "tdg": 8.25,
+            "date": "20240717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Anabel",
+          "Project Name": "Edgar",
+          "Contribution Made": "Anabel from Shanghai spent 5 minutes to inform that China is looking to setup an energy trading market for surplus energy generated using solar power.\n\nhttps://mp.weixin.qq.com/s/oOQ9LsCpJmeqUqsbGGLPlg",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240715",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anabel",
+          "Project Name": "Edgar",
+          "Contribution Made": "Anabel spent five minutes providing this article on virtual power plants in China\n\nhttps://mp.weixin.qq.com/s/mc-0Q8s2kE362yrekVn8PQ",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240717",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

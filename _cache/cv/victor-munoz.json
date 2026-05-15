@@ -1,0 +1,152 @@
+{
+  "slug": "victor-munoz",
+  "display_name": "Victor Munoz",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 250.0,
+    "date_range": {
+      "earliest": "20220509",
+      "latest": "20220520"
+    },
+    "source": {
+      "contributor_name": "Victor Munoz",
+      "generated_date": "2026-05-14T22:06:13.926456",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 250.0,
+        "total_tdg_issued": 5250.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220509",
+          "latest": "20220520"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 250.0,
+        "total_tdg_issued": 5250.0,
+        "projects": [],
+        "rubric_categories": {
+          "2500 : Bring Builders - brought on a resource owner": 2,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "2500 : Build Game - Marketing - Crafted contents for entire marketing campaign": 1
+        },
+        "date_range": {
+          "earliest": "20220509",
+          "latest": "20220520"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduced TrueSight DAO to community of Bright NFT",
+            "project": "",
+            "tdg": 0,
+            "date": "20220509",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tomorrow Conference presentation flow improvement",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220509",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction to Blockchain Alliance",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Hosted Twitter Spaces for TrueSight.Me",
+            "project": "",
+            "tdg": 0,
+            "date": "20220520",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Victor Munoz",
+          "Project Name": "",
+          "Contribution Made": "Introduced TrueSight DAO to community of Bright NFT",
+          "Rubric classification": "2500 : Bring Builders - brought on a resource owner",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220509",
+          "Solana Transfer Hash": "H8V6SxYCjjgWcHmgtAGoTPwEP75FHfM1TCcCKE4Yjw2mhqtBRdh6QtkC2wJEmt9Z6KFgM7ivViPGn7dsXRy3hr4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Victor Munoz",
+          "Project Name": "",
+          "Contribution Made": "Tomorrow Conference presentation flow improvement",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220509",
+          "Solana Transfer Hash": "H8V6SxYCjjgWcHmgtAGoTPwEP75FHfM1TCcCKE4Yjw2mhqtBRdh6QtkC2wJEmt9Z6KFgM7ivViPGn7dsXRy3hr4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Victor Munoz",
+          "Project Name": "",
+          "Contribution Made": "Introduction to Blockchain Alliance",
+          "Rubric classification": "2500 : Bring Builders - brought on a resource owner",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Victor Munoz",
+          "Project Name": "",
+          "Contribution Made": "Hosted Twitter Spaces for TrueSight.Me",
+          "Rubric classification": "2500 : Build Game - Marketing - Crafted contents for entire marketing campaign",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220520",
+          "Solana Transfer Hash": "H8V6SxYCjjgWcHmgtAGoTPwEP75FHfM1TCcCKE4Yjw2mhqtBRdh6QtkC2wJEmt9Z6KFgM7ivViPGn7dsXRy3hr4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

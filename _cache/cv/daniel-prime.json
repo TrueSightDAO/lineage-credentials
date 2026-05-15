@@ -1,0 +1,442 @@
+{
+  "slug": "daniel-prime",
+  "display_name": "Daniel Prime",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 16,
+    "total_tdg_provisioned": 164.16,
+    "date_range": {
+      "earliest": "20250414",
+      "latest": "20250530"
+    },
+    "source": {
+      "contributor_name": "Daniel Prime",
+      "generated_date": "2026-05-14T22:06:13.021957",
+      "summary": {
+        "total_contributions": 16,
+        "total_tdg_provisioned": 164.16,
+        "total_tdg_issued": 186.65000000000003,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250414",
+          "latest": "20250530"
+        }
+      },
+      "analysis": {
+        "total_contributions": 16,
+        "total_tdg_provisioned": 164.16,
+        "total_tdg_issued": 186.65000000000003,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 11,
+          "\"100TDG For every 1 hour of human effort": 5
+        },
+        "date_range": {
+          "earliest": "20250414",
+          "latest": "20250530"
+        },
+        "contribution_types": [
+          {
+            "description": "Spent 5 minutes creating this post on our X official handle",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes creating this post.",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250419",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes creating this post.",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250419",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I used 10 minutes to compose these 2 tweets on X regarding our upcoming cacao circles",
+            "project": "telegram_chatlog",
+            "tdg": 16.67,
+            "date": "20250512",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 10 minutes on this post https://x.com/TrueSightDAO/status/1922940921236091379?t=oEn35A7qwbMs9c6A7GYENQ&s=19",
+            "project": "telegram_chatlog",
+            "tdg": 16.67,
+            "date": "20250515",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://x.com/TrueSightDAO/status/1923841518839775330?t=0fblemEdHFmKroSAvPQP9A&s=19\n\n\nSpent 5 minutes sharing this post on our Official X handle.",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 10 minutes on this post https://x.com/TrueSightDAO/status/1922940921236091379?t=oEn35A7qwbMs9c6A7GYENQ&s=19",
+            "project": "telegram_chatlog",
+            "tdg": 16.67,
+            "date": "20250515",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://x.com/TrueSightDAO/status/1924057929126223890?t=m4hKGtTbK91-08C7rq6TUw&s=19\n\n\nSpent 5 minutes on this post",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://x.com/TrueSightDAO/status/1923841518839775330?t=0fblemEdHFmKroSAvPQP9A&s=19\n\n\nSpent 5 minutes sharing this post on our Official X handle.",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent 5 minutes on this post on Instagram",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://x.com/TrueSightDAO/status/1924057929126223890?t=m4hKGtTbK91-08C7rq6TUw&s=19\n\n\nSpent 5 minutes on this post",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 10 minutes creating this X post\n https://x.com/TrueSightDAO/status/1928134850315223545?s=19",
+            "project": "telegram_chatlog",
+            "tdg": 16.67,
+            "date": "20250530",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 10 minutes creating this X post\n https://x.com/TrueSightDAO/status/1928134850315223545?s=19",
+            "project": "telegram_chatlog",
+            "tdg": 16.67,
+            "date": "20250530",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 2 minutes asking @The2xld if he would be keen to help manage our LinkedIn and Instagram truesight DAO pages",
+            "project": "telegram_chatlog",
+            "tdg": 1.67,
+            "date": "20250423",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 15 minutes sharing the login credentials\n\n- Agroverse instagram account to Tess Walkowski\n- TrueSight DAO instagram account to @The2xld \n\nI requested the @The2xld share his linkedin account ID with me",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250427",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @The2xld spent 5 minutes corresponding",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250515",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 16
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Spent 5 minutes creating this post on our X official handle",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250414",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes creating this post.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250419",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes creating this post.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250419",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I used 10 minutes to compose these 2 tweets on X regarding our upcoming cacao circles",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250512",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 10 minutes on this post https://x.com/TrueSightDAO/status/1922940921236091379?t=oEn35A7qwbMs9c6A7GYENQ&s=19",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250515",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "https://x.com/TrueSightDAO/status/1923841518839775330?t=0fblemEdHFmKroSAvPQP9A&s=19\n\n\nSpent 5 minutes sharing this post on our Official X handle.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250518",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 10 minutes on this post https://x.com/TrueSightDAO/status/1922940921236091379?t=oEn35A7qwbMs9c6A7GYENQ&s=19",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250515",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "https://x.com/TrueSightDAO/status/1924057929126223890?t=m4hKGtTbK91-08C7rq6TUw&s=19\n\n\nSpent 5 minutes on this post",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250518",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "https://x.com/TrueSightDAO/status/1923841518839775330?t=0fblemEdHFmKroSAvPQP9A&s=19\n\n\nSpent 5 minutes sharing this post on our Official X handle.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250518",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Spent 5 minutes on this post on Instagram",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250518",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "https://x.com/TrueSightDAO/status/1924057929126223890?t=m4hKGtTbK91-08C7rq6TUw&s=19\n\n\nSpent 5 minutes on this post",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250518",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 10 minutes creating this X post\n https://x.com/TrueSightDAO/status/1928134850315223545?s=19",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250530",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 10 minutes creating this X post\n https://x.com/TrueSightDAO/status/1928134850315223545?s=19",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250530",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 2 minutes asking @The2xld if he would be keen to help manage our LinkedIn and Instagram truesight DAO pages",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20250423",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 15 minutes sharing the login credentials\n\n- Agroverse instagram account to Tess Walkowski\n- TrueSight DAO instagram account to @The2xld \n\nI requested the @The2xld share his linkedin account ID with me",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250427",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Daniel Prime",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Me and @The2xld spent 5 minutes corresponding",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250515",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

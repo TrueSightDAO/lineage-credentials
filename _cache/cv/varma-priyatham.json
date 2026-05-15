@@ -1,0 +1,130 @@
+{
+  "slug": "varma-priyatham",
+  "display_name": "Varma Priyatham",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 77.0,
+    "date_range": {
+      "earliest": "20230908",
+      "latest": "20230908"
+    },
+    "source": {
+      "contributor_name": "Varma Priyatham",
+      "generated_date": "2026-05-14T22:06:13.921043",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 77.0,
+        "total_tdg_issued": 77.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230908",
+          "latest": "20230908"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 77.0,
+        "total_tdg_issued": 77.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 2
+        },
+        "date_range": {
+          "earliest": "20230908",
+          "latest": "20230908"
+        },
+        "contribution_types": [
+          {
+            "description": "45 minutes facetime for Verma to get to know about the project on 20230908",
+            "project": "Agroverse",
+            "tdg": 75.0,
+            "date": "20230908",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Refi by Ethereum\n\nhttps://ethereum.org/en/refi/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230908",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "ToucanEarth\n\nhttps://toucan.earth/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230908",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Varma Priyatham",
+          "Project Name": "Agroverse",
+          "Contribution Made": "45 minutes facetime for Verma to get to know about the project on 20230908",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20230908",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "+44 7760 512618",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Varma Priyatham",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Refi by Ethereum\n\nhttps://ethereum.org/en/refi/",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230908",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "+44 7760 512618",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Varma Priyatham",
+          "Project Name": "Agroverse",
+          "Contribution Made": "ToucanEarth\n\nhttps://toucan.earth/",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230908",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "+44 7760 512618",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

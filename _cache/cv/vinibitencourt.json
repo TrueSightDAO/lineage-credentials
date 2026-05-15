@@ -1,0 +1,299 @@
+{
+  "slug": "vinibitencourt",
+  "display_name": "@vinibitencourt",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 10,
+    "total_tdg_provisioned": 157.17999999999998,
+    "date_range": {
+      "earliest": "20240906",
+      "latest": "20250306"
+    },
+    "source": {
+      "contributor_name": "@vinibitencourt",
+      "generated_date": "2026-05-14T22:06:12.808789",
+      "summary": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 157.17999999999998,
+        "total_tdg_issued": 218.31999999999996,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240906",
+          "latest": "20250306"
+        }
+      },
+      "analysis": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 157.17999999999998,
+        "total_tdg_issued": 218.31999999999996,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 10
+        },
+        "date_range": {
+          "earliest": "20240906",
+          "latest": "20250306"
+        },
+        "contribution_types": [
+          {
+            "description": "Hello everyone!\nSpent 30 minutes getting all the information together and communicating via email with the freight forwarder",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20240906",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Vini spent 5 minutes explaining that price of USD 1518.50 includes \n\n- pick up from CIC \n- ⁠airfreight all the way to Austin Texas airport\n\nBrazilian Customs broker fees not included <This message was edited>",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20240923",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Vini spent 5 minutes responding to my questions",
+            "project": "Agroverse",
+            "tdg": 1.67,
+            "date": "20240923",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you @555499980942 for spending 5 minutes clarifying these two very important questions",
+            "project": "Agroverse",
+            "tdg": 1.67,
+            "date": "20241001",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes asking freight forwarder",
+            "project": "Agroverse",
+            "tdg": 0.08,
+            "date": "20241002",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@555499980942 Thank you for spending 10 minutes providing expert advice 🙂🙏",
+            "project": "Agroverse",
+            "tdg": 1.67,
+            "date": "20241003",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @555499980942 spent 5 minutes corresponding on the freighting service",
+            "project": "Agroverse",
+            "tdg": 0.42,
+            "date": "20241004",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@555499980942 spent 5 minutes confirming that the freighting company he sourced for does not provide the pallet",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20241007",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent one hour compiling information of costs to set up a legal entity in Brazil",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20241025",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 1 minute poking Vini and Matheus to go figure out how to get the tax rebate from the Brazilian government for the exporting",
+            "project": "TrueSight DAO",
+            "tdg": 1.67,
+            "date": "20250306",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 10
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Hello everyone!\nSpent 30 minutes getting all the information together and communicating via email with the freight forwarder",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20240906",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Vini spent 5 minutes explaining that price of USD 1518.50 includes \n\n- pick up from CIC \n- ⁠airfreight all the way to Austin Texas airport\n\nBrazilian Customs broker fees not included <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "5.00.",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240923",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Vini spent 5 minutes responding to my questions",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240923",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Thank you @555499980942 for spending 5 minutes clarifying these two very important questions",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241001",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "I spent 5 minutes asking freight forwarder",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.08",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241002",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "@555499980942 Thank you for spending 10 minutes providing expert advice 🙂🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241003",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Me and @555499980942 spent 5 minutes corresponding on the freighting service",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.42",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241004",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "@555499980942 spent 5 minutes confirming that the freighting company he sourced for does not provide the pallet",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67.",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241007",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "Agroverse",
+          "Contribution Made": "I spent one hour compiling information of costs to set up a legal entity in Brazil",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20241025",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@vinibitencourt",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent 1 minute poking Vini and Matheus to go figure out how to get the tax rebate from the Brazilian government for the exporting",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.67",
+          "Status date": "20250306",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

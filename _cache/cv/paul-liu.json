@@ -1,0 +1,81 @@
+{
+  "slug": "paul-liu",
+  "display_name": "Paul Liu",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20220807",
+      "latest": "20220807"
+    },
+    "source": {
+      "contributor_name": "Paul Liu",
+      "generated_date": "2026-05-14T22:06:13.746854",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "MoonShot"
+        ],
+        "date_range": {
+          "earliest": "20220807",
+          "latest": "20220807"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "MoonShot"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1
+        },
+        "date_range": {
+          "earliest": "20220807",
+          "latest": "20220807"
+        },
+        "contribution_types": [
+          {
+            "description": "Value proposition research meeting 6th August",
+            "project": "MoonShot",
+            "tdg": 100.0,
+            "date": "20220807",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Paul Liu",
+          "Project Name": "MoonShot",
+          "Contribution Made": "Value proposition research meeting 6th August",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220807",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

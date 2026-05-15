@@ -1,0 +1,276 @@
+{
+  "slug": "atheleah-nous",
+  "display_name": "ATheLeah Nous",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 9,
+    "total_tdg_provisioned": 662.5,
+    "date_range": {
+      "earliest": "20250520",
+      "latest": "20250610"
+    },
+    "source": {
+      "contributor_name": "ATheLeah Nous",
+      "generated_date": "2026-05-14T22:06:12.817005",
+      "summary": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 662.5,
+        "total_tdg_issued": 675.0,
+        "projects": [
+          "20250617_beerhall",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250520",
+          "latest": "20250610"
+        }
+      },
+      "analysis": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 662.5,
+        "total_tdg_issued": 675.0,
+        "projects": [
+          "20250617_beerhall",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 8,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250520",
+          "latest": "20250610"
+        },
+        "contribution_types": [
+          {
+            "description": "Atelier spent 2 hours going around burning cow sharing our cacao with the burning cow barter faire participants",
+            "project": "telegram_chatlog",
+            "tdg": 200.0,
+            "date": "20250527",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Atelier spent 2 hours going around burning cow sharing our cacao with the burning cow barter faire participants",
+            "project": "telegram_chatlog",
+            "tdg": 200.0,
+            "date": "20250527",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Atelier spent 15 minutes surfacing the same signal as @41799155602",
+            "project": "20250617_beerhall",
+            "tdg": 12.5,
+            "date": "20250531",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Athelea spent 30 minutes setting up our cacao circle for night mode",
+            "project": "20250617_beerhall",
+            "tdg": 50.0,
+            "date": "20250607",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Atelier spent 15 minutes suggesting making merchandises around our brand which she could then resell. Part of the discussions was being able to activate the merchandise QR code to plant a tree",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250520",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Atelier spent 15 minutes explaining that the rainbow gatherings folks are also the permaculture crowd",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250520",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Atelier spent 1 hour speaking to her community in sand point, Idaho about our cacao",
+            "project": "20250617_beerhall",
+            "tdg": 100.0,
+            "date": "20250530",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Atelier spent 15 minutes explaining and suggesting that I crash their summer solstice gathering in Rice Washington",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250531",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Atelier spent 15 minutes explaining what another nomad who was at the Okanogan family barter faire is doing",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250610",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 9
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Atelier spent 2 hours going around burning cow sharing our cacao with the burning cow barter faire participants",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20250527",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Atelier spent 2 hours going around burning cow sharing our cacao with the burning cow barter faire participants",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20250527",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Atelier spent 15 minutes surfacing the same signal as @41799155602",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "12.5",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250531",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Athelea spent 30 minutes setting up our cacao circle for night mode",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20250607",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Atelier spent 15 minutes suggesting making merchandises around our brand which she could then resell. Part of the discussions was being able to activate the merchandise QR code to plant a tree",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250520",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Atelier spent 15 minutes explaining that the rainbow gatherings folks are also the permaculture crowd",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250520",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Atelier spent 1 hour speaking to her community in sand point, Idaho about our cacao",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20250530",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Atelier spent 15 minutes explaining and suggesting that I crash their summer solstice gathering in Rice Washington",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250531",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "ATheLeah Nous",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Atelier spent 15 minutes explaining what another nomad who was at the Okanogan family barter faire is doing",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250610",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

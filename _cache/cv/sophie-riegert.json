@@ -1,0 +1,81 @@
+{
+  "slug": "sophie-riegert",
+  "display_name": "Sophie Riegert",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 25.0,
+    "date_range": {
+      "earliest": "20260218",
+      "latest": "20260218"
+    },
+    "source": {
+      "contributor_name": "Sophie Riegert",
+      "generated_date": "2026-05-14T22:06:13.841037",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 25.0,
+        "total_tdg_issued": 25.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20260218",
+          "latest": "20260218"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 25.0,
+        "total_tdg_issued": 25.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20260218",
+          "latest": "20260218"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Spoke about what is required for contribution right now to further the project\r\n- Contributor(s): Sophie Riegert, Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260218080122_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 3z4EtmHwBYt3CRpQLtBCFjKeSAPN3oURcZebA+fcxIEAULhxJab27PigCwDYdWIxDwKSau1Js8nft9PN34uFrRwcPb+qS/JqPdZAkGKCh3+qBQRjP7fBxo28eHqxF5STUrCaHLSFZm3/Sp7jX/3Do3/9UkI3AZvqfwNZa8iuvi852SUcuuMYLi5MP0WS5PBvF/K90q7IhOXJBOMkbfq/iyhlIi61wvNT7RjNWEaJ6AfzjxCdyFzqyP3PflUqjRtk+bzucQcCynas6N32um+ejS9Ww0Z+JO3AHqT3VUqnITd8gdG4r4JFzLUmo5qISepROQovaC3kxoxliYHuhH9Vwg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20260218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Sophie Riegert",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Spoke about what is required for contribution right now to further the project\r\n- Contributor(s): Sophie Riegert, Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260218080122_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 3z4EtmHwBYt3CRpQLtBCFjKeSAPN3oURcZebA+fcxIEAULhxJab27PigCwDYdWIxDwKSau1Js8nft9PN34uFrRwcPb+qS/JqPdZAkGKCh3+qBQRjP7fBxo28eHqxF5STUrCaHLSFZm3/Sp7jX/3Do3/9UkI3AZvqfwNZa8iuvi852SUcuuMYLi5MP0WS5PBvF/K90q7IhOXJBOMkbfq/iyhlIi61wvNT7RjNWEaJ6AfzjxCdyFzqyP3PflUqjRtk+bzucQcCynas6N32um+ejS9Ww0Z+JO3AHqT3VUqnITd8gdG4r4JFzLUmo5qISepROQovaC3kxoxliYHuhH9Vwg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20260218",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

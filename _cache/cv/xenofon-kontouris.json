@@ -1,0 +1,99 @@
+{
+  "slug": "xenofon-kontouris",
+  "display_name": "Xenofon Kontouris",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 1000.0,
+    "date_range": {
+      "earliest": "20220228",
+      "latest": "20220228"
+    },
+    "source": {
+      "contributor_name": "Xenofon Kontouris",
+      "generated_date": "2026-05-14T22:06:13.954258",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 200.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220228",
+          "latest": "20220228"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 200.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220228",
+          "latest": "20220228"
+        },
+        "contribution_types": [
+          {
+            "description": "Europe tends to lead in the area of financial governance. Once the framework is set, it tends to be followed by Singapore and Hong Kong",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220228",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Make sure to not open channels on too many platforms as it starts becoming to hard to manage after a while. Health of a DAO is guaged via activity in their Discord channels",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220228",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Xenofon Kontouris",
+          "Project Name": "",
+          "Contribution Made": "Europe tends to lead in the area of financial governance. Once the framework is set, it tends to be followed by Singapore and Hong Kong",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220228",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Xenofon Kontouris",
+          "Project Name": "",
+          "Contribution Made": "Make sure to not open channels on too many platforms as it starts becoming to hard to manage after a while. Health of a DAO is guaged via activity in their Discord channels",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220228",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

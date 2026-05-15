@@ -1,0 +1,81 @@
+{
+  "slug": "cliff",
+  "display_name": "Cliff",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0.83,
+    "date_range": {
+      "earliest": "20240623",
+      "latest": "20240623"
+    },
+    "source": {
+      "contributor_name": "Cliff",
+      "generated_date": "2026-05-14T22:06:13.006897",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0.83,
+        "total_tdg_issued": 8.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240623",
+          "latest": "20240623"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0.83,
+        "total_tdg_issued": 8.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20240623",
+          "latest": "20240623"
+        },
+        "contribution_types": [
+          {
+            "description": "Cliff spent 5 minutes to share this article that was published in Singapore’s national newspaper\n\nhttps://www.straitstimes.com/business/companies-markets/who-profits-from-the-soaring-price-of-cocoa?utm_campaign=stfb&utm_medium=social&utm_source=facebook&fbclid=IwZXh0bgNhZW0CMTEAAR3k5F4ANiKjTAjEAJdM5HwppEZ_pyJV8LgFORvyXOaz1YzJvu1K4J-g7wE_aem_492H43KlnyRRLY3mF5wboQ",
+            "project": "TrueSight DAO",
+            "tdg": 0.83,
+            "date": "20240623",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Cliff",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Cliff spent 5 minutes to share this article that was published in Singapore’s national newspaper\n\nhttps://www.straitstimes.com/business/companies-markets/who-profits-from-the-soaring-price-of-cocoa?utm_campaign=stfb&utm_medium=social&utm_source=facebook&fbclid=IwZXh0bgNhZW0CMTEAAR3k5F4ANiKjTAjEAJdM5HwppEZ_pyJV8LgFORvyXOaz1YzJvu1K4J-g7wE_aem_492H43KlnyRRLY3mF5wboQ",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.83",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240623",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

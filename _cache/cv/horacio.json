@@ -1,0 +1,105 @@
+{
+  "slug": "horacio",
+  "display_name": "Horacio",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 125.0,
+    "date_range": {
+      "earliest": "20241102",
+      "latest": "20241104"
+    },
+    "source": {
+      "contributor_name": "Horacio",
+      "generated_date": "2026-05-14T22:06:13.429993",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 125.0,
+        "total_tdg_issued": 125.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20241102",
+          "latest": "20241104"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 125.0,
+        "total_tdg_issued": 125.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20241102",
+          "latest": "20241104"
+        },
+        "contribution_types": [
+          {
+            "description": "Horacio gave feedback on the cacao tea. Feels too thin. Needs to have 2X more cacao husk to even taste anything \n\nWe spent 30 minutes conducting taste testing",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20241102",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Horacio spent 45 minutes making video for our product cacao molasses",
+            "project": "TrueSight DAO",
+            "tdg": 75.0,
+            "date": "20241104",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Horacio",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Horacio gave feedback on the cacao tea. Feels too thin. Needs to have 2X more cacao husk to even taste anything \n\nWe spent 30 minutes conducting taste testing",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20241102",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Horacio",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Horacio spent 45 minutes making video for our product cacao molasses",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20241104",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "coopercabruca",
+  "display_name": "Coopercabruca",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 1132.8899999999999,
+    "date_range": {
+      "earliest": "20230602",
+      "latest": "20250228"
+    },
+    "source": {
+      "contributor_name": "Coopercabruca",
+      "generated_date": "2026-05-14T22:06:13.010525",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 1132.8899999999999,
+        "total_tdg_issued": 1132.8899999999999,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230602",
+          "latest": "20250228"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 1132.8899999999999,
+        "total_tdg_issued": 1132.8899999999999,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO": 1,
+          "1 : Commerce - Sourced for vendor (each)": 1,
+          "50 : Commerce - Offline tasks (30 minutes)": 1,
+          "100TDG For every 1 hour of human effort": 1,
+          "1TDG For every 1 USD of liquidity injected": 1
+        },
+        "date_range": {
+          "earliest": "20230602",
+          "latest": "20250228"
+        },
+        "contribution_types": [
+          {
+            "description": "5kg organic cacao nibs for initial shipment (USD11.40/KG)\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230603_coopercabruca_5kg_organic_cacao_nibs.jpeg",
+            "project": "Agroverse",
+            "tdg": 57.0,
+            "date": "20230602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "EC0-77: Sourced for additional freignther from Orlantildes\n\nOmega comissária de serviços aduaneiros Ltda\nCNPJ 01.183.105/0001-96\nContatos\nGerson Argolo 71 988015053\nYolanda Santos 7191929528\nEmail gerson.argolo@omegaservicos.com.br\nexportacao@omegaservicos.com.br\niolanda.santos@omegaservicos.com.br\ntinternacional@omegaservicos.com.br",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230710",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "PR news release\n\nhttps://www.cacauechocolate.com.br/v1/2023/11/06/coopercabruca-realiza-primeira-exportacao-de-nibs-organico-para-os-estados-unidos/",
+            "project": "Agroverse",
+            "tdg": 300.0,
+            "date": "20231110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Orlantildes spent 5 minutes diagnosing the processes in the two facilities CIC, Martinus and Santos to figure out the source of this insect.",
+            "project": "Agroverse",
+            "tdg": 8.33,
+            "date": "20250130",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Coopercabruca contributed $766.56 for the replacement of the lost AGL6 shipment",
+            "project": "TrueSight DAO",
+            "tdg": 766.56,
+            "date": "20250228",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Coopercabruca",
+          "Project Name": "Agroverse",
+          "Contribution Made": "5kg organic cacao nibs for initial shipment (USD11.40/KG)\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230603_coopercabruca_5kg_organic_cacao_nibs.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "57.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "57.00",
+          "Status date": "20230602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "57.00",
+          "Discord ID": "+55 73 9978-8453",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Coopercabruca",
+          "Project Name": "Agroverse",
+          "Contribution Made": "EC0-77: Sourced for additional freignther from Orlantildes\n\nOmega comissária de serviços aduaneiros Ltda\nCNPJ 01.183.105/0001-96\nContatos\nGerson Argolo 71 988015053\nYolanda Santos 7191929528\nEmail gerson.argolo@omegaservicos.com.br\nexportacao@omegaservicos.com.br\niolanda.santos@omegaservicos.com.br\ntinternacional@omegaservicos.com.br",
+          "Rubric classification": "1 : Commerce - Sourced for vendor (each)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230710",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "+55 73 9978-8453",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Coopercabruca",
+          "Project Name": "Agroverse",
+          "Contribution Made": "PR news release\n\nhttps://www.cacauechocolate.com.br/v1/2023/11/06/coopercabruca-realiza-primeira-exportacao-de-nibs-organico-para-os-estados-unidos/",
+          "Rubric classification": "50 : Commerce - Offline tasks (30 minutes)",
+          "TDGs Provisioned": "300.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "300.00",
+          "Status date": "20231110",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "300.00",
+          "Discord ID": "+55 73 9978-8453",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Coopercabruca",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Me and Orlantildes spent 5 minutes diagnosing the processes in the two facilities CIC, Martinus and Santos to figure out the source of this insect.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250130",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "+55 73 9978-8453",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Coopercabruca",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Coopercabruca contributed $766.56 for the replacement of the lost AGL6 shipment",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "766.56",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "766.56",
+          "Status date": "20250228",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "766.56",
+          "Discord ID": "+55 73 9978-8453",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "dr-spencer-william-brown",
+  "display_name": "Dr Spencer William Brown",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 625.0,
+    "date_range": {
+      "earliest": "20221230",
+      "latest": "20221230"
+    },
+    "source": {
+      "contributor_name": "Dr Spencer William Brown",
+      "generated_date": "2026-05-14T22:06:13.059836",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 625.0,
+        "total_tdg_issued": 625.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20221230",
+          "latest": "20221230"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 625.0,
+        "total_tdg_issued": 625.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic": 1
+        },
+        "date_range": {
+          "earliest": "20221230",
+          "latest": "20221230"
+        },
+        "contribution_types": [
+          {
+            "description": "Once the initial manualscript is ready reach out to a publisher. \n\nThe publisher will handle the publishing of the physical book as well as the publishing on Kindle. \n\nWhen new order comes through via Amazon.com for a physical book, the publisher automatically prints and ships the book.\n\nWhen new order comes through via Amazon.com for onlinr version, you get paid\n\nTo crowdsource the book, first define the chapters.\n\nHire a bunch of ghost writers to research and write the chapters. If specific contents are interesting, prod the ghost writers to do further research in the area to write more details in.\n\nBulk of the effort for the main coordinator is editing",
+            "project": "TrueSight DAO",
+            "tdg": 625.0,
+            "date": "20221230",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Dr Spencer William Brown",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Once the initial manualscript is ready reach out to a publisher. \n\nThe publisher will handle the publishing of the physical book as well as the publishing on Kindle. \n\nWhen new order comes through via Amazon.com for a physical book, the publisher automatically prints and ships the book.\n\nWhen new order comes through via Amazon.com for onlinr version, you get paid\n\nTo crowdsource the book, first define the chapters.\n\nHire a bunch of ghost writers to research and write the chapters. If specific contents are interesting, prod the ghost writers to do further research in the area to write more details in.\n\nBulk of the effort for the main coordinator is editing",
+          "Rubric classification": "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic",
+          "TDGs Provisioned": "625.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "625.00",
+          "Status date": "20221230",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "625.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "liz-george",
+  "display_name": "Liz (George)",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 2.0,
+    "date_range": {
+      "earliest": "20230823",
+      "latest": "20230823"
+    },
+    "source": {
+      "contributor_name": "Liz (George)",
+      "generated_date": "2026-05-14T22:06:13.623616",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 2.0,
+        "total_tdg_issued": 2.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230823",
+          "latest": "20230823"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 2.0,
+        "total_tdg_issued": 2.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "1 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 2
+        },
+        "date_range": {
+          "earliest": "20230823",
+          "latest": "20230823"
+        },
+        "contribution_types": [
+          {
+            "description": "Donate a portion of the proceeds for carbon offsets",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230823",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Imperfect foods as distribution partner",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230823",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Liz (George)",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Donate a portion of the proceeds for carbon offsets",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230823",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Liz (George)",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Imperfect foods as distribution partner",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230823",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

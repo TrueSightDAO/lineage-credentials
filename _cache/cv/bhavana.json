@@ -1,0 +1,153 @@
+{
+  "slug": "bhavana",
+  "display_name": "Bhavana",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 425.0,
+    "date_range": {
+      "earliest": "20240114",
+      "latest": "20240120"
+    },
+    "source": {
+      "contributor_name": "Bhavana",
+      "generated_date": "2026-05-14T22:06:12.944892",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 425.0,
+        "total_tdg_issued": 425.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240114",
+          "latest": "20240120"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 425.0,
+        "total_tdg_issued": 425.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 4
+        },
+        "date_range": {
+          "earliest": "20240114",
+          "latest": "20240120"
+        },
+        "contribution_types": [
+          {
+            "description": "Bhavana further elaborated on getting to oneness (_Seva - proper mental frame to be in when contributing in DAO_)\n\nSelf (1) + Divinity, aka choiceless awareness (1) = 2 \n\nTo get to 1 one of the two must be removed from the equation \n\nNot-self, aka Anatta (0) + Divinity, choiceless awareness (1) = 1\n\nWhen anybody is doing anything make sure Nobody is Doing Nothing\n\nTime taken by her to clarify this nuanced point: 30 minutes ‎<This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20240114",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Time taken by Bhavana to help further clarify this very nuanced point that is very critical for the philosophical foundation described in our white paper is 30 minutes ‎<This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20240114",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Time taken by her to explain the concept of *Namaskar* _(I bow to the divinity in you)_ last year during zoom session was 15 minutes ‎<This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 25.0,
+            "date": "20240114",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Had dinner with Bhavana, @41765737357, @41799155602 and @41765663130 last week for 3 hours \n\n_Key insights_\n\n- it is possible to have *Integrity* (_core value_) without need for Transparency (_not core value_)\n\n_Follow up action_\n\n- future useful insights gathered that are not tokenizable will no longer be shared within these channels (_DM me if you are keen to find out where the category of untokenized  insights are published and shared_)\n\n- ⁠this will further reduce the amount of post within our WhatsApp channels \n\n- ⁠if two or more DAO members are present, visual submissions will no longer be a requirement to prove that DAO contribution has transpired \n\n- ⁠Governors retain the right to request for proof when in doubt \n\n🙂🙏 ‎<This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 300.0,
+            "date": "20240120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Bhavana",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Bhavana further elaborated on getting to oneness (_Seva - proper mental frame to be in when contributing in DAO_)\n\nSelf (1) + Divinity, aka choiceless awareness (1) = 2 \n\nTo get to 1 one of the two must be removed from the equation \n\nNot-self, aka Anatta (0) + Divinity, choiceless awareness (1) = 1\n\nWhen anybody is doing anything make sure Nobody is Doing Nothing\n\nTime taken by her to clarify this nuanced point: 30 minutes ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20240114",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bhavana",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Time taken by Bhavana to help further clarify this very nuanced point that is very critical for the philosophical foundation described in our white paper is 30 minutes ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20240114",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bhavana",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Time taken by her to explain the concept of *Namaskar* _(I bow to the divinity in you)_ last year during zoom session was 15 minutes ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20240114",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bhavana",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Had dinner with Bhavana, @41765737357, @41799155602 and @41765663130 last week for 3 hours \n\n_Key insights_\n\n- it is possible to have *Integrity* (_core value_) without need for Transparency (_not core value_)\n\n_Follow up action_\n\n- future useful insights gathered that are not tokenizable will no longer be shared within these channels (_DM me if you are keen to find out where the category of untokenized  insights are published and shared_)\n\n- ⁠this will further reduce the amount of post within our WhatsApp channels \n\n- ⁠if two or more DAO members are present, visual submissions will no longer be a requirement to prove that DAO contribution has transpired \n\n- ⁠Governors retain the right to request for proof when in doubt \n\n🙂🙏 ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "300.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "300.00",
+          "Status date": "20240120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "300.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

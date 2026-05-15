@@ -1,0 +1,81 @@
+{
+  "slug": "david-hu",
+  "display_name": "David Hu",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 8.33,
+    "date_range": {
+      "earliest": "20241113",
+      "latest": "20241113"
+    },
+    "source": {
+      "contributor_name": "David Hu",
+      "generated_date": "2026-05-14T22:06:13.034023",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 8.33,
+        "total_tdg_issued": 8.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20241113",
+          "latest": "20241113"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 8.33,
+        "total_tdg_issued": 8.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20241113",
+          "latest": "20241113"
+        },
+        "contribution_types": [
+          {
+            "description": "David Hu spent 5 minutes sharing this link to the German based cacao retailer\n\nhttps://kakaomischa.de/",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20241113",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "David Hu",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "David Hu spent 5 minutes sharing this link to the German based cacao retailer\n\nhttps://kakaomischa.de/",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241113",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

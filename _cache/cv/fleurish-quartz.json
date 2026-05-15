@@ -1,0 +1,81 @@
+{
+  "slug": "fleurish-quartz",
+  "display_name": "Fleurish Quartz",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20250713",
+      "latest": "20250713"
+    },
+    "source": {
+      "contributor_name": "Fleurish Quartz",
+      "generated_date": "2026-05-14T22:06:13.168505",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250713",
+          "latest": "20250713"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250713",
+          "latest": "20250713"
+        },
+        "contribution_types": [
+          {
+            "description": "Fluerish spent 30 minutes making the introduction",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20250713",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Fleurish Quartz",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Fluerish spent 30 minutes making the introduction",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250713",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "jeff",
+  "display_name": "Jeff",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 1000.0,
+    "date_range": {
+      "earliest": "20220220",
+      "latest": "20220321"
+    },
+    "source": {
+      "contributor_name": "Jeff",
+      "generated_date": "2026-05-14T22:06:13.475770",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 2000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220220",
+          "latest": "20220321"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 2000.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220220",
+          "latest": "20220321"
+        },
+        "contribution_types": [
+          {
+            "description": "Strength of L1 chain can be determined by how uncorrelated they are to the price of BitCoin",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "BitCoin is strongly correlated with QQQ due to instituational activities",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction of TrueSight to Theia Trading",
+            "project": "",
+            "tdg": 0,
+            "date": "20220227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Adoption of TrueSight by Theia Trading",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Onboarded @shiipshiip - CEO of Theia Capital",
+            "project": "",
+            "tdg": 0,
+            "date": "20220321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jeff",
+          "Project Name": "",
+          "Contribution Made": "Strength of L1 chain can be determined by how uncorrelated they are to the price of BitCoin",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220220",
+          "Solana Transfer Hash": "5SnMbQqTmiXWZMj52TVygqCpKamBB4xKH9N7qmYgS5VZ3jYJnUyLLjZtxMTpXX7VrXb4LD5WgPq4t5kZCCpDj9EE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jeff",
+          "Project Name": "",
+          "Contribution Made": "BitCoin is strongly correlated with QQQ due to instituational activities",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220220",
+          "Solana Transfer Hash": "5SnMbQqTmiXWZMj52TVygqCpKamBB4xKH9N7qmYgS5VZ3jYJnUyLLjZtxMTpXX7VrXb4LD5WgPq4t5kZCCpDj9EE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jeff",
+          "Project Name": "",
+          "Contribution Made": "Introduction of TrueSight to Theia Trading",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220227",
+          "Solana Transfer Hash": "5SnMbQqTmiXWZMj52TVygqCpKamBB4xKH9N7qmYgS5VZ3jYJnUyLLjZtxMTpXX7VrXb4LD5WgPq4t5kZCCpDj9EE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jeff",
+          "Project Name": "",
+          "Contribution Made": "Adoption of TrueSight by Theia Trading",
+          "Rubric classification": "",
+          "TDGs Provisioned": "4,000.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jeff",
+          "Project Name": "",
+          "Contribution Made": "Onboarded @shiipshiip - CEO of Theia Capital",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,000.00",
+          "Status date": "20220321",
+          "Solana Transfer Hash": "5SnMbQqTmiXWZMj52TVygqCpKamBB4xKH9N7qmYgS5VZ3jYJnUyLLjZtxMTpXX7VrXb4LD5WgPq4t5kZCCpDj9EE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

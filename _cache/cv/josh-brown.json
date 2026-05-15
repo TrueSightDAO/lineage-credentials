@@ -1,0 +1,130 @@
+{
+  "slug": "josh-brown",
+  "display_name": "Josh Brown",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 133.32999999999998,
+    "date_range": {
+      "earliest": "20250325",
+      "latest": "20250520"
+    },
+    "source": {
+      "contributor_name": "Josh Brown",
+      "generated_date": "2026-05-14T22:06:13.526900",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 133.32999999999998,
+        "total_tdg_issued": 133.32999999999998,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "date_range": {
+          "earliest": "20250325",
+          "latest": "20250520"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 133.32999999999998,
+        "total_tdg_issued": 133.32999999999998,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "rubric_categories": {
+          "\"100TDG For every 1 hour of human effort": 2,
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250325",
+          "latest": "20250520"
+        },
+        "contribution_types": [
+          {
+            "description": "Josh spent 5 minutes blasting this in one of the nomad channels where 78 nomads hanging around this desert area are part of",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Josh spent 1 hours helping source for this sail boat which we might end up acquiring to sail down to Ilheus Bahia to pick up cacao",
+            "project": "20250617_beerhall",
+            "tdg": 100.0,
+            "date": "20250325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Josh brown spent 15 minutes suggesting that he wants to make lazer engraved signs using our brand to spread the message",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250520",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Josh Brown",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Josh spent 5 minutes blasting this in one of the nomad channels where 78 nomads hanging around this desert area are part of",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250325",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Josh Brown",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Josh spent 1 hours helping source for this sail boat which we might end up acquiring to sail down to Ilheus Bahia to pick up cacao",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20250325",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Josh Brown",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Josh brown spent 15 minutes suggesting that he wants to make lazer engraved signs using our brand to spread the message",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250520",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

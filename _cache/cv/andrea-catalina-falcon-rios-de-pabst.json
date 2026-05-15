@@ -1,0 +1,473 @@
+{
+  "slug": "andrea-catalina-falcon-rios-de-pabst",
+  "display_name": "Andrea Catalina Falcon Rios De Pabst",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 17,
+    "total_tdg_provisioned": 1398.33,
+    "date_range": {
+      "earliest": "20250212",
+      "latest": "20260313"
+    },
+    "source": {
+      "contributor_name": "Andrea Catalina Falcon Rios De Pabst",
+      "generated_date": "2026-05-14T22:06:12.865519",
+      "summary": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 1398.33,
+        "total_tdg_issued": 1398.33,
+        "projects": [
+          "20250617_beerhall",
+          "Recurring Tokenizations",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250212",
+          "latest": "20260313"
+        }
+      },
+      "analysis": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 1398.33,
+        "total_tdg_issued": 1398.33,
+        "projects": [
+          "20250617_beerhall",
+          "Recurring Tokenizations",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 12,
+          "1TDG For every 1 USD of liquidity injected": 4,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250212",
+          "latest": "20260313"
+        },
+        "contribution_types": [
+          {
+            "description": "Me and Andrea spent 1 hours and 15 minutes walking through how we could collaborate on making cacao available in Zurich\n\nAs well as source from Peru",
+            "project": "TrueSight DAO",
+            "tdg": 125.0,
+            "date": "20250212",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Andrea spent 5 minutes coordinating for cacao to be shipped from Brazil to Zurich to be offered to the community there 😊🙏",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@andrea spent 5 minutes sharing about Agroverse on Instagram",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes sharing with @41782035504 how to submit her contributions made in this channel for tokenization 😊🙏",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250328",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250522",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250622",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @41782035504 spent 5 minutes trying to coordinate the FaceTime",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @41782035504 spent 15 minutes communicating about further expansion into Switzerland for the Brazilian source as well as expansion into USA for the Peruvian source",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250407",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you @41782035504 for spending 10 minutes to tag us and share about our project on Facebook! 😊🙏",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250410",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you @41782035504 for spending 10 minutes to take these photos and then share them on Instagram 😊🙏",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250412",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @41782035504 spent 10 minutes on the phone call.",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250416",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you @41782035504 for spending 15 minutes to surface these two organizations we could explore collaboration with to expand our Agroverse network 😊🙏",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250509",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250722",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Figuring out the logistics for double work economic forum, as well as the transfer of funds from andrea to Gary\r\n- Contributor(s): Andrea Catalina Falcon Rios De Pabst, Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: IMG_5167.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251212030945_gary_teh_img_5167.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: rOZOtFVLwNp7xHL6gM4CW2gR+jMGHnRy40hUharvgXscjfCV4yb8To/Vu5sH416bOHALDMBwca9KG6c5NwOvSKOcNz5uRc5JzE8U+QDaKbjEAlTCpLJrgnTeCIME8T67oVYCmb3GIJIYWjaKOSaixdCX0Iag9SzPf1HV/fubNras1iKlYzX2ax1DAybWtIwJA3aMUZDqI/vknCSGvcUnm60P1rZ98zTCv/aAa9m+laBXmYL02M+GbLiXJWsRt8in5C59BzFW1TxGq+JuBL7NNN2NyuODE6HX1XByYUahy6YIStDz7dvY2Qxnh5Rgvdw2A3/TchQ0eV//nrwqGwwu+A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20251212",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 240\r\n- Description: Picking up the bags of Cacao and then transporting it to the store in Bern for sale\r\n  \r\n  https://maps.app.goo.gl/h1RZUA9fcNGBBvY27?g_st=iw\r\n- Contributor(s): Andrea Catalina Falcon Rios De Pabst\r\n- TDG Issued: 400.00\r\n- Attached Filename: IMG_7153.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260205052332_gary_teh_img_7153.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: VVUcfM61d3GQAbaqLxuNoDuHFGe1pfvBFnJX2sF8EXgOdMfEzMO2kPJflex6uOGVzAEMqcpn2Y0XA+cGsHtOic1UpcjJbOyC1DlA1TOTnKnYr4o0BlWMLnOr8mAvzdJI8HaEPtBKzXOcze7VbwDHGv+2Kt/RfiDWBkf3pJp4PHdkfy3B/7YaZIEINoUYIxuR6sBOOaoFvwA5Pwu0Zg+vHs2gepPC14wTGxAuEPNASJVSGrVn+aw2wFWf0bzIUTlbld0qvUwfHwTOWuUUJR5JYs+v9lf87s1KPNd3/kdAN+VQRCCcRgU9PQy9zK+zkFfVKuE9NIUdhwJpjGNp0OSvtQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 400.0,
+            "date": "20260205",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Me and @⁨Andrea - WEF Cacao shaman Falcon⁩ spent 30 minutes discussing how to put the batch out of cacao from Peru to Switzerland on our blockchain as well as how to integrate the funds from sales of these bags of cacao for Amazon reforestation via the infrastructure that we already have in place \r\n  \r\n  Follow up\r\n  - I send @⁨Andrea - WEF Cacao shaman Falcon⁩ Agroverse logo\r\n  \r\n  - ⁠@⁨Andrea - WEF Cacao shaman Falcon⁩ provides information about the farm\r\n  \r\n  - ⁠@⁨Andrea - WEF Cacao shaman Falcon⁩ provides information about the manufacturing partner in peru \r\n  \r\n  - ⁠when bags are produced we issued QR codes for the bags \r\n  \r\n  - ⁠when the bags are sold @⁨Andrea - WEF Cacao shaman Falcon⁩ will transfer USD$5 to me for tree planting on the land earmarked for restoration by Jedielcio in Para Brazil \r\n  \r\n  *_Information to include*_\r\n  \r\n  - Google map location \r\n  - ⁠Videos of the facility\r\n  - ⁠story of the people operating the facility\r\n  \r\n  Agroverse is be positioned not as a consumer brand but an initiative to restore 10,000 hectares of Amazon rainforest \r\n  \r\n  _PS: meanwhile I will focus on driving around USA visiting the 7500 apothecaries to onboard them_\r\n- Contributor(s): Gary Teh, Andrea Catalina Falcon Rios De Pabst\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: yAyIDqBGr42Z1tRk9eO9xVz6vnYD33SvRwMzL7Tvjn9FamYQOgtGtGsdCioQXN/A1jW4yWbP6fdNqcb6zvkHZ4CvBx5eNht3r0cDeZ/wxyGpGjcZxQz3VC0GVM3fHdYFmXrpB0MKN+nBB3SO6Fp8YLXv0zGhSTwfgV1DXXz4cjoInCPpEzOV8N33upfhxkS+F+pRwX/ePq/qWALtArLWxzGoXFAFLVZqakMznXVIuv68x4ncMhlQLnCh6QzD2gyudbvqv7MiQoQAp8SsXOqr5kdcKV9v6f98EA2LNE9SikGypFI1TFljmkxDBLeYvoijkAHbWL0NJPUJPgFqtJD/kw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20260313",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 17
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Andrea spent 1 hours and 15 minutes walking through how we could collaborate on making cacao available in Zurich\n\nAs well as source from Peru",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125.00",
+          "Status date": "20250212",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125.00",
+          "Discord ID": "+41782035504",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Andrea spent 5 minutes coordinating for cacao to be shipped from Brazil to Zurich to be offered to the community there 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250214",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "+41782035504",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@andrea spent 5 minutes sharing about Agroverse on Instagram",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250315",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "+41782035504",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent 5 minutes sharing with @41782035504 how to submit her contributions made in this channel for tokenization 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250328",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250522",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250622",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @41782035504 spent 5 minutes trying to coordinate the FaceTime",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @41782035504 spent 15 minutes communicating about further expansion into Switzerland for the Brazilian source as well as expansion into USA for the Peruvian source",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250407",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you @41782035504 for spending 10 minutes to tag us and share about our project on Facebook! 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250410",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you @41782035504 for spending 10 minutes to take these photos and then share them on Instagram 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250412",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @41782035504 spent 10 minutes on the phone call.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250416",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you @41782035504 for spending 15 minutes to surface these two organizations we could explore collaboration with to expand our Agroverse network 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250509",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250722",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "Andrea Falcon - Zurich Warehousing\n\nStart Date: 20250322",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Figuring out the logistics for double work economic forum, as well as the transfer of funds from andrea to Gary\r\n- Contributor(s): Andrea Catalina Falcon Rios De Pabst, Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: IMG_5167.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251212030945_gary_teh_img_5167.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: rOZOtFVLwNp7xHL6gM4CW2gR+jMGHnRy40hUharvgXscjfCV4yb8To/Vu5sH416bOHALDMBwca9KG6c5NwOvSKOcNz5uRc5JzE8U+QDaKbjEAlTCpLJrgnTeCIME8T67oVYCmb3GIJIYWjaKOSaixdCX0Iag9SzPf1HV/fubNras1iKlYzX2ax1DAybWtIwJA3aMUZDqI/vknCSGvcUnm60P1rZ98zTCv/aAa9m+laBXmYL02M+GbLiXJWsRt8in5C59BzFW1TxGq+JuBL7NNN2NyuODE6HX1XByYUahy6YIStDz7dvY2Qxnh5Rgvdw2A3/TchQ0eV//nrwqGwwu+A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20251212",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 240\r\n- Description: Picking up the bags of Cacao and then transporting it to the store in Bern for sale\r\n  \r\n  https://maps.app.goo.gl/h1RZUA9fcNGBBvY27?g_st=iw\r\n- Contributor(s): Andrea Catalina Falcon Rios De Pabst\r\n- TDG Issued: 400.00\r\n- Attached Filename: IMG_7153.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260205052332_gary_teh_img_7153.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: VVUcfM61d3GQAbaqLxuNoDuHFGe1pfvBFnJX2sF8EXgOdMfEzMO2kPJflex6uOGVzAEMqcpn2Y0XA+cGsHtOic1UpcjJbOyC1DlA1TOTnKnYr4o0BlWMLnOr8mAvzdJI8HaEPtBKzXOcze7VbwDHGv+2Kt/RfiDWBkf3pJp4PHdkfy3B/7YaZIEINoUYIxuR6sBOOaoFvwA5Pwu0Zg+vHs2gepPC14wTGxAuEPNASJVSGrVn+aw2wFWf0bzIUTlbld0qvUwfHwTOWuUUJR5JYs+v9lf87s1KPNd3/kdAN+VQRCCcRgU9PQy9zK+zkFfVKuE9NIUdhwJpjGNp0OSvtQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "400.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "400.00",
+          "Status date": "20260205",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andrea Catalina Falcon Rios De Pabst",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Me and @⁨Andrea - WEF Cacao shaman Falcon⁩ spent 30 minutes discussing how to put the batch out of cacao from Peru to Switzerland on our blockchain as well as how to integrate the funds from sales of these bags of cacao for Amazon reforestation via the infrastructure that we already have in place \r\n  \r\n  Follow up\r\n  - I send @⁨Andrea - WEF Cacao shaman Falcon⁩ Agroverse logo\r\n  \r\n  - ⁠@⁨Andrea - WEF Cacao shaman Falcon⁩ provides information about the farm\r\n  \r\n  - ⁠@⁨Andrea - WEF Cacao shaman Falcon⁩ provides information about the manufacturing partner in peru \r\n  \r\n  - ⁠when bags are produced we issued QR codes for the bags \r\n  \r\n  - ⁠when the bags are sold @⁨Andrea - WEF Cacao shaman Falcon⁩ will transfer USD$5 to me for tree planting on the land earmarked for restoration by Jedielcio in Para Brazil \r\n  \r\n  *_Information to include*_\r\n  \r\n  - Google map location \r\n  - ⁠Videos of the facility\r\n  - ⁠story of the people operating the facility\r\n  \r\n  Agroverse is be positioned not as a consumer brand but an initiative to restore 10,000 hectares of Amazon rainforest \r\n  \r\n  _PS: meanwhile I will focus on driving around USA visiting the 7500 apothecaries to onboard them_\r\n- Contributor(s): Gary Teh, Andrea Catalina Falcon Rios De Pabst\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: yAyIDqBGr42Z1tRk9eO9xVz6vnYD33SvRwMzL7Tvjn9FamYQOgtGtGsdCioQXN/A1jW4yWbP6fdNqcb6zvkHZ4CvBx5eNht3r0cDeZ/wxyGpGjcZxQz3VC0GVM3fHdYFmXrpB0MKN+nBB3SO6Fp8YLXv0zGhSTwfgV1DXXz4cjoInCPpEzOV8N33upfhxkS+F+pRwX/ePq/qWALtArLWxzGoXFAFLVZqakMznXVIuv68x4ncMhlQLnCh6QzD2gyudbvqv7MiQoQAp8SsXOqr5kdcKV9v6f98EA2LNE9SikGypFI1TFljmkxDBLeYvoijkAHbWL0NJPUJPgFqtJD/kw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20260313",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

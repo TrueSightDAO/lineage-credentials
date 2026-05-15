@@ -1,0 +1,154 @@
+{
+  "slug": "theodl",
+  "display_name": "@TheoDL",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 1000.0,
+    "date_range": {
+      "earliest": "20220310",
+      "latest": "20250905"
+    },
+    "source": {
+      "contributor_name": "@TheoDL",
+      "generated_date": "2026-05-14T22:06:12.787317",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20220310",
+          "latest": "20250905"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "-1TDG For every 1USDT sent": 1
+        },
+        "date_range": {
+          "earliest": "20220310",
+          "latest": "20250905"
+        },
+        "contribution_types": [
+          {
+            "description": "Protocol: Extend protocol to integrate into Pyth.network",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Liquidity: Phase 1 - Provided suggestion to 3 Tier rarity for Coin of Truth\n\nhttps://discord.com/channels/923008087315587072/947427462776766475/951584931883130930",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220310",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Additional tokenomics modification to boost value of Coin of Truth\nhttps://discord.com/channels/923008087315587072/947427462776766475/951794768768274453",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220312",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sold on Open market",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20250905",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 1,
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "@TheoDL",
+          "Project Name": "",
+          "Contribution Made": "Protocol: Extend protocol to integrate into Pyth.network",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@TheoDL",
+          "Project Name": "",
+          "Contribution Made": "Liquidity: Phase 1 - Provided suggestion to 3 Tier rarity for Coin of Truth\n\nhttps://discord.com/channels/923008087315587072/947427462776766475/951584931883130930",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20220310",
+          "Solana Transfer Hash": "3pYcscA2uGBR7e1UHrhs1B9ixWro9U8YJjSzKHtMPWtWB8saVZZejJJMmU4xDDyTKQDVygvdwNp5f2QEqkZiLhEi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@TheoDL",
+          "Project Name": "",
+          "Contribution Made": "Additional tokenomics modification to boost value of Coin of Truth\nhttps://discord.com/channels/923008087315587072/947427462776766475/951794768768274453",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20220312",
+          "Solana Transfer Hash": "3pYcscA2uGBR7e1UHrhs1B9ixWro9U8YJjSzKHtMPWtWB8saVZZejJJMmU4xDDyTKQDVygvdwNp5f2QEqkZiLhEi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@TheoDL",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Sold on Open market",
+          "Rubric classification": "-1TDG For every 1USDT sent",
+          "TDGs Provisioned": "-1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "-1,000.00",
+          "Status date": "20250905",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

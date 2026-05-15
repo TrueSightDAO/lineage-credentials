@@ -1,0 +1,81 @@
+{
+  "slug": "mayra-alexandra",
+  "display_name": "Mayra Alexandra",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 1.5,
+    "date_range": {
+      "earliest": "20241021",
+      "latest": "20241021"
+    },
+    "source": {
+      "contributor_name": "Mayra Alexandra",
+      "generated_date": "2026-05-14T22:06:13.668704",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.5,
+        "total_tdg_issued": 75.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20241021",
+          "latest": "20241021"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.5,
+        "total_tdg_issued": 75.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20241021",
+          "latest": "20241021"
+        },
+        "contribution_types": [
+          {
+            "description": "Me, @557191035605 and Stanley Li and Mayra from San Francisco State University spent 45 minutes discussing about how we will be presenting Agroverse during next Friday’s student hour to encourage student volunteers to step forward to help out with the following scope\n\n- marketing and awareness\n- ⁠technology solutioning\n\n_PS: Interesting to observe both the synchronicity and alignment. Both @557191035605 and Mayra are indigenous. Mayra is of indigenous ancestry from Peru! 🤩🙏_",
+            "project": "Agroverse",
+            "tdg": 1.5,
+            "date": "20241021",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Mayra Alexandra",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Me, @557191035605 and Stanley Li and Mayra from San Francisco State University spent 45 minutes discussing about how we will be presenting Agroverse during next Friday’s student hour to encourage student volunteers to step forward to help out with the following scope\n\n- marketing and awareness\n- ⁠technology solutioning\n\n_PS: Interesting to observe both the synchronicity and alignment. Both @557191035605 and Mayra are indigenous. Mayra is of indigenous ancestry from Peru! 🤩🙏_",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20241021",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

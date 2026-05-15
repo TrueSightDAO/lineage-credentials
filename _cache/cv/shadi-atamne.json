@@ -1,0 +1,521 @@
+{
+  "slug": "shadi-atamne",
+  "display_name": "Shadi Atamne",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 19,
+    "total_tdg_provisioned": 1682.6599999999999,
+    "date_range": {
+      "earliest": "20230520",
+      "latest": "20231113"
+    },
+    "source": {
+      "contributor_name": "Shadi Atamne",
+      "generated_date": "2026-05-14T22:06:13.816764",
+      "summary": {
+        "total_contributions": 19,
+        "total_tdg_provisioned": 1682.6599999999999,
+        "total_tdg_issued": 1682.6599999999999,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230520",
+          "latest": "20231113"
+        }
+      },
+      "analysis": {
+        "total_contributions": 19,
+        "total_tdg_provisioned": 1682.6599999999999,
+        "total_tdg_issued": 1682.6599999999999,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 6,
+          "1250 : Build Game - Engineering - Completed a major stand alone component": 3,
+          "50 : Commerce - Offline tasks (30 minutes)": 1,
+          "500 : Build Game - Engineering - Completed a minor stand alone component": 1,
+          "250 : Build Game - Engineering - Completed a minor function": 1,
+          "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO": 1,
+          "100TDG For every 1 hour of human effort": 6
+        },
+        "date_range": {
+          "earliest": "20230520",
+          "latest": "20231113"
+        },
+        "contribution_types": [
+          {
+            "description": "1 hour facetime to sync on tech stack for main website",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230520",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "30 minutes facetime meeting on 8th August to discuss about Main website",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20230808",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "15 minutes facetime to walk through website for Main DAO",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20230824",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "30 minutes facetime on 29th August 2023 to discuss about UI/UX design elements for main DAO landing page\n\n    - guild member profile template\n    - milestones template\n    - mapping to widgets in Wordpress",
+            "project": "Agroverse",
+            "tdg": 150.0,
+            "date": "20230901",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Setup template for Main DAO website landing page",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20230903",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Setup template for project detail page",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20230903",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "30 minutes facetime to follow up on work done for main website. 20230906\n\n    - discussed onboarding using Gravity forms\n        - motivation, ability and prompt\n        - new members will need to be interviewed before being allowed to join our DAO\n    - redirect plugin \n    - member dashboard to show how many tokens signed in user owns\n        - connect with Google sheet Ledger and Solana Wallet",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20230906",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "40 minutes facetime to discuss about main website and member onboarding\n\nhttps://www.youtube.com/watch?v=HGqbxC4BofU&feature=youtu.be",
+            "project": "TrueSight DAO",
+            "tdg": 66.66,
+            "date": "20230928",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "15 minutes facetime to go through what needs to be done by 10th Oct 2023",
+            "project": "TrueSight DAO",
+            "tdg": 25.0,
+            "date": "20231005",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Setup server for TrueSight DAO main website - production environment\n\nTruesight.me",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20231020",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Setup temporary server for TrueSight DAO main website - development environment\n\ntsd.unitedtheyfall.com",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20231020",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Finished CSS styling for main website landing page\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231012%20-%20shadi%20website%20styling.mp4",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20231020",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Server cost for main DAO website for month of \n\nOctober started 20231020\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231020%20-%20shadi%20server%20cost%2020USd%20in%20october.jpg",
+            "project": "TrueSight DAO",
+            "tdg": 20.0,
+            "date": "20231020",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I gave access to the site so you guys can make content fixes which includes the forms themselves.\n\nFor the user experience, having a button for a form on each individual role is not the best option or practice so I created 3 buttons on each project page, 1 button for each form instead of too many buttons. This also makes it easier and more clear for anyone who is editing content on the site.",
+            "project": "TrueSight DAO",
+            "tdg": 122.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "\"Suheil was surprised when the new site wasn’t up anymore and so was I after working on it so much.\n‎\"",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20231109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "So each section of content on the site is a gutenberg block",
+            "project": "TrueSight DAO",
+            "tdg": 5.0,
+            "date": "20231110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "So my biggest question is, how do you want to handle the form submissions?",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20231110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Using Gravityforms, we can connect to all these different services and then trigger our custom events via Gravityforms (ie send a whatsapp msg)\n\nExample of connecting GForms with IG \n\nhttps://zapier.com/apps/gravity-forms/integrations/instagram",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20231110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Had a *40 minutes face time session* where @918017107841 @41799155602 and myself had a discussion on what are the extensions needed to our website\n\nhttps://youtu.be/pKxYmJJc-14",
+            "project": "TrueSight DAO",
+            "tdg": 66.0,
+            "date": "20231113",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 19
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "1 hour facetime to sync on tech stack for main website",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230520",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "30 minutes facetime meeting on 8th August to discuss about Main website",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230808",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "Agroverse",
+          "Contribution Made": "15 minutes facetime to walk through website for Main DAO",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20230824",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "Agroverse",
+          "Contribution Made": "30 minutes facetime on 29th August 2023 to discuss about UI/UX design elements for main DAO landing page\n\n    - guild member profile template\n    - milestones template\n    - mapping to widgets in Wordpress",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20230901",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Setup template for Main DAO website landing page ",
+          "Rubric classification": "1250 : Build Game - Engineering - Completed a major stand alone component",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20230903",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Setup template for project detail page",
+          "Rubric classification": "1250 : Build Game - Engineering - Completed a major stand alone component",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20230903",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "30 minutes facetime to follow up on work done for main website. 20230906\n\n    - discussed onboarding using Gravity forms\n        - motivation, ability and prompt\n        - new members will need to be interviewed before being allowed to join our DAO\n    - redirect plugin \n    - member dashboard to show how many tokens signed in user owns\n        - connect with Google sheet Ledger and Solana Wallet",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230906",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "40 minutes facetime to discuss about main website and member onboarding\n\nhttps://www.youtube.com/watch?v=HGqbxC4BofU&feature=youtu.be",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "66.66",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "66.66",
+          "Status date": "20230928",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "15 minutes facetime to go through what needs to be done by 10th Oct 2023",
+          "Rubric classification": "50 : Commerce - Offline tasks (30 minutes)",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231005",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Setup server for TrueSight DAO main website - production environment\n\nTruesight.me",
+          "Rubric classification": "500 : Build Game - Engineering - Completed a minor stand alone component",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20231020",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Setup temporary server for TrueSight DAO main website - development environment\n\ntsd.unitedtheyfall.com",
+          "Rubric classification": "250 : Build Game - Engineering - Completed a minor function",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20231020",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Finished CSS styling for main website landing page\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231012%20-%20shadi%20website%20styling.mp4",
+          "Rubric classification": "1250 : Build Game - Engineering - Completed a major stand alone component",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20231020",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Server cost for main DAO website for month of \n\nOctober started 20231020\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231020%20-%20shadi%20server%20cost%2020USd%20in%20october.jpg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "20.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "20.00",
+          "Status date": "20231020",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I gave access to the site so you guys can make content fixes which includes the forms themselves.\n\nFor the user experience, having a button for a form on each individual role is not the best option or practice so I created 3 buttons on each project page, 1 button for each form instead of too many buttons. This also makes it easier and more clear for anyone who is editing content on the site.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "122.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "122.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "\"Suheil was surprised when the new site wasn’t up anymore and so was I after working on it so much.\n‎\"",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20231109",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "So each section of content on the site is a gutenberg block",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "5.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5.00",
+          "Status date": "20231110",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "So my biggest question is, how do you want to handle the form submissions?",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231110",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Using Gravityforms, we can connect to all these different services and then trigger our custom events via Gravityforms (ie send a whatsapp msg)\n\nExample of connecting GForms with IG \n\nhttps://zapier.com/apps/gravity-forms/integrations/instagram",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231110",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shadi Atamne",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Had a *40 minutes face time session* where @918017107841 @41799155602 and myself had a discussion on what are the extensions needed to our website\n\nhttps://youtu.be/pKxYmJJc-14",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "66",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "66",
+          "Status date": "20231113",
+          "Solana Transfer Hash": "3QgVSYD4yZLwRKbiFrX7bqLGBGyJX2YqHncdrXQNaXDLYf1bne3ksbaG8mNxGguUNm5iyev8Fy5TeDcFjr2N1GHP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (541) 908-6904",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

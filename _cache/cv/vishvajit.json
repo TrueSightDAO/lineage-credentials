@@ -1,0 +1,155 @@
+{
+  "slug": "vishvajit",
+  "display_name": "Vishvajit",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 125.0,
+    "date_range": {
+      "earliest": "20211007",
+      "latest": "20220720"
+    },
+    "source": {
+      "contributor_name": "Vishvajit",
+      "generated_date": "2026-05-14T22:06:13.936645",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 125.0,
+        "total_tdg_issued": 1235.0,
+        "projects": [
+          "MarketMonocle"
+        ],
+        "date_range": {
+          "earliest": "20211007",
+          "latest": "20220720"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 125.0,
+        "total_tdg_issued": 1235.0,
+        "projects": [
+          "MarketMonocle"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1
+        },
+        "date_range": {
+          "earliest": "20211007",
+          "latest": "20220720"
+        },
+        "contribution_types": [
+          {
+            "description": "PDT-71 Mobile API implementation",
+            "project": "",
+            "tdg": 0,
+            "date": "20211007",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "PDT-98: track historical portfolio performance of subscribers who have linked their accounts",
+            "project": "",
+            "tdg": 0.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Facetime meeting to chat about engineering matters (Vishvajit and Gary) (30 minutes)",
+            "project": "MarketMonocle",
+            "tdg": 50.0,
+            "date": "20220720",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Raised key questions that will be asked by forthcoming investors\n\n- I know I invested in some tokens last year. What I need to know is what is the near future valuation going to be so that I can decide for myself if I want to invest\n    Response: Right now everyone is still investing at USD1. At fundraising in September and October, we will raised at USD4 \n\n- Who controls the wallet. How is the person controlling the wallet determine\n    Response: Right now me. In future the reserve tokens will be transferred to the Swiss CooP and the wallet will be controlled by multiple different signers that were elected\n\n- What needs to be done and what do you need from me investment wise?\n    Response: 1 frontend engineer that is familiar with Ruby on Rails and ReactJs\n\n- Who else is working on the project\n    Response: KratosLabs is working the blockchain and payment security layer. Pris head of AIA research, Edi from Silicon Valley, Shino art director of Nanyang Academy and Kuolon from Singapore is working on design\n\n- Sounds like you have got a big team. How did you find all these people\n    Response: I literally travelled the world",
+            "project": "MarketMonocle",
+            "tdg": 75.0,
+            "date": "20220720",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Vishvajit",
+          "Project Name": "",
+          "Contribution Made": "PDT-71 Mobile API implementation",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,110.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1110",
+          "Status date": "20211007",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1110",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vishvajit",
+          "Project Name": "",
+          "Contribution Made": "PDT-98: track historical portfolio performance of subscribers who have linked their accounts",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vishvajit",
+          "Project Name": "MarketMonocle",
+          "Contribution Made": "Facetime meeting to chat about engineering matters (Vishvajit and Gary) (30 minutes)",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220720",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vishvajit",
+          "Project Name": "MarketMonocle",
+          "Contribution Made": "Raised key questions that will be asked by forthcoming investors\n\n- I know I invested in some tokens last year. What I need to know is what is the near future valuation going to be so that I can decide for myself if I want to invest\n    Response: Right now everyone is still investing at USD1. At fundraising in September and October, we will raised at USD4 \n\n- Who controls the wallet. How is the person controlling the wallet determine\n    Response: Right now me. In future the reserve tokens will be transferred to the Swiss CooP and the wallet will be controlled by multiple different signers that were elected\n\n- What needs to be done and what do you need from me investment wise?\n    Response: 1 frontend engineer that is familiar with Ruby on Rails and ReactJs\n\n- Who else is working on the project\n    Response: KratosLabs is working the blockchain and payment security layer. Pris head of AIA research, Edi from Silicon Valley, Shino art director of Nanyang Academy and Kuolon from Singapore is working on design\n\n- Sounds like you have got a big team. How did you find all these people\n    Response: I literally travelled the world",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20220720",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

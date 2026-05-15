@@ -1,0 +1,203 @@
+{
+  "slug": "sujit-nair",
+  "display_name": "Sujit Nair",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 6,
+    "total_tdg_provisioned": 91.68,
+    "date_range": {
+      "earliest": "20210621",
+      "latest": "20250411"
+    },
+    "source": {
+      "contributor_name": "Sujit Nair",
+      "generated_date": "2026-05-14T22:06:13.855638",
+      "summary": {
+        "total_contributions": 6,
+        "total_tdg_provisioned": 91.68,
+        "total_tdg_issued": 2591.6800000000003,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20210621",
+          "latest": "20250411"
+        }
+      },
+      "analysis": {
+        "total_contributions": 6,
+        "total_tdg_provisioned": 91.68,
+        "total_tdg_issued": 2591.6800000000003,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 5
+        },
+        "date_range": {
+          "earliest": "20210621",
+          "latest": "20250411"
+        },
+        "contribution_types": [
+          {
+            "description": "Rely on warm introductions to acquire resources",
+            "project": "",
+            "tdg": 0,
+            "date": "20210621",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sujit Nair spent 10 minutes helping clearly define the target demographic in the Bay Area as well as their underlying psychological motivation",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20241220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sujit Nair spent 10 minutes proposing to focus on distributing in the following neighborhoods \n\n- Menlo Park (Sandhill road where all the VCs have their office) especially Santa Cruz avenue farmer’s market \n\n- Palo Alto California avenue farmer’s market",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20241220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sujit Nair spent 10 minutes helping clearly define the target demographic in the Bay Area as well as their underlying psychological motivation",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20241220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sujit Nair spent 10 minutes proposing to focus on distributing in the following neighborhoods \n\n- Menlo Park (Sandhill road where all the VCs have their office) especially Santa Cruz avenue farmer’s market \n\n- Palo Alto California avenue farmer’s market",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20241220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sujit (_second to the right_) spent 15 minutes today reiterating the craziness he was seeing about the Menlo park demographics",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250411",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 6
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Sujit Nair",
+          "Project Name": "",
+          "Contribution Made": "Rely on warm introductions to acquire resources",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20210621",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sujit Nair",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Sujit Nair spent 10 minutes helping clearly define the target demographic in the Bay Area as well as their underlying psychological motivation",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241220",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sujit Nair",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Sujit Nair spent 10 minutes proposing to focus on distributing in the following neighborhoods \n\n- Menlo Park (Sandhill road where all the VCs have their office) especially Santa Cruz avenue farmer’s market \n\n- Palo Alto California avenue farmer’s market",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241220",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sujit Nair",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Sujit Nair spent 10 minutes helping clearly define the target demographic in the Bay Area as well as their underlying psychological motivation",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241220",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sujit Nair",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Sujit Nair spent 10 minutes proposing to focus on distributing in the following neighborhoods \n\n- Menlo Park (Sandhill road where all the VCs have their office) especially Santa Cruz avenue farmer’s market \n\n- Palo Alto California avenue farmer’s market",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241220",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sujit Nair",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Sujit (_second to the right_) spent 15 minutes today reiterating the craziness he was seeing about the Menlo park demographics",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250411",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

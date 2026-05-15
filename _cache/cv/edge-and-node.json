@@ -1,0 +1,328 @@
+{
+  "slug": "edge-and-node",
+  "display_name": "Edge and Node",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 11,
+    "total_tdg_provisioned": 3192.67,
+    "date_range": {
+      "earliest": "20230917",
+      "latest": "20250221"
+    },
+    "source": {
+      "contributor_name": "Edge and Node",
+      "generated_date": "2026-05-14T22:06:13.081340",
+      "summary": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 3192.67,
+        "total_tdg_issued": 4442.67,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230917",
+          "latest": "20250221"
+        }
+      },
+      "analysis": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 3192.67,
+        "total_tdg_issued": 4442.67,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "1250 : Events Planning - Provided a booth to showcase our product and service at event": 1,
+          "750 : Events Planning - Created blast to advertise media on social media (per channel)": 1,
+          "4 : Build Game - Operations - Use of office/kitchen facility (every hour)": 1,
+          "1 : Bring Builders - brought on a passive observer to our DAO": 2,
+          "100TDG For every 1 hour of human effort": 5,
+          "100TDG for every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20230917",
+          "latest": "20250221"
+        },
+        "contribution_types": [
+          {
+            "description": "Oversaw an entire marketing campaign at Edge and Node on 14th September 2023. \nProvided the venue and recruited all the participants",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20230917",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Oversaw an entire marketing campaign at Edge and Node on 14th September 2023. \nProvided the venue and recruited all the participants",
+            "project": "Agroverse",
+            "tdg": 750.0,
+            "date": "20230917",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Provided 3 hours for video shooting on 20231017 for 2 people\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231013%20-%20edge%20and%20node%20video%20shooting.jpeg",
+            "project": "Agroverse",
+            "tdg": 24.0,
+            "date": "20231023",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Rachel Wolfson\n   - Can help promote Agroverse\n\nhttps://www.linkedin.com/in/rachwolf/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced OZ Sozen\n    - Can help tokenize the syndicate agreement\nhttps://www.linkedin.com/in/ozsozen/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @16468233438 spent 4 hours from 3pm to 7pm just now doing the event at Edge and Node \n\n*Time taken: 4 hours*",
+            "project": "Agroverse",
+            "tdg": 400.0,
+            "date": "20231026",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Edge and Node spent 6 hours hosting and managing the event",
+            "project": "TrueSight DAO",
+            "tdg": 600.0,
+            "date": "20241218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Edge and Node spent 6 hours hosting and managing the event",
+            "project": "TrueSight DAO",
+            "tdg": 600.0,
+            "date": "20241218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Edge and Node spent 10 minutes proposing to have a QR code on the display panel to receive payment directly via Venmo or into our DAO’s cryptocurrency wallet",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20241221",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, June, Kirsten and Edge and Node spent 5 hours today offering cacao to the web3 community 🙂🙏",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20250115",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Edge and Node spent 3 hours running the event from yesterday evening",
+            "project": "TrueSight DAO",
+            "tdg": 300.0,
+            "date": "20250221",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 11
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Oversaw an entire marketing campaign at Edge and Node on 14th September 2023. \nProvided the venue and recruited all the participants",
+          "Rubric classification": "1250 : Events Planning - Provided a booth to showcase our product and service at event",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20230917",
+          "Solana Transfer Hash": "5SFpecedjkjwfX9Yf2oeWx2idZ9vjivjZWtJu7XyoiWd8QTq323S5dQiBzf7NMywZY2Hy9KotV8rcSmSpbtyZbps",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Oversaw an entire marketing campaign at Edge and Node on 14th September 2023. \nProvided the venue and recruited all the participants",
+          "Rubric classification": "750 : Events Planning - Created blast to advertise media on social media (per channel)",
+          "TDGs Provisioned": "750.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "750",
+          "Status date": "20230917",
+          "Solana Transfer Hash": "5SFpecedjkjwfX9Yf2oeWx2idZ9vjivjZWtJu7XyoiWd8QTq323S5dQiBzf7NMywZY2Hy9KotV8rcSmSpbtyZbps",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Provided 3 hours for video shooting on 20231017 for 2 people\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231013%20-%20edge%20and%20node%20video%20shooting.jpeg",
+          "Rubric classification": "4 : Build Game - Operations - Use of office/kitchen facility (every hour)",
+          "TDGs Provisioned": "24.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "24.00",
+          "Status date": "20231023",
+          "Solana Transfer Hash": "5SFpecedjkjwfX9Yf2oeWx2idZ9vjivjZWtJu7XyoiWd8QTq323S5dQiBzf7NMywZY2Hy9KotV8rcSmSpbtyZbps",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Rachel Wolfson\n   - Can help promote Agroverse\n\nhttps://www.linkedin.com/in/rachwolf/",
+          "Rubric classification": "1 : Bring Builders - brought on a passive observer to our DAO",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "5SFpecedjkjwfX9Yf2oeWx2idZ9vjivjZWtJu7XyoiWd8QTq323S5dQiBzf7NMywZY2Hy9KotV8rcSmSpbtyZbps",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced OZ Sozen\n    - Can help tokenize the syndicate agreement\nhttps://www.linkedin.com/in/ozsozen/",
+          "Rubric classification": "1 : Bring Builders - brought on a passive observer to our DAO",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "5SFpecedjkjwfX9Yf2oeWx2idZ9vjivjZWtJu7XyoiWd8QTq323S5dQiBzf7NMywZY2Hy9KotV8rcSmSpbtyZbps",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Me and @16468233438 spent 4 hours from 3pm to 7pm just now doing the event at Edge and Node \n\n*Time taken: 4 hours*",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "400.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "400.00",
+          "Status date": "20231026",
+          "Solana Transfer Hash": "5SFpecedjkjwfX9Yf2oeWx2idZ9vjivjZWtJu7XyoiWd8QTq323S5dQiBzf7NMywZY2Hy9KotV8rcSmSpbtyZbps",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Edge and Node spent 6 hours hosting and managing the event",
+          "Rubric classification": "100TDG for every 1 hour of human effort",
+          "TDGs Provisioned": "600.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "600",
+          "Status date": "20241218",
+          "Solana Transfer Hash": "https://solscan.io/tx/3XQotSHtWRmJ4dXP5P8MoALFJhfdHR8ecbrUzxJY9jV6ojJUfMaUCMHA6nBmazDo76xA8J4w1UKZrCPU1gRWTY1L",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Edge and Node spent 6 hours hosting and managing the event",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "600.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "600.00",
+          "Status date": "20241218",
+          "Solana Transfer Hash": "https://solscan.io/tx/6257FjmdEN5F4iLpQfWJSEhnUST1qnEUXntsXGpykEbzyo6Fxu82oJLT36NkT1K7s4cDTTyYJvtjXk72vxaXewXW",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Edge and Node spent 10 minutes proposing to have a QR code on the display panel to receive payment directly via Venmo or into our DAO’s cryptocurrency wallet",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241221",
+          "Solana Transfer Hash": "https://solscan.io/tx/6257FjmdEN5F4iLpQfWJSEhnUST1qnEUXntsXGpykEbzyo6Fxu82oJLT36NkT1K7s4cDTTyYJvtjXk72vxaXewXW",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June, Kirsten and Edge and Node spent 5 hours today offering cacao to the web3 community 🙂🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20250115",
+          "Solana Transfer Hash": "https://solscan.io/tx/6257FjmdEN5F4iLpQfWJSEhnUST1qnEUXntsXGpykEbzyo6Fxu82oJLT36NkT1K7s4cDTTyYJvtjXk72vxaXewXW",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edge and Node",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Edge and Node spent 3 hours running the event from yesterday evening",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "300.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "300.00",
+          "Status date": "20250221",
+          "Solana Transfer Hash": "https://solscan.io/tx/6257FjmdEN5F4iLpQfWJSEhnUST1qnEUXntsXGpykEbzyo6Fxu82oJLT36NkT1K7s4cDTTyYJvtjXk72vxaXewXW",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

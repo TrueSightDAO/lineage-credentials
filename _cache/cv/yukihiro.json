@@ -1,0 +1,154 @@
+{
+  "slug": "yukihiro",
+  "display_name": "Yukihiro",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 1300.0,
+    "date_range": {
+      "earliest": "20230427",
+      "latest": "20231110"
+    },
+    "source": {
+      "contributor_name": "Yukihiro",
+      "generated_date": "2026-05-14T22:06:13.970717",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1300.0,
+        "total_tdg_issued": 1300.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230427",
+          "latest": "20231110"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1300.0,
+        "total_tdg_issued": 1300.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "250 : Commerce - Sourced for producer": 2,
+          "50 : Commerce - Offline tasks (30 minutes)": 2
+        },
+        "date_range": {
+          "earliest": "20230427",
+          "latest": "20231110"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduced cacao producer - Horacio in Itacare",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230427",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced cacao producer - Elcio Sasaki in Manaus",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230427",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Visiting Artisanal Farm in Colombia 20231104\n\n4 hours",
+            "project": "Agroverse",
+            "tdg": 400.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Visited Colombia Coffee Maker 20231023\n\nTime Taken: 4 hours",
+            "project": "Agroverse",
+            "tdg": 400.0,
+            "date": "20231110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Yukihiro",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced cacao producer - Horacio in Itacare",
+          "Rubric classification": "250 : Commerce - Sourced for producer",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230427",
+          "Solana Transfer Hash": "2q9L6JueaZzJWC6P2E8mT7KRKmhUHKfQrHHnqgXXRYbHYiZEGBTtWCULJjz6jgQAryLhDGse3XVUDPCQLLwrisoU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Yukihiro",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced cacao producer - Elcio Sasaki in Manaus",
+          "Rubric classification": "250 : Commerce - Sourced for producer",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230427",
+          "Solana Transfer Hash": "2q9L6JueaZzJWC6P2E8mT7KRKmhUHKfQrHHnqgXXRYbHYiZEGBTtWCULJjz6jgQAryLhDGse3XVUDPCQLLwrisoU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Yukihiro",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Visiting Artisanal Farm in Colombia 20231104\n\n4 hours",
+          "Rubric classification": "50 : Commerce - Offline tasks (30 minutes)",
+          "TDGs Provisioned": "400.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "400.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "2f4wg3rwrKg9Jz5zsFn9Hwkai8kujFSLTzFRJ7DRZH3vASJPSarCqUMU7jQLtqvgkXPAWz94tVJVucWwKfQCTKNT",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Yukihiro",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Visited Colombia Coffee Maker 20231023\n\nTime Taken: 4 hours",
+          "Rubric classification": "50 : Commerce - Offline tasks (30 minutes)",
+          "TDGs Provisioned": "400.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "400.00",
+          "Status date": "20231110",
+          "Solana Transfer Hash": "2f4wg3rwrKg9Jz5zsFn9Hwkai8kujFSLTzFRJ7DRZH3vASJPSarCqUMU7jQLtqvgkXPAWz94tVJVucWwKfQCTKNT",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

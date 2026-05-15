@@ -1,0 +1,153 @@
+{
+  "slug": "coach-remmie",
+  "display_name": "Coach Remmie",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 1000.0,
+    "date_range": {
+      "earliest": "20230211",
+      "latest": "20230211"
+    },
+    "source": {
+      "contributor_name": "Coach Remmie",
+      "generated_date": "2026-05-14T22:06:13.008588",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230211",
+          "latest": "20230211"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "250 : Commerce - Sourced for SKU with details provided": 4
+        },
+        "date_range": {
+          "earliest": "20230211",
+          "latest": "20230211"
+        },
+        "contribution_types": [
+          {
+            "description": "Tea via port Mombasa, Kenya",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Coffee via port Mombasa, Kenya",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Irish potatoes via port Mombasa, Kenya",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Pomegranate  via port Mombasa, Kenya",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Coach Remmie",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Tea via port Mombasa, Kenya",
+          "Rubric classification": "250 : Commerce - Sourced for SKU with details provided",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Coach Remmie",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Coffee via port Mombasa, Kenya",
+          "Rubric classification": "250 : Commerce - Sourced for SKU with details provided",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Coach Remmie",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Irish potatoes via port Mombasa, Kenya",
+          "Rubric classification": "250 : Commerce - Sourced for SKU with details provided",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Coach Remmie",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Pomegranate  via port Mombasa, Kenya",
+          "Rubric classification": "250 : Commerce - Sourced for SKU with details provided",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

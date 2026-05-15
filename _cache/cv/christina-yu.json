@@ -1,0 +1,99 @@
+{
+  "slug": "christina-yu",
+  "display_name": "Christina Yu",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20211202",
+      "latest": "20220107"
+    },
+    "source": {
+      "contributor_name": "Christina Yu",
+      "generated_date": "2026-05-14T22:06:13.000807",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 5100.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20211202",
+          "latest": "20220107"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 5100.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20211202",
+          "latest": "20220107"
+        },
+        "contribution_types": [
+          {
+            "description": "Trading infrastructure advisory",
+            "project": "",
+            "tdg": 0,
+            "date": "20211202",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Employee retention is challenging with Fintech firms competing for talents in Wall Street",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Christina Yu",
+          "Project Name": "",
+          "Contribution Made": "Trading infrastructure advisory",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20211202",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "5000",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Christina Yu",
+          "Project Name": "",
+          "Contribution Made": "Employee retention is challenging with Fintech firms competing for talents in Wall Street",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

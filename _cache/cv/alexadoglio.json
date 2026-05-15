@@ -1,0 +1,81 @@
+{
+  "slug": "alexadoglio",
+  "display_name": "@alexadoglio",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20240904",
+      "latest": "20240904"
+    },
+    "source": {
+      "contributor_name": "@alexadoglio",
+      "generated_date": "2026-05-14T22:06:12.792269",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20240904",
+          "latest": "20240904"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20240904",
+          "latest": "20240904"
+        },
+        "contribution_types": [
+          {
+            "description": "Spent One hour in Cacau Tasting from Agroverse",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20240904",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "@alexadoglio",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Spent One hour in Cacau Tasting from Agroverse",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20240904",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

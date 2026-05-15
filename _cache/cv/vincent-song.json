@@ -1,0 +1,260 @@
+{
+  "slug": "vincent-song",
+  "display_name": "Vincent Song",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 8,
+    "total_tdg_provisioned": 916.67,
+    "date_range": {
+      "earliest": "20201024",
+      "latest": "20250205"
+    },
+    "source": {
+      "contributor_name": "Vincent Song",
+      "generated_date": "2026-05-14T22:06:13.934437",
+      "summary": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 916.67,
+        "total_tdg_issued": 316.67,
+        "projects": [
+          "Agroverse",
+          "FORK",
+          "MoonShot",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20201024",
+          "latest": "20250205"
+        }
+      },
+      "analysis": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 916.67,
+        "total_tdg_issued": 316.67,
+        "projects": [
+          "Agroverse",
+          "FORK",
+          "MoonShot",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)": 1,
+          "2500 : Build Game - Marketing - Crafted contents for entire marketing campaign": 1,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 2,
+          "50 : Bring Builders - introduced a potential investor": 1,
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20201024",
+          "latest": "20250205"
+        },
+        "contribution_types": [
+          {
+            "description": "Come up with personal plan to get more partners for our go to market",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Make introduction to Chanel Lee from MetaPoly",
+            "project": "",
+            "tdg": 100.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Facetime planning for parternships 20220713 (Fatima and VIncent) (1 hour)",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220713",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Publish official academic research paper on DAOs using TrueSight DAO as a case study",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Planning discussions 30minutes with Gary and Vincent (31st August 2022)",
+            "project": "MoonShot",
+            "tdg": 50.0,
+            "date": "20220828",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Partnership planning 1h",
+            "project": "FORK",
+            "tdg": 100.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction to Lance Quek, Gamerforce Ventures",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20201024",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 10 minutes with Angeline and @6598622082 making arrangements to serve our cacao at Block71 during climate week in SF on the 22nd of April 🙂🙏",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250205",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 3,
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "",
+          "Contribution Made": "Come up with personal plan to get more partners for our go to market",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "",
+          "Contribution Made": "Make introduction to Chanel Lee from MetaPoly",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "",
+          "Contribution Made": "Facetime planning for parternships 20220713 (Fatima and VIncent) (1 hour)",
+          "Rubric classification": "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220713",
+          "Solana Transfer Hash": "rQRoE7eUtVn7AjLoC3LdBqA21TemPvUTkveRRKDMR9LP5yjiajmuK5dXTJ4dkDepK7b8cdJ3Wgiu4fp1uU2hons",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "",
+          "Contribution Made": "Publish official academic research paper on DAOs using TrueSight DAO as a case study",
+          "Rubric classification": "2500 : Build Game - Marketing - Crafted contents for entire marketing campaign",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "MoonShot",
+          "Contribution Made": "Planning discussions 30minutes with Gary and Vincent (31st August 2022) ",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220828",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "FORK",
+          "Contribution Made": "Partnership planning 1h",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduction to Lance Quek, Gamerforce Ventures",
+          "Rubric classification": "50 : Bring Builders - introduced a potential investor",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20201024",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vincent Song",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent 10 minutes with Angeline and @6598622082 making arrangements to serve our cacao at Block71 during climate week in SF on the 22nd of April 🙂🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250205",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "+6598622082",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

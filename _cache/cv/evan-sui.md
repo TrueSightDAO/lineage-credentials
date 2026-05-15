@@ -1,0 +1,14 @@
+# Evan Sui
+
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:06:14Z*
+
+## DAO Contributions
+
+- Total contributions: **1**
+- Total TDG provisioned: **8.34**
+- Active period: 20250424 – 20250424
+- Source: [_cache/cv/evan-sui.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/evan-sui.json)
+
+---
+
+TrueSight DAO Credential Profile. Every claim above cites the line in the underlying ledger or repo — open the source link to audit.

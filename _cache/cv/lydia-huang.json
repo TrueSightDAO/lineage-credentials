@@ -1,0 +1,295 @@
+{
+  "slug": "lydia-huang",
+  "display_name": "Lydia Huang",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 10,
+    "total_tdg_provisioned": 1075.0,
+    "date_range": {
+      "earliest": "20220119",
+      "latest": "20220621"
+    },
+    "source": {
+      "contributor_name": "Lydia Huang",
+      "generated_date": "2026-05-14T22:06:13.639583",
+      "summary": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 1075.0,
+        "total_tdg_issued": 1075.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220119",
+          "latest": "20220621"
+        }
+      },
+      "analysis": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 1075.0,
+        "total_tdg_issued": 1075.0,
+        "projects": [],
+        "rubric_categories": {
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1
+        },
+        "date_range": {
+          "earliest": "20220119",
+          "latest": "20220621"
+        },
+        "contribution_types": [
+          {
+            "description": "News topics page design refresh https://www.pivotaltracker.com/story/show/180833710",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Concept Deck: Suggested to port presentation over to Canva",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220119",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Concept Deck: Port presentation over to Canva",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Aborted"
+          },
+          {
+            "description": "Helping with pitch presentation practice",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220205",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: Change Stock to Stock Symbol",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220309",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: Don't really understand how the token part work",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220309",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Landing page Design for Minting NFTs:\n\nExample minting pages:\n----------\n    - https://www.chillchat.me/\n    - https://www.stonedapecrew.com/ \n    - https://boredapeyachtclub.com/#/home\n\nLiquidity: NFT mint landing page components\n\n- NFT fundraising mint campaign website high level visuals\n\n    1) Short project summary + why you should buy \n    2) Road Map \n    3) FAQ\n    4) Link to socials",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Introduction to Matt Baxter (Background in Political Science and Askhoka institute)\nhttps://www.ashoka.edu.in/profile/matthew-h-baxter/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220312",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction to Rosanne, founder of ML collective\nhttps://mlcollective.org/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Expressed inability to continue following the progress of our DAO after the communications realignment on WhatsApp Server even though we are on Discord and Telegram as well",
+            "project": "",
+            "tdg": 75.0,
+            "date": "20220621",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 2,
+          "Successfully Completed / Full Provision Awarded": 7,
+          "Aborted": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "News topics page design refresh https://www.pivotaltracker.com/story/show/180833710",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Concept Deck: Suggested to port presentation over to Canva",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220119",
+          "Solana Transfer Hash": "47znroiY8mi4YVh4jCPm4zUBwxm2jkAsXrpWq5PsC3fE3iZMQvqs6ca9ZDCB5CbzTQM7qpyzz7J1PZVAtVZb2Sb6",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Concept Deck: Port presentation over to Canva",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Aborted",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Helping with pitch presentation practice",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220205",
+          "Solana Transfer Hash": "47znroiY8mi4YVh4jCPm4zUBwxm2jkAsXrpWq5PsC3fE3iZMQvqs6ca9ZDCB5CbzTQM7qpyzz7J1PZVAtVZb2Sb6",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Change Stock to Stock Symbol",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220309",
+          "Solana Transfer Hash": "47znroiY8mi4YVh4jCPm4zUBwxm2jkAsXrpWq5PsC3fE3iZMQvqs6ca9ZDCB5CbzTQM7qpyzz7J1PZVAtVZb2Sb6",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Don't really understand how the token part work",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220309",
+          "Solana Transfer Hash": "47znroiY8mi4YVh4jCPm4zUBwxm2jkAsXrpWq5PsC3fE3iZMQvqs6ca9ZDCB5CbzTQM7qpyzz7J1PZVAtVZb2Sb6",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Landing page Design for Minting NFTs:\n\nExample minting pages:\n----------\n    - https://www.chillchat.me/\n    - https://www.stonedapecrew.com/ \n    - https://boredapeyachtclub.com/#/home\n\nLiquidity: NFT mint landing page components\n\n- NFT fundraising mint campaign website high level visuals\n\n    1) Short project summary + why you should buy \n    2) Road Map \n    3) FAQ\n    4) Link to socials",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Introduction to Matt Baxter (Background in Political Science and Askhoka institute)\nhttps://www.ashoka.edu.in/profile/matthew-h-baxter/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220312",
+          "Solana Transfer Hash": "47znroiY8mi4YVh4jCPm4zUBwxm2jkAsXrpWq5PsC3fE3iZMQvqs6ca9ZDCB5CbzTQM7qpyzz7J1PZVAtVZb2Sb6",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Introduction to Rosanne, founder of ML collective\nhttps://mlcollective.org/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "47znroiY8mi4YVh4jCPm4zUBwxm2jkAsXrpWq5PsC3fE3iZMQvqs6ca9ZDCB5CbzTQM7qpyzz7J1PZVAtVZb2Sb6",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lydia Huang",
+          "Project Name": "",
+          "Contribution Made": "Expressed inability to continue following the progress of our DAO after the communications realignment on WhatsApp Server even though we are on Discord and Telegram as well",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20220621",
+          "Solana Transfer Hash": "uEaAPr5yjWXaeUx8JAzx1gjS9jf5zaofK4NB1sFN5osaaYrw1mgg42ZSLLvngTYuMDUQTxrbNc816hr68mj1L5N",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

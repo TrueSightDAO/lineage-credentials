@@ -1,0 +1,75 @@
+{
+  "slug": "shane-low",
+  "display_name": "Shane Low",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20210103",
+      "latest": "20210103"
+    },
+    "source": {
+      "contributor_name": "Shane Low",
+      "generated_date": "2026-05-14T22:06:13.819365",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 1500.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20210103",
+          "latest": "20210103"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 1500.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20210103",
+          "latest": "20210103"
+        },
+        "contribution_types": [
+          {
+            "description": "Brought to light that data fact checking is missing in even in large biotech research firms and top tier journals",
+            "project": "",
+            "tdg": 0,
+            "date": "20210103",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Shane Low",
+          "Project Name": "",
+          "Contribution Made": "Brought to light that data fact checking is missing in even in large biotech research firms and top tier journals",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1500",
+          "Status date": "20210103",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

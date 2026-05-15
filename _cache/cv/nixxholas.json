@@ -1,0 +1,102 @@
+{
+  "slug": "nixxholas",
+  "display_name": "@nixxholas",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 375.0,
+    "date_range": {
+      "earliest": "20220327",
+      "latest": "20220331"
+    },
+    "source": {
+      "contributor_name": "@nixxholas",
+      "generated_date": "2026-05-14T22:06:12.801138",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 375.0,
+        "total_tdg_issued": 375.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220327",
+          "latest": "20220331"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 375.0,
+        "total_tdg_issued": 375.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Engineering - Advise on how to get around a bug": 1,
+          "125 : Build Game - Engineering - Identified a bug": 1
+        },
+        "date_range": {
+          "earliest": "20220327",
+          "latest": "20220331"
+        },
+        "contribution_types": [
+          {
+            "description": "Engineering: Help debugging Pyth Network method call to Base64\n\nhttps://t.me/c/1615218389/1421",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220327",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Engineering: Suggestion to resubmit logo",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220331",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "@nixxholas",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Help debugging Pyth Network method call to Base64\n\nhttps://t.me/c/1615218389/1421",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220327",
+          "Solana Transfer Hash": "hgKuLVriJE7DwA3LZ28MQwBKELrJ9kenEXApRdn5zogYa66SL8mQmM1tMKQ19Q5bNfJ5htBsqHCxM7xRDVg9fLu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@nixxholas",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Suggestion to resubmit logo",
+          "Rubric classification": "125 : Build Game - Engineering - Identified a bug",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125.00",
+          "Status date": "20220331",
+          "Solana Transfer Hash": "hgKuLVriJE7DwA3LZ28MQwBKELrJ9kenEXApRdn5zogYa66SL8mQmM1tMKQ19Q5bNfJ5htBsqHCxM7xRDVg9fLu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

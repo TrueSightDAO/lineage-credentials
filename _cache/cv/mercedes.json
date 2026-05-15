@@ -1,0 +1,81 @@
+{
+  "slug": "mercedes",
+  "display_name": "Mercedes",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20230313",
+      "latest": "20230313"
+    },
+    "source": {
+      "contributor_name": "Mercedes",
+      "generated_date": "2026-05-14T22:06:13.673210",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230313",
+          "latest": "20230313"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 1
+        },
+        "date_range": {
+          "earliest": "20230313",
+          "latest": "20230313"
+        },
+        "contribution_types": [
+          {
+            "description": "DAO members should be allowed to rethink the Values as the ecosystem evolve",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20230313",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Mercedes",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "DAO members should be allowed to rethink the Values as the ecosystem evolve",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230313",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

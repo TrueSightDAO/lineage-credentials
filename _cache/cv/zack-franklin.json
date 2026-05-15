@@ -1,0 +1,81 @@
+{
+  "slug": "zack-franklin",
+  "display_name": "Zack Franklin",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 10.0,
+    "date_range": {
+      "earliest": "20230928",
+      "latest": "20230928"
+    },
+    "source": {
+      "contributor_name": "Zack Franklin",
+      "generated_date": "2026-05-14T22:06:13.982278",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 10.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230928",
+          "latest": "20230928"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 10.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 1
+        },
+        "date_range": {
+          "earliest": "20230928",
+          "latest": "20230928"
+        },
+        "contribution_types": [
+          {
+            "description": "Provided inputs on how to solve GTIN Hijack\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7112451595786706944?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7112451595786706944%2C7112484773394026497%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7112451595786706944%2C7112868008275976192%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287112484773394026497%2Curn%3Ali%3Aactivity%3A7112451595786706944%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287112868008275976192%2Curn%3Ali%3Aactivity%3A7112451595786706944%29",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230928",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Zack Franklin",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Provided inputs on how to solve GTIN Hijack\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7112451595786706944?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7112451595786706944%2C7112484773394026497%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7112451595786706944%2C7112868008275976192%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287112484773394026497%2Curn%3Ali%3Aactivity%3A7112451595786706944%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287112868008275976192%2Curn%3Ali%3Aactivity%3A7112451595786706944%29",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230928",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

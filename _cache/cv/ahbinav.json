@@ -1,0 +1,227 @@
+{
+  "slug": "ahbinav",
+  "display_name": "Ahbinav",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 216.65,
+    "date_range": {
+      "earliest": "20250303",
+      "latest": "20250506"
+    },
+    "source": {
+      "contributor_name": "Ahbinav",
+      "generated_date": "2026-05-14T22:06:12.829821",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 216.65,
+        "total_tdg_issued": 291.65,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20250303",
+          "latest": "20250506"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 216.65,
+        "total_tdg_issued": 291.65,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 7
+        },
+        "date_range": {
+          "earliest": "20250303",
+          "latest": "20250506"
+        },
+        "contribution_types": [
+          {
+            "description": "Me and Ahbinav spent 1 hour talking about automating our double entry system as well as contributions tokenization for WhatsApp",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20250303",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes reaching out to @16506464893",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250416",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @16506464893 spent another 5 minutes discussing about applying their tool to help automate the physical asset transactions that are surfaced in our @120363111951279022@g.us",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250416",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @16506464893 spent 5 minutes coordinating a call with their CEO tomorrow about automating our physical assets inventory double entry system right now handled via @120363111951279022@g.us submissions ‎<This message was edited>",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250429",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @16506464893 spent 5 minutes coordinating on the face time meeting",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250429",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes setting up meeting for tomorrow with @16506464893 colleague on automating our double entry book keeping",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250505",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, @16506464893 and Apoorva spent 1.5 hours discussion technology implementation details to automate our DAO assets double entry on to our ledger",
+            "project": "20250617_beerhall",
+            "tdg": 75.0,
+            "date": "20250506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ahbinav",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Ahbinav spent 1 hour talking about automating our double entry system as well as contributions tokenization for WhatsApp",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250303",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ahbinav",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent 5 minutes reaching out to @16506464893",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250416",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Ahbinav",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @16506464893 spent another 5 minutes discussing about applying their tool to help automate the physical asset transactions that are surfaced in our @120363111951279022@g.us",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250416",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Ahbinav",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @16506464893 spent 5 minutes coordinating a call with their CEO tomorrow about automating our physical assets inventory double entry system right now handled via @120363111951279022@g.us submissions ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250429",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Ahbinav",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @16506464893 spent 5 minutes coordinating on the face time meeting",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250429",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Ahbinav",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent 5 minutes setting up meeting for tomorrow with @16506464893 colleague on automating our double entry book keeping",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250505",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Ahbinav",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me, @16506464893 and Apoorva spent 1.5 hours discussion technology implementation details to automate our DAO assets double entry on to our ledger",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "75",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150",
+          "Status date": "20250506",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

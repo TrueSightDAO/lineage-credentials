@@ -1,0 +1,250 @@
+{
+  "slug": "black-izeek",
+  "display_name": "@black_izeek",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 8,
+    "total_tdg_provisioned": 5.684341886080802e-14,
+    "date_range": {
+      "earliest": "20240808",
+      "latest": "20250905"
+    },
+    "source": {
+      "contributor_name": "@black_izeek",
+      "generated_date": "2026-05-14T22:06:12.793941",
+      "summary": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 5.684341886080802e-14,
+        "total_tdg_issued": 5.684341886080802e-14,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240808",
+          "latest": "20250905"
+        }
+      },
+      "analysis": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 5.684341886080802e-14,
+        "total_tdg_issued": 5.684341886080802e-14,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 7,
+          "-1TDG For every 1USDT sent": 1
+        },
+        "date_range": {
+          "earliest": "20240808",
+          "latest": "20250905"
+        },
+        "contribution_types": [
+          {
+            "description": "I spent 2 hours engaging with the community as a moderator in this channel.",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20240808",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent 2 minutes to guide Buike about the community whitepaper and rules",
+            "project": "TrueSight DAO",
+            "tdg": 3.33,
+            "date": "20240808",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you @black_izeek for spending two minutes to repost this",
+            "project": "TrueSight DAO",
+            "tdg": 3.33,
+            "date": "20240809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 2 minutes reposting the project tweet on x",
+            "project": "TrueSight DAO",
+            "tdg": 3.33,
+            "date": "20240809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 2 minutes reposting the project tweet on x",
+            "project": "TrueSight DAO",
+            "tdg": 3.33,
+            "date": "20240809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://x.com/black_izeek/status/1823048782184943803?s=46&t=YX3tWQTlr9-nV89Gm-P19g\n\n\nI spent 30 minutes writing a thread on X about TrueSight DAO",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20240812",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 2 minutes to repost this post on X",
+            "project": "TrueSight DAO",
+            "tdg": 3.33,
+            "date": "20240914",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sold on Open market",
+            "project": "TrueSight DAO",
+            "tdg": -266.65,
+            "date": "20250905",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 8
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent 2 hours engaging with the community as a moderator in this channel.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20240808",
+          "Solana Transfer Hash": "https://solscan.io/tx/4wxKRksUGrzpVVELLsxona6vuFPfbitt6GG9LgsU8ttzSat2ywjBkPC3HUhbhRUJJ18qxFf4iACa6tDpjy2SESUj",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Spent 2 minutes to guide Buike about the community whitepaper and rules",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20240808",
+          "Solana Transfer Hash": "https://solscan.io/tx/4wxKRksUGrzpVVELLsxona6vuFPfbitt6GG9LgsU8ttzSat2ywjBkPC3HUhbhRUJJ18qxFf4iACa6tDpjy2SESUj",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Thank you @black_izeek for spending two minutes to repost this",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20240809",
+          "Solana Transfer Hash": "https://solscan.io/tx/4wxKRksUGrzpVVELLsxona6vuFPfbitt6GG9LgsU8ttzSat2ywjBkPC3HUhbhRUJJ18qxFf4iACa6tDpjy2SESUj",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent 2 minutes reposting the project tweet on x",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20240809",
+          "Solana Transfer Hash": "https://solscan.io/tx/4wxKRksUGrzpVVELLsxona6vuFPfbitt6GG9LgsU8ttzSat2ywjBkPC3HUhbhRUJJ18qxFf4iACa6tDpjy2SESUj",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent 2 minutes reposting the project tweet on x",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20240809",
+          "Solana Transfer Hash": "https://solscan.io/tx/4wxKRksUGrzpVVELLsxona6vuFPfbitt6GG9LgsU8ttzSat2ywjBkPC3HUhbhRUJJ18qxFf4iACa6tDpjy2SESUj",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "https://x.com/black_izeek/status/1823048782184943803?s=46&t=YX3tWQTlr9-nV89Gm-P19g\n\n\nI spent 30 minutes writing a thread on X about TrueSight DAO",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20240812",
+          "Solana Transfer Hash": "https://solscan.io/tx/4wxKRksUGrzpVVELLsxona6vuFPfbitt6GG9LgsU8ttzSat2ywjBkPC3HUhbhRUJJ18qxFf4iACa6tDpjy2SESUj",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent 2 minutes to repost this post on X",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20240914",
+          "Solana Transfer Hash": "https://solscan.io/tx/4wxKRksUGrzpVVELLsxona6vuFPfbitt6GG9LgsU8ttzSat2ywjBkPC3HUhbhRUJJ18qxFf4iACa6tDpjy2SESUj",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@black_izeek",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Sold on Open market",
+          "Rubric classification": "-1TDG For every 1USDT sent",
+          "TDGs Provisioned": "-266.65",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "-266.65",
+          "Status date": "20250905",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "-266.65",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

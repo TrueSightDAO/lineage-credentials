@@ -1,0 +1,105 @@
+{
+  "slug": "sacred-earth-farms",
+  "display_name": "Sacred Earth Farms",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 166.67000000000002,
+    "date_range": {
+      "earliest": "20250828",
+      "latest": "20250904"
+    },
+    "source": {
+      "contributor_name": "Sacred Earth Farms",
+      "generated_date": "2026-05-14T22:06:13.804245",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 166.67000000000002,
+        "total_tdg_issued": 166.67000000000002,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250828",
+          "latest": "20250904"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 166.67000000000002,
+        "total_tdg_issued": 166.67000000000002,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20250828",
+          "latest": "20250904"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Clarify how the sales works \r\n- Contributor(s): Gary Teh, Sacred Earth Farms\r\n- TDG Issued: 50.00\r\n- Attached Filename: IMG_0835.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250828022205_gary_teh_img_0835.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: J3CpAlZSPQVxI3Oy1Ys2bIoxU4JI9xb4LdP9cJJvF+u/sHfWboVsY1RbwfmC+MShOrutQLrW7SytSIQ0jIjo0tvaej5R7v7UM1USk3gsM5YnuT5rwyIFSHgtSy4AnPZ7VaBxM8rTUNbxhQKffXSgCt/9QNzYWKiOVI7HT2VxW1bHpPOWed5MALWeOEqsDJlzITLkupqpqMEeqGKtk+KisQrCk/iefxIUIe3/xIF66qPgsU3KdGA3yz3aCeKzwPPKQb2AAd2kXxSKG/De93o+PUczVTDVayBFSmeKW9d71p1JDCECu0d/0yRI+DLxopOapGSF2bkimV6Bzff+sg+M6w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20250828",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 70\r\n- Description: Discuss about how to integrate Sacred Earth farms, infrastructure into our infrastructure for the QR code activation, and the payment processing\r\n- Contributor(s): Gary Teh, Sacred Earth Farms\r\n- TDG Issued: 116.67\r\n- Attached Filename: IMG_1193.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250904211251_gary_teh_img_1193.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: jMLAw6qi40816iE/scm9TcREoyejF/up5p9RhfsfyMdn4ML5A6nIQ6V2fSks4t51ithDtnE5nfySpa0Bj2w++atEf4//sv5Xvaf4VodVxCYICQfkV8+Kg8rGC2/Owu8/xQ7iHWCJG/7S9/M6UmExszGH0rpDO6sMltolrT6TwSRdlhI6Q+Sr2zRDGELr6SGadupJikGIEHBLAuLUK2VCFeJ8LjI9G5fkeJSBTYevD9+h7bJxov+M3xCXugsEIov9J4aY0xXPLWt1zVIbNXF8pBU4B4WPBrMDcl+P4P+Ft4JD/jJcKhyBff45sW2qxOoVq+y74U46y/hccRnnH7k7Ag==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 116.67,
+            "date": "20250904",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Sacred Earth Farms",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Clarify how the sales works \r\n- Contributor(s): Gary Teh, Sacred Earth Farms\r\n- TDG Issued: 50.00\r\n- Attached Filename: IMG_0835.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250828022205_gary_teh_img_0835.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: J3CpAlZSPQVxI3Oy1Ys2bIoxU4JI9xb4LdP9cJJvF+u/sHfWboVsY1RbwfmC+MShOrutQLrW7SytSIQ0jIjo0tvaej5R7v7UM1USk3gsM5YnuT5rwyIFSHgtSy4AnPZ7VaBxM8rTUNbxhQKffXSgCt/9QNzYWKiOVI7HT2VxW1bHpPOWed5MALWeOEqsDJlzITLkupqpqMEeqGKtk+KisQrCk/iefxIUIe3/xIF66qPgsU3KdGA3yz3aCeKzwPPKQb2AAd2kXxSKG/De93o+PUczVTDVayBFSmeKW9d71p1JDCECu0d/0yRI+DLxopOapGSF2bkimV6Bzff+sg+M6w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250828",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Sacred Earth Farms",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 70\r\n- Description: Discuss about how to integrate Sacred Earth farms, infrastructure into our infrastructure for the QR code activation, and the payment processing\r\n- Contributor(s): Gary Teh, Sacred Earth Farms\r\n- TDG Issued: 116.67\r\n- Attached Filename: IMG_1193.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250904211251_gary_teh_img_1193.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: jMLAw6qi40816iE/scm9TcREoyejF/up5p9RhfsfyMdn4ML5A6nIQ6V2fSks4t51ithDtnE5nfySpa0Bj2w++atEf4//sv5Xvaf4VodVxCYICQfkV8+Kg8rGC2/Owu8/xQ7iHWCJG/7S9/M6UmExszGH0rpDO6sMltolrT6TwSRdlhI6Q+Sr2zRDGELr6SGadupJikGIEHBLAuLUK2VCFeJ8LjI9G5fkeJSBTYevD9+h7bJxov+M3xCXugsEIov9J4aY0xXPLWt1zVIbNXF8pBU4B4WPBrMDcl+P4P+Ft4JD/jJcKhyBff45sW2qxOoVq+y74U46y/hccRnnH7k7Ag==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "116.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "116.67",
+          "Status date": "20250904",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

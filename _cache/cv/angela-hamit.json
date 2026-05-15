@@ -1,0 +1,81 @@
+{
+  "slug": "angela-hamit",
+  "display_name": "Angela Hamit",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20240315",
+      "latest": "20240315"
+    },
+    "source": {
+      "contributor_name": "Angela Hamit",
+      "generated_date": "2026-05-14T22:06:12.879533",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20240315",
+          "latest": "20240315"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20240315",
+          "latest": "20240315"
+        },
+        "contribution_types": [
+          {
+            "description": "Angela mentioned that based on her experience while a lot of the hippies will make trinklets for sale at the Barter Faire, there only three things that is always in demand \n\n- food\n- ⁠drinks\n- ⁠drugs \n\nHot chocolate in the morning when it’s cold \n\nPerhaps Cacao ceremony to bring in the crowd and then when they leave Drugs… aka marijuana infused chocolate for consumption or for external application \n\nTime taken to gather insight 30 minutes\n‎",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20240315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Angela Hamit",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Angela mentioned that based on her experience while a lot of the hippies will make trinklets for sale at the Barter Faire, there only three things that is always in demand \n\n- food\n- ⁠drinks\n- ⁠drugs \n\nHot chocolate in the morning when it’s cold \n\nPerhaps Cacao ceremony to bring in the crowd and then when they leave Drugs… aka marijuana infused chocolate for consumption or for external application \n\nTime taken to gather insight 30 minutes\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20240315",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

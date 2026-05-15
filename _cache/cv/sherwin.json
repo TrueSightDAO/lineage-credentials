@@ -1,0 +1,267 @@
+{
+  "slug": "sherwin",
+  "display_name": "Sherwin",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 9,
+    "total_tdg_provisioned": 2100.0,
+    "date_range": {
+      "earliest": "20220224",
+      "latest": "20220224"
+    },
+    "source": {
+      "contributor_name": "Sherwin",
+      "generated_date": "2026-05-14T22:06:13.826226",
+      "summary": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 2100.0,
+        "total_tdg_issued": 1600.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220224",
+          "latest": "20220224"
+        }
+      },
+      "analysis": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 2100.0,
+        "total_tdg_issued": 1600.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220224",
+          "latest": "20220224"
+        },
+        "contribution_types": [
+          {
+            "description": "Competitive Analysis: https://www.tipranks.com/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Creator economy Youtube shares 55% of Ads profit with user. TikTok only shares 7%",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis: https://tranchess.com/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "God Mode infrastructure support: https://mirrorprotocol.app/ - build a bridge to Luna",
+            "project": "",
+            "tdg": 500.0,
+            "date": "500",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis: https://minaprotocol.com/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "MAYA concept for communication: most advance yet acceptable for users to accept for algorithm designs\nhttps://www.seerinteractive.com/blog/using-the-maya-principle-for-effective-communication/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tokenomics: Persistency score as you stay longer, you need to hit higher to continue getting rewarded the same way. So that new entrants get a chance",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tokenomics: Soft staking as a means to retain liquidity in our DAO",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tokenomics: Take into consideration the loss rate of our DAO for minority of members coming in to exploit",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 9
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: https://www.tipranks.com/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "Community: Creator economy Youtube shares 55% of Ads profit with user. TikTok only shares 7%",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: https://tranchess.com/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "God Mode infrastructure support: https://mirrorprotocol.app/ - build a bridge to Luna",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "",
+          "Status date": "500",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: https://minaprotocol.com/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "MAYA concept for communication: most advance yet acceptable for users to accept for algorithm designs\nhttps://www.seerinteractive.com/blog/using-the-maya-principle-for-effective-communication/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "Tokenomics: Persistency score as you stay longer, you need to hit higher to continue getting rewarded the same way. So that new entrants get a chance",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "Tokenomics: Soft staking as a means to retain liquidity in our DAO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sherwin",
+          "Project Name": "",
+          "Contribution Made": "Tokenomics: Take into consideration the loss rate of our DAO for minority of members coming in to exploit ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "HEDMiwHquyks4NnbwgSDyKJPhQZjZZzwpDYoeZP8Xe3FgHjQzuhAVraL9gq298ZCwTqsKy4SRj7cYDRLGrDkpAF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

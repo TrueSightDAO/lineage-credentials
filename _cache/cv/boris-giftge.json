@@ -1,0 +1,198 @@
+{
+  "slug": "boris-giftge",
+  "display_name": "Boris Giftge",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 6,
+    "total_tdg_provisioned": 850.0,
+    "date_range": {
+      "earliest": "20220325",
+      "latest": "20220329"
+    },
+    "source": {
+      "contributor_name": "Boris Giftge",
+      "generated_date": "2026-05-14T22:06:12.960685",
+      "summary": {
+        "total_contributions": 6,
+        "total_tdg_provisioned": 850.0,
+        "total_tdg_issued": 850.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220325",
+          "latest": "20220329"
+        }
+      },
+      "analysis": {
+        "total_contributions": 6,
+        "total_tdg_provisioned": 850.0,
+        "total_tdg_issued": 850.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Bring Builders - brought on a passive observer": 1,
+          "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 5
+        },
+        "date_range": {
+          "earliest": "20220325",
+          "latest": "20220329"
+        },
+        "contribution_types": [
+          {
+            "description": "Made introduction to Dubai based defi investor / fund manager",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Liquidity: Speak to various chains since they are all sitting on money and need to give it away, you can get a good bid for funding injection",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Liquidity: Less credibility when see as a game than a mature protocol when pitching to the DEFI crowd",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: Mobile games are getting really competitive with Cost per install between USD24 to USD40",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Marketing: Easier to launch into the market by tapping into the Gala eco-system",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Compliance: Government expects you pay for taxes in USD when paying out for services using tokens",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 6
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Boris Giftge",
+          "Project Name": "",
+          "Contribution Made": "Made introduction to Dubai based defi investor / fund manager",
+          "Rubric classification": "100 : Bring Builders - brought on a passive observer",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "3f6oMsnYWnxBszyi4AnTreEjz68Ms4CfqCYo6VQpbQJdxnmcZMtTRE6Rc22Kb5PjLfgbAsKQEop3D7YxCrfFBvMU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Boris Giftge",
+          "Project Name": "",
+          "Contribution Made": "Liquidity: Speak to various chains since they are all sitting on money and need to give it away, you can get a good bid for funding injection",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "3f6oMsnYWnxBszyi4AnTreEjz68Ms4CfqCYo6VQpbQJdxnmcZMtTRE6Rc22Kb5PjLfgbAsKQEop3D7YxCrfFBvMU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Boris Giftge",
+          "Project Name": "",
+          "Contribution Made": "Liquidity: Less credibility when see as a game than a mature protocol when pitching to the DEFI crowd",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "3f6oMsnYWnxBszyi4AnTreEjz68Ms4CfqCYo6VQpbQJdxnmcZMtTRE6Rc22Kb5PjLfgbAsKQEop3D7YxCrfFBvMU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Boris Giftge",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Mobile games are getting really competitive with Cost per install between USD24 to USD40",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "3f6oMsnYWnxBszyi4AnTreEjz68Ms4CfqCYo6VQpbQJdxnmcZMtTRE6Rc22Kb5PjLfgbAsKQEop3D7YxCrfFBvMU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Boris Giftge",
+          "Project Name": "",
+          "Contribution Made": "Marketing: Easier to launch into the market by tapping into the Gala eco-system",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "3f6oMsnYWnxBszyi4AnTreEjz68Ms4CfqCYo6VQpbQJdxnmcZMtTRE6Rc22Kb5PjLfgbAsKQEop3D7YxCrfFBvMU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Boris Giftge",
+          "Project Name": "",
+          "Contribution Made": "Compliance: Government expects you pay for taxes in USD when paying out for services using tokens",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "3f6oMsnYWnxBszyi4AnTreEjz68Ms4CfqCYo6VQpbQJdxnmcZMtTRE6Rc22Kb5PjLfgbAsKQEop3D7YxCrfFBvMU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

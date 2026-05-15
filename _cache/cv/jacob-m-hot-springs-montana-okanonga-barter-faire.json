@@ -1,0 +1,182 @@
+{
+  "slug": "jacob-m-hot-springs-montana-okanonga-barter-faire",
+  "display_name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 57.08,
+    "date_range": {
+      "earliest": "20250601",
+      "latest": "20250611"
+    },
+    "source": {
+      "contributor_name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+      "generated_date": "2026-05-14T22:06:13.458873",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 57.08,
+        "total_tdg_issued": 57.08,
+        "projects": [
+          "20250617_beerhall",
+          "20250617_townhall",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250601",
+          "latest": "20250611"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 57.08,
+        "total_tdg_issued": 57.08,
+        "projects": [
+          "20250617_beerhall",
+          "20250617_townhall",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 4,
+          "1TDG For every 1 USD of liquidity injected": 1
+        },
+        "date_range": {
+          "earliest": "20250601",
+          "latest": "20250611"
+        },
+        "contribution_types": [
+          {
+            "description": "Jacob spent 5 minutes forwarding more information about homesteaders day",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250611",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jacob spent 5 minutes finding the link to the Facebook event and then sharing it",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250601",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Jacob spent 5 minutes discussing about setting up a booth at the farmers market in Hot Springs Montana next weekend",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250608",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Jacob spent 5 minutes coordinating the booth setup next weekend in hot springs, Montana",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250608",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Received $23.76 from Jacob for the purchase he made",
+            "project": "20250617_townhall",
+            "tdg": 23.76,
+            "date": "20250603",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Jacob spent 5 minutes forwarding more information about homesteaders day",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250611",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Jacob spent 5 minutes finding the link to the Facebook event and then sharing it",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250601",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and Jacob spent 5 minutes discussing about setting up a booth at the farmers market in Hot Springs Montana next weekend",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250608",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and Jacob spent 5 minutes coordinating the booth setup next weekend in hot springs, Montana",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250608",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+          "Project Name": "20250617_townhall",
+          "Contribution Made": "Received $23.76 from Jacob for the purchase he made",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "23.76",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "23.76",
+          "Status date": "20250603",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

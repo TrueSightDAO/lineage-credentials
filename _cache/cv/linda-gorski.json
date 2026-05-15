@@ -1,0 +1,81 @@
+{
+  "slug": "linda-gorski",
+  "display_name": "Linda Gorski",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20250413",
+      "latest": "20250413"
+    },
+    "source": {
+      "contributor_name": "Linda Gorski",
+      "generated_date": "2026-05-14T22:06:13.621315",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "date_range": {
+          "earliest": "20250413",
+          "latest": "20250413"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "rubric_categories": {
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250413",
+          "latest": "20250413"
+        },
+        "contribution_types": [
+          {
+            "description": "Linda Gorski (_grand mother of my daughter_) spent 30 minutes visiting to One World Goods to find out who their distributor is",
+            "project": "20250617_beerhall",
+            "tdg": 50.0,
+            "date": "20250413",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Linda Gorski",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Linda Gorski (_grand mother of my daughter_) spent 30 minutes visiting to One World Goods to find out who their distributor is",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20250413",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

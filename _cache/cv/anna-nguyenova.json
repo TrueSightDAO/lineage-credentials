@@ -1,0 +1,100 @@
+{
+  "slug": "anna-nguyenova",
+  "display_name": "Anna Nguyenova",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20220217",
+      "latest": "20220217"
+    },
+    "source": {
+      "contributor_name": "Anna Nguyenova",
+      "generated_date": "2026-05-14T22:06:12.894513",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220217",
+          "latest": "20220217"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220217",
+          "latest": "20220217"
+        },
+        "contribution_types": [
+          {
+            "description": "PR coverage for TrueSight DAO",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "TikTok marketing content is done in the form of punchlines. Copy needs to be short and catchy consumable within a split second",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220217",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 1,
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Anna Nguyenova",
+          "Project Name": "",
+          "Contribution Made": "PR coverage for TrueSight DAO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anna Nguyenova",
+          "Project Name": "",
+          "Contribution Made": "TikTok marketing content is done in the form of punchlines. Copy needs to be short and catchy consumable within a split second",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220217",
+          "Solana Transfer Hash": "3Uz7e9RnH2QfH8rT4NC9cd3DC8GaZg3kWUJvRrMsRBDB2frpuB7gUMWe4rKSQJF8ePKRCpD53tACAwFaymQ6Ly3F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

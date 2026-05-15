@@ -1,0 +1,151 @@
+{
+  "slug": "doris-wang",
+  "display_name": "Doris Wang",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 1100.0,
+    "date_range": {
+      "earliest": "20220410",
+      "latest": "20220425"
+    },
+    "source": {
+      "contributor_name": "Doris Wang",
+      "generated_date": "2026-05-14T22:06:13.053873",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1100.0,
+        "total_tdg_issued": 6100.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220410",
+          "latest": "20220425"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1100.0,
+        "total_tdg_issued": 6100.0,
+        "projects": [],
+        "rubric_categories": {
+          "5000 : Partnerships / Business Development - Successful tie up with a channel partner": 1,
+          "500 : Bring Builders - brought on a active contributor": 2,
+          "100 : Bring Builders - brought on a passive observer": 1
+        },
+        "date_range": {
+          "earliest": "20220410",
+          "latest": "20220425"
+        },
+        "contribution_types": [
+          {
+            "description": "Finalized agreement with DAOversal group to contribute 14,000TSD worth of manpower effort per month\n    - Engineering \n    - Design\n    - Marketing\n    - Community Management\n\nhttps://truesight.me/rubric",
+            "project": "",
+            "tdg": 0,
+            "date": "20220410",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Made introduction to Lorna",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220418",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Made introduction to Edwin Lun",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Made introduction to Edward",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Doris Wang",
+          "Project Name": "",
+          "Contribution Made": "Finalized agreement with DAOversal group to contribute 14,000TSD worth of manpower effort per month\n    - Engineering \n    - Design\n    - Marketing\n    - Community Management\n\nhttps://truesight.me/rubric",
+          "Rubric classification": "5000 : Partnerships / Business Development - Successful tie up with a channel partner",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220410",
+          "Solana Transfer Hash": "8noBfqaL7iHdEEXn9qV75jNBsuKKYN2pWb5ci41jomKg5LbCrUBHQsikRg98LgAE8eqwfHLmuLMqNpAqZdLMStX",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Doris Wang",
+          "Project Name": "",
+          "Contribution Made": "Made introduction to Lorna",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220418",
+          "Solana Transfer Hash": "8noBfqaL7iHdEEXn9qV75jNBsuKKYN2pWb5ci41jomKg5LbCrUBHQsikRg98LgAE8eqwfHLmuLMqNpAqZdLMStX",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Doris Wang",
+          "Project Name": "",
+          "Contribution Made": "Made introduction to Edwin Lun",
+          "Rubric classification": "100 : Bring Builders - brought on a passive observer",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220425",
+          "Solana Transfer Hash": "8noBfqaL7iHdEEXn9qV75jNBsuKKYN2pWb5ci41jomKg5LbCrUBHQsikRg98LgAE8eqwfHLmuLMqNpAqZdLMStX",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Doris Wang",
+          "Project Name": "",
+          "Contribution Made": "Made introduction to Edward",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220425",
+          "Solana Transfer Hash": "8noBfqaL7iHdEEXn9qV75jNBsuKKYN2pWb5ci41jomKg5LbCrUBHQsikRg98LgAE8eqwfHLmuLMqNpAqZdLMStX",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

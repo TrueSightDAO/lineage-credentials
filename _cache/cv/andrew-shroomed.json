@@ -1,0 +1,81 @@
+{
+  "slug": "andrew-shroomed",
+  "display_name": "Andrew Shroomed",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 1.0,
+    "date_range": {
+      "earliest": "20231107",
+      "latest": "20231107"
+    },
+    "source": {
+      "contributor_name": "Andrew Shroomed",
+      "generated_date": "2026-05-14T22:06:12.871002",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.0,
+        "total_tdg_issued": 1.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20231107",
+          "latest": "20231107"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.0,
+        "total_tdg_issued": 1.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "1 : Commerce - Sourced for buyer (each)": 1
+        },
+        "date_range": {
+          "earliest": "20231107",
+          "latest": "20231107"
+        },
+        "contribution_types": [
+          {
+            "description": "Identified manufacturer we should contact in LA that producers chocolate bars for his company\n\nNeau Tropics\n\nhttps://neautropicsofficial.com/shop/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Andrew Shroomed",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Identified manufacturer we should contact in LA that producers chocolate bars for his company\n\nNeau Tropics\n\nhttps://neautropicsofficial.com/shop/",
+          "Rubric classification": "1 : Commerce - Sourced for buyer (each)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

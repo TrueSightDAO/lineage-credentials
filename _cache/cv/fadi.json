@@ -1,0 +1,81 @@
+{
+  "slug": "fadi",
+  "display_name": "Fadi",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 200.0,
+    "date_range": {
+      "earliest": "20251217",
+      "latest": "20251217"
+    },
+    "source": {
+      "contributor_name": "Fadi",
+      "generated_date": "2026-05-14T22:06:13.147174",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20251217",
+          "latest": "20251217"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20251217",
+          "latest": "20251217"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Weighing, packaging and sealing ceremonial cacao pouches\r\n- Contributor(s): Fadi\r\n- TDG Issued: 200.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: sTYzo5zTYoH2xvVgK+gSxCwlK2VPnkGR5h2PLhLu7jWJJ133nGkVK2yPd9kqewepBiM/RiFtBCFjCg00+rtduLV5OUHDGZQIzjLdE3TK4sUJJMNlmjeYi4IeB97XJpmZ0JXsEIKOkUWvxFaOdkAlH2HYo89D089BBRO0nJI+EYQ1+37JP4lE+PoOTd6+LWiLfgW4ZmOShNGEDNCz10k4ptu8yOUsdmY+OAhOYTXj8rnSyHSWANs1s9AiF9Hy9VCc8/ua0wIxf/W1LLAzYyNG0L2nCGBa9EynwVFLmrzkxyhUPL9lhvxpTXxbU6sCYJmkPeaBrb+XBGPcRB4LFr6/Mw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 200.0,
+            "date": "20251217",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Fadi",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Weighing, packaging and sealing ceremonial cacao pouches\r\n- Contributor(s): Fadi\r\n- TDG Issued: 200.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: sTYzo5zTYoH2xvVgK+gSxCwlK2VPnkGR5h2PLhLu7jWJJ133nGkVK2yPd9kqewepBiM/RiFtBCFjCg00+rtduLV5OUHDGZQIzjLdE3TK4sUJJMNlmjeYi4IeB97XJpmZ0JXsEIKOkUWvxFaOdkAlH2HYo89D089BBRO0nJI+EYQ1+37JP4lE+PoOTd6+LWiLfgW4ZmOShNGEDNCz10k4ptu8yOUsdmY+OAhOYTXj8rnSyHSWANs1s9AiF9Hy9VCc8/ua0wIxf/W1LLAzYyNG0L2nCGBa9EynwVFLmrzkxyhUPL9lhvxpTXxbU6sCYJmkPeaBrb+XBGPcRB4LFr6/Mw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20251217",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

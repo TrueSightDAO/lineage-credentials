@@ -1,0 +1,206 @@
+{
+  "slug": "olaf",
+  "display_name": "Olaf",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 6,
+    "total_tdg_provisioned": 511.75,
+    "date_range": {
+      "earliest": "20240116",
+      "latest": "20250604"
+    },
+    "source": {
+      "contributor_name": "Olaf",
+      "generated_date": "2026-05-14T22:06:13.737285",
+      "summary": {
+        "total_contributions": 6,
+        "total_tdg_provisioned": 511.75,
+        "total_tdg_issued": 324.25,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240116",
+          "latest": "20250604"
+        }
+      },
+      "analysis": {
+        "total_contributions": 6,
+        "total_tdg_provisioned": 511.75,
+        "total_tdg_issued": 324.25,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 5,
+          "1TDG For every 1 USD of liquidity injected": 1
+        },
+        "date_range": {
+          "earliest": "20240116",
+          "latest": "20250604"
+        },
+        "contribution_types": [
+          {
+            "description": "Olaf introduced by @41765663130 introduced Nicole Keller\n‎",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20240116",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Finished a 45 minute session with @41765663130 and Olaf about doing a keynote at the NG symposium happening in Bern, Switzerland on the 25th of Oct 2024\n\nTalk about the Agroverse model and how its enabled by the 2 tier Defi model\n\n- shipment financiers \n- ⁠token based community contributors ‎<This message was edited>\n‎",
+            "project": "TrueSight DAO",
+            "tdg": 74.25,
+            "date": "20240430",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Olaf, @@41765737357, @41765663130⁩ and myself spent 1 hours sharing about Agroverse project to the folks in the Symposium <This message was edited>",
+            "project": "Agroverse",
+            "tdg": 300.0,
+            "date": "20241025",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Olaf (_center_) spent 10 minutes poking Martin who runs a grocery store in town about stocking up our cacao nibs",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250121",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you Olaf for spending 5 minutes to respond to my request for help",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250429",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you Olaf for spending 15 minutes making the introduction to Emanuele",
+            "project": "20250617_beerhall",
+            "tdg": 12.5,
+            "date": "20250604",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 6
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Olaf",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Olaf introduced by @41765663130 introduced Nicole Keller\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20240116",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Olaf",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Finished a 45 minute session with @41765663130 and Olaf about doing a keynote at the NG symposium happening in Bern, Switzerland on the 25th of Oct 2024\n\nTalk about the Agroverse model and how its enabled by the 2 tier Defi model\n\n- shipment financiers \n- ⁠token based community contributors ‎<This message was edited>\n‎",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "74.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "74.25",
+          "Status date": "20240430",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "74.25",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Olaf",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Olaf, @@41765737357, @41765663130⁩ and myself spent 1 hours sharing about Agroverse project to the folks in the Symposium <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "300.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20241025",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Olaf",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Olaf (_center_) spent 10 minutes poking Martin who runs a grocery store in town about stocking up our cacao nibs",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250121",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Olaf",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you Olaf for spending 5 minutes to respond to my request for help",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250429",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Olaf",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you Olaf for spending 15 minutes making the introduction to Emanuele",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "12.5",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250604",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

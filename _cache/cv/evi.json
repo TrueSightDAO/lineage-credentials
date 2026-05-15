@@ -1,0 +1,355 @@
+{
+  "slug": "evi",
+  "display_name": "Evi",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 12,
+    "total_tdg_provisioned": 765.0,
+    "date_range": {
+      "earliest": "20211218",
+      "latest": "20251031"
+    },
+    "source": {
+      "contributor_name": "Evi",
+      "generated_date": "2026-05-14T22:06:13.141218",
+      "summary": {
+        "total_contributions": 12,
+        "total_tdg_provisioned": 765.0,
+        "total_tdg_issued": 10765.0,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20211218",
+          "latest": "20251031"
+        }
+      },
+      "analysis": {
+        "total_contributions": 12,
+        "total_tdg_provisioned": 765.0,
+        "total_tdg_issued": 10765.0,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "50 : Commerce - Quotation from vendor (each)": 2,
+          "1250 : Build Game - User Experience - UI design for a single surface (screen template, In real life artifact)": 1,
+          "100TDG For every 1 hour of human effort": 4,
+          "1TDG For every 1 USD of liquidity injected": 1,
+          "\"100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20211218",
+          "latest": "20251031"
+        },
+        "contribution_types": [
+          {
+            "description": "Landing page design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+            "project": "",
+            "tdg": 0,
+            "date": "20211218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Brand design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+            "project": "",
+            "tdg": 0,
+            "date": "20220301",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Packaging supplier - Roastar. \nUSD1.95 per bag \nMinimum order quantity 1000\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20roastar.jpeg",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20230823",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Packaging supplier - VistaPrint \nUSD1.3 per bag. \nMInimum order quantity 500\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20vistaprint.jpeg",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20230823",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Banner for store front design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231020%20-%20Kevin%20banner%20asset.jpeg",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20231023",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Evi and Nicole Keller spent 30 minutes discussing tomorrow’s logistics for serving cacao at the climate hub",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20250120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Evi spent 2 hours helping with setup",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20250121",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Levi from the Llama bus contributed a bottle of honey from his dad’s farm worth $15 for sweetening",
+            "project": "20250617_beerhall",
+            "tdg": 15.0,
+            "date": "20250517",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Levi spent 15 minutes sharing that up north here in Washington state along the coast, people are always giving away their sail boats for free on Craigslist",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250614",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Consulting on details of what we should expect with interfacing with Chocolate makers in the USA \r\n- Contributor(s): Rusty Bogart - PipeVine Chocolate\r\n- TDG Issued: 75.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: jMahvlyzn8pyB2URmnQBovaU6+/NTFjkqmxuFiCq+ViuF7L0PPBoSBaCuOICrtzG1VoVENzhql/gJYpRoOT+Tc+cgC9h1jrO6nPKhyO+swNtz1aDs4kwY5uZmqbUVPIOvbDUKxhPcHbtm7Y7rdSN7Y9jF6ezdimLSy2kFxFK4FRBUHDCdB3CSiQQAkzFMfsWXJDPybPZwRd93TZbIZ/KDANCtCj2tO5sN5eJMo8/3VSWPHRU3rs98WZXQEdR8z/CUaN6umMOluzli6tKovgK2Aqe0jGWkHWX1o5J2NuMfnJvGfGvFF8FoqJRgESMeHh3p1Ius3nA9YFl3iNELPPSTA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 75.0,
+            "date": "20251022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Walking us through the equipment setup for the winnowed and cracker \r\n- Contributor(s): Rusty Bogart - PipeVine Chocolate\r\n- TDG Issued: 200.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: NIeTzUAVcJrJrPEI2H/A3oQSi7BTursEUrIekoqHqo8xOl6s1Xv/FtGk9NJd0HXUbnAzK8Yc2KUEdikk6qD1Ihuh79v6FzPOL/8SrscnwevLqLWZ2YvxZME58ts2UqRqG7Ys6ddxwQZExNeXAs0hv6DzpnfnqRNaWO9OE3xLP+6BNDbCJjpbJCR7cCaYEW+8M25N5F2WVQNxo3wnTbFWQtxUvWHJJkO8TOndJNV6d/csvOp8buqc+rqz/2/nFtW6/cOwsmyNe/NifbnAGmC3YXAHw/eCK9ONJ3iy/xxTxWJLUuP/rHiF/C/XCAHVYwYdDAXms14oelc4oOUtdk/CzQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 200.0,
+            "date": "20251031",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Just finished speaking with Rusty on the phone. He was very helpful. He mentioned about John Nancy from Chocolate Alchemy, Meridian and Uncommon Cacao.Seems like things are starting to converge very fast.His signal also triangulated an earlier signal surfaced by Jerry of making the chocolate more accessible instead of just drinking chocolate or ceremonial cacao. He proposed 50 gram bars and having them made available for retail at USD$8 per bar. He was pulling in around USD$5000 per month.\r\n- Contributor(s): Gary Teh, Rusty Bogart - PipeVine Chocolate\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_3329.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251020192526_gary_teh_img_3329.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: AeHXrSI2mCiKj9vRinuG8Pc6cmZIU93F8qwsp7k6+ECZWooKhP4BdAVrZr972ahY2p/fAssePbmGi2AnAg+lSqPQab/5FNz/0Efn+/j4U+hmd2ssd1ih+j1VHL/8387juPWNnHNA8dkGY8iUhMbgX8l7t62Z/UIQpLrZEzj1mpzdcGnzT0xfVpHGvVl5hH3UG/hZoBgv4IjE0ufPHOr5JfqWu/5la62H09N6SITYXdvvwGFMtC0aX9JvZ4YrfzzI+WAjI0trTLQycVQccWb/WtCYJ8fEkhd0oO9C73+MVZv4d9EfgOPVcMd0QgyCMXOWefdRGbTnLUan+n9JkYKbPA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20251020",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 12
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "",
+          "Contribution Made": "Landing page design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20211218",
+          "Solana Transfer Hash": "4n3Sc3Xygs6n86FhMt3PvCvYqf998JaMQjHViPd6nQEPbmATcjZFJwsGBHmTanDgQuKQpWza1Pe345LjbaWvMQzF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "",
+          "Contribution Made": "Brand design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220301",
+          "Solana Transfer Hash": "4n3Sc3Xygs6n86FhMt3PvCvYqf998JaMQjHViPd6nQEPbmATcjZFJwsGBHmTanDgQuKQpWza1Pe345LjbaWvMQzF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Packaging supplier - Roastar. \nUSD1.95 per bag \nMinimum order quantity 1000\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20roastar.jpeg",
+          "Rubric classification": "50 : Commerce - Quotation from vendor (each)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230823",
+          "Solana Transfer Hash": "5yQg4e7xWe8H4iaihatV2bnNMHCHGR8vf9AQM9T3BK9UycUi4MPnFHY4jhaH8BDFEhkGjjp51sfAmsqsc7NjaTLh",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Packaging supplier - VistaPrint \nUSD1.3 per bag. \nMInimum order quantity 500\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20vistaprint.jpeg",
+          "Rubric classification": "50 : Commerce - Quotation from vendor (each)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230823",
+          "Solana Transfer Hash": "5yQg4e7xWe8H4iaihatV2bnNMHCHGR8vf9AQM9T3BK9UycUi4MPnFHY4jhaH8BDFEhkGjjp51sfAmsqsc7NjaTLh",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Banner for store front design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231020%20-%20Kevin%20banner%20asset.jpeg",
+          "Rubric classification": "1250 : Build Game - User Experience - UI design for a single surface (screen template, In real life artifact)",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20231023",
+          "Solana Transfer Hash": "5yQg4e7xWe8H4iaihatV2bnNMHCHGR8vf9AQM9T3BK9UycUi4MPnFHY4jhaH8BDFEhkGjjp51sfAmsqsc7NjaTLh",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Evi",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, Evi and Nicole Keller spent 30 minutes discussing tomorrow’s logistics for serving cacao at the climate hub",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Evi",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Evi spent 2 hours helping with setup",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20250121",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Levi",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Levi from the Llama bus contributed a bottle of honey from his dad’s farm worth $15 for sweetening",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "15",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "15",
+          "Status date": "20250517",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Levi",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Levi spent 15 minutes sharing that up north here in Washington state along the coast, people are always giving away their sail boats for free on Craigslist",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250614",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Rusty Bogart - PipeVine Chocolate",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Consulting on details of what we should expect with interfacing with Chocolate makers in the USA \r\n- Contributor(s): Rusty Bogart - PipeVine Chocolate\r\n- TDG Issued: 75.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: jMahvlyzn8pyB2URmnQBovaU6+/NTFjkqmxuFiCq+ViuF7L0PPBoSBaCuOICrtzG1VoVENzhql/gJYpRoOT+Tc+cgC9h1jrO6nPKhyO+swNtz1aDs4kwY5uZmqbUVPIOvbDUKxhPcHbtm7Y7rdSN7Y9jF6ezdimLSy2kFxFK4FRBUHDCdB3CSiQQAkzFMfsWXJDPybPZwRd93TZbIZ/KDANCtCj2tO5sN5eJMo8/3VSWPHRU3rs98WZXQEdR8z/CUaN6umMOluzli6tKovgK2Aqe0jGWkHWX1o5J2NuMfnJvGfGvFF8FoqJRgESMeHh3p1Ius3nA9YFl3iNELPPSTA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20251022",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Rusty Bogart - PipeVine Chocolate",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Walking us through the equipment setup for the winnowed and cracker \r\n- Contributor(s): Rusty Bogart - PipeVine Chocolate\r\n- TDG Issued: 200.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: NIeTzUAVcJrJrPEI2H/A3oQSi7BTursEUrIekoqHqo8xOl6s1Xv/FtGk9NJd0HXUbnAzK8Yc2KUEdikk6qD1Ihuh79v6FzPOL/8SrscnwevLqLWZ2YvxZME58ts2UqRqG7Ys6ddxwQZExNeXAs0hv6DzpnfnqRNaWO9OE3xLP+6BNDbCJjpbJCR7cCaYEW+8M25N5F2WVQNxo3wnTbFWQtxUvWHJJkO8TOndJNV6d/csvOp8buqc+rqz/2/nFtW6/cOwsmyNe/NifbnAGmC3YXAHw/eCK9ONJ3iy/xxTxWJLUuP/rHiF/C/XCAHVYwYdDAXms14oelc4oOUtdk/CzQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20251031",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Rusty Bogart - PipeVine Chocolate",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Just finished speaking with Rusty on the phone. He was very helpful. He mentioned about John Nancy from Chocolate Alchemy, Meridian and Uncommon Cacao.Seems like things are starting to converge very fast.His signal also triangulated an earlier signal surfaced by Jerry of making the chocolate more accessible instead of just drinking chocolate or ceremonial cacao. He proposed 50 gram bars and having them made available for retail at USD$8 per bar. He was pulling in around USD$5000 per month.\r\n- Contributor(s): Gary Teh, Rusty Bogart - PipeVine Chocolate\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_3329.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251020192526_gary_teh_img_3329.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: AeHXrSI2mCiKj9vRinuG8Pc6cmZIU93F8qwsp7k6+ECZWooKhP4BdAVrZr972ahY2p/fAssePbmGi2AnAg+lSqPQab/5FNz/0Efn+/j4U+hmd2ssd1ih+j1VHL/8387juPWNnHNA8dkGY8iUhMbgX8l7t62Z/UIQpLrZEzj1mpzdcGnzT0xfVpHGvVl5hH3UG/hZoBgv4IjE0ufPHOr5JfqWu/5la62H09N6SITYXdvvwGFMtC0aX9JvZ4YrfzzI+WAjI0trTLQycVQccWb/WtCYJ8fEkhd0oO9C73+MVZv4d9EfgOPVcMd0QgyCMXOWefdRGbTnLUan+n9JkYKbPA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20251020",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

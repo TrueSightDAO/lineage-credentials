@@ -1,0 +1,393 @@
+{
+  "slug": "agl15",
+  "display_name": "AGL15",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 14,
+    "total_tdg_provisioned": 1127.12,
+    "date_range": {
+      "earliest": "20260217",
+      "latest": "20260320"
+    },
+    "source": {
+      "contributor_name": "AGL15",
+      "generated_date": "2026-05-14T22:06:12.812292",
+      "summary": {
+        "total_contributions": 14,
+        "total_tdg_provisioned": 1127.12,
+        "total_tdg_issued": 1127.12,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20260217",
+          "latest": "20260320"
+        }
+      },
+      "analysis": {
+        "total_contributions": 14,
+        "total_tdg_provisioned": 1127.12,
+        "total_tdg_issued": 1127.12,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "1TDG For every 1 USD of liquidity injected": 14
+        },
+        "date_range": {
+          "earliest": "20260217",
+          "latest": "20260320"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 116.50\r\n- Description: AAA roadside assistance renewal for 2026\r\n- Contributor(s): AGL15\r\n- TDG Issued: 116.50\r\n- Attached Filename: AAA _ Make a payment roadside service.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260217142002_gary_teh_aaa___make_a_payment_roadside_service.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Fn689PKh20ru7rU2Ru0RH0Q9CjPDrD4XrTwXpRbdbDeR9Xb7mcm8ZSzixHu04flP7+CjMkjcPchfpI7+2OBArGB6plsgdI+14dHaTtNvhhdgn20l4Cg/2L/UqiMeOlt3a34XzFOrJSn2n7B78B3PvNYm1oFxvXo15naofuXIFbbIbOSlr5yztRXilwyYoes2vyjYaQxYqRBOWiOIixBoKsT5sIsoCdeEa2Mk3SQhJdbj7Nn218sgCWCPYmkI5PhdE3wPiGApIVtC4mvPCI/LZ4UtO1TGBPfHRwmsEiMYL567YoHQ17lR/L3PdR87/v9EhrAePHhIv2lmaesD/pQEhQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 116.5,
+            "date": "20260217",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 61.36\r\n- Description: Toll payment incurred when expanding cacao distribution network\r\n- Contributor(s): AGL15\r\n- TDG Issued: 61.36\r\n- Attached Filename: Toll Violations : Pay Violations.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260225195110_gary_teh_toll_violations___pay_violations.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: oTEnggl/MENsPXK0ctDYuiQoEaLyw1+t33EQHAB17ywpmU/4xidKDF4jW1JNLA9v+JyEeVufRa3FJkwAz5gi1gsKC3ztXvZS9gFGdLfy3WRjMOoZbfdu4fb8XKxfcpXUpGFf3w32GkioZWLr00mr/9m+j78S+derbZW3zRAOFZhRJPwbB8Lj1rotacdCdAK6V1vEm4sNkUu0mlhVFyflsmsxnKLSj3a5QqJgWB993sVIcafXSE2NzwYmDFcYOujD0zOePu6pQ4dqod8na1ZLaf5W4BUQntI+cbixx3TDtvb0BNPjM3DxivRffy73tdL7BTy6XqYXzXU119Uklr0IQA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 61.36,
+            "date": "20260225",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: Parking for convention the natural products expo parking for 3 March\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8179.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260303162111_gary_teh_img_8179.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: l9NBHzw641/86x02ozqLQGeZznuv/K2RzFrDlfNIJu7nEkIta9lE89lCe9Q/FaY4GgQvRLo3p4cuAJV/qSgRqtuZ5q6c7tFIHYsF/8MKjbdioD5gSZ/TeW3FgSUk6pAal9owcMGUznaK0B4jrkdKmEz56TJMMrNWqgJtqdCbZRaVYHKWn7ZpR/jJVQhvLb6/TI4YGASjE4YhYC7RlYXz/tybhbqoQLXo0vj4RjANo6X9dz8mdGxOWp9o2vjWD1XAVmhEtPRQ1bB0qqx1Hn5FgJYj3CpHTTuMklHJqdTVsgWPPhkeswGpZ4eD/YClPWPKE/bPT6BwTkJmaVJSAqL4iA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20260303",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: parking on the second day of natural product expo\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8298.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260304180635_gary_teh_img_8298.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: TvHTQms8dT5cOoJVD1hqFLlPyH62UeEz818SA66xsZm5Tjv7+IY+a/UMMtCKvhiTe8LtCyXrnUSsMkiMeK59fnOnHjKM3/iJxZG2NPM43b+qAhfQwAbF+2uWLo54K2ZWBtlmcVApWr7kmxbALMpuwnGLGMFA1tMlj3yR3VJWqe/3ipfnruygqPeHswkAmEG/8ir3EIbYFeBHk0rOtm02li+zkzYaZaqiwHdRq2wrqe5kLzpJuMlcVrCfVN1lsji4iSxWIXfSpMKD13r58NdKU1BgGIyWutPqtHdEAAB9JynMuk8xPxtXF5s8ZGifpUcY0YZuk7CoDNctkFEmv6F+5Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20260304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: Day three of natural products, expo parking\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8462.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260306031117_gary_teh_img_8462.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: iqbkVX8l7hY9hLp+66Giu8nxBe6ckz/jPtwdVF2E8JM2gdQDB/hjRMeeq3GTlneDHT4vfFetaf5TgohO5bZmHJ5Bkph1ccWt4cPOE5DxSd5RgqECA2Sxw10N1UtSHo4CtK2Og+dDfhVqTIPzJGRpobRQXnIJTZ+82Li5/5pxpEnv896nYsnW0b2cuXiZcpEANOkoJ/pUsXXXiO4inp5fqis+qWvgwCsWFMRgMtZNeIJeveW6AbCDV+lARQbAEEtDCQZuAlbuDmdSi0csj/CWQGRHv78YeKR43Rk9OYaHr8wBCEp630zSo7+UU6t41s+FpbQNs8mllncCafVpycOU3Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20260306",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: Paying for parking at Anaheim convention center on the fourth and the final day of the natural product expo\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8468.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260306155722_gary_teh_img_8468.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: uHSKYh03GLfMhUqrBOIRt47fJElA3XAviNUiRhLjp6dLao6uVVQ0uKAEV0Wkl6LOdVZrdEVzzAIAgrF+xIL55UkZNoifw2uXcF1sS8LymUULfCjvrHxffmwA8tn5H10L6uqzyIpdtYAtgTaPeNlW46AK4lGzDZBUZRYcgPyWD2i6BPSw0qEESS4O8/ixyxZdsbWVPKKSf4N5/6sdRkMiw0++sSKo4P9tKLFmQVXu3VeZVHSdWS0quLMfkklPe7OrIXvdSoqXYEi9hEG+q5tjVqWnGfsYM/QQrFTJpIRzFYTVDmyI9yiwI1iPXnBH6MojQw5BKQjwIV5HtiblaQsokw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20260306",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 54.45\r\n- Description: Contributed for the cost of gasoline that is being used when we drive around to expand our consignment base reseller network\r\n- Contributor(s): AGL15\r\n- TDG Issued: 54.45\r\n- Attached Filename: IMG_8600.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260307013755_gary_teh_img_8600.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: gH2nDU616iPraSsqRgkVXd96H/oz6wFB1tsJbatoaHCaeEhGfdDKPd7tELTST2K/bLw0wvjQCO0dAR5v2UOErVrFP7U6IU24gKlgRbYWchdekWz15s/t9+BUqYm07tcbyj+5Inz7D5xS7x5T496M11ad+eBavyaKEcpmuoHKKVoulnIW7S3Ag6ZelRhoGWHuLbuCAH7ziJEa0El3vX0GwtMaBVjzA5a0VaXSfGdjjupQOEfPsQUCHmX7Yewvkge8+bmJPg9Y7fLNt5m7jcUbvbHNufZlrbfNh5hnAQlOYx/6Xv+TUH8AbuBQNbGkQrA1DGwoUmTy6Kpu+jG1aUx1eA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 54.45,
+            "date": "20260307",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 8.09\r\n- Description: Cost of cargo hitch two year warranty from the harbor freight\r\n- Contributor(s): AGL15\r\n- TDG Issued: 8.09\r\n- Attached Filename: IMG_8565.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260307013913_gary_teh_img_8565.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: mdg1+78NbilkQN49SdI3jjNHIeO90g+E5L1JPNV9i6+OGmVXxUtzVdn3hnnZhAkE9UNSI/I7VEnZl7D5U1y0jyerwvApsYOJ/sHyRFn3auggA/U5i5lNcmOPpv+nmOolPNWkNRdll9QPoUQY9EnRw5biEpeo4rYUpCWLGJfZOcR22MG/j2aNv8xjiOgxqK0UkK1JVLB6W7yIJES+v5MbQrWJEgC/bsInmhJxJMstCgsF4ZHz4YzIbEo6trqmts2yDFF7n0DH3MEDh53io4PIqwYbiU3cZu3NckwirDOsTIyH8KfJ0e+EcDqf+WmZZuYvueL8CWFXG8gJdON5lPowpw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 8.09,
+            "date": "20260307",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25.88\r\n- Description: Access card to the parking structure in LAX\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.88\r\n- Attached Filename: Receipt 2028583.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260310233951_gary_teh_receipt_2028583.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: GmUl9ZEG/EFQsCqTp5l8uJHhDBc5DUsLeh29m1nr5/2dnf6agRH/vWCxTSIH0UfMl1DLq/ubkCWQoe2HpGX5xEYnessp/fhxl2//zw8DdnoJ+Bxke8LKEWg6k90n1pcdHCp8l0xUZp8Xt0Vfn+ssN1DSe0NTde/Xuln9Cu9dO8G1TbkT5YskwrsLs+L5VZI+SV//EGBQp2cY7R3xvB7ykSHSyG4E2hTff/iaVwnWbBX0nhv3KWgB0KVm6eQuyzvNHv+MKCky6yiU6SsvxtON4onPnqsgvZJlVOaW8AKtz/e73cOLCH6DEEwwuEPwQVWeE3UWOmIG8/YiCTTeB9nSig==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.88,
+            "date": "20260310",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 154.50\r\n- Description: Monthly parking at 2222 e imperial Highway near LAX to attend the South by South West in Austin Texas\r\n- Contributor(s): AGL15\r\n- TDG Issued: 154.50\r\n- Attached Filename: IMG_8789.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260310234513_gary_teh_img_8789.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: bqt1Ts1oSplsSRoSZuxqGNJ8u3CZr/lZLLbtKviHRACuodY0ueqWm7/3g+PJR54kmc/ngmxDsdLYcob/23KxjIOTUkUk/nqzpdzme/zB+/3nSFoa0xj9RXb/9gnPRkt/wqlt2bqpWxMpYbXJ+8P3v1spXPyubP0dLebK/KZxVqg8hdIOtB5bTFwT+2idxbKk7dmT1DDnQX2lyJ5IjhIThiYaO5K33UnwT+TTwjVMsEmxVpJZ/gyxTkPVHG6SjknShcVbQlkK5IRGgQqHKwgHxwiRu4qAgCOYL+uWxKQa829RJ5TU2ZVHgFiPkpOKG/j9aS4MTnIRYPMHTrJKvaMruw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 154.5,
+            "date": "20260310",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 35\r\n- Description: Checking the bag at the Delta airline to fly from LAX to Austin Texas\r\n- Contributor(s): AGL15\r\n- TDG Issued: 35.00\r\n- Attached Filename: IMG_8806.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260311151635_gary_teh_img_8806.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: e20lEQoA4kOJFEyE0boRstR2kq2FNCc83MNAJgduQGjqwr+FX4g9y8bBsNYOt86ryuJyZR2BRZHrQIImwjY+fZ9mxLj1ce9jRa3tNHOzjbXd6IztHDdmZjETI4X/AgBJ2qGX5S0GJETva9D9W/Sbs93OZubAfFRiWbdr8XDkkACAvgbXB12IBlxL91Z/KqBhF/hYb+2zGNnGdy8mfAxiPqikEbF2owmbnMFlLOsDVjh9KuCUMV6FHdSo3dtSnS191QOW7PkD/SZzdZkGSLWOw0xAzCWGwCBoQZpeA15fgHLCLIZnRRKp/8lPWaI8SwcQIwF1rTir+t+H/zUn/FixIA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 35.0,
+            "date": "20260311",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 291.86\r\n- Description: For stay in Rochester for 8 nights while I visit the apothecaries there\r\n- Contributor(s): AGL15\r\n- TDG Issued: 291.86\r\n- Attached Filename: IMG_9031.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319030045_gary_teh_img_9031.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: z2huCfhzmzTiA2t5HaA6hupnV0fDul1nS2OHKCU1MgxMsgeyJXCpkjb2n4KalRucZOwGwDEByR9OIgO2RheSWMVeHyfMBXYsi/39OAFOrUzXGlKVyP+QjCiExBAZ1tE6UiQrWFxUsolOlpKwCC/XW3CAGWewWUOsluKMwO3ML18jqho+RWjO87sHA+bhTbPomCVzCMmmFpxT7TyEJw0kc4dAf+eBfVRYhyKsVyI3QLpkp+OC3dcrSTP3QjQ4RGcszi0f3rtSYVlaf5WqRaOUh0FVJSZH8QqikF4d/T6XhB9PEv8JP+ONaXaBHpAtOtlYli5dxwqM5MZBiekmn65wRw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 291.86,
+            "date": "20260319",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 276.98\r\n- Description: Rental for stay in New Orleans to do sales run\r\n- Contributor(s): AGL15\r\n- TDG Issued: 276.98\r\n- Attached Filename: IMG_9104.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260320162950_gary_teh_img_9104.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: xFuH+KRAe+/Q+zzJJAtG79ZOcgKML7gOWFcZdz/Gedg63Tv9T9467vYrok14YmNFKBXnyQv1rMEsFcXxzBgMML6N+t/UpufiP1noY4NqFNKTTPY1V0h4wTLt8G/n/W15BWVY00zA/gqfdprG65NhwTb6hS9OeeBYTPQXzaCfvJixzUZxBmDxDxHfjfozK+C6pdwXydh5CUOBJvNPkLRiBDbHo9zn/aNyIiKcY19ZPc6eHLHKlXKkT/OTo66A/7Odiz7tJuZ+LWYp6KbxWCe+a0C8NjUx/YzSb2vJdozXmEghKup2EsHQZSvLpWUYUkCit6ub9K7Jr/Ygh+eZcPCiuA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 276.98,
+            "date": "20260320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 2.50\r\n- Description: Pass tickets for two from New Orleans airport to Empress Hotel\r\n- Contributor(s): AGL15\r\n- TDG Issued: 2.50\r\n- Attached Filename: IMG_9121.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260320204550_gary_teh_img_9121.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: VFEqpspe7vgzPxYZDTtEsHpQnLg9tASLPkd9dhshcScD+RbvE5jHeHc/uSpKSyfiD/aaa5VJKZiv7csI7jNGXqwWoIefgQRhKnAkKEaJYolkwBdDeAKfsAdh4kgDs/W23YhjCMqGJZIZrrRbRA+Qqb+p23+4VcSsvPm0KZw1d6Desqr2hq+Nkj7e0Sn3miyL6JVzgfRGDp8aTwxQ+3YtGM6ytVEVL/GsFFihPUAyfdNUzNkh10MRr63gxZSrsujiAF9OQvjkS4NiB5e1zsU10dNcfzbDzYp6W3HEMo022ccgFNR4HmUowDKewnAghqwz2SF2ktJ+8EANpIWilknG7w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 2.5,
+            "date": "20260320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 14
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 116.50\r\n- Description: AAA roadside assistance renewal for 2026\r\n- Contributor(s): AGL15\r\n- TDG Issued: 116.50\r\n- Attached Filename: AAA _ Make a payment roadside service.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260217142002_gary_teh_aaa___make_a_payment_roadside_service.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Fn689PKh20ru7rU2Ru0RH0Q9CjPDrD4XrTwXpRbdbDeR9Xb7mcm8ZSzixHu04flP7+CjMkjcPchfpI7+2OBArGB6plsgdI+14dHaTtNvhhdgn20l4Cg/2L/UqiMeOlt3a34XzFOrJSn2n7B78B3PvNYm1oFxvXo15naofuXIFbbIbOSlr5yztRXilwyYoes2vyjYaQxYqRBOWiOIixBoKsT5sIsoCdeEa2Mk3SQhJdbj7Nn218sgCWCPYmkI5PhdE3wPiGApIVtC4mvPCI/LZ4UtO1TGBPfHRwmsEiMYL567YoHQ17lR/L3PdR87/v9EhrAePHhIv2lmaesD/pQEhQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "116.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "116.50",
+          "Status date": "20260217",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 61.36\r\n- Description: Toll payment incurred when expanding cacao distribution network\r\n- Contributor(s): AGL15\r\n- TDG Issued: 61.36\r\n- Attached Filename: Toll Violations : Pay Violations.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260225195110_gary_teh_toll_violations___pay_violations.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: oTEnggl/MENsPXK0ctDYuiQoEaLyw1+t33EQHAB17ywpmU/4xidKDF4jW1JNLA9v+JyEeVufRa3FJkwAz5gi1gsKC3ztXvZS9gFGdLfy3WRjMOoZbfdu4fb8XKxfcpXUpGFf3w32GkioZWLr00mr/9m+j78S+derbZW3zRAOFZhRJPwbB8Lj1rotacdCdAK6V1vEm4sNkUu0mlhVFyflsmsxnKLSj3a5QqJgWB993sVIcafXSE2NzwYmDFcYOujD0zOePu6pQ4dqod8na1ZLaf5W4BUQntI+cbixx3TDtvb0BNPjM3DxivRffy73tdL7BTy6XqYXzXU119Uklr0IQA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "61.36",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "61.36",
+          "Status date": "20260225",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: Parking for convention the natural products expo parking for 3 March\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8179.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260303162111_gary_teh_img_8179.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: l9NBHzw641/86x02ozqLQGeZznuv/K2RzFrDlfNIJu7nEkIta9lE89lCe9Q/FaY4GgQvRLo3p4cuAJV/qSgRqtuZ5q6c7tFIHYsF/8MKjbdioD5gSZ/TeW3FgSUk6pAal9owcMGUznaK0B4jrkdKmEz56TJMMrNWqgJtqdCbZRaVYHKWn7ZpR/jJVQhvLb6/TI4YGASjE4YhYC7RlYXz/tybhbqoQLXo0vj4RjANo6X9dz8mdGxOWp9o2vjWD1XAVmhEtPRQ1bB0qqx1Hn5FgJYj3CpHTTuMklHJqdTVsgWPPhkeswGpZ4eD/YClPWPKE/bPT6BwTkJmaVJSAqL4iA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20260303",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: parking on the second day of natural product expo\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8298.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260304180635_gary_teh_img_8298.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: TvHTQms8dT5cOoJVD1hqFLlPyH62UeEz818SA66xsZm5Tjv7+IY+a/UMMtCKvhiTe8LtCyXrnUSsMkiMeK59fnOnHjKM3/iJxZG2NPM43b+qAhfQwAbF+2uWLo54K2ZWBtlmcVApWr7kmxbALMpuwnGLGMFA1tMlj3yR3VJWqe/3ipfnruygqPeHswkAmEG/8ir3EIbYFeBHk0rOtm02li+zkzYaZaqiwHdRq2wrqe5kLzpJuMlcVrCfVN1lsji4iSxWIXfSpMKD13r58NdKU1BgGIyWutPqtHdEAAB9JynMuk8xPxtXF5s8ZGifpUcY0YZuk7CoDNctkFEmv6F+5Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20260304",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: Day three of natural products, expo parking\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8462.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260306031117_gary_teh_img_8462.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: iqbkVX8l7hY9hLp+66Giu8nxBe6ckz/jPtwdVF2E8JM2gdQDB/hjRMeeq3GTlneDHT4vfFetaf5TgohO5bZmHJ5Bkph1ccWt4cPOE5DxSd5RgqECA2Sxw10N1UtSHo4CtK2Og+dDfhVqTIPzJGRpobRQXnIJTZ+82Li5/5pxpEnv896nYsnW0b2cuXiZcpEANOkoJ/pUsXXXiO4inp5fqis+qWvgwCsWFMRgMtZNeIJeveW6AbCDV+lARQbAEEtDCQZuAlbuDmdSi0csj/CWQGRHv78YeKR43Rk9OYaHr8wBCEp630zSo7+UU6t41s+FpbQNs8mllncCafVpycOU3Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20260306",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25\r\n- Description: Paying for parking at Anaheim convention center on the fourth and the final day of the natural product expo\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_8468.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260306155722_gary_teh_img_8468.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: uHSKYh03GLfMhUqrBOIRt47fJElA3XAviNUiRhLjp6dLao6uVVQ0uKAEV0Wkl6LOdVZrdEVzzAIAgrF+xIL55UkZNoifw2uXcF1sS8LymUULfCjvrHxffmwA8tn5H10L6uqzyIpdtYAtgTaPeNlW46AK4lGzDZBUZRYcgPyWD2i6BPSw0qEESS4O8/ixyxZdsbWVPKKSf4N5/6sdRkMiw0++sSKo4P9tKLFmQVXu3VeZVHSdWS0quLMfkklPe7OrIXvdSoqXYEi9hEG+q5tjVqWnGfsYM/QQrFTJpIRzFYTVDmyI9yiwI1iPXnBH6MojQw5BKQjwIV5HtiblaQsokw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20260306",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 54.45\r\n- Description: Contributed for the cost of gasoline that is being used when we drive around to expand our consignment base reseller network\r\n- Contributor(s): AGL15\r\n- TDG Issued: 54.45\r\n- Attached Filename: IMG_8600.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260307013755_gary_teh_img_8600.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: gH2nDU616iPraSsqRgkVXd96H/oz6wFB1tsJbatoaHCaeEhGfdDKPd7tELTST2K/bLw0wvjQCO0dAR5v2UOErVrFP7U6IU24gKlgRbYWchdekWz15s/t9+BUqYm07tcbyj+5Inz7D5xS7x5T496M11ad+eBavyaKEcpmuoHKKVoulnIW7S3Ag6ZelRhoGWHuLbuCAH7ziJEa0El3vX0GwtMaBVjzA5a0VaXSfGdjjupQOEfPsQUCHmX7Yewvkge8+bmJPg9Y7fLNt5m7jcUbvbHNufZlrbfNh5hnAQlOYx/6Xv+TUH8AbuBQNbGkQrA1DGwoUmTy6Kpu+jG1aUx1eA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "54.45",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "54.45",
+          "Status date": "20260307",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 8.09\r\n- Description: Cost of cargo hitch two year warranty from the harbor freight\r\n- Contributor(s): AGL15\r\n- TDG Issued: 8.09\r\n- Attached Filename: IMG_8565.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260307013913_gary_teh_img_8565.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: mdg1+78NbilkQN49SdI3jjNHIeO90g+E5L1JPNV9i6+OGmVXxUtzVdn3hnnZhAkE9UNSI/I7VEnZl7D5U1y0jyerwvApsYOJ/sHyRFn3auggA/U5i5lNcmOPpv+nmOolPNWkNRdll9QPoUQY9EnRw5biEpeo4rYUpCWLGJfZOcR22MG/j2aNv8xjiOgxqK0UkK1JVLB6W7yIJES+v5MbQrWJEgC/bsInmhJxJMstCgsF4ZHz4YzIbEo6trqmts2yDFF7n0DH3MEDh53io4PIqwYbiU3cZu3NckwirDOsTIyH8KfJ0e+EcDqf+WmZZuYvueL8CWFXG8gJdON5lPowpw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "8.09",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.09",
+          "Status date": "20260307",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 25.88\r\n- Description: Access card to the parking structure in LAX\r\n- Contributor(s): AGL15\r\n- TDG Issued: 25.88\r\n- Attached Filename: Receipt 2028583.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260310233951_gary_teh_receipt_2028583.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: GmUl9ZEG/EFQsCqTp5l8uJHhDBc5DUsLeh29m1nr5/2dnf6agRH/vWCxTSIH0UfMl1DLq/ubkCWQoe2HpGX5xEYnessp/fhxl2//zw8DdnoJ+Bxke8LKEWg6k90n1pcdHCp8l0xUZp8Xt0Vfn+ssN1DSe0NTde/Xuln9Cu9dO8G1TbkT5YskwrsLs+L5VZI+SV//EGBQp2cY7R3xvB7ykSHSyG4E2hTff/iaVwnWbBX0nhv3KWgB0KVm6eQuyzvNHv+MKCky6yiU6SsvxtON4onPnqsgvZJlVOaW8AKtz/e73cOLCH6DEEwwuEPwQVWeE3UWOmIG8/YiCTTeB9nSig==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "25.88",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.88",
+          "Status date": "20260310",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 154.50\r\n- Description: Monthly parking at 2222 e imperial Highway near LAX to attend the South by South West in Austin Texas\r\n- Contributor(s): AGL15\r\n- TDG Issued: 154.50\r\n- Attached Filename: IMG_8789.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260310234513_gary_teh_img_8789.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: bqt1Ts1oSplsSRoSZuxqGNJ8u3CZr/lZLLbtKviHRACuodY0ueqWm7/3g+PJR54kmc/ngmxDsdLYcob/23KxjIOTUkUk/nqzpdzme/zB+/3nSFoa0xj9RXb/9gnPRkt/wqlt2bqpWxMpYbXJ+8P3v1spXPyubP0dLebK/KZxVqg8hdIOtB5bTFwT+2idxbKk7dmT1DDnQX2lyJ5IjhIThiYaO5K33UnwT+TTwjVMsEmxVpJZ/gyxTkPVHG6SjknShcVbQlkK5IRGgQqHKwgHxwiRu4qAgCOYL+uWxKQa829RJ5TU2ZVHgFiPkpOKG/j9aS4MTnIRYPMHTrJKvaMruw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "154.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "154.50",
+          "Status date": "20260310",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 35\r\n- Description: Checking the bag at the Delta airline to fly from LAX to Austin Texas\r\n- Contributor(s): AGL15\r\n- TDG Issued: 35.00\r\n- Attached Filename: IMG_8806.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260311151635_gary_teh_img_8806.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: e20lEQoA4kOJFEyE0boRstR2kq2FNCc83MNAJgduQGjqwr+FX4g9y8bBsNYOt86ryuJyZR2BRZHrQIImwjY+fZ9mxLj1ce9jRa3tNHOzjbXd6IztHDdmZjETI4X/AgBJ2qGX5S0GJETva9D9W/Sbs93OZubAfFRiWbdr8XDkkACAvgbXB12IBlxL91Z/KqBhF/hYb+2zGNnGdy8mfAxiPqikEbF2owmbnMFlLOsDVjh9KuCUMV6FHdSo3dtSnS191QOW7PkD/SZzdZkGSLWOw0xAzCWGwCBoQZpeA15fgHLCLIZnRRKp/8lPWaI8SwcQIwF1rTir+t+H/zUn/FixIA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "35.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "35.00",
+          "Status date": "20260311",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 291.86\r\n- Description: For stay in Rochester for 8 nights while I visit the apothecaries there\r\n- Contributor(s): AGL15\r\n- TDG Issued: 291.86\r\n- Attached Filename: IMG_9031.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319030045_gary_teh_img_9031.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: z2huCfhzmzTiA2t5HaA6hupnV0fDul1nS2OHKCU1MgxMsgeyJXCpkjb2n4KalRucZOwGwDEByR9OIgO2RheSWMVeHyfMBXYsi/39OAFOrUzXGlKVyP+QjCiExBAZ1tE6UiQrWFxUsolOlpKwCC/XW3CAGWewWUOsluKMwO3ML18jqho+RWjO87sHA+bhTbPomCVzCMmmFpxT7TyEJw0kc4dAf+eBfVRYhyKsVyI3QLpkp+OC3dcrSTP3QjQ4RGcszi0f3rtSYVlaf5WqRaOUh0FVJSZH8QqikF4d/T6XhB9PEv8JP+ONaXaBHpAtOtlYli5dxwqM5MZBiekmn65wRw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "291.86",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "291.86",
+          "Status date": "20260319",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 276.98\r\n- Description: Rental for stay in New Orleans to do sales run\r\n- Contributor(s): AGL15\r\n- TDG Issued: 276.98\r\n- Attached Filename: IMG_9104.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260320162950_gary_teh_img_9104.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: xFuH+KRAe+/Q+zzJJAtG79ZOcgKML7gOWFcZdz/Gedg63Tv9T9467vYrok14YmNFKBXnyQv1rMEsFcXxzBgMML6N+t/UpufiP1noY4NqFNKTTPY1V0h4wTLt8G/n/W15BWVY00zA/gqfdprG65NhwTb6hS9OeeBYTPQXzaCfvJixzUZxBmDxDxHfjfozK+C6pdwXydh5CUOBJvNPkLRiBDbHo9zn/aNyIiKcY19ZPc6eHLHKlXKkT/OTo66A/7Odiz7tJuZ+LWYp6KbxWCe+a0C8NjUx/YzSb2vJdozXmEghKup2EsHQZSvLpWUYUkCit6ub9K7Jr/Ygh+eZcPCiuA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "276.98",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "276.98",
+          "Status date": "20260320",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "AGL15",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 2.50\r\n- Description: Pass tickets for two from New Orleans airport to Empress Hotel\r\n- Contributor(s): AGL15\r\n- TDG Issued: 2.50\r\n- Attached Filename: IMG_9121.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260320204550_gary_teh_img_9121.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: VFEqpspe7vgzPxYZDTtEsHpQnLg9tASLPkd9dhshcScD+RbvE5jHeHc/uSpKSyfiD/aaa5VJKZiv7csI7jNGXqwWoIefgQRhKnAkKEaJYolkwBdDeAKfsAdh4kgDs/W23YhjCMqGJZIZrrRbRA+Qqb+p23+4VcSsvPm0KZw1d6Desqr2hq+Nkj7e0Sn3miyL6JVzgfRGDp8aTwxQ+3YtGM6ytVEVL/GsFFihPUAyfdNUzNkh10MRr63gxZSrsujiAF9OQvjkS4NiB5e1zsU10dNcfzbDzYp6W3HEMo022ccgFNR4HmUowDKewnAghqwz2SF2ktJ+8EANpIWilknG7w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "2.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2.50",
+          "Status date": "20260320",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

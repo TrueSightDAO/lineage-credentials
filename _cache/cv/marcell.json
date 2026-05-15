@@ -1,0 +1,132 @@
+{
+  "slug": "marcell",
+  "display_name": "Marcell",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 102.0,
+    "date_range": {
+      "earliest": "20221106",
+      "latest": "20231022"
+    },
+    "source": {
+      "contributor_name": "Marcell",
+      "generated_date": "2026-05-14T22:06:13.645178",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 102.0,
+        "total_tdg_issued": 102.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20221106",
+          "latest": "20231022"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 102.0,
+        "total_tdg_issued": 102.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100 : Governance - Raised a concern about existing minor issue in our DAO": 1,
+          "1 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 2
+        },
+        "date_range": {
+          "earliest": "20221106",
+          "latest": "20231022"
+        },
+        "contribution_types": [
+          {
+            "description": "Discovered description of WhatsApp channel could be changed by non-admin",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20221106",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed to reach out to farmer's market",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed shipment 1 to include limited edition NFT",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Marcell",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Discovered description of WhatsApp channel could be changed by non-admin",
+          "Rubric classification": "100 : Governance - Raised a concern about existing minor issue in our DAO",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20221106",
+          "Solana Transfer Hash": "omphWtqsXtjoMiVZxoQS5K2ebaqJ1dXLVtxmnXnLkJzVyFA1iBycr8aNnf8da79nQ6LaHAKmuYqa1nNAPwguypp",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marcell",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Proposed to reach out to farmer's market",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231022",
+          "Solana Transfer Hash": "4opcjeC1yTRMDUHZakhQXzBzJABFZa6SxSUByWMhtgCkkcAtKpCxA7FRrPywaZC52LSGJq6PVw2Kat2yhB2AAX8i",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marcell",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Proposed shipment 1 to include limited edition NFT",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231022",
+          "Solana Transfer Hash": "4opcjeC1yTRMDUHZakhQXzBzJABFZa6SxSUByWMhtgCkkcAtKpCxA7FRrPywaZC52LSGJq6PVw2Kat2yhB2AAX8i",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "windy-butler-ehry",
+  "display_name": "Windy Butler-Ehry",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 16.66,
+    "date_range": {
+      "earliest": "20250531",
+      "latest": "20250601"
+    },
+    "source": {
+      "contributor_name": "Windy Butler-Ehry",
+      "generated_date": "2026-05-14T22:06:13.950808",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 16.66,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "date_range": {
+          "earliest": "20250531",
+          "latest": "20250601"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 16.66,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "rubric_categories": {
+          "\"100TDG For every 1 hour of human effort": 1,
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250531",
+          "latest": "20250601"
+        },
+        "contribution_types": [
+          {
+            "description": "Windy whose 311 acre forested land I have been camping on with the Llama bus spent 5 minutes resharing Elinor’s post from last year",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250531",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you Windy for spending 5 minutes to invite me to the local Facebook classified bargains group",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250601",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Windy Butler-Ehry",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Windy whose 311 acre forested land I have been camping on with the Llama bus spent 5 minutes resharing Elinor’s post from last year",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250531",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Windy Butler-Ehry",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you Windy for spending 5 minutes to invite me to the local Facebook classified bargains group",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250601",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

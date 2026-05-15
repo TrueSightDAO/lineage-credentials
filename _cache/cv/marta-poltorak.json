@@ -1,0 +1,256 @@
+{
+  "slug": "marta-poltorak",
+  "display_name": "Marta Poltorak",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 8,
+    "total_tdg_provisioned": 1510.0,
+    "date_range": {
+      "earliest": "20201015",
+      "latest": "20221213"
+    },
+    "source": {
+      "contributor_name": "Marta Poltorak",
+      "generated_date": "2026-05-14T22:06:13.651082",
+      "summary": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 1510.0,
+        "total_tdg_issued": 1510.0,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20221213"
+        }
+      },
+      "analysis": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 1510.0,
+        "total_tdg_issued": 1510.0,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100 : Governance - Raised a concern about existing minor issue in our DAO": 1,
+          "750 : Build Game - Marketing - Write and post official DAO long social media text post / blog post": 1,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 3,
+          "100 : Build Game - Operations - Handled single line item task": 1,
+          "10 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, IG, Twitter or Reddit)": 1,
+          "250 : Build Game - Marketing - Write and post short social media text post (Facebook or IG, Twitter or Reddit) by an account with at least 10,000 followers": 1
+        },
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20221213"
+        },
+        "contribution_types": [
+          {
+            "description": "Surfaced issue with contribution submission form being hard to understand and should be reworded",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20220906",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Wrote Article on TrueSight DAO\n\nhttps://medium.com/ufostart/true-sight-dao-who-are-they-and-what-they-learned-growing-a-decentralized-autonomous-organization-a5affe5f3bf3",
+            "project": "TrueSight DAO",
+            "tdg": 750.0,
+            "date": "20220707",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "1 hour facetime session to discuss about article (Gary and Marta) July 2022",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20220707",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "1 hour facetime session to discuss about article (Gary and Marta) Oct 2022",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20221011",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Identified DeWorkz as a great project management tool for managing bounties",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20221014",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reshared the post to help gather more qualitative data into the web3 personal security space\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986418717773438976/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6986418717773438976%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Operations planning session facetime 1 hour 20221102 \n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+            "project": "Cypher Defense",
+            "tdg": 100.0,
+            "date": "20221109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "For priming the mention of the project during the live event session\n\nhttps://www.linkedin.com/video/event/urn:li:ugcPost:7006613553310806016/\n\nminute 40 seconds 18",
+            "project": "Cypher Defense",
+            "tdg": 250.0,
+            "date": "20221213",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 8
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Surfaced issue with contribution submission form being hard to understand and should be reworded",
+          "Rubric classification": "100 : Governance - Raised a concern about existing minor issue in our DAO",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220906",
+          "Solana Transfer Hash": "3XBXKmX41YcFEnc24ScfeqLaAuXbJbANwSU1vrytCGYuHmxWA3UPxkL8h55dHyVEBbSYspKcndP5FvchXAeHqXXg",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Wrote Article on TrueSight DAO\n\nhttps://medium.com/ufostart/true-sight-dao-who-are-they-and-what-they-learned-growing-a-decentralized-autonomous-organization-a5affe5f3bf3",
+          "Rubric classification": "750 : Build Game - Marketing - Write and post official DAO long social media text post / blog post",
+          "TDGs Provisioned": "750.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "750.00",
+          "Status date": "20220707",
+          "Solana Transfer Hash": "3XBXKmX41YcFEnc24ScfeqLaAuXbJbANwSU1vrytCGYuHmxWA3UPxkL8h55dHyVEBbSYspKcndP5FvchXAeHqXXg",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "1 hour facetime session to discuss about article (Gary and Marta) July 2022",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220707",
+          "Solana Transfer Hash": "3XBXKmX41YcFEnc24ScfeqLaAuXbJbANwSU1vrytCGYuHmxWA3UPxkL8h55dHyVEBbSYspKcndP5FvchXAeHqXXg",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "1 hour facetime session to discuss about article (Gary and Marta) Oct 2022",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20221011",
+          "Solana Transfer Hash": "3XBXKmX41YcFEnc24ScfeqLaAuXbJbANwSU1vrytCGYuHmxWA3UPxkL8h55dHyVEBbSYspKcndP5FvchXAeHqXXg",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Identified DeWorkz as a great project management tool for managing bounties",
+          "Rubric classification": "100 : Build Game - Operations - Handled single line item task",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20221014",
+          "Solana Transfer Hash": "3XBXKmX41YcFEnc24ScfeqLaAuXbJbANwSU1vrytCGYuHmxWA3UPxkL8h55dHyVEBbSYspKcndP5FvchXAeHqXXg",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Reshared the post to help gather more qualitative data into the web3 personal security space\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986418717773438976/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6986418717773438976%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+          "Rubric classification": "10 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "ACdwCh1FzdNRXgSLjAs5b69hhNqMu8dBx8YBbSRrkpSTAWhQsJcvn4XmEwFRtawKCq5DfLnmvax8ivaekuGaQ5A",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Operations planning session facetime 1 hour 20221102 \n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20221109",
+          "Solana Transfer Hash": "ACdwCh1FzdNRXgSLjAs5b69hhNqMu8dBx8YBbSRrkpSTAWhQsJcvn4XmEwFRtawKCq5DfLnmvax8ivaekuGaQ5A",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Marta Poltorak",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "For priming the mention of the project during the live event session\n\nhttps://www.linkedin.com/video/event/urn:li:ugcPost:7006613553310806016/\n\nminute 40 seconds 18",
+          "Rubric classification": "250 : Build Game - Marketing - Write and post short social media text post (Facebook or IG, Twitter or Reddit) by an account with at least 10,000 followers",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20221213",
+          "Solana Transfer Hash": "ACdwCh1FzdNRXgSLjAs5b69hhNqMu8dBx8YBbSRrkpSTAWhQsJcvn4XmEwFRtawKCq5DfLnmvax8ivaekuGaQ5A",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

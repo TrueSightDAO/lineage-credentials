@@ -1,0 +1,81 @@
+{
+  "slug": "lorna-eclectic-india",
+  "display_name": "Lorna - Eclectic India",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 1.0,
+    "date_range": {
+      "earliest": "20260127",
+      "latest": "20260127"
+    },
+    "source": {
+      "contributor_name": "Lorna - Eclectic India",
+      "generated_date": "2026-05-14T22:06:13.628626",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.0,
+        "total_tdg_issued": 1.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20260127",
+          "latest": "20260127"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.0,
+        "total_tdg_issued": 1.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "1TDG For every 1 USD of liquidity injected": 1
+        },
+        "date_range": {
+          "earliest": "20260127",
+          "latest": "20260127"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 1\r\n- Description: Donation of USD$1 during the cacao circle.\r\n- Contributor(s): Lorna - Eclectic India\r\n- TDG Issued: 1.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260127222940_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: m5Yv+fy0ycfDvNqVy8c1bFVINR128deiya65akWoZI/4dGiEpwPjHT6J79equHJC432UE1P6XiztiBILsg01TnACtq7VtlvScmmQGJFZYRhGQp4OWjwAmD65Ixnu4P4I9Kj0GX99gDNIO2wBAn+A/Sv9EF6iXFv/AM8WsQPtuLTCEAqrNkZhctP4c7zi++FREE0jG3TsE4dPnFiWCE+uO4yzAHhyPsbKbbWQaDJyF17omVoPq7uFq3z6fvXi6+eyh/fbD+6c23OmaRZcChxv97xPjtijOaNafybomyfY2QO69GruH1/0D3tZ2p+qqZ+5XNpyZZWc46KylzI4VdzRCA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 1.0,
+            "date": "20260127",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Lorna - Eclectic India",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 1\r\n- Description: Donation of USD$1 during the cacao circle.\r\n- Contributor(s): Lorna - Eclectic India\r\n- TDG Issued: 1.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260127222940_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: m5Yv+fy0ycfDvNqVy8c1bFVINR128deiya65akWoZI/4dGiEpwPjHT6J79equHJC432UE1P6XiztiBILsg01TnACtq7VtlvScmmQGJFZYRhGQp4OWjwAmD65Ixnu4P4I9Kj0GX99gDNIO2wBAn+A/Sv9EF6iXFv/AM8WsQPtuLTCEAqrNkZhctP4c7zi++FREE0jG3TsE4dPnFiWCE+uO4yzAHhyPsbKbbWQaDJyF17omVoPq7uFq3z6fvXi6+eyh/fbD+6c23OmaRZcChxv97xPjtijOaNafybomyfY2QO69GruH1/0D3tZ2p+qqZ+5XNpyZZWc46KylzI4VdzRCA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20260127",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

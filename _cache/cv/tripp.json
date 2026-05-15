@@ -1,0 +1,132 @@
+{
+  "slug": "tripp",
+  "display_name": "Tripp",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 652.78,
+    "date_range": {
+      "earliest": "20250208",
+      "latest": "20250712"
+    },
+    "source": {
+      "contributor_name": "Tripp",
+      "generated_date": "2026-05-14T22:06:13.888111",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 652.78,
+        "total_tdg_issued": 652.78,
+        "projects": [
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250208",
+          "latest": "20250712"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 652.78,
+        "total_tdg_issued": 652.78,
+        "projects": [
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250208",
+          "latest": "20250712"
+        },
+        "contribution_types": [
+          {
+            "description": "Me, June and Tripp spent 1.5 hours sharing insights on growing Agroverse today",
+            "project": "TrueSight DAO",
+            "tdg": 150.0,
+            "date": "20250208",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, June Jo, Tripp and Ahmed spent 5 hours today doing trend spotting as well as exploring the future trends of of the holistic and regenerative movement. Going back to community, defining what Regeneration is is becoming a very clear direction",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20250307",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Just spent 5 minutes reaching out to June ⁩ and Tripp to ask who to speak to regarding setting up a small booth during next years natural expo west in LA 😊🙏",
+            "project": "telegram_chatlog",
+            "tdg": 2.78,
+            "date": "20250712",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Tripp",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June and Tripp spent 1.5 hours sharing insights on growing Agroverse today",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20250208",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "150.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tripp",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June Jo, Tripp and Ahmed spent 5 hours today doing trend spotting as well as exploring the future trends of of the holistic and regenerative movement. Going back to community, defining what Regeneration is is becoming a very clear direction",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20250307",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tripp",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Just spent 5 minutes reaching out to June ⁩ and Tripp to ask who to speak to regarding setting up a small booth during next years natural expo west in LA 😊🙏",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "2.78",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2.78",
+          "Status date": "20250712",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

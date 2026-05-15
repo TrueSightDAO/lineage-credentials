@@ -1,0 +1,475 @@
+{
+  "slug": "jascha-martschenko",
+  "display_name": "Jascha Martschenko",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 17,
+    "total_tdg_provisioned": 3150.0,
+    "date_range": {
+      "earliest": "20201025",
+      "latest": "20230616"
+    },
+    "source": {
+      "contributor_name": "Jascha Martschenko",
+      "generated_date": "2026-05-14T22:06:13.472201",
+      "summary": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 3150.0,
+        "total_tdg_issued": 2900.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20201025",
+          "latest": "20230616"
+        }
+      },
+      "analysis": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 3150.0,
+        "total_tdg_issued": 2900.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Bring Builders - brought on a active contributor": 3,
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 1,
+          "100 : Governance - Raised a concern about existing minor issue in our DAO": 1,
+          "1000 : Bring Builders - brought on a resource owner": 1,
+          "1000 : Build Game - Marketing - Create and post a marketing video to YouTube or TikTok": 3,
+          "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources": 2,
+          "500 : Bring Builders - brought on a key opinion leader": 2,
+          "100 : Build Game - User Experience - Suggestions for a UX": 2,
+          "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO": 1,
+          "5000 : Build Game - Marketing - Oversaw an entire marketing messaging campaign": 1
+        },
+        "date_range": {
+          "earliest": "20201025",
+          "latest": "20230616"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduced Nelson Inno",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Surfaced DAOLabs which does social mining\nhttps://www.daolabs.com/",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20220812",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Raised issue that the name TrueChain has been taken \n\nhttps://coinmarketcap.com/de/currencies/truechain/",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20201025",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Made introduction for Gary to give keynote at the StartPlatz conference",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20221119",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Interview for crypto rock starcruise speaker introductions to share about TrueSight DAO\n\nhttps://us02web.zoom.us/j/87444319459",
+            "project": "TrueSight DAO",
+            "tdg": 1000.0,
+            "date": "20221227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Crew3.xyz- bounty system for quantitative mining",
+            "project": "TrueSight DAO",
+            "tdg": 25.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Daolabs.com - qualitative bounty",
+            "project": "TrueSight DAO",
+            "tdg": 25.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced TrueSight DAO to https://www.lomads.xyz/",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction Timosun",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed for linked to check ledger, rubric and contributions submissions to be easily accessible",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed for landing page to show more marketing materials about what TrueSight DAO is about. More corporate focused",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Post to promote TrueSight DAO on Instagram\n\nhttps://www.instagram.com/reel/CqDTp-KIMZs/?igshid=MDJmNzVkMjY=",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20230321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Post to promote Truesight DAO on LinkedIn\n\nhttps://youtu.be/93wWvTOuJw0",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20230321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Suheil",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20230515",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Flight tickets for Gary to attend CryptoRockStart Conference.\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230406%20-%20Jakob%20flight%20tickets.jpeg",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20230515",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Featured TrueSight DAO as keynote speaker in Crypto Rockstar conference 2023",
+            "project": "TrueSight DAO",
+            "tdg": 0,
+            "date": "20230615",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Alexander Grau from OVH",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20230616",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 1,
+          "Successfully Completed / Full Provision Awarded": 16
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Nelson Inno",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Surfaced DAOLabs which does social mining\nhttps://www.daolabs.com/",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220812",
+          "Solana Transfer Hash": "uDPT4pcifEFWpuxKjV8j71JiXdVeYwuWDiX6HhC8M4XnHZuAMwbmJhJ4XaJ6bSZygo6mFCyerKXEF38fG2WPBgm",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Raised issue that the name TrueChain has been taken \n\nhttps://coinmarketcap.com/de/currencies/truechain/",
+          "Rubric classification": "100 : Governance - Raised a concern about existing minor issue in our DAO",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20201025",
+          "Solana Transfer Hash": "2xsh1729S7anzroXjaVfMScL3GJy8yvSDFK2sj6nddv5Y6vjUYVgLhduTCxxcRcc28PV2XHbQYUHwPUKns2nA8UU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Made introduction for Gary to give keynote at the StartPlatz conference",
+          "Rubric classification": "1000 : Bring Builders - brought on a resource owner",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,000.00",
+          "Status date": "20221119",
+          "Solana Transfer Hash": "2xsh1729S7anzroXjaVfMScL3GJy8yvSDFK2sj6nddv5Y6vjUYVgLhduTCxxcRcc28PV2XHbQYUHwPUKns2nA8UU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Interview for crypto rock starcruise speaker introductions to share about TrueSight DAO\n\nhttps://us02web.zoom.us/j/87444319459",
+          "Rubric classification": "1000 : Build Game - Marketing - Create and post a marketing video to YouTube or TikTok",
+          "TDGs Provisioned": "1000",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20221227",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Crew3.xyz- bounty system for quantitative mining ",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Daolabs.com - qualitative bounty ",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced TrueSight DAO to https://www.lomads.xyz/",
+          "Rubric classification": "500 : Bring Builders - brought on a key opinion leader",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduction Timosun ",
+          "Rubric classification": "500 : Bring Builders - brought on a key opinion leader",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Proposed for linked to check ledger, rubric and contributions submissions to be easily accessible ",
+          "Rubric classification": "100 : Build Game - User Experience - Suggestions for a UX",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Proposed for landing page to show more marketing materials about what TrueSight DAO is about. More corporate focused",
+          "Rubric classification": "100 : Build Game - User Experience - Suggestions for a UX",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Post to promote TrueSight DAO on Instagram\n\nhttps://www.instagram.com/reel/CqDTp-KIMZs/?igshid=MDJmNzVkMjY=",
+          "Rubric classification": "1000 : Build Game - Marketing - Create and post a marketing video to YouTube or TikTok",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,000.00",
+          "Status date": "20230321",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Post to promote Truesight DAO on LinkedIn\n\nhttps://youtu.be/93wWvTOuJw0",
+          "Rubric classification": "1000 : Build Game - Marketing - Create and post a marketing video to YouTube or TikTok",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,000.00",
+          "Status date": "20230321",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Suheil ",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230515",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Flight tickets for Gary to attend CryptoRockStart Conference.\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230406%20-%20Jakob%20flight%20tickets.jpeg\n",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "1,044.73",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,044.73",
+          "Status date": "20230515",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Featured TrueSight DAO as keynote speaker in Crypto Rockstar conference 2023",
+          "Rubric classification": "5000 : Build Game - Marketing - Oversaw an entire marketing messaging campaign",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5,000.00",
+          "Status date": "20230615",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jascha Martschenko",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Alexander Grau from OVH",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230616",
+          "Solana Transfer Hash": "38Hx9R9uSoJpXiqHvgWDbdZc4WhvuX4UTqvBBhjCxZbTqwybebpNsc7NTtwJkQ6y9ZEjB5Qaekvz7WHcuGF1hBT4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

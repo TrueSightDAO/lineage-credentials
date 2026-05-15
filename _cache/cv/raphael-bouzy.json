@@ -1,0 +1,244 @@
+{
+  "slug": "raphael-bouzy",
+  "display_name": "Raphael Bouzy",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 8,
+    "total_tdg_provisioned": 800.0,
+    "date_range": {
+      "earliest": "20220126",
+      "latest": "20220126"
+    },
+    "source": {
+      "contributor_name": "Raphael Bouzy",
+      "generated_date": "2026-05-14T22:06:13.783465",
+      "summary": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 800.0,
+        "total_tdg_issued": 800.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220126",
+          "latest": "20220126"
+        }
+      },
+      "analysis": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 800.0,
+        "total_tdg_issued": 800.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220126",
+          "latest": "20220126"
+        },
+        "contribution_types": [
+          {
+            "description": "Bank and Insurance partnerships: reach out via Banks innovation teams. Need to have working product. These teams have little influence on the core of banking operations",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bank and Insurance partnerships: go through the accelerator program by Deliotte and Accenture. Need to have working product. Last for 3 months. They introduce to 30-35 of their clients. 250 candidates 7 selected",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bank and Insurance partnerships: make sure to be GDPR compliant",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bank and Insurance partnerships: More approachable banks: Credit Suisse, OCBC, Standard Chartered and BNP",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bank and Insurance partnerships: Different banks have different strategy. Goldman Sachs buys alot of Fintech companies and expect 99% failure rate",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bank and Insurance partnerships: 12-24 months of networking just to get in front of the right committee in the bank to make the decision. Very expensive process. Need to fly into different cities for meetings.",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bank and Insurance partnerships: Sales > POC phase > assessment > might get bought out if product is really good",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bank and Insurance partnerships: Make necessary introductions to relevant contact in LinkedIn",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "On Hold"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7,
+          "On Hold": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: reach out via Banks innovation teams. Need to have working product. These teams have little influence on the core of banking operations",
+          "Rubric classification": "",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: go through the accelerator program by Deliotte and Accenture. Need to have working product. Last for 3 months. They introduce to 30-35 of their clients. 250 candidates 7 selected",
+          "Rubric classification": "",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: make sure to be GDPR compliant",
+          "Rubric classification": "",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: More approachable banks: Credit Suisse, OCBC, Standard Chartered and BNP",
+          "Rubric classification": "",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: Different banks have different strategy. Goldman Sachs buys alot of Fintech companies and expect 99% failure rate",
+          "Rubric classification": "",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: 12-24 months of networking just to get in front of the right committee in the bank to make the decision. Very expensive process. Need to fly into different cities for meetings.",
+          "Rubric classification": "",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: Sales > POC phase > assessment > might get bought out if product is really good",
+          "Rubric classification": "",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Raphael Bouzy",
+          "Project Name": "",
+          "Contribution Made": "Bank and Insurance partnerships: Make necessary introductions to relevant contact in LinkedIn",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "On Hold",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

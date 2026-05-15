@@ -1,0 +1,130 @@
+{
+  "slug": "anna-love",
+  "display_name": "Anna Love",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 30.0,
+    "date_range": {
+      "earliest": "20230728",
+      "latest": "20230728"
+    },
+    "source": {
+      "contributor_name": "Anna Love",
+      "generated_date": "2026-05-14T22:06:12.892649",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 30.0,
+        "total_tdg_issued": 30.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230728",
+          "latest": "20230728"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 30.0,
+        "total_tdg_issued": 30.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 2
+        },
+        "date_range": {
+          "earliest": "20230728",
+          "latest": "20230728"
+        },
+        "contribution_types": [
+          {
+            "description": "Custom yogurt can sell for 2 times the price if antioxident level is extremely high. \nAvailable in Sprouts. Sells out really fast in San Francisco and LA but has high availability in San Luis Obispo\n\nInsight - offline retail distribution channel does not scale evenly. Will need consideration when executing on B2B",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230728",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Custom yogurt can sell for 2 times the price if antioxident level is extremely high. \nAvailable in Sprouts. Sells out really fast in San Francisco and LA but has high availability in San Luis Obispo\n\nInsight - when UVP is correctly defined product will sell even up to 2X normal retail price compared to other competitors",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230728",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Decentralized storage facility as a concept",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230728",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Anna Love",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Custom yogurt can sell for 2 times the price if antioxident level is extremely high. \nAvailable in Sprouts. Sells out really fast in San Francisco and LA but has high availability in San Luis Obispo\n\nInsight - offline retail distribution channel does not scale evenly. Will need consideration when executing on B2B",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230728",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anna Love",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Custom yogurt can sell for 2 times the price if antioxident level is extremely high. \nAvailable in Sprouts. Sells out really fast in San Francisco and LA but has high availability in San Luis Obispo\n\nInsight - when UVP is correctly defined product will sell even up to 2X normal retail price compared to other competitors",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230728",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anna Love",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Decentralized storage facility as a concept",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230728",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

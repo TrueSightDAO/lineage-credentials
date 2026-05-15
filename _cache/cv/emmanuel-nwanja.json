@@ -1,0 +1,81 @@
+{
+  "slug": "emmanuel-nwanja",
+  "display_name": "Emmanuel Nwanja",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 10.0,
+    "date_range": {
+      "earliest": "20201015",
+      "latest": "20201015"
+    },
+    "source": {
+      "contributor_name": "Emmanuel Nwanja",
+      "generated_date": "2026-05-14T22:06:13.125956",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 10.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "Cypher Defense"
+        ],
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20201015"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 10.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "Cypher Defense"
+        ],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 1
+        },
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20201015"
+        },
+        "contribution_types": [
+          {
+            "description": "Physical attacks\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968/",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Emmanuel Nwanja",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Physical attacks\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968/",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "4U7pY8GFv1D9VViN12AeTgRrczg9uGZ66HhNDtqRxDd5eS2eKitLaiVcPiQ4Xm3QS55t5m2ZZ3DLau9aDTvsvKBt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "dean-mao",
+  "display_name": "Dean Mao",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 541.0,
+    "date_range": {
+      "earliest": "20230815",
+      "latest": "20231110"
+    },
+    "source": {
+      "contributor_name": "Dean Mao",
+      "generated_date": "2026-05-14T22:06:13.038826",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 541.0,
+        "total_tdg_issued": 541.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230815",
+          "latest": "20231110"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 541.0,
+        "total_tdg_issued": 541.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Commerce - Offline tasks (30 minutes)": 1,
+          "50 : Build Game - Marketing - Growth Hacking Manual Outreach (30 minutes)": 1,
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 1,
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20230815",
+          "latest": "20231110"
+        },
+        "contribution_types": [
+          {
+            "description": "Assembling 4 bags of 8 ounce cacao nibs for Burning Man. 1.5 hours. On the 15th of August",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20230815",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Distributed 32 ounces of cacao nibs at Burning Man and received feedback",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20231016",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested classifier model\n\nhttps://github.com/abetlen/llama-cpp-python",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20231110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Raised concerns about candium and lead in soil\n\nthere's this huge ass report for decreasing lead & cadmium in cocoa:  https://static1.squarespace.com/static/59a706d4f5e2319b70240ef9/t/62fd592790137e31288a1698/1660770607858/AsYouSow_ChocolateFullReport_FIN_20220817.pdf\n\nthere's also this blog post that has a rough summary of that huge report:  https://www.asyousow.org/blog/2022/8/17/new-report-explains-simple-safe-and-low-cost-solutions-to-reduce-levels-of-lead-and-cadmium-in-chocolate\n\nthe lead is 500 ppb, cadmium 300 ppb",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20231027",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "lots of cocoa related products have a lead & cadmium problem.  The farmers growing the product aren't really that aware and don't have any mitigation strategies.  The big companies just buy the cocoa based on price",
+            "project": "Agroverse",
+            "tdg": 240.0,
+            "date": "20231029",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Dean Mao",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Assembling 4 bags of 8 ounce cacao nibs for Burning Man. 1.5 hours. On the 15th of August",
+          "Rubric classification": "50 : Commerce - Offline tasks (30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230815",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dean Mao",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Distributed 32 ounces of cacao nibs at Burning Man and received feedback",
+          "Rubric classification": "50 : Build Game - Marketing - Growth Hacking Manual Outreach (30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20231016",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dean Mao",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Suggested classifier model\n\nhttps://github.com/abetlen/llama-cpp-python",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231110",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dean Mao",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Raised concerns about candium and lead in soil\n\nthere's this huge ass report for decreasing lead & cadmium in cocoa:  https://static1.squarespace.com/static/59a706d4f5e2319b70240ef9/t/62fd592790137e31288a1698/1660770607858/AsYouSow_ChocolateFullReport_FIN_20220817.pdf\n\nthere's also this blog post that has a rough summary of that huge report:  https://www.asyousow.org/blog/2022/8/17/new-report-explains-simple-safe-and-low-cost-solutions-to-reduce-levels-of-lead-and-cadmium-in-chocolate\n\nthe lead is 500 ppb, cadmium 300 ppb",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20231027",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dean Mao",
+          "Project Name": "Agroverse",
+          "Contribution Made": "lots of cocoa related products have a lead & cadmium problem.  The farmers growing the product aren't really that aware and don't have any mitigation strategies.  The big companies just buy the cocoa based on price",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "240.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "240.00",
+          "Status date": "20231029",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "240.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

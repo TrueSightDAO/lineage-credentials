@@ -1,0 +1,177 @@
+{
+  "slug": "andreas-quandt",
+  "display_name": "Andreas Quandt",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 283.33,
+    "date_range": {
+      "earliest": "20210801",
+      "latest": "20260308"
+    },
+    "source": {
+      "contributor_name": "Andreas Quandt",
+      "generated_date": "2026-05-14T22:06:12.869084",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 283.33,
+        "total_tdg_issued": 283.33,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20210801",
+          "latest": "20260308"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 283.33,
+        "total_tdg_issued": 283.33,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 3
+        },
+        "date_range": {
+          "earliest": "20210801",
+          "latest": "20260308"
+        },
+        "contribution_types": [
+          {
+            "description": "Proposal email header from TrueSight.Me",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20210801",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Zoom Sync: Suggestion morning 7am is too early for California",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220210",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Making arrangements to ship 20 bags of ceremonial Cacau from Kirsten’s location to Andrey’s location in San Diego for expansion into San Diego and LA\r\n- Contributor(s): Gary Teh, Andreas Quandt\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_7413.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260214011020_gary_teh_img_7413.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: PG5kMhVieQBiEwhaGd1oQkqzBotyIg77cdY+ICwSbXmB9/7ItZeb9ppPUq4fku3NUX24nt6LjmFZyB0UBGn/Q6uQapAkqeHmrNyCt1AqAuU+XkCOyfGCJAoXRMVdz0g8AcIOVFF2WCAHLN2+HZBvIOG/U5GWfSuC1buDyhgswH0nGJRjlmWHIsSAifB72vN1xV4uv44EAyyzocEgOZC11ky7Yusq+j42O5s97xhyAyr9yVcZBZVhYVtYGyC4OJGcWbv8iEfE4k1kvFEsXq9L+hd4i+gOsHYxNy6XPu8p1GA1dS/1jR1Hglnxgyy1IRF75/n++e8/gryiERQi3UcYfA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20260214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Receipt and handling of inbound shipment from Kirsten\r\n- Contributor(s): Andreas Quandt\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_8640.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260308200217_gary_teh_img_8640.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: oxseoHyL6usnCXQCMx10/PI2Pi3mPRdUC4hjTva/jXXALga/lmjgM1I8qYHnJWbeASlBPVG1mDHAk4uUs68bgqGxT7U083OROqwyYHWzGZU/ze0+f9PX3MiAZ/vQjmYfZtdwjNJbGptDRqhA3564GyHzfvAKl/3c7DLKkrx3LZzDD1w0KRbd8RfbQ2pMXg9lsFWvIHn1JE6hyvCnvmJJz3WBux2/NztQRlubLPr0xL4zg2h2zPrzMoAH+Eezr+Vxy5BC/4MWJKl6ZjXZtP0PGDISOiJss5lyyP/ZswIsTK1Nf+YAHhn+CkwqRXZ5zSUsXxxUMUfoy2QoEONfu4Qf1A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20260308",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Suggested to add a dashboard to see all the status of his trees\r\n- Contributor(s): Andreas Quandt\r\n- TDG Issued: 8.33\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: dRiEWbLIVCMAdLrSiMhEGdcs2ECfvqAA3eEEVXI1kKTYj3Xc4QSJP/158lJoTFkdIIV8BaGHq6qP6jhgnj6WELjWOwFblTRSlF5Fb8l/sIV9at4DYZu10EBVoPQHRF/vStrewTGc5XqS4VIP9b5TfbXTItAiP1Wr2kEFzup4DDivPNEaqf+7bre23gCjkcJdSL38mj0PLLGs5wp3yyUf83StreUDYmTI8UkMw6Urz0YnXkYrMN0ZEuTrwxOQHQ+j9ms/93HPOV+9EYoAulc+mByeeMCP7LAV1h/lJaFXXrMNxyCldQg1KRBx94+CQlgldzjtRaJhn/+eSgcQXIt9RQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20260308",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Andreas Quandt",
+          "Project Name": "",
+          "Contribution Made": "Proposal email header from TrueSight.Me",
+          "Rubric classification": "",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20210801",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Andreas Quandt",
+          "Project Name": "",
+          "Contribution Made": "Zoom Sync: Suggestion morning 7am is too early for California",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220210",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Andreas Quandt",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Making arrangements to ship 20 bags of ceremonial Cacau from Kirsten’s location to Andrey’s location in San Diego for expansion into San Diego and LA\r\n- Contributor(s): Gary Teh, Andreas Quandt\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_7413.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260214011020_gary_teh_img_7413.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: PG5kMhVieQBiEwhaGd1oQkqzBotyIg77cdY+ICwSbXmB9/7ItZeb9ppPUq4fku3NUX24nt6LjmFZyB0UBGn/Q6uQapAkqeHmrNyCt1AqAuU+XkCOyfGCJAoXRMVdz0g8AcIOVFF2WCAHLN2+HZBvIOG/U5GWfSuC1buDyhgswH0nGJRjlmWHIsSAifB72vN1xV4uv44EAyyzocEgOZC11ky7Yusq+j42O5s97xhyAyr9yVcZBZVhYVtYGyC4OJGcWbv8iEfE4k1kvFEsXq9L+hd4i+gOsHYxNy6XPu8p1GA1dS/1jR1Hglnxgyy1IRF75/n++e8/gryiERQi3UcYfA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20260214",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andreas Quandt",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Receipt and handling of inbound shipment from Kirsten\r\n- Contributor(s): Andreas Quandt\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_8640.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260308200217_gary_teh_img_8640.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: oxseoHyL6usnCXQCMx10/PI2Pi3mPRdUC4hjTva/jXXALga/lmjgM1I8qYHnJWbeASlBPVG1mDHAk4uUs68bgqGxT7U083OROqwyYHWzGZU/ze0+f9PX3MiAZ/vQjmYfZtdwjNJbGptDRqhA3564GyHzfvAKl/3c7DLKkrx3LZzDD1w0KRbd8RfbQ2pMXg9lsFWvIHn1JE6hyvCnvmJJz3WBux2/NztQRlubLPr0xL4zg2h2zPrzMoAH+Eezr+Vxy5BC/4MWJKl6ZjXZtP0PGDISOiJss5lyyP/ZswIsTK1Nf+YAHhn+CkwqRXZ5zSUsXxxUMUfoy2QoEONfu4Qf1A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20260308",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Andreas Quandt",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Suggested to add a dashboard to see all the status of his trees\r\n- Contributor(s): Andreas Quandt\r\n- TDG Issued: 8.33\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: dRiEWbLIVCMAdLrSiMhEGdcs2ECfvqAA3eEEVXI1kKTYj3Xc4QSJP/158lJoTFkdIIV8BaGHq6qP6jhgnj6WELjWOwFblTRSlF5Fb8l/sIV9at4DYZu10EBVoPQHRF/vStrewTGc5XqS4VIP9b5TfbXTItAiP1Wr2kEFzup4DDivPNEaqf+7bre23gCjkcJdSL38mj0PLLGs5wp3yyUf83StreUDYmTI8UkMw6Urz0YnXkYrMN0ZEuTrwxOQHQ+j9ms/93HPOV+9EYoAulc+mByeeMCP7LAV1h/lJaFXXrMNxyCldQg1KRBx94+CQlgldzjtRaJhn/+eSgcQXIt9RQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20260308",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

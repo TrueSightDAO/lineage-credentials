@@ -1,0 +1,75 @@
+{
+  "slug": "chris-arriola",
+  "display_name": "Chris Arriola",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20211214",
+      "latest": "20211214"
+    },
+    "source": {
+      "contributor_name": "Chris Arriola",
+      "generated_date": "2026-05-14T22:06:12.994343",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20211214",
+          "latest": "20211214"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20211214",
+          "latest": "20211214"
+        },
+        "contribution_types": [
+          {
+            "description": "DAO/Token structure reference: TEZOS",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Chris Arriola",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure reference: TEZOS",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211214",
+          "Solana Transfer Hash": "2K2S9LHWWTGDz4F9QrWDBcK7mFUQk849PGkdL78bUb3bzWUyEhukVUcojzJiEym1jAiMtJzrPoj4cgNhB71vd51F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,392 @@
+{
+  "slug": "ilya-voytov",
+  "display_name": "Ilya Voytov",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 14,
+    "total_tdg_provisioned": 1410.0,
+    "date_range": {
+      "earliest": "20181231",
+      "latest": "20220602"
+    },
+    "source": {
+      "contributor_name": "Ilya Voytov",
+      "generated_date": "2026-05-14T22:06:13.441789",
+      "summary": {
+        "total_contributions": 14,
+        "total_tdg_provisioned": 1410.0,
+        "total_tdg_issued": 1410.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20181231",
+          "latest": "20220602"
+        }
+      },
+      "analysis": {
+        "total_contributions": 14,
+        "total_tdg_provisioned": 1410.0,
+        "total_tdg_issued": 1410.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "100 : Build Game - Strategy - Contribute reference material - link": 8,
+          "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending": 1
+        },
+        "date_range": {
+          "earliest": "20181231",
+          "latest": "20220602"
+        },
+        "contribution_types": [
+          {
+            "description": "Contributed key insight on market dispersion theory that the market sell off index is based on also suggested the standard deviation based position sizing and profit taking",
+            "project": "",
+            "tdg": 0,
+            "date": "20181231",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Lazada Asset management uses Axioma for quantitive risk analytics: https://qontigo.com/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220104",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Lazada Asset management first uses Python to do research and then Java for production level implementation. \nPython libraries: pandas/numpy, seaborn, jupyter notebooks",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220104",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Attended Focus Group #5 \nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220517",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Elevation securities is a equity research company. The way they make money is by identifying important and relevant information for investors\n\n- Timeliness is key\n- information is submitted in the form of a report\n- call companies to talk to CEO\n- follow on Laws to figure out its impact on companies\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "People in the finance industry (hedge funds) does not pay to buy trading signals. Instead they pay for the ability to talk to you for an hour to ask you questions about an area you are focused on.\n\nIts more like a consulting kind of service. The clients (hedge funds) determine their own call and make the trade\n\nThere are no people in the industry that sell or buy trading signals. It is the job of hedge fund managers to generate the buy and sell signal and not to buy it\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Follows people on Twitter who does research analysis he finds valuable. Doesn't need to know what their price target is. But knowing if the folks he is following is bullish or bearish on a company helps him identify blindspots in his own mental model about the company\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Source of insights\n\n- Looking for differentiated view points\n- Looking for consensus\n- Check if source is looking at more fundamental data (closer to the operating side of the business) than himself\n- Checking based on actual ground truth if forward guidance is actually achievable\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Hedge fund people go to conferences to find sources or do interpersonal work via their own network. Sell side researchers also reach out to him \n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: corner case the signal however accurate must be actionable. \n\n- No point submitting a signal for a price to be up over the next few seconds if the market is still closed for the next 6 hours!!\n- some stocks don't move, you can make a prediction that the price will stay the same and you will be correct",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bloomberg has a feature that rates analysts for the accuracy of their research versus the market. Almost all of them have a negative score but on one cares. Hedge funds are engaging them because of their expertise in very specific industrial areas\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Hedge funds don't want people following them. Sell side wants more followers because that is how they make money. You want people to call you to get your information. You don't want to give away your stuff for free\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed to take all the calls of people on twitter and build a portfolio tracker using it. The goal is to determine \n\n- the drawdown is on the portfolio calls\n- how volatile the portfolio is\n- benchmark against the market\n- the Sharpe ratio is very important\n- the trading calls need to be executable\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Analysts publish newsletters to talk about the research work they have done. They don't just make calls.\nNewsletters are not ideal for investment memos since they are static and market changes \n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220602",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 14
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Contributed key insight on market dispersion theory that the market sell off index is based on also suggested the standard deviation based position sizing and profit taking",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5,000.00",
+          "Status date": "20181231",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "5,000.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Lazada Asset management uses Axioma for quantitive risk analytics: https://qontigo.com/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220104",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Lazada Asset management first uses Python to do research and then Java for production level implementation. \nPython libraries: pandas/numpy, seaborn, jupyter notebooks",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220104",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Attended Focus Group #5 \nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220517",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Elevation securities is a equity research company. The way they make money is by identifying important and relevant information for investors\n\n- Timeliness is key\n- information is submitted in the form of a report\n- call companies to talk to CEO\n- follow on Laws to figure out its impact on companies\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "People in the finance industry (hedge funds) does not pay to buy trading signals. Instead they pay for the ability to talk to you for an hour to ask you questions about an area you are focused on.\n\nIts more like a consulting kind of service. The clients (hedge funds) determine their own call and make the trade\n\nThere are no people in the industry that sell or buy trading signals. It is the job of hedge fund managers to generate the buy and sell signal and not to buy it\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Follows people on Twitter who does research analysis he finds valuable. Doesn't need to know what their price target is. But knowing if the folks he is following is bullish or bearish on a company helps him identify blindspots in his own mental model about the company\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Source of insights\n\n- Looking for differentiated view points\n- Looking for consensus\n- Check if source is looking at more fundamental data (closer to the operating side of the business) than himself\n- Checking based on actual ground truth if forward guidance is actually achievable\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Hedge fund people go to conferences to find sources or do interpersonal work via their own network. Sell side researchers also reach out to him \n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Gamification: corner case the signal however accurate must be actionable. \n\n- No point submitting a signal for a price to be up over the next few seconds if the market is still closed for the next 6 hours!!\n- some stocks don't move, you can make a prediction that the price will stay the same and you will be correct",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "150",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Bloomberg has a feature that rates analysts for the accuracy of their research versus the market. Almost all of them have a negative score but on one cares. Hedge funds are engaging them because of their expertise in very specific industrial areas\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Hedge funds don't want people following them. Sell side wants more followers because that is how they make money. You want people to call you to get your information. You don't want to give away your stuff for free\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Proposed to take all the calls of people on twitter and build a portfolio tracker using it. The goal is to determine \n\n- the drawdown is on the portfolio calls\n- how volatile the portfolio is\n- benchmark against the market\n- the Sharpe ratio is very important\n- the trading calls need to be executable\n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ilya Voytov",
+          "Project Name": "",
+          "Contribution Made": "Analysts publish newsletters to talk about the research work they have done. They don't just make calls.\nNewsletters are not ideal for investment memos since they are static and market changes \n\nhttps://ide-fgv-br.zoom.us/rec/share/4Z3aWD_YkOogSEtjKvCGUp1IPS83xcCxW6jkk3e1O6qwHGCo6MKBTUbtWkcnLhCQ.iDb9cDTBiXeIy8_K\nPassword: 4byRd*wJ",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220602",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

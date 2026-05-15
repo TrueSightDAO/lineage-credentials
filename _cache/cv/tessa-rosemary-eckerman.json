@@ -1,0 +1,123 @@
+{
+  "slug": "tessa-rosemary-eckerman",
+  "display_name": "Tessa Rosemary Eckerman",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 200.0,
+    "date_range": {
+      "earliest": "20211202",
+      "latest": "20211229"
+    },
+    "source": {
+      "contributor_name": "Tessa Rosemary Eckerman",
+      "generated_date": "2026-05-14T22:06:13.869696",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 5200.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20211202",
+          "latest": "20211229"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 5200.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20211202",
+          "latest": "20211229"
+        },
+        "contribution_types": [
+          {
+            "description": "Growth hacking into Facebook groups",
+            "project": "",
+            "tdg": 0,
+            "date": "20211202",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Feedback on copyrighting: Online Crypto currency Trading Knowledge Simplified for the average Joe",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211229",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggestion video tutorial on how to make your own NFT",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211229",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Tessa Rosemary Eckerman",
+          "Project Name": "",
+          "Contribution Made": "Growth hacking into Facebook groups",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20211202",
+          "Solana Transfer Hash": "3rgQsvNR4gLahz3JXU6iPe4CLhXKMspoUpXwnGexmJPruJV7jBifKZ9JytFepp8A2Xvzt6jphbzvvph94ZwCxnUE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tessa Rosemary Eckerman",
+          "Project Name": "",
+          "Contribution Made": "Feedback on copyrighting: Online Crypto currency Trading Knowledge Simplified for the average Joe",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211229",
+          "Solana Transfer Hash": "3rgQsvNR4gLahz3JXU6iPe4CLhXKMspoUpXwnGexmJPruJV7jBifKZ9JytFepp8A2Xvzt6jphbzvvph94ZwCxnUE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tessa Rosemary Eckerman",
+          "Project Name": "",
+          "Contribution Made": "Suggestion video tutorial on how to make your own NFT",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211229",
+          "Solana Transfer Hash": "3rgQsvNR4gLahz3JXU6iPe4CLhXKMspoUpXwnGexmJPruJV7jBifKZ9JytFepp8A2Xvzt6jphbzvvph94ZwCxnUE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

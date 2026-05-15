@@ -1,0 +1,279 @@
+{
+  "slug": "tushar-sharma",
+  "display_name": "Tushar Sharma",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 9,
+    "total_tdg_provisioned": 608.34,
+    "date_range": {
+      "earliest": "20221109",
+      "latest": "20250820"
+    },
+    "source": {
+      "contributor_name": "Tushar Sharma",
+      "generated_date": "2026-05-14T22:06:13.900038",
+      "summary": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 608.34,
+        "total_tdg_issued": 608.34,
+        "projects": [
+          "Agroverse",
+          "Cypher Defense",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20221109",
+          "latest": "20250820"
+        }
+      },
+      "analysis": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 608.34,
+        "total_tdg_issued": 608.34,
+        "projects": [
+          "Agroverse",
+          "Cypher Defense",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 3,
+          "100TDG For every 1 hour of human effort": 4
+        },
+        "date_range": {
+          "earliest": "20221109",
+          "latest": "20250820"
+        },
+        "contribution_types": [
+          {
+            "description": "FOB - Freight on Board, Buyer responsible for shipping\n\nCIF - seller responsible for cost, insurance and freight of shipping",
+            "project": "Agroverse",
+            "tdg": 0.0,
+            "date": "",
+            "status": ""
+          },
+          {
+            "description": "Operations planning session facetime 1 hour 20221102 \n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+            "project": "Cypher Defense",
+            "tdg": 100.0,
+            "date": "20221109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "master wallet\n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+            "project": "Cypher Defense",
+            "tdg": 50.0,
+            "date": "20221109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed to solution where each entity has a set of meta data recorded on IPFS\n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+            "project": "Cypher Defense",
+            "tdg": 50.0,
+            "date": "20221109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "To allow members to run crawler miners to scan the web for scams",
+            "project": "Cypher Defense",
+            "tdg": 50.0,
+            "date": "20221109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent an hour today chatting with Neil, @919210068790 \n\n*Agenda*\n\n- brazilian and Indian  suppliers for @120363044028036610@g.us. @919210068790 will send price list over \n\n- ⁠MLM marketing for @120363044028036610@g.us with Neil and his network of influencers \n\n- ⁠Neil’s conscious product market place back by sources from @120363044028036610@g.us \n\n- ⁠@919210068790 and Neil’s mental health market place where all spiritualist and mental health practitioners can list their service… related to the Do Nothing society\n\n- ⁠@120363045796860099@g.us Offgrid facility as a venue for @120363044542957540@g.us to unplug and restore their mental health \n\nSeems it’s becoming apparent all these projects are interconnected. ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20240302",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 70\r\n- Description: Doing the video sharing session of our DAO\r\n- Contributor(s): Tushar Sharma\r\n- TDG Issued: 116.67\r\n- Attached Filename: gary_and_tushar.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250820151130_gary_teh_gary_and_tushar.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: yeLfxq/u6+z5EQFUSBTIYQXhX+E1By2ed9Gu4K43vf0zUUeJkr6sIVSdfnP0SEBXm7JCPkqFY8XO+czAzVMAcT73VRgI42a94RcEIP/ZLiuUb9HZAHz3tQuUHXdZlhfmjbjyfS9k51Vqb8ys3A5lWEWyXnkzz2nEiHcsdMXYk4rfTyGgFFky+W8U9v0wHX4+HZlRxiIXiFksHuMjpGGSYqQlkWjfgwoWC0hmIpcg1btzFcKJvT3ywJRMLnPOPvFm1hZCKEv9zHX5+b+bAIx+ylOYmDOXhBS/m4pCMlZHodlAlkiZJVzRv0EiQjwMWHsnG4I/9NxwW8UgyWibdyjYTQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 116.67,
+            "date": "20250820",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 70\r\n- Description: Video recording sharing session about our DAO\r\n- Contributor(s): Tushar Sharma\r\n- TDG Issued: 116.67\r\n- Attached Filename: gary_and_tushar.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250820151226_gary_teh_gary_and_tushar.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: YJxKtJpzGgj1PEMTAx94eNRLXKS3mYq/9iTJfjOHeS1Nfbo3SBIEmNpjIsJTYfG3kI9A1JcoRiKb7EYyJW2T4Lsz6xszxp5dEGnr4cQilojNM2J6MjxM37/DgDDRReizsqvz6ghiukDL9HGF/axIuI9cioNbuHg8mtC1JK+j+rVeM8XYvrKe1loSYb3Qdfui54GCXo8r8sSk0/PSVR4fWTwEaTKP7GKQypwQd1a6xbCFVCf3i8u3V7ZLRVTeM2hg1BZpJsaYDBj94+5eRmH084w6/vSqY0WNIFIKMXyFBF/bNXjPus2+kZpH6JW9uiu6WmGeUM8zn1OTQx/iIHbZVw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 116.67,
+            "date": "20250820",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: On interview about the DAO\r\n- Contributor(s): Gary Teh, Tushar Sharma\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_0555.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250819090131_gary_teh_img_0555.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: A8lA4mejwVROU0n9x+IMeaQ1baVAgu2CM+xUv7AhLhx87Rb+M4Uo6XyzAtWO3dtHHJHHvESjLItWnur1d2fB6gp4+b4vX42ZmVqVREYGSInBsuWidTGieUn6NPFAI1cF5WpkYLDtID4phkHX3ZUfG+x9RyJMsAIts9iQH5hQDStIJ07aWEpP8U/2pRQIcRjHKYSnNAWBbHEeI0zi8dMZ+06G0vG1RQZex0OMvUpnBtZPVSaUWLgKexG5QDKs69hmuxogzszjgA4Vgy315UVF3PTM302qRY7XgXaX3qSLWyRSB57WPYymN7UIP+06rSLUPdKN+yVN1dMjgtsS86/XBg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20250819",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 8
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "Agroverse",
+          "Contribution Made": "FOB - Freight on Board, Buyer responsible for shipping\n\nCIF - seller responsible for cost, insurance and freight of shipping",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Operations planning session facetime 1 hour 20221102 \n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20221109",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "master wallet\n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20221109",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Proposed to solution where each entity has a set of meta data recorded on IPFS\n\nhttps://www.youtube.com/watch?v=Zyb9jpSGzi8",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20221109",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "To allow members to run crawler miners to scan the web for scams",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20221109",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Spent an hour today chatting with Neil, @919210068790 \n\n*Agenda*\n\n- brazilian and Indian  suppliers for @120363044028036610@g.us. @919210068790 will send price list over \n\n- ⁠MLM marketing for @120363044028036610@g.us with Neil and his network of influencers \n\n- ⁠Neil’s conscious product market place back by sources from @120363044028036610@g.us \n\n- ⁠@919210068790 and Neil’s mental health market place where all spiritualist and mental health practitioners can list their service… related to the Do Nothing society\n\n- ⁠@120363045796860099@g.us Offgrid facility as a venue for @120363044542957540@g.us to unplug and restore their mental health \n\nSeems it’s becoming apparent all these projects are interconnected. ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20240302",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 70\r\n- Description: Doing the video sharing session of our DAO\r\n- Contributor(s): Tushar Sharma\r\n- TDG Issued: 116.67\r\n- Attached Filename: gary_and_tushar.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250820151130_gary_teh_gary_and_tushar.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: yeLfxq/u6+z5EQFUSBTIYQXhX+E1By2ed9Gu4K43vf0zUUeJkr6sIVSdfnP0SEBXm7JCPkqFY8XO+czAzVMAcT73VRgI42a94RcEIP/ZLiuUb9HZAHz3tQuUHXdZlhfmjbjyfS9k51Vqb8ys3A5lWEWyXnkzz2nEiHcsdMXYk4rfTyGgFFky+W8U9v0wHX4+HZlRxiIXiFksHuMjpGGSYqQlkWjfgwoWC0hmIpcg1btzFcKJvT3ywJRMLnPOPvFm1hZCKEv9zHX5+b+bAIx+ylOYmDOXhBS/m4pCMlZHodlAlkiZJVzRv0EiQjwMWHsnG4I/9NxwW8UgyWibdyjYTQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "116.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "116.67",
+          "Status date": "20250820",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 70\r\n- Description: Video recording sharing session about our DAO\r\n- Contributor(s): Tushar Sharma\r\n- TDG Issued: 116.67\r\n- Attached Filename: gary_and_tushar.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250820151226_gary_teh_gary_and_tushar.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: YJxKtJpzGgj1PEMTAx94eNRLXKS3mYq/9iTJfjOHeS1Nfbo3SBIEmNpjIsJTYfG3kI9A1JcoRiKb7EYyJW2T4Lsz6xszxp5dEGnr4cQilojNM2J6MjxM37/DgDDRReizsqvz6ghiukDL9HGF/axIuI9cioNbuHg8mtC1JK+j+rVeM8XYvrKe1loSYb3Qdfui54GCXo8r8sSk0/PSVR4fWTwEaTKP7GKQypwQd1a6xbCFVCf3i8u3V7ZLRVTeM2hg1BZpJsaYDBj94+5eRmH084w6/vSqY0WNIFIKMXyFBF/bNXjPus2+kZpH6JW9uiu6WmGeUM8zn1OTQx/iIHbZVw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "116.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "116.67",
+          "Status date": "20250820",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Tushar Sharma",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: On interview about the DAO\r\n- Contributor(s): Gary Teh, Tushar Sharma\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_0555.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250819090131_gary_teh_img_0555.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: A8lA4mejwVROU0n9x+IMeaQ1baVAgu2CM+xUv7AhLhx87Rb+M4Uo6XyzAtWO3dtHHJHHvESjLItWnur1d2fB6gp4+b4vX42ZmVqVREYGSInBsuWidTGieUn6NPFAI1cF5WpkYLDtID4phkHX3ZUfG+x9RyJMsAIts9iQH5hQDStIJ07aWEpP8U/2pRQIcRjHKYSnNAWBbHEeI0zi8dMZ+06G0vG1RQZex0OMvUpnBtZPVSaUWLgKexG5QDKs69hmuxogzszjgA4Vgy315UVF3PTM302qRY7XgXaX3qSLWyRSB57WPYymN7UIP+06rSLUPdKN+yVN1dMjgtsS86/XBg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250819",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

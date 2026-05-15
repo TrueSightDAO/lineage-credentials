@@ -1,0 +1,489 @@
+{
+  "slug": "anne-charboneau",
+  "display_name": "Anne Charboneau",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 18,
+    "total_tdg_provisioned": 4910.0,
+    "date_range": {
+      "earliest": "20210908",
+      "latest": "20220430"
+    },
+    "source": {
+      "contributor_name": "Anne Charboneau",
+      "generated_date": "2026-05-14T22:06:12.896342",
+      "summary": {
+        "total_contributions": 18,
+        "total_tdg_provisioned": 4910.0,
+        "total_tdg_issued": 7160.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20210908",
+          "latest": "20220430"
+        }
+      },
+      "analysis": {
+        "total_contributions": 18,
+        "total_tdg_provisioned": 4910.0,
+        "total_tdg_issued": 7160.0,
+        "projects": [],
+        "rubric_categories": {
+          "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 1,
+          "500 : Build Game - Marketing - Marketing Message with content already provided": 1
+        },
+        "date_range": {
+          "earliest": "20210908",
+          "latest": "20220430"
+        },
+        "contribution_types": [
+          {
+            "description": "Assemble Media package for use with reporters",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Proposed"
+          },
+          {
+            "description": "Technical copyrighting for Reddit FAQ",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20210908",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Technical copyrighting for Website FAQ",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Proposed"
+          },
+          {
+            "description": "Technical copyrighting for About Us page",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Proposed"
+          },
+          {
+            "description": "Subscriber onboarding campaign setup copywriting",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220314",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Copy editing for white paper",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220127",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Copy editing for white paper",
+            "project": "",
+            "tdg": 0,
+            "date": "20220201",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Zoom Sync: Copy edit event agenda",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220210",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Zoom Sync: Cohosting",
+            "project": "",
+            "tdg": 0,
+            "date": "20220222",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Copy editing for white paper",
+            "project": "",
+            "tdg": 0,
+            "date": "20220205",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Copyediting for Landing Page collaboration with Pris and Kuoloon",
+            "project": "",
+            "tdg": 0,
+            "date": "20220308",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group: create partiicipants screening form Copyediting\nhttps://docs.google.com/forms/d/1CD_VHlWGi4l9-zEPCI563o4-iTmBCsaLAoOxNiqklIg/edit?usp=sharing",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Copyediting for growth strategy chart",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group: Copyediting for message to post to Reddit\nhttps://docs.google.com/document/d/11kGwFiLsVgPKpUvjklgbdVkHtP-4R2Oz6OLYHbY8Yco/edit#heading=h.76ooqx54799f",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: review incentive plan for work to earn model for loop holes\nhttps://docs.google.com/spreadsheets/d/1s4mnUFMhR37AElVBDGQ653pJ5ODp4bcr2N8eMLpMuxw/edit#gid=0",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Values review \nShorter will always get my vote!\nFrom a reading standpoint, people roll probably read three values but they’ll be unlikely to read more. 🤷🏻‍♀️\n*people will\nSo if they’re in the “mission statement” they’ll read the first two or three and the rest will register as “blah blah blah” in their minds.\n\nhttps://discord.com/channels/923008087315587072/923008087315587075/956685719353585754\nhttps://discord.com/channels/923008087315587072/923008087315587075/956648724589842482\nhttps://discord.com/channels/923008087315587072/923008087315587075/956649176400277615",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Participated in poll on values\n\nhttps://discord.com/channels/923008087315587072/923008087315587075/956613661504446544",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Copy editing for version 2 of landing page\n\nhttps://miro.com/app/board/uXjVOK4yzAE=/?share_link_id=284390039535",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220430",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Proposed": 3,
+          "Successfully Completed / Full Provision Awarded": 15
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Assemble Media package for use with reporters",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Proposed",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Technical copyrighting for Reddit FAQ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20210908",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Technical copyrighting for Website FAQ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Proposed",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Technical copyrighting for About Us page",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Proposed",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Subscriber onboarding campaign setup copywriting ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20220314",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Copy editing for white paper",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220127",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Copy editing for white paper",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220201",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Zoom Sync: Copy edit event agenda",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220210",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Zoom Sync: Cohosting",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220222",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Copy editing for white paper",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220205",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Copyediting for Landing Page collaboration with Pris and Kuoloon",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20220308",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Focus group: create partiicipants screening form Copyediting\nhttps://docs.google.com/forms/d/1CD_VHlWGi4l9-zEPCI563o4-iTmBCsaLAoOxNiqklIg/edit?usp=sharing",
+          "Rubric classification": "",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220320",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Copyediting for growth strategy chart",
+          "Rubric classification": "",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220320",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Focus group: Copyediting for message to post to Reddit\nhttps://docs.google.com/document/d/11kGwFiLsVgPKpUvjklgbdVkHtP-4R2Oz6OLYHbY8Yco/edit#heading=h.76ooqx54799f",
+          "Rubric classification": "",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Governance: review incentive plan for work to earn model for loop holes\nhttps://docs.google.com/spreadsheets/d/1s4mnUFMhR37AElVBDGQ653pJ5ODp4bcr2N8eMLpMuxw/edit#gid=0",
+          "Rubric classification": "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Governance: Values review \nShorter will always get my vote!\nFrom a reading standpoint, people roll probably read three values but they’ll be unlikely to read more. 🤷🏻‍♀️\n*people will\nSo if they’re in the “mission statement” they’ll read the first two or three and the rest will register as “blah blah blah” in their minds.\n\nhttps://discord.com/channels/923008087315587072/923008087315587075/956685719353585754\nhttps://discord.com/channels/923008087315587072/923008087315587075/956648724589842482\nhttps://discord.com/channels/923008087315587072/923008087315587075/956649176400277615",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Governance: Participated in poll on values\n\nhttps://discord.com/channels/923008087315587072/923008087315587075/956613661504446544",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anne Charboneau",
+          "Project Name": "",
+          "Contribution Made": "Copy editing for version 2 of landing page\n\nhttps://miro.com/app/board/uXjVOK4yzAE=/?share_link_id=284390039535",
+          "Rubric classification": "500 : Build Game - Marketing - Marketing Message with content already provided",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220430",
+          "Solana Transfer Hash": "372kvSkhbHFpA1stqHytSdk44JFWcmkeXMPy9wrzYNrZYAV4CV7up7iESFjRv4LhTPwPpbUywjnrGdjx24Q3UCxN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

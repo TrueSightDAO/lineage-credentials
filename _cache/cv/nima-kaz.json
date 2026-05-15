@@ -1,0 +1,497 @@
+{
+  "slug": "nima-kaz",
+  "display_name": "Nima Kaz",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 18,
+    "total_tdg_provisioned": 1527.6600000000003,
+    "date_range": {
+      "earliest": "20240830",
+      "latest": "20250907"
+    },
+    "source": {
+      "contributor_name": "Nima Kaz",
+      "generated_date": "2026-05-14T22:06:13.729507",
+      "summary": {
+        "total_contributions": 18,
+        "total_tdg_provisioned": 1527.6600000000003,
+        "total_tdg_issued": 1528.1600000000003,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "Recurring Tokenizations",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240830",
+          "latest": "20250907"
+        }
+      },
+      "analysis": {
+        "total_contributions": 18,
+        "total_tdg_provisioned": 1527.6600000000003,
+        "total_tdg_issued": 1528.1600000000003,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "Recurring Tokenizations",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 10,
+          "1TDG For every 1 USD of liquidity injected": 7,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20240830",
+          "latest": "20250907"
+        },
+        "contribution_types": [
+          {
+            "description": "Nima Kaz spent 30 minutes introducing our project to all the Cryptocurrency investor profiles at the Founder Hauz in Florianopolis as well as today in their DAO and Web3 channels <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 49.5,
+            "date": "20240830",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group",
+            "project": "Agroverse",
+            "tdg": 200.0,
+            "date": "20240904",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sales of 1 bag physical transaction ledger line 322",
+            "project": "Agroverse",
+            "tdg": 1.5,
+            "date": "20250208",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thanks Nima Kaz and @palomalecheta for spending 1 hour to setup the cacao circle stand in FounderHaus",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20250214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thanks Nima Kaz for spending 5 minutes to repost our video on LinkedIn \n\nhttps://www.linkedin.com/posts/nimakaz_amazon-activity-7295976678390972416-P6fF?utm_source=share&utm_medium=member_ios&rcm=ACoAAACcI10BqoTD5tvWGJsoBjBBYfFxtQgebaU",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://www.instagram.com/p/DGLydCxyVzQ/?igsh=NTc4MTIwNjQ2YQ==\n\nThank you Nima Kaz for spending 30 minutes to photo this moment and sharing it on Instagram 😊🙏",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20250217",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Nima Kaz and myself spent 10 minutes discussing sharing about TrueSight DAO and Agroverse at the Ipe city gathering this coming Thursday in Florianopolis \n\nIpe city is the crypto currencies community’s attempt to form a network state in that region",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Nima Kaz and Paloma spent 1 hour sharing about Agroverse yesterday",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20250221",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Nima Kaz spent 5 minutes discussing about how to get more folks from Ipe pop up city in Brazil to help step in to support our efforts to restore our Amazonian rainforest \n\nMy personal resources are stretched to the breaking point limits at the moment",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250402",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Warehousing - Davos month ended 20250307",
+            "project": "Agroverse",
+            "tdg": 160.0,
+            "date": "20250405",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes sharing with @554197751093 on how I submit my time spent contributing for TDG tokens",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250421",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you @554197751093 for spending 5 minutes to invite @554888684361 to our WhatsApp community channels",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250421",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "FounderHaus\n\nStart Date: 20250207",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250507",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "FounderHaus\n\nStart Date: 20250207",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250607",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @554197751093 spent 10 minutes discussing tighter coordination for Agroverse during the Ipe Pop up City period ‎<This message was edited>",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250421",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "FounderHaus\n\nStart Date: 20250207",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250707",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "FounderHaus\n\nStart Date: 20250207",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250807",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "FounderHaus\n\nStart Date: 20250207",
+            "project": "Recurring Tokenizations",
+            "tdg": 160.0,
+            "date": "20250907",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 18
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Nima Kaz spent 30 minutes introducing our project to all the Cryptocurrency investor profiles at the Founder Hauz in Florianopolis as well as today in their DAO and Web3 channels <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "49.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20240830",
+          "Solana Transfer Hash": "https://solscan.io/tx/M6P8ysRWwXcUqk8hxmKWDzek2i4eouzgyGBphKVaGvkAkiiRvh4ntmdk7WhHbrxX1FNA8TDeq4a3y2dPwZDWFdV",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Focus group ",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20240904",
+          "Solana Transfer Hash": "https://solscan.io/tx/M6P8ysRWwXcUqk8hxmKWDzek2i4eouzgyGBphKVaGvkAkiiRvh4ntmdk7WhHbrxX1FNA8TDeq4a3y2dPwZDWFdV",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Sales of 1 bag physical transaction ledger line 322",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "1.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.50",
+          "Status date": "20250208",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Thanks Nima Kaz and @palomalecheta for spending 1 hour to setup the cacao circle stand in FounderHaus",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250214",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Thanks Nima Kaz for spending 5 minutes to repost our video on LinkedIn \n\nhttps://www.linkedin.com/posts/nimakaz_amazon-activity-7295976678390972416-P6fF?utm_source=share&utm_medium=member_ios&rcm=ACoAAACcI10BqoTD5tvWGJsoBjBBYfFxtQgebaU",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250214",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "https://www.instagram.com/p/DGLydCxyVzQ/?igsh=NTc4MTIwNjQ2YQ==\n\nThank you Nima Kaz for spending 30 minutes to photo this moment and sharing it on Instagram 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250217",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Nima Kaz and myself spent 10 minutes discussing sharing about TrueSight DAO and Agroverse at the Ipe city gathering this coming Thursday in Florianopolis \n\nIpe city is the crypto currencies community’s attempt to form a network state in that region",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250218",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, Nima Kaz and Paloma spent 1 hour sharing about Agroverse yesterday",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250221",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Nima Kaz spent 5 minutes discussing about how to get more folks from Ipe pop up city in Brazil to help step in to support our efforts to restore our Amazonian rainforest \n\nMy personal resources are stretched to the breaking point limits at the moment",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250402",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Warehousing - Davos month ended 20250307",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250405",
+          "Solana Transfer Hash": "https://solscan.io/tx/4FD1CCsDKKYJ6bWVSpkk2x7FQ5QenHon2bHjyPiTQNYDh62LKdGczWxEsyYztHpqpGaQ8GFHcTheg2nvZaUS5zWa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent 5 minutes sharing with @554197751093 on how I submit my time spent contributing for TDG tokens",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250421",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you @554197751093 for spending 5 minutes to invite @554888684361 to our WhatsApp community channels",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250421",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "FounderHaus\n\nStart Date: 20250207",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250507",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "FounderHaus\n\nStart Date: 20250207",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250607",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @554197751093 spent 10 minutes discussing tighter coordination for Agroverse during the Ipe Pop up City period ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250421",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "FounderHaus\n\nStart Date: 20250207",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250707",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "FounderHaus\n\nStart Date: 20250207",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250807",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Nima Kaz",
+          "Project Name": "Recurring Tokenizations",
+          "Contribution Made": "FounderHaus\n\nStart Date: 20250207",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "160.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "160.00",
+          "Status date": "20250907",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

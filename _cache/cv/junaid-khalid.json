@@ -1,0 +1,106 @@
+{
+  "slug": "junaid-khalid",
+  "display_name": "Junaid Khalid",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 75.0,
+    "date_range": {
+      "earliest": "20220812",
+      "latest": "20220812"
+    },
+    "source": {
+      "contributor_name": "Junaid Khalid",
+      "generated_date": "2026-05-14T22:06:13.540199",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 75.0,
+        "total_tdg_issued": 75.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20220812",
+          "latest": "20220812"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 75.0,
+        "total_tdg_issued": 75.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 1,
+          "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources": 1
+        },
+        "date_range": {
+          "earliest": "20220812",
+          "latest": "20220812"
+        },
+        "contribution_types": [
+          {
+            "description": "Make people pay to see the credit score instead of the predictions. Predictions are easy to see since they are all public",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20220812",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "There are many sites that feature disclosures of politicians. Politicians know what new policies are coming through the pipeline and what their commercial impact is\n\nhttps://l.facebook.com/l.php?u=https%3A%2F%2Fdisclosures-clerk.house.gov%2Fpublic_disc%2Fptr-pdfs%2F2021%2F20018011.pdf%3Ffbclid%3DIwAR1Kk6MjiN1C7Lgg_3_wvAJcvi281Q5oI-igHi0ZjQdzKiPcJNANhsZaL7k&h=AT1rqnVDbE2GB5uHUOPECYMeaRXYmMD3lufrnEKjeUtzz-27zDdTctcuHZvoKwIEoOUk1GhiF58pZuvTW52CA4WydJe8Pu3A9rcdToc-591yRWe7IjS5q_RQzzgFYoj4ptoN6iRcXce7G0ng-B78SH4G",
+            "project": "TrueSight DAO",
+            "tdg": 25.0,
+            "date": "20220812",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Junaid Khalid",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Make people pay to see the credit score instead of the predictions. Predictions are easy to see since they are all public",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220812",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Junaid Khalid",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "There are many sites that feature disclosures of politicians. Politicians know what new policies are coming through the pipeline and what their commercial impact is\n\nhttps://l.facebook.com/l.php?u=https%3A%2F%2Fdisclosures-clerk.house.gov%2Fpublic_disc%2Fptr-pdfs%2F2021%2F20018011.pdf%3Ffbclid%3DIwAR1Kk6MjiN1C7Lgg_3_wvAJcvi281Q5oI-igHi0ZjQdzKiPcJNANhsZaL7k&h=AT1rqnVDbE2GB5uHUOPECYMeaRXYmMD3lufrnEKjeUtzz-27zDdTctcuHZvoKwIEoOUk1GhiF58pZuvTW52CA4WydJe8Pu3A9rcdToc-591yRWe7IjS5q_RQzzgFYoj4ptoN6iRcXce7G0ng-B78SH4G",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20220812",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

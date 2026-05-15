@@ -1,0 +1,156 @@
+{
+  "slug": "craig-henderson",
+  "display_name": "Craig Henderson",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 16.58,
+    "date_range": {
+      "earliest": "20240616",
+      "latest": "20250422"
+    },
+    "source": {
+      "contributor_name": "Craig Henderson",
+      "generated_date": "2026-05-14T22:06:13.014760",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 16.58,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240616",
+          "latest": "20250422"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 16.58,
+        "total_tdg_issued": 16.66,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "1TDG For every 1 USD of liquidity injected": 3,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20240616",
+          "latest": "20250422"
+        },
+        "contribution_types": [
+          {
+            "description": "@447507059473 please confirm with team that you have received USDT500 for our second downpayment\n\n*USDT onchain transaction event*\n\nSecond downpayment of USD501.389204 to LATOKENS exchange for listing fees as per referred agreement\n\n- Transaction hash: https://etherscan.io/tx/0x826604d085edecad06fa2ff3487155420a6ad914162697751ba22391b34561f6 <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 0.0,
+            "date": "20240616",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@447507059473 please confirm with your team that you have received final payment of USDT1500 for listing requirements\n\n*USDT onchain transaction event*\n\nThird and final payment of USDT1500 to LATOKENS exchange for listing fees as per referred agreement\n\n- Transaction Hash: https://etherscan.io/tx/0x3a418976bdaebf63ee157945120b5c0cc3b98ed672347fbd5f30de1dc083ac1f <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 0.0,
+            "date": "20240616",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thanks @447507059473 for spending five minutes reposting our post on LinkedIn\n\nhttps://www.linkedin.com/posts/craig-henderson-5a7509bb_we-heard-your-feedback-loud-and-clear-this-activity-7219332683665977345-FUq_?utm_source=share&utm_medium=member_ios\n\nPlease DM me your Solana wallet address if you haven’t already done  🙂🙏",
+            "project": "TrueSight DAO",
+            "tdg": 8.25,
+            "date": "20240717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @447507059473 spent 5 minutes corresponding to figure out if there is someone on the engineering side we could directly reach out to on LATOKENs",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250422",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Craig Henderson",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@447507059473 please confirm with team that you have received USDT500 for our second downpayment\n\n*USDT onchain transaction event*\n\nSecond downpayment of USD501.389204 to LATOKENS exchange for listing fees as per referred agreement\n\n- Transaction hash: https://etherscan.io/tx/0x826604d085edecad06fa2ff3487155420a6ad914162697751ba22391b34561f6 <This message was edited>",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "0.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "0.00",
+          "Status date": "20240616",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "0.00",
+          "Discord ID": "+44 7507 059473",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Craig Henderson",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@447507059473 please confirm with your team that you have received final payment of USDT1500 for listing requirements\n\n*USDT onchain transaction event*\n\nThird and final payment of USDT1500 to LATOKENS exchange for listing fees as per referred agreement\n\n- Transaction Hash: https://etherscan.io/tx/0x3a418976bdaebf63ee157945120b5c0cc3b98ed672347fbd5f30de1dc083ac1f <This message was edited>",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "0.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "0.00",
+          "Status date": "20240616",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "0.00",
+          "Discord ID": "+44 7507 059473",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Craig Henderson",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Thanks @447507059473 for spending five minutes reposting our post on LinkedIn\n\nhttps://www.linkedin.com/posts/craig-henderson-5a7509bb_we-heard-your-feedback-loud-and-clear-this-activity-7219332683665977345-FUq_?utm_source=share&utm_medium=member_ios\n\nPlease DM me your Solana wallet address if you haven’t already done  🙂🙏",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "8.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240717",
+          "Solana Transfer Hash": "https://solscan.io/tx/4fx44QCML7L4sNJh4q3NgaghqZ33jmn8fdJD9LyT6oyJHCgTrdmR3G67TGeoYDMmaFVeTh4Z6YgtuCiUeLrNdhf1",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+44 7507 059473",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Craig Henderson",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @447507059473 spent 5 minutes corresponding to figure out if there is someone on the engineering side we could directly reach out to on LATOKENs",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250422",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

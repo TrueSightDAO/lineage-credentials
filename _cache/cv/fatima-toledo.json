@@ -3,24 +3,24 @@
   "display_name": "Fatima Toledo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T04:23:24Z",
+  "generated_at": "2026-05-15T05:06:14Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
-    "total_contributions": 236,
-    "total_tdg_provisioned": 33446.43000000002,
+    "total_contributions": 247,
+    "total_tdg_provisioned": 33781.16000000002,
     "date_range": {
       "earliest": "20210631",
-      "latest": "20250820"
+      "latest": "20260211"
     },
     "source": {
       "contributor_name": "Fatima Toledo",
-      "generated_date": "2025-10-08T13:10:15.007730",
+      "generated_date": "2026-05-14T22:06:13.152456",
       "summary": {
-        "total_contributions": 236,
-        "total_tdg_provisioned": 33446.43000000002,
-        "total_tdg_issued": 51880.58000000003,
+        "total_contributions": 247,
+        "total_tdg_provisioned": 33781.16000000002,
+        "total_tdg_issued": 52252.81000000003,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -36,13 +36,13 @@
         ],
         "date_range": {
           "earliest": "20210631",
-          "latest": "20250820"
+          "latest": "20260211"
         }
       },
       "analysis": {
-        "total_contributions": 236,
-        "total_tdg_provisioned": 33446.43000000002,
-        "total_tdg_issued": 51880.58000000003,
+        "total_contributions": 247,
+        "total_tdg_provisioned": 33781.16000000002,
+        "total_tdg_issued": 52252.81000000003,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -96,13 +96,13 @@
           "500 : Partnerships / Business Development - Successful resolved a sticking point with partner so we could further our collaboration": 3,
           "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO": 1,
           "-1 : Transactions - For every 1USDT sent": 1,
-          "100TDG For every 1 hour of human effort": 36,
+          "100TDG For every 1 hour of human effort": 43,
           "1TDG For every 1 USD of liquidity injected": 14,
-          "\"100TDG For every 1 hour of human effort": 7
+          "\"100TDG For every 1 hour of human effort": 11
         },
         "date_range": {
           "earliest": "20210631",
-          "latest": "20250820"
+          "latest": "20260211"
         },
         "contribution_types": [
           {
@@ -1756,10 +1756,87 @@
             "tdg": 125.0,
             "date": "20250820",
             "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: GaryGary, today I was able to get in contact with DHL Epress:- the attendant said it is possible to send cacau beans from Ilhéus to San Francisco (USA). Prices listed below: -shipping for 20kg: R$2.148,00 -shipping for 30kg: R$3.107,00 You must have “APHIS”.Phone number: 11 4200 0033 (there’s an option for English)\r\n- Contributor(s): Fatima Toledo\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: hxX8MvCDrxt1yP45/gbF7HvW7zgpmTsi4ze3Xrx4h0iggaBnLERTdEsDMMKsU0V7WOyl1Jp9kl7056rKHNRVsU5FKtviLOVef5brYrNIKnbWGEWVfVw2moMNMWcb0JJGVmdjArMzWBOKTQCPB5uyYJOL18Fx6oIxIRHeqtGpTO/swT5Bw/qUcjmT4NHVhsT0tfQVaqkV6ZL1FU6Bdpujz6s2dlranm2VO1ylJA64t0tcr4xDGCDDm+/NsXW2tEEzqDwx2FBTuZ5+qjdb0VHcGQ6iF12/FeZoKvUPnOHvJdAJQDNCteDFMDcqPts6Zn1YGCWhE1dBqGy4dRrVLjgRtQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20251022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Heyyyy, today I got in contact with FEDEX:- the attendant said it is possible to send cacau beans from Ilhéus to San Francisco (USA). Prices listed below:-shipping for 20kg: R$3.800,00 -shipping for 30kg: R$6.300,00 The price is approximate. The attendant asked for the dimensions of the box, and since I didn’t know, he inserted a random information! Phone number: 11 3003-3339 (there’s an option for English)\r\n- Contributor(s): Fatima Toledo\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: eArBdQ6W+4K4LmVw5CTmVsJnwHkjGqJ+fy2vT1YwbPGB/lLAagyI62SnWe0JgVLaK6ii0ZdK73ajLge2Xm5KJwVbiMMJo8WCw+C5sCL9fBzVAjaZntdUUf3trqq+WrdKPzhKqgT5CGOzZwOGYFyOW7JBBcRV1kel+L5OVAStcTlQOil/vzvS2+fIgOgAhtQwd1i9l1tTJLz4Kxq+LEqm8ElYUpFuVYKw80eyXRszAiGuNh8VjJXtfccT3dEguHC4eZgSDsSSCQF4YVNyOFB3vFrmpmnczhit980yp3G6EkLx5RKZ2YK8xT2LKJ/bAS0iFVeveWNIpVC7H6TMpo3B0Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20251022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Jasmine and Fatima spent 45 minutes discussing about the supply chain into Zurich.",
+            "project": "20250617_beerhall",
+            "tdg": 37.5,
+            "date": "20250425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes liaising with Fatima and Oscar about site visit and tree planting",
+            "project": "telegram_chatlog",
+            "tdg": 2.78,
+            "date": "20250627",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes following up with Fatima on the next steps for tree planting efforts",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250712",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Just finished facetime meeting with Fatima Toledo. Agenda scussed\n\n- CarAcaiized cacao almond facility visit. \n- ⁠Farm visit to plant trees in Ilheus\n- ⁠Carbon credit issue infrastructure\n- Market testing of ⁠Acai power produced via desert forestation in the Brazilian state of Sera\n\nWe spent 1 hour for facetime.",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20250716",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes liaising with Fatima and Oscar about site visit and tree planting once",
+            "project": "telegram_chatlog",
+            "tdg": 2.78,
+            "date": "20250625",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Fatima Toledo spent 5 minutes doing introductions with the farmers in Bahia Brazil",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250719",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Clarifying the following\r\n  \r\n  - prices of 10 kg caramelize cacao beans from Capela Velha Fazenda\r\n  \r\n  - prices of cacao beans from Santa Ana Fazenda\r\n  \r\n  - prices of 70% chocolate bar from Santos and Martinez\r\n  \r\n  - Prices of hundred percent Cacau bar from Santos and Martinez\r\n- Contributor(s): Gary Teh, Fatima Toledo\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_6332.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260113182621_gary_teh_img_6332.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ztna9townqE11YRSZzMOMBV9H0yPNAUm4q+cmzw+zkXhZ8GOHf333q7YpLjTUp0cvFIMsturctEj+M/o+On0NP9WVG8cyFeB9oayx1SJVfLRK2w1mK5tnHLvUjbaaFRDUYT+qlJFlkgVuXJ3KvZ2TfTHFYJPQlxnxR9J+4wCGLzG7UOqHIAIj4M6YqzP7O9H0mks354DVe2JDVUtTM4agYMXCWp3PqaQ322BbjKxDddec8zTuW1hVnDq9rIEZc0z7ehA5ZHJswigJrHMz1UdytDN3oBGNIsTEGBKop2LYMY+V+3idt5Jmy5Rj6svKvmzwIBannUus6M8c9hdc2+ocw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20260113",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 20\r\n- Description: Discussion of Capela Velha Fazenda and Santos and Martinez\r\n- Contributor(s): Gary Teh, Fatima Toledo\r\n- TDG Issued: 33.33\r\n- Attached Filename: IMG_6588.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260120215518_gary_teh_img_6588.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: HIi/BrBpMHvkjtRkCRHZyEy/bqMo70A4nCt2qZ/GnrZd+SdXR0rI9bwn9FcPRIoiUTk5GmIQbwcWdIACNOgm9R4SVZ+UlsrMWgWks+4RgHIJKN4KzmCJR6sLUQXpvs8MlqcvVyRwdb02DWRhFOozqsZ+PfPQlNQNiR7lnge41J0/cVKMGt2JWgOlTcJpFfvp73zirBYxse2vkSsvt8wBKNvj7DEfVOfxYXEl4ME9jwuD/RFdbJxrt8TBESPIynMMj903bOQsi8RMOsUhQmHUkQLsc7SnlOaMtpawmd5b1enWQ6MMuiUYCk/idU6wU4Aa4awRfw04eqW/QVP5g/cINw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 33.33,
+            "date": "20260120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Spoke with @⁨Fatima⁩ just now \r\n  \r\n  Seems we will be able to bring cost of converting the cacao beans to the cacao nibs to slightly under *_two US dollar per kilogram*_ via Santos facility… basically a *_USD based cost reduction of around 90%*_ 🤩🙏\r\n  \r\n  I will send @⁨Fatima⁩ an email as a formal request tomorrow to get a formal proposal from Santos. Which will detail the following.\r\n  \r\n  - how many kilograms of cacao beans to be processed?\r\n  \r\n  - ⁠ requesting for details on When to drop off\r\n  \r\n  - ⁠ requesting for details on when can the pick up be done?\r\n  \r\n  - ⁠ instructions on how the Nibs should be packed\r\n  \r\n  _PS: freeing up of USD based cost helps finance us to get even more creative with our Supply Chain implementation_\r\n- Contributor(s): Gary Teh, Fatima Toledo\r\n- TDG Issued: 75.00\r\n- Attached Filename: IMG_7334.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260211152715_gary_teh_img_7334.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: slQVqNEtcvKbugoM8hkoWEIvpy4vAv9vFlNWRiKGBISEIHxNIsEUsDXZDGuQeU1+P8fueUQaK3nIfnji8dTvqPOIwJHr5F54xpOusVYn+Gq6FGJ0COzJzFPMcZAW3PDarFlM2qPdSja8Ne81TEOKjPT4ysepoLWuwj+U73GEx7AST6OtBVNWs4P38LaXmDFXEmKQMnMLKvzUFercc5mMLW/4pQpwlyMOobkbqAd+0wjyso6h/Org3Ac3I2830rxMh4W7zg9x3/4P/QVnAougjDw7jaSo1kSzY3EBGDC5rbDlHnH6WQ1Lu1tcnTAopFrTGbUQVx/pUER21jHscVZzcw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 75.0,
+            "date": "20260211",
+            "status": "Successfully Completed / Full Provision Awarded"
           }
         ],
         "status_breakdown": {
-          "Successfully Completed / Full Provision Awarded": 232,
+          "Successfully Completed / Full Provision Awarded": 243,
           "Proposed": 1,
           "Work in Progress": 2
         }
@@ -5769,6 +5846,193 @@
           "Status": "Successfully Completed / Full Provision Awarded",
           "TDGs Issued": "125.00",
           "Status date": "20250820",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: GaryGary, today I was able to get in contact with DHL Epress:- the attendant said it is possible to send cacau beans from Ilhéus to San Francisco (USA). Prices listed below: -shipping for 20kg: R$2.148,00 -shipping for 30kg: R$3.107,00 You must have “APHIS”.Phone number: 11 4200 0033 (there’s an option for English)\r\n- Contributor(s): Fatima Toledo\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: hxX8MvCDrxt1yP45/gbF7HvW7zgpmTsi4ze3Xrx4h0iggaBnLERTdEsDMMKsU0V7WOyl1Jp9kl7056rKHNRVsU5FKtviLOVef5brYrNIKnbWGEWVfVw2moMNMWcb0JJGVmdjArMzWBOKTQCPB5uyYJOL18Fx6oIxIRHeqtGpTO/swT5Bw/qUcjmT4NHVhsT0tfQVaqkV6ZL1FU6Bdpujz6s2dlranm2VO1ylJA64t0tcr4xDGCDDm+/NsXW2tEEzqDwx2FBTuZ5+qjdb0VHcGQ6iF12/FeZoKvUPnOHvJdAJQDNCteDFMDcqPts6Zn1YGCWhE1dBqGy4dRrVLjgRtQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20251022",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Heyyyy, today I got in contact with FEDEX:- the attendant said it is possible to send cacau beans from Ilhéus to San Francisco (USA). Prices listed below:-shipping for 20kg: R$3.800,00 -shipping for 30kg: R$6.300,00 The price is approximate. The attendant asked for the dimensions of the box, and since I didn’t know, he inserted a random information! Phone number: 11 3003-3339 (there’s an option for English)\r\n- Contributor(s): Fatima Toledo\r\n- TDG Issued: 50.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: eArBdQ6W+4K4LmVw5CTmVsJnwHkjGqJ+fy2vT1YwbPGB/lLAagyI62SnWe0JgVLaK6ii0ZdK73ajLge2Xm5KJwVbiMMJo8WCw+C5sCL9fBzVAjaZntdUUf3trqq+WrdKPzhKqgT5CGOzZwOGYFyOW7JBBcRV1kel+L5OVAStcTlQOil/vzvS2+fIgOgAhtQwd1i9l1tTJLz4Kxq+LEqm8ElYUpFuVYKw80eyXRszAiGuNh8VjJXtfccT3dEguHC4eZgSDsSSCQF4YVNyOFB3vFrmpmnczhit980yp3G6EkLx5RKZ2YK8xT2LKJ/bAS0iFVeveWNIpVC7H6TMpo3B0Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20251022",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me, Jasmine and Fatima spent 45 minutes discussing about the supply chain into Zurich.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "37.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20250425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes liaising with Fatima and Oscar about site visit and tree planting",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "2.78",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2.78",
+          "Status date": "20250627",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes following up with Fatima on the next steps for tree planting efforts",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "4.17",
+          "Status date": "20250712",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Just finished facetime meeting with Fatima Toledo. Agenda scussed\n\n- CarAcaiized cacao almond facility visit. \n- ⁠Farm visit to plant trees in Ilheus\n- ⁠Carbon credit issue infrastructure\n- Market testing of ⁠Acai power produced via desert forestation in the Brazilian state of Sera\n\nWe spent 1 hour for facetime.",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250716",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes liaising with Fatima and Oscar about site visit and tree planting once",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "2.78",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2.78",
+          "Status date": "20250625",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Me and Fatima Toledo spent 5 minutes doing introductions with the farmers in Bahia Brazil",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "4.17",
+          "Status date": "20250719",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Clarifying the following\r\n  \r\n  - prices of 10 kg caramelize cacao beans from Capela Velha Fazenda\r\n  \r\n  - prices of cacao beans from Santa Ana Fazenda\r\n  \r\n  - prices of 70% chocolate bar from Santos and Martinez\r\n  \r\n  - Prices of hundred percent Cacau bar from Santos and Martinez\r\n- Contributor(s): Gary Teh, Fatima Toledo\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_6332.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260113182621_gary_teh_img_6332.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ztna9townqE11YRSZzMOMBV9H0yPNAUm4q+cmzw+zkXhZ8GOHf333q7YpLjTUp0cvFIMsturctEj+M/o+On0NP9WVG8cyFeB9oayx1SJVfLRK2w1mK5tnHLvUjbaaFRDUYT+qlJFlkgVuXJ3KvZ2TfTHFYJPQlxnxR9J+4wCGLzG7UOqHIAIj4M6YqzP7O9H0mks354DVe2JDVUtTM4agYMXCWp3PqaQ322BbjKxDddec8zTuW1hVnDq9rIEZc0z7ehA5ZHJswigJrHMz1UdytDN3oBGNIsTEGBKop2LYMY+V+3idt5Jmy5Rj6svKvmzwIBannUus6M8c9hdc2+ocw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20260113",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 20\r\n- Description: Discussion of Capela Velha Fazenda and Santos and Martinez\r\n- Contributor(s): Gary Teh, Fatima Toledo\r\n- TDG Issued: 33.33\r\n- Attached Filename: IMG_6588.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260120215518_gary_teh_img_6588.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: HIi/BrBpMHvkjtRkCRHZyEy/bqMo70A4nCt2qZ/GnrZd+SdXR0rI9bwn9FcPRIoiUTk5GmIQbwcWdIACNOgm9R4SVZ+UlsrMWgWks+4RgHIJKN4KzmCJR6sLUQXpvs8MlqcvVyRwdb02DWRhFOozqsZ+PfPQlNQNiR7lnge41J0/cVKMGt2JWgOlTcJpFfvp73zirBYxse2vkSsvt8wBKNvj7DEfVOfxYXEl4ME9jwuD/RFdbJxrt8TBESPIynMMj903bOQsi8RMOsUhQmHUkQLsc7SnlOaMtpawmd5b1enWQ6MMuiUYCk/idU6wU4Aa4awRfw04eqW/QVP5g/cINw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "33.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "33.33",
+          "Status date": "20260120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Fatima Toledo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Spoke with @⁨Fatima⁩ just now \r\n  \r\n  Seems we will be able to bring cost of converting the cacao beans to the cacao nibs to slightly under *_two US dollar per kilogram*_ via Santos facility… basically a *_USD based cost reduction of around 90%*_ 🤩🙏\r\n  \r\n  I will send @⁨Fatima⁩ an email as a formal request tomorrow to get a formal proposal from Santos. Which will detail the following.\r\n  \r\n  - how many kilograms of cacao beans to be processed?\r\n  \r\n  - ⁠ requesting for details on When to drop off\r\n  \r\n  - ⁠ requesting for details on when can the pick up be done?\r\n  \r\n  - ⁠ instructions on how the Nibs should be packed\r\n  \r\n  _PS: freeing up of USD based cost helps finance us to get even more creative with our Supply Chain implementation_\r\n- Contributor(s): Gary Teh, Fatima Toledo\r\n- TDG Issued: 75.00\r\n- Attached Filename: IMG_7334.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260211152715_gary_teh_img_7334.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: slQVqNEtcvKbugoM8hkoWEIvpy4vAv9vFlNWRiKGBISEIHxNIsEUsDXZDGuQeU1+P8fueUQaK3nIfnji8dTvqPOIwJHr5F54xpOusVYn+Gq6FGJ0COzJzFPMcZAW3PDarFlM2qPdSja8Ne81TEOKjPT4ysepoLWuwj+U73GEx7AST6OtBVNWs4P38LaXmDFXEmKQMnMLKvzUFercc5mMLW/4pQpwlyMOobkbqAd+0wjyso6h/Org3Ac3I2830rxMh4W7zg9x3/4P/QVnAougjDw7jaSo1kSzY3EBGDC5rbDlHnH6WQ1Lu1tcnTAopFrTGbUQVx/pUER21jHscVZzcw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20260211",
           "Solana Transfer Hash": "",
           "TDGs yet Air Dropped": "",
           "Discord ID": "",

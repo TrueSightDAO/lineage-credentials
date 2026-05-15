@@ -1,0 +1,243 @@
+{
+  "slug": "saemin-ahn",
+  "display_name": "Saemin Ahn",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 8,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20220120",
+      "latest": "20220206"
+    },
+    "source": {
+      "contributor_name": "Saemin Ahn",
+      "generated_date": "2026-05-14T22:06:13.805996",
+      "summary": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 9000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220120",
+          "latest": "20220206"
+        }
+      },
+      "analysis": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 9000.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220120",
+          "latest": "20220206"
+        },
+        "contribution_types": [
+          {
+            "description": "VC concerned about price tank when they need to exit for their LPs",
+            "project": "",
+            "tdg": 0,
+            "date": "20220120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "VC concerned about early developers of a chain keeping outsized voting rights/ownership after they have become inactive",
+            "project": "",
+            "tdg": 0,
+            "date": "20220120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "VC concerned about developers staking liquidity provided on other coins for interest and then abandoning project - EOS",
+            "project": "",
+            "tdg": 0,
+            "date": "20220120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Blockchain auditing firms gain access to protocol and do a backdoor by investing in better projects with this unfair advantage",
+            "project": "",
+            "tdg": 0,
+            "date": "20220120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Engineer opportunity cost are way lower than VCs opportunity cost when it comes to crypto currency projects. \nThey are ok vesting a small sum and then leaving the project for another. And the current market encourages this sort of behavior.\nVCs are expecting the team to stay together to grow the product.",
+            "project": "",
+            "tdg": 0,
+            "date": "20220206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Goverance: proposed to vesting to happen at the Epic level as opposed to the story level and tied to hitting some metrics",
+            "project": "",
+            "tdg": 0,
+            "date": "20220206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Goverance: VCs investing funding a project with crypto liquidity is very different from VCs investing Fiat currencies.",
+            "project": "",
+            "tdg": 0,
+            "date": "20220206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Not seeing very clearly how a DAO can scale. The recent wormhole hack for 250million only had 25 developers looking at the problem instead of teams looking at it in larger companies",
+            "project": "",
+            "tdg": 0,
+            "date": "20220206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 8
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "VC concerned about price tank when they need to exit for their LPs",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "VC concerned about early developers of a chain keeping outsized voting rights/ownership after they have become inactive",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "VC concerned about developers staking liquidity provided on other coins for interest and then abandoning project - EOS",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "Blockchain auditing firms gain access to protocol and do a backdoor by investing in better projects with this unfair advantage",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "Community: Engineer opportunity cost are way lower than VCs opportunity cost when it comes to crypto currency projects. \nThey are ok vesting a small sum and then leaving the project for another. And the current market encourages this sort of behavior.\nVCs are expecting the team to stay together to grow the product. ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1000",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "Goverance: proposed to vesting to happen at the Epic level as opposed to the story level and tied to hitting some metrics",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1000",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "Goverance: VCs investing funding a project with crypto liquidity is very different from VCs investing Fiat currencies.",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1000",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Saemin Ahn",
+          "Project Name": "",
+          "Contribution Made": "Community: Not seeing very clearly how a DAO can scale. The recent wormhole hack for 250million only had 25 developers looking at the problem instead of teams looking at it in larger companies",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1000",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

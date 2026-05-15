@@ -1,0 +1,231 @@
+{
+  "slug": "vanja",
+  "display_name": "Vanja",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 754.0,
+    "date_range": {
+      "earliest": "20230524",
+      "latest": "20231107"
+    },
+    "source": {
+      "contributor_name": "Vanja",
+      "generated_date": "2026-05-14T22:06:13.919106",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 754.0,
+        "total_tdg_issued": 504.0,
+        "projects": [
+          "Agroverse",
+          "Sun Mint",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230524",
+          "latest": "20231107"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 754.0,
+        "total_tdg_issued": 504.0,
+        "projects": [
+          "Agroverse",
+          "Sun Mint",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Bring Builders - brought on a active contributor": 3,
+          "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)": 4
+        },
+        "date_range": {
+          "earliest": "20230524",
+          "latest": "20231107"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduced Lazar who has had experienced with bitcoin mining to the project",
+            "project": "Sun Mint",
+            "tdg": 250.0,
+            "date": "20230524",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Ruben",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Reintroduced Suheil",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20230524",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reposted Bean to Bliss Episode 5\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7114473592792211456?utm_source=share&utm_medium=member_desktop",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231002",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reposted Bean to Bliss Episode 6\n\nhttps://www.linkedin.com/posts/suheil-zoabi_agroverseshop-beantobliss-cacaoconnoisseurs-activity-7117105180352864256--03v?utm_source=share&utm_medium=member_ios",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231009",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reshared all 7 epsiodes of Beans to Bliss\n\nhttps://www.instagram.com/stories/cryptoslavvv.eth/3215031297246399468/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reposted on Episode 9 on LinkedIn\n\nhttps://www.linkedin.com/company/74714083/admin/feed/posts/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 6,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Vanja",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "Introduced Lazar who has had experienced with bitcoin mining to the project",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230524",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vanja",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Ruben",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vanja",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Reintroduced Suheil",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230524",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vanja",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Reposted Bean to Bliss Episode 5\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7114473592792211456?utm_source=share&utm_medium=member_desktop",
+          "Rubric classification": "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231002",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vanja",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Reposted Bean to Bliss Episode 6\n\nhttps://www.linkedin.com/posts/suheil-zoabi_agroverseshop-beantobliss-cacaoconnoisseurs-activity-7117105180352864256--03v?utm_source=share&utm_medium=member_ios",
+          "Rubric classification": "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231009",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vanja",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Reshared all 7 epsiodes of Beans to Bliss\n\nhttps://www.instagram.com/stories/cryptoslavvv.eth/3215031297246399468/",
+          "Rubric classification": "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231022",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Vanja",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Reposted on Episode 9 on LinkedIn\n\nhttps://www.linkedin.com/company/74714083/admin/feed/posts/",
+          "Rubric classification": "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

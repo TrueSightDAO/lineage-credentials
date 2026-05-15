@@ -1,0 +1,77 @@
+{
+  "slug": "artiom-baloian",
+  "display_name": "Artiom Baloian",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20220502",
+      "latest": "20220502"
+    },
+    "source": {
+      "contributor_name": "Artiom Baloian",
+      "generated_date": "2026-05-14T22:06:12.931479",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220502",
+          "latest": "20220502"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Contribute reference material - link": 1
+        },
+        "date_range": {
+          "earliest": "20220502",
+          "latest": "20220502"
+        },
+        "contribution_types": [
+          {
+            "description": "What is a DAO  used for Tomorrow Conference\nhttps://t.me/c/1615218389/1733\nhttps://baloian.medium.com/what-is-dao-7ac8bcdb846f",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220502",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Artiom Baloian",
+          "Project Name": "",
+          "Contribution Made": "What is a DAO  used for Tomorrow Conference\nhttps://t.me/c/1615218389/1733\nhttps://baloian.medium.com/what-is-dao-7ac8bcdb846f",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220502",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

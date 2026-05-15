@@ -1,11 +1,11 @@
 # Edge and Node
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **11**
-- Total TDG provisioned: **3,192.67**
+- Total TDG provisioned: **4,442.67**
 - Active period: 20230917 – 20250221
 - Source: [_cache/cv/edge-and-node.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/edge-and-node.json)
 

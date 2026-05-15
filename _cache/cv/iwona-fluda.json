@@ -3,24 +3,24 @@
   "display_name": "Iwona Fluda",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 35,
-    "total_tdg_provisioned": 3708.55,
+    "total_tdg_provisioned": 5658.549999999999,
     "date_range": {
       "earliest": "20230203",
       "latest": "20251127"
     },
     "source": {
       "contributor_name": "Iwona Fluda",
-      "generated_date": "2026-05-14T22:18:14.099921",
+      "generated_date": "2026-05-14T22:21:50.346580",
       "summary": {
         "total_contributions": 35,
-        "total_tdg_provisioned": 3708.55,
-        "total_tdg_issued": 3708.55,
+        "total_tdg_provisioned": 5658.549999999999,
+        "total_tdg_issued": 5658.549999999999,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -35,8 +35,8 @@
       },
       "analysis": {
         "total_contributions": 35,
-        "total_tdg_provisioned": 3708.55,
-        "total_tdg_issued": 3708.55,
+        "total_tdg_provisioned": 5658.549999999999,
+        "total_tdg_issued": 5658.549999999999,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -96,7 +96,7 @@
           {
             "description": "Board members / governors duties and responsibilities\n\n39 bullet points\n\nhttps://docs.google.com/document/d/1ftCRhhbGp1ahaxCN0XuMr4IBRYXl4Kg8SerEd6Tv0m8/edit",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1950.0,
             "date": "20230617",
             "status": "Successfully Completed / Full Provision Awarded"
           },

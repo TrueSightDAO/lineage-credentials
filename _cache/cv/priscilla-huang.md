@@ -1,11 +1,11 @@
 # Priscilla Huang
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **129**
-- Total TDG provisioned: **18,690.00**
+- Total TDG provisioned: **74,940.00**
 - Active period: 20210631 – 20220910
 - Source: [_cache/cv/priscilla-huang.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/priscilla-huang.json)
 

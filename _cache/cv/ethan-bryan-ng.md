@@ -1,11 +1,11 @@
 # Ethan Bryan Ng
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **22**
-- Total TDG provisioned: **2,100.00**
+- Total TDG provisioned: **25,100.00**
 - Active period: 20211230 – 20220422
 - Source: [_cache/cv/ethan-bryan-ng.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/ethan-bryan-ng.json)
 

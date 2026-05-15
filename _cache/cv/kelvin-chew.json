@@ -3,24 +3,24 @@
   "display_name": "Kelvin Chew",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 85,
-    "total_tdg_provisioned": 14610.0,
+    "total_tdg_provisioned": 68360.0,
     "date_range": {
       "earliest": "20210631",
       "latest": "20251119"
     },
     "source": {
       "contributor_name": "Kelvin Chew",
-      "generated_date": "2026-05-14T22:18:14.208731",
+      "generated_date": "2026-05-14T22:21:50.445170",
       "summary": {
         "total_contributions": 85,
-        "total_tdg_provisioned": 14610.0,
-        "total_tdg_issued": 53360.0,
+        "total_tdg_provisioned": 68360.0,
+        "total_tdg_issued": 58360.0,
         "projects": [
           "Agroverse",
           "MarketMonocle",
@@ -34,8 +34,8 @@
       },
       "analysis": {
         "total_contributions": 85,
-        "total_tdg_provisioned": 14610.0,
-        "total_tdg_issued": 53360.0,
+        "total_tdg_provisioned": 68360.0,
+        "total_tdg_issued": 58360.0,
         "projects": [
           "Agroverse",
           "MarketMonocle",
@@ -79,42 +79,42 @@
           {
             "description": "Sell off charts UI/UX suggested improvements",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "User experience: The investment thesis is equally if not more important than the trading signals itself.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220224",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "User experience: Each investment thesis is like a concept store that would last over a specific period of time.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220224",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "User experience: As times goes by and high levels of predictions associated with an investment thesis is observed, the investment thesis becomes more and more believable. Hence the next prediction is worth money.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220224",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Tokenomics: Rethink DAO payout formula\n\nMake it less like options and more focus accuracy of prediction.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220517",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Tokenomics: Structuring compensation in the form of NFTs where tokens are paid out like warrants or stock options",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -282,21 +282,21 @@
           {
             "description": "Gamification: Create first draft of our game's payout structure by mimicking Jackpot \n\nhttps://docs.google.com/spreadsheets/d/1iZdjZoE6cYXPYnbtxeHmKNwKe9LtH1EwOhVWVrcdsrE/edit#gid=0",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220601",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Introduce professional mathematician to design our payout structure",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Gamification: Change the payout formula for the game to be winner takes all based on who is the most accurate instead of proportionate split amongst correct predictors",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220513",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -317,14 +317,14 @@
           {
             "description": "Gamification: Create a style of game play called BY. 10TSD to buy in\n\nhttps://docs.google.com/spreadsheets/d/1iZdjZoE6cYXPYnbtxeHmKNwKe9LtH1EwOhVWVrcdsrE/edit#gid=0\n\nhttps://www.youtube.com/watch?v=gpFqmgq5vps\nhttps://totango.zoom.us/rec/share/a4D8x92hde5DL2_GwwUeDyLDSY-lN0MAAoQJSETbdCae8gzeC4UnAFyr2tBjtwX5.KyZe2JXAWuYHH7hy\nPasscode =  n.WW1u*h",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220601",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Gamification: Create a style of game play called ON. 10TSD to buy in\n\nhttps://docs.google.com/spreadsheets/d/1iZdjZoE6cYXPYnbtxeHmKNwKe9LtH1EwOhVWVrcdsrE/edit#gid=0\n\nhttps://www.youtube.com/watch?v=gpFqmgq5vps\nhttps://totango.zoom.us/rec/share/a4D8x92hde5DL2_GwwUeDyLDSY-lN0MAAoQJSETbdCae8gzeC4UnAFyr2tBjtwX5.KyZe2JXAWuYHH7hy\nPasscode =  n.WW1u*h",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220601",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -436,7 +436,7 @@
           {
             "description": "Google sheet that documents that entire Game Design formula\nhttps://docs.google.com/spreadsheets/d/1Not2VWlObGbPvglgtt4QVn2HbcM0irv6t4YCwafMjJ8/edit?usp=gmail_thread&ts=62acd7f6",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220619",
             "status": "Successfully Completed / Full Provision Awarded"
           },

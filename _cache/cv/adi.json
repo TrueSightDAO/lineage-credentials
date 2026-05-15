@@ -3,24 +3,24 @@
   "display_name": "Adi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 43,
-    "total_tdg_provisioned": 6000.9400000000005,
+    "total_tdg_provisioned": 9750.939999999999,
     "date_range": {
       "earliest": "20220717",
       "latest": "20251217"
     },
     "source": {
       "contributor_name": "Adi",
-      "generated_date": "2026-05-14T22:18:13.432238",
+      "generated_date": "2026-05-14T22:21:49.686569",
       "summary": {
         "total_contributions": 43,
-        "total_tdg_provisioned": 6000.9400000000005,
-        "total_tdg_issued": 5000.9400000000005,
+        "total_tdg_provisioned": 9750.939999999999,
+        "total_tdg_issued": 8750.94,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -34,8 +34,8 @@
       },
       "analysis": {
         "total_contributions": 43,
-        "total_tdg_provisioned": 6000.9400000000005,
-        "total_tdg_issued": 5000.9400000000005,
+        "total_tdg_provisioned": 9750.939999999999,
+        "total_tdg_issued": 8750.94,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -135,14 +135,14 @@
           {
             "description": "Setup template for Main DAO website landing page",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230903",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Setup template for project detail page",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230903",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -212,7 +212,7 @@
           {
             "description": "Finished CSS styling for main website landing page\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231012%20-%20shadi%20website%20styling.mp4",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20231020",
             "status": "Successfully Completed / Full Provision Awarded"
           },

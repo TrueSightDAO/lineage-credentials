@@ -3,23 +3,23 @@
   "display_name": "Eric Ly",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 1,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 1250.0,
     "date_range": {
       "earliest": "20220113",
       "latest": "20220113"
     },
     "source": {
       "contributor_name": "Eric Ly",
-      "generated_date": "2026-05-14T22:18:13.740744",
+      "generated_date": "2026-05-14T22:21:50.003449",
       "summary": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 1250.0,
         "total_tdg_issued": 1250.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 1250.0,
         "total_tdg_issued": 1250.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "Know your customer becomes super important when enterprises start utilizing the protocol. This is to prevent random stranger impersonating a fund on the protocol",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220113",
             "status": "Successfully Completed / Full Provision Awarded"
           }

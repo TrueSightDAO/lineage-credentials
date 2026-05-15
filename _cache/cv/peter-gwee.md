@@ -1,11 +1,11 @@
 # Peter Gwee
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **7**
-- Total TDG provisioned: **2,512.50**
+- Total TDG provisioned: **3,762.50**
 - Active period: 20220128 – 20250318
 - Source: [_cache/cv/peter-gwee.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/peter-gwee.json)
 

@@ -3,24 +3,24 @@
   "display_name": "Shadi Atamne",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 19,
-    "total_tdg_provisioned": 1682.6599999999999,
+    "total_tdg_provisioned": 5432.66,
     "date_range": {
       "earliest": "20230520",
       "latest": "20231113"
     },
     "source": {
       "contributor_name": "Shadi Atamne",
-      "generated_date": "2026-05-14T22:18:14.492657",
+      "generated_date": "2026-05-14T22:21:50.708280",
       "summary": {
         "total_contributions": 19,
-        "total_tdg_provisioned": 1682.6599999999999,
-        "total_tdg_issued": 1682.6599999999999,
+        "total_tdg_provisioned": 5432.66,
+        "total_tdg_issued": 5432.66,
         "projects": [
           "Agroverse",
           "TrueSight DAO"
@@ -32,8 +32,8 @@
       },
       "analysis": {
         "total_contributions": 19,
-        "total_tdg_provisioned": 1682.6599999999999,
-        "total_tdg_issued": 1682.6599999999999,
+        "total_tdg_provisioned": 5432.66,
+        "total_tdg_issued": 5432.66,
         "projects": [
           "Agroverse",
           "TrueSight DAO"
@@ -83,14 +83,14 @@
           {
             "description": "Setup template for Main DAO website landing page",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230903",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Setup template for project detail page",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230903",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -132,7 +132,7 @@
           {
             "description": "Finished CSS styling for main website landing page\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231012%20-%20shadi%20website%20styling.mp4",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20231020",
             "status": "Successfully Completed / Full Provision Awarded"
           },

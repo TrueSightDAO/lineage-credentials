@@ -3,24 +3,24 @@
   "display_name": "Vlatko Gigov",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 162,
-    "total_tdg_provisioned": 22916.359999999997,
+    "total_tdg_provisioned": 81945.1,
     "date_range": {
       "earliest": "20201015",
       "latest": "20260309"
     },
     "source": {
       "contributor_name": "Vlatko Gigov",
-      "generated_date": "2026-05-14T22:18:14.637561",
+      "generated_date": "2026-05-14T22:21:50.838319",
       "summary": {
         "total_contributions": 162,
-        "total_tdg_provisioned": 22916.359999999997,
-        "total_tdg_issued": 63305.34,
+        "total_tdg_provisioned": 81945.1,
+        "total_tdg_issued": 50584.08,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -38,8 +38,8 @@
       },
       "analysis": {
         "total_contributions": 162,
-        "total_tdg_provisioned": 22916.359999999997,
-        "total_tdg_issued": 63305.34,
+        "total_tdg_provisioned": 81945.1,
+        "total_tdg_issued": 50584.08,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -115,7 +115,7 @@
           {
             "description": "Choice of DAO incorporation in Switzerland\n\n1. Personal favorite Cooperative Legal Form\n2. association is the form taken by the devxdao community deploying dev grants for Casper\nVlatko\n3. foundation is usually a form taken by ico era suits, eth, tezos, etc... which is a more robust and centralized form",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -129,7 +129,7 @@
           {
             "description": "Introduction to BitDAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -213,7 +213,7 @@
           {
             "description": "COOP swiss cantons:  1. Geneva: un/ngos, commodities, private banking 2. Zürich: banking, wealth 3. Zug: shell companies 4. Basel: trading / world monetary system, \nI would choose between Geneva Zürich or Basel.",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -290,28 +290,28 @@
           {
             "description": "Gathered feedback for white paper: https://vestun.com/leadership.html\n\nHi Vigi,\nThanks for sharing. I went through quickly. My honest opinion is that I don't really see the value. As a Quant firm, I'm not selling a bot to my investors. People invest because of the story, team expertise, and track record which can be audited etc. When someone speaks about a trading bot, it's already usually a red flag. Executing a trading startegy is not just running a few lines of codes. If the objective is to store the proof (record) on the blockchain, it's very easy to do and it's free. Just my impression. I can be wrong",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Gathered feedback for white paper: https://www.linkedin.com/in/vpolonski/?locale=en_US",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Community: Allow community members to compete against each other behind closed doors",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Community: party where quant enthusiast come together for a quantaton",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -325,7 +325,7 @@
           {
             "description": "Compliance for gaming: online gambling licensed \"newco\" in Malta to funnel the gaming proceeds when we start extending our predictions into live sporting events",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -346,7 +346,7 @@
           {
             "description": "Tokenomics: Proposed extending our white paper with Fund of Love",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -360,7 +360,7 @@
           {
             "description": "Introduced Anika",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220306",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -381,7 +381,7 @@
           {
             "description": "Deciding where to mint the NFT will determine how our roll out will be. \n\nMinting NFTs on Ethereum will gaurantee a large turn out up front but the problem will then be about retaining all these folks \nMinting NFTs on Solana might mean a really low turn out up front and it becomes an uphill battle as we seek to get more folks in. However the trade off is having the time to refine our concept as we figure out Utility market fit",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220311",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -430,7 +430,7 @@
           {
             "description": "Tokenomics and Liquidity: Set sunk cost price as USD1 and do not fall below that price",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -451,7 +451,7 @@
           {
             "description": "Tokenomics and Liquidity: NFTs should not be considered as fundraising",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -479,7 +479,7 @@
           {
             "description": "Gamification: TrueSight provides parsed information to support gamers to give them conviction to make predictions",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -514,7 +514,7 @@
           {
             "description": "Gamification: Show the Governors Weightage Ranking",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -556,28 +556,28 @@
           {
             "description": "Onboard Bing - Silur",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Introduction: Founder of Etorro",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Make Introduction to Aleks a crazy crypto quant\n\nhttps://t.me/Aleks_OTA",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Partnerships: Cross Pollination with Ocean Protocol\n\nhttps://oceanprotocol.com/",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -598,7 +598,7 @@
           {
             "description": "Daoversal Group Onboarding: \n\nFor all members from Daoversal group who contributes to TrueSight DAO, the distribution of tokens will be done via the following distribution.\n\n60% DAOversal Group\n40% individual contributor from DAOversal",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220404",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -612,7 +612,7 @@
           {
             "description": "Introduction: Doris from DAOVersal group who is in charge of finances",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220408",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -626,14 +626,14 @@
           {
             "description": "Introduction: Betty from ScribesDAO who will be helping score DAO member contributions",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220408",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Introduction: Neo from DAOVersal group approved the financing of the project",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220408",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -654,7 +654,7 @@
           {
             "description": "Finalized agreement with DAOversal group to contribute 14,000TSD worth of manpower effort per month\n    - Engineering \n    - Design\n    - Marketing\n    - Community Management\n\nhttps://truesight.me/rubric",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220410",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -731,7 +731,7 @@
           {
             "description": "Governance: Finalized Global DAO alliance details",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220509",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -752,21 +752,21 @@
           {
             "description": "Made introduction to Josh the Neo who is the host for Davos - Crypto House",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Made introduction to Zoran - organizer of Tomorrow Conference",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220514",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Marketing: Interviewed TrueSight DAO in speakers panel\n\nhttps://tmrwconf.net/agenda/\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220516_tomorrow_conference_panel.jpg",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220516",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1214,7 +1214,7 @@
           {
             "description": "Sold on Open market \n\nBalance in Wallet \n50,533.74\nhttps://solscan.io/account/h6HDCz49qbSinytFj1p3GyxkD4QxwWhKZawDzZ2NyTW#portfolio\n\nTotal ever earned on Wallet: 79,505\n\nBalance that was sold 28971.26",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": -28971.26,
             "date": "20250905",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -3,23 +3,23 @@
   "display_name": "Dirk Watkins",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 1,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 2000.0,
     "date_range": {
       "earliest": "20211222",
       "latest": "20211222"
     },
     "source": {
       "contributor_name": "Dirk Watkins",
-      "generated_date": "2026-05-14T22:18:13.662297",
+      "generated_date": "2026-05-14T22:21:49.923580",
       "summary": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 2000.0,
         "total_tdg_issued": 2000.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 2000.0,
         "total_tdg_issued": 2000.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "New Brand landing page implementation - https://truesight.dirq.net/",
             "project": "",
-            "tdg": 0,
+            "tdg": 2000.0,
             "date": "20211222",
             "status": "Successfully Completed / Full Provision Awarded"
           }

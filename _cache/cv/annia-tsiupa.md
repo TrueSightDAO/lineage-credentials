@@ -1,11 +1,11 @@
 # Annia Tsiupa
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **39**
-- Total TDG provisioned: **5,058.33**
+- Total TDG provisioned: **8,808.33**
 - Active period: 20230529 – 20250407
 - Source: [_cache/cv/annia-tsiupa.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/annia-tsiupa.json)
 

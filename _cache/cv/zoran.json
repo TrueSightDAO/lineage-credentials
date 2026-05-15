@@ -3,24 +3,24 @@
   "display_name": "Zoran",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 3,
-    "total_tdg_provisioned": 100.0,
+    "total_tdg_provisioned": 6350.0,
     "date_range": {
       "earliest": "20220414",
       "latest": "20220705"
     },
     "source": {
       "contributor_name": "Zoran",
-      "generated_date": "2026-05-14T22:18:14.683119",
+      "generated_date": "2026-05-14T22:21:50.883776",
       "summary": {
         "total_contributions": 3,
-        "total_tdg_provisioned": 100.0,
-        "total_tdg_issued": 100.0,
+        "total_tdg_provisioned": 6350.0,
+        "total_tdg_issued": 5100.0,
         "projects": [],
         "date_range": {
           "earliest": "20220414",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 3,
-        "total_tdg_provisioned": 100.0,
-        "total_tdg_issued": 100.0,
+        "total_tdg_provisioned": 6350.0,
+        "total_tdg_issued": 5100.0,
         "projects": [],
         "rubric_categories": {
           "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO": 1,
@@ -45,7 +45,7 @@
           {
             "description": "Governance: transparency of appeal system",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -59,7 +59,7 @@
           {
             "description": "Organized entire logistics for the Tomorrow Conference Beldgrade\n\nhttps://tmrwconf.net/speakers/gary-teh/",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220705",
             "status": "Successfully Completed / Full Provision Awarded"
           }

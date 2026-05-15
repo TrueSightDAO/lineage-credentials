@@ -1,11 +1,11 @@
 # Christina Yu
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **2**
-- Total TDG provisioned: **100.00**
+- Total TDG provisioned: **5,100.00**
 - Active period: 20211202 – 20220107
 - Source: [_cache/cv/christina-yu.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/christina-yu.json)
 

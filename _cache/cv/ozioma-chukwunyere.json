@@ -3,23 +3,23 @@
   "display_name": "Ózìómà Chúkwúnyéré",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 5,
-    "total_tdg_provisioned": 278.33,
+    "total_tdg_provisioned": 5278.33,
     "date_range": {
       "earliest": "20201015",
       "latest": "20250411"
     },
     "source": {
       "contributor_name": "Ózìómà Chúkwúnyéré",
-      "generated_date": "2026-05-14T22:18:14.687338",
+      "generated_date": "2026-05-14T22:21:50.887785",
       "summary": {
         "total_contributions": 5,
-        "total_tdg_provisioned": 278.33,
+        "total_tdg_provisioned": 5278.33,
         "total_tdg_issued": 5278.33,
         "projects": [
           "20250617_beerhall",
@@ -33,7 +33,7 @@
       },
       "analysis": {
         "total_contributions": 5,
-        "total_tdg_provisioned": 278.33,
+        "total_tdg_provisioned": 5278.33,
         "total_tdg_issued": 5278.33,
         "projects": [
           "20250617_beerhall",
@@ -75,7 +75,7 @@
           {
             "description": "Setup fireside chat for TrueSight DAO to share RnD on AI at the AI assemblage\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230323%20-%20AI%20summit%20recording.ogg",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20230319",
             "status": "Successfully Completed / Full Provision Awarded"
           },

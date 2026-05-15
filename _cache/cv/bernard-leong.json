@@ -3,23 +3,23 @@
   "display_name": "Bernard Leong",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 7,
-    "total_tdg_provisioned": 905.0,
+    "total_tdg_provisioned": 2155.0,
     "date_range": {
       "earliest": "20220129",
       "latest": "20220201"
     },
     "source": {
       "contributor_name": "Bernard Leong",
-      "generated_date": "2026-05-14T22:18:13.544602",
+      "generated_date": "2026-05-14T22:21:49.794109",
       "summary": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 905.0,
+        "total_tdg_provisioned": 2155.0,
         "total_tdg_issued": 2155.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 905.0,
+        "total_tdg_provisioned": 2155.0,
         "total_tdg_issued": 2155.0,
         "projects": [],
         "rubric_categories": {},
@@ -69,7 +69,7 @@
           {
             "description": "Private chains had never really worked. So did direct porting of Web 2.0 concept to Web3",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220129",
             "status": "Successfully Completed / Full Provision Awarded"
           },

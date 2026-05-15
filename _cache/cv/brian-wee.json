@@ -3,23 +3,23 @@
   "display_name": "Brian Wee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 2,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 2500.0,
     "date_range": {
       "earliest": "20220304",
       "latest": "20220304"
     },
     "source": {
       "contributor_name": "Brian Wee",
-      "generated_date": "2026-05-14T22:18:13.581476",
+      "generated_date": "2026-05-14T22:21:49.830980",
       "summary": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 2500.0,
         "total_tdg_issued": 2500.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 2500.0,
         "total_tdg_issued": 2500.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,14 +41,14 @@
           {
             "description": "Community: Believe the thesis is there is enough people in the market who believes they are good at trading to populate PvE and PvP mode. Should hold off on the God Mode since there are already alot of competitors in the market",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Tokenomics: Game pay out needs to be more attractive than the exchanges. Usually when people bet, they would expect minimum 2X returns. Otherwise they will just go back to exchanges",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           }

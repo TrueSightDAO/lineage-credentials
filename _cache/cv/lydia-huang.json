@@ -3,23 +3,23 @@
   "display_name": "Lydia Huang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 10,
-    "total_tdg_provisioned": 1075.0,
+    "total_tdg_provisioned": 4825.0,
     "date_range": {
       "earliest": "20220119",
       "latest": "20220621"
     },
     "source": {
       "contributor_name": "Lydia Huang",
-      "generated_date": "2026-05-14T22:18:14.298462",
+      "generated_date": "2026-05-14T22:21:50.523200",
       "summary": {
         "total_contributions": 10,
-        "total_tdg_provisioned": 1075.0,
+        "total_tdg_provisioned": 4825.0,
         "total_tdg_issued": 1075.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 10,
-        "total_tdg_provisioned": 1075.0,
+        "total_tdg_provisioned": 4825.0,
         "total_tdg_issued": 1075.0,
         "projects": [],
         "rubric_categories": {
@@ -43,7 +43,7 @@
           {
             "description": "News topics page design refresh https://www.pivotaltracker.com/story/show/180833710",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -57,7 +57,7 @@
           {
             "description": "Concept Deck: Port presentation over to Canva",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "",
             "status": "Aborted"
           },
@@ -85,7 +85,7 @@
           {
             "description": "Landing page Design for Minting NFTs:\n\nExample minting pages:\n----------\n    - https://www.chillchat.me/\n    - https://www.stonedapecrew.com/ \n    - https://boredapeyachtclub.com/#/home\n\nLiquidity: NFT mint landing page components\n\n- NFT fundraising mint campaign website high level visuals\n\n    1) Short project summary + why you should buy \n    2) Road Map \n    3) FAQ\n    4) Link to socials",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },

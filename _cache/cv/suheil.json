@@ -3,24 +3,24 @@
   "display_name": "Suheil",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 78,
-    "total_tdg_provisioned": 8482.08,
+    "total_tdg_provisioned": 10982.08,
     "date_range": {
       "earliest": "20230510",
       "latest": "20250605"
     },
     "source": {
       "contributor_name": "Suheil",
-      "generated_date": "2026-05-14T22:18:14.534833",
+      "generated_date": "2026-05-14T22:21:50.744807",
       "summary": {
         "total_contributions": 78,
-        "total_tdg_provisioned": 8482.08,
-        "total_tdg_issued": 8560.66,
+        "total_tdg_provisioned": 10982.08,
+        "total_tdg_issued": 11060.66,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -34,8 +34,8 @@
       },
       "analysis": {
         "total_contributions": 78,
-        "total_tdg_provisioned": 8482.08,
-        "total_tdg_issued": 8560.66,
+        "total_tdg_provisioned": 10982.08,
+        "total_tdg_issued": 11060.66,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -338,7 +338,7 @@
           {
             "description": "Social media marketing strategy implementation for month of 202310",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20231009",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -569,7 +569,7 @@
           {
             "description": "Suheil spent $45 to have Annia design the new package",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240624",
             "status": "Successfully Completed / Full Provision Awarded"
           },

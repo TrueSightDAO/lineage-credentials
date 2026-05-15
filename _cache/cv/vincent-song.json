@@ -3,23 +3,23 @@
   "display_name": "Vincent Song",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 8,
-    "total_tdg_provisioned": 916.67,
+    "total_tdg_provisioned": 3416.67,
     "date_range": {
       "earliest": "20201024",
       "latest": "20250205"
     },
     "source": {
       "contributor_name": "Vincent Song",
-      "generated_date": "2026-05-14T22:18:14.633120",
+      "generated_date": "2026-05-14T22:21:50.832778",
       "summary": {
         "total_contributions": 8,
-        "total_tdg_provisioned": 916.67,
+        "total_tdg_provisioned": 3416.67,
         "total_tdg_issued": 316.67,
         "projects": [
           "Agroverse",
@@ -34,7 +34,7 @@
       },
       "analysis": {
         "total_contributions": 8,
-        "total_tdg_provisioned": 916.67,
+        "total_tdg_provisioned": 3416.67,
         "total_tdg_issued": 316.67,
         "projects": [
           "Agroverse",
@@ -78,7 +78,7 @@
           {
             "description": "Publish official academic research paper on DAOs using TrueSight DAO as a case study",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },

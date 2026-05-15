@@ -1,11 +1,11 @@
 # Evi
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **12**
-- Total TDG provisioned: **765.00**
+- Total TDG provisioned: **12,015.00**
 - Active period: 20211218 – 20251031
 - Source: [_cache/cv/evi.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/evi.json)
 

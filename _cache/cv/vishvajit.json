@@ -3,23 +3,23 @@
   "display_name": "Vishvajit",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 4,
-    "total_tdg_provisioned": 125.0,
+    "total_tdg_provisioned": 1235.0,
     "date_range": {
       "earliest": "20211007",
       "latest": "20220720"
     },
     "source": {
       "contributor_name": "Vishvajit",
-      "generated_date": "2026-05-14T22:18:14.635284",
+      "generated_date": "2026-05-14T22:21:50.835616",
       "summary": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 125.0,
+        "total_tdg_provisioned": 1235.0,
         "total_tdg_issued": 1235.0,
         "projects": [
           "MarketMonocle"
@@ -31,7 +31,7 @@
       },
       "analysis": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 125.0,
+        "total_tdg_provisioned": 1235.0,
         "total_tdg_issued": 1235.0,
         "projects": [
           "MarketMonocle"
@@ -48,7 +48,7 @@
           {
             "description": "PDT-71 Mobile API implementation",
             "project": "",
-            "tdg": 0,
+            "tdg": 1110.0,
             "date": "20211007",
             "status": "Successfully Completed / Full Provision Awarded"
           },

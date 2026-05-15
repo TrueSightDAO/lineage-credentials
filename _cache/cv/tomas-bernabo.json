@@ -3,23 +3,23 @@
   "display_name": "Tomas Bernabo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 31,
-    "total_tdg_provisioned": 4819.66,
+    "total_tdg_provisioned": 9819.66,
     "date_range": {
       "earliest": "20230301",
       "latest": "20250425"
     },
     "source": {
       "contributor_name": "Tomas Bernabo",
-      "generated_date": "2026-05-14T22:18:14.574050",
+      "generated_date": "2026-05-14T22:21:50.781024",
       "summary": {
         "total_contributions": 31,
-        "total_tdg_provisioned": 4819.66,
+        "total_tdg_provisioned": 9819.66,
         "total_tdg_issued": 9819.82,
         "projects": [
           "20250617_beerhall",
@@ -34,7 +34,7 @@
       },
       "analysis": {
         "total_contributions": 31,
-        "total_tdg_provisioned": 4819.66,
+        "total_tdg_provisioned": 9819.66,
         "total_tdg_issued": 9819.82,
         "projects": [
           "20250617_beerhall",
@@ -79,7 +79,7 @@
           {
             "description": "Made arrangments for venue to allow for TrueSight DAO to share RnD insights in Buenos Aires\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230307%20-%20Ken%20Nim%20flyer%20for%20offchain%20buenos%20aires%20meetup.jpeg",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20230307",
             "status": "Successfully Completed / Full Provision Awarded"
           },

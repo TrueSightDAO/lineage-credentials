@@ -3,23 +3,23 @@
   "display_name": "Edi Hsu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 20,
-    "total_tdg_provisioned": 1055.0,
+    "total_tdg_provisioned": 14805.0,
     "date_range": {
       "earliest": "20220406",
       "latest": "20230810"
     },
     "source": {
       "contributor_name": "Edi Hsu",
-      "generated_date": "2026-05-14T22:18:13.696095",
+      "generated_date": "2026-05-14T22:21:49.962070",
       "summary": {
         "total_contributions": 20,
-        "total_tdg_provisioned": 1055.0,
+        "total_tdg_provisioned": 14805.0,
         "total_tdg_issued": 9805.0,
         "projects": [
           "Agroverse",
@@ -32,7 +32,7 @@
       },
       "analysis": {
         "total_contributions": 20,
-        "total_tdg_provisioned": 1055.0,
+        "total_tdg_provisioned": 14805.0,
         "total_tdg_issued": 9805.0,
         "projects": [
           "Agroverse",
@@ -57,35 +57,35 @@
           {
             "description": "Art direction: The choice of art and narrative should fit with the mission and purpose of the project. It is important to avoid choosing narrative and connotations that detracts from the actual purpose of the project.\n\nSince the purpose of TrueSight DAO is to build a better world based on fundamental truth, and the goal is to get to as wide a swath of people as possible in terms of adoption, aliens and mystism might not be a good choice. There are sections of human society that are mistrustful of aliens and mystics \n\nIt might be acceptable to tap into very very strong narrative frame if the goal of this project is to attract a small group of very very enthusiatic supporter. However with great enthusiasm also comes great apathy and aversion for sections of the population where these narration carry no meaning or a negative connotation",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220406",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Art direction: Research into proper narrative choice provide general art framework for artist to fill in the details to complete the art direction.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "User Experience: Identified 3 different target market segments we are attempting to go after\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220418",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "User Experience: Proposed to split experience into 3 different apps. That will help us with the narrative and the go to market for each of these segments\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220418",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "User Experience: Proposed to use themes for each of these NFT collections that will resonate best with each market segment\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220418",
             "status": "Successfully Completed / Full Provision Awarded"
           },

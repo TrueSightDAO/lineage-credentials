@@ -3,24 +3,24 @@
   "display_name": "Jonathan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 16,
-    "total_tdg_provisioned": 2565.96,
+    "total_tdg_provisioned": 3565.96,
     "date_range": {
       "earliest": "20221209",
       "latest": "20250703"
     },
     "source": {
       "contributor_name": "Jonathan",
-      "generated_date": "2026-05-14T22:18:14.165630",
+      "generated_date": "2026-05-14T22:21:50.413386",
       "summary": {
         "total_contributions": 16,
-        "total_tdg_provisioned": 2565.96,
-        "total_tdg_issued": 2015.9899999999998,
+        "total_tdg_provisioned": 3565.96,
+        "total_tdg_issued": 3015.99,
         "projects": [
           "20250917_beerhall",
           "Agroverse",
@@ -33,8 +33,8 @@
       },
       "analysis": {
         "total_contributions": 16,
-        "total_tdg_provisioned": 2565.96,
-        "total_tdg_issued": 2015.9899999999998,
+        "total_tdg_provisioned": 3565.96,
+        "total_tdg_issued": 3015.99,
         "projects": [
           "20250917_beerhall",
           "Agroverse",
@@ -67,7 +67,7 @@
           {
             "description": "Introduced Greg shea for Africa",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20230211",
             "status": "Successfully Completed / Full Provision Awarded"
           },

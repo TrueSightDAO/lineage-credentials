@@ -1,11 +1,11 @@
 # Ambarish Malpani
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **5**
-- Total TDG provisioned: **2.00**
+- Total TDG provisioned: **7,502.00**
 - Active period: 20210519 – 20231107
 - Source: [_cache/cv/ambarish-malpani.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/ambarish-malpani.json)
 

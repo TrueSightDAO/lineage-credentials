@@ -3,24 +3,24 @@
   "display_name": "Aléksa Mil",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 35,
-    "total_tdg_provisioned": 7195.0,
+    "total_tdg_provisioned": 44820.0,
     "date_range": {
       "earliest": "20201015",
       "latest": "20231127"
     },
     "source": {
       "contributor_name": "Aléksa Mil",
-      "generated_date": "2026-05-14T22:18:13.469557",
+      "generated_date": "2026-05-14T22:21:49.724693",
       "summary": {
         "total_contributions": 35,
-        "total_tdg_provisioned": 7195.0,
-        "total_tdg_issued": 9695.0,
+        "total_tdg_provisioned": 44820.0,
+        "total_tdg_issued": 44820.0,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -33,8 +33,8 @@
       },
       "analysis": {
         "total_contributions": 35,
-        "total_tdg_provisioned": 7195.0,
-        "total_tdg_issued": 9695.0,
+        "total_tdg_provisioned": 44820.0,
+        "total_tdg_issued": 44820.0,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -74,7 +74,7 @@
           {
             "description": "Posted about cypher defense to followers and explained clearly how it works\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7003044344479813632/\n\nTotal Views on Linkedin 2K",
             "project": "Cypher Defense",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20221129",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -95,28 +95,28 @@
           {
             "description": "Drafted sections within Privacy Policy - 11 sections\n\nhttps://docs.google.com/document/d/1pmbO46A9t2XSmVsu3Z9SkAl2S6JFmjsjWipyf1uUziQ/edit#",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5500.0,
             "date": "20221209",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Drafted paragraphs within Privacy Policy - 14 paragraphs\n\nhttps://docs.google.com/document/d/1pmbO46A9t2XSmVsu3Z9SkAl2S6JFmjsjWipyf1uUziQ/edit#",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 3500.0,
             "date": "20221209",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Drafted bullet points within Privacy Policy - 21 bullet points\n\nhttps://docs.google.com/document/d/1pmbO46A9t2XSmVsu3Z9SkAl2S6JFmjsjWipyf1uUziQ/edit#",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 2625.0,
             "date": "20221209",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Drafted sections within Terms and Conditions - 11 sections\n\nhttps://docs.google.com/document/d/1fHEEYPHkz13fFHtXTzWkjFwVXy0QhKm57RIGIYPg0kw/edit",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5500.0,
             "date": "20221209",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -130,7 +130,7 @@
           {
             "description": "Drafted clauses within Privacy Policy - 24 bullet points\n\nhttps://docs.google.com/document/d/1fHEEYPHkz13fFHtXTzWkjFwVXy0QhKm57RIGIYPg0kw/edit",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 3000.0,
             "date": "20221209",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -256,7 +256,7 @@
           {
             "description": "Governance document - 4 sections\n\nhttps://docs.google.com/document/d/1jUBd6E2cFwFMBDLURS-SxCY75AlJ7sPtUklXi0N8hR4/edit?usp=sharing",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 2000.0,
             "date": "20230408",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -270,14 +270,14 @@
           {
             "description": "Governance document - 48 paragraphs\n\nhttps://docs.google.com/document/d/1jUBd6E2cFwFMBDLURS-SxCY75AlJ7sPtUklXi0N8hR4/edit?usp=sharing",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 12000.0,
             "date": "20230408",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Governance document - 8 bullet points\n\nhttps://docs.google.com/document/d/1jUBd6E2cFwFMBDLURS-SxCY75AlJ7sPtUklXi0N8hR4/edit?usp=sharing",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20230408",
             "status": "Successfully Completed / Full Provision Awarded"
           },

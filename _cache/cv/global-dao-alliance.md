@@ -1,11 +1,11 @@
 # Global DAO Alliance
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **4**
-- Total TDG provisioned: **500.00**
+- Total TDG provisioned: **10,250.00**
 - Active period: 20220520 – 20220607
 - Source: [_cache/cv/global-dao-alliance.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/global-dao-alliance.json)
 

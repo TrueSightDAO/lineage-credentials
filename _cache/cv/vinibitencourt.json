@@ -3,7 +3,7 @@
   "display_name": "@vinibitencourt",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@vinibitencourt",
-      "generated_date": "2026-05-14T22:18:13.422137",
+      "generated_date": "2026-05-14T22:21:49.675062",
       "summary": {
         "total_contributions": 10,
         "total_tdg_provisioned": 157.17999999999998,
@@ -56,7 +56,7 @@
           {
             "description": "Vini spent 5 minutes explaining that price of USD 1518.50 includes \n\n- pick up from CIC \n- ⁠airfreight all the way to Austin Texas airport\n\nBrazilian Customs broker fees not included <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240923",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -98,7 +98,7 @@
           {
             "description": "@555499980942 spent 5 minutes confirming that the freighting company he sourced for does not provide the pallet",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241007",
             "status": "Successfully Completed / Full Provision Awarded"
           },

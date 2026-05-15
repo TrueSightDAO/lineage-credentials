@@ -1,11 +1,11 @@
 # Jascha Martschenko
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **17**
-- Total TDG provisioned: **3,150.00**
+- Total TDG provisioned: **12,194.73**
 - Active period: 20201025 – 20230616
 - Source: [_cache/cv/jascha-martschenko.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/jascha-martschenko.json)
 

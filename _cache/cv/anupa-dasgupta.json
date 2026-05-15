@@ -3,24 +3,24 @@
   "display_name": "Anupa Dasgupta",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 133,
-    "total_tdg_provisioned": 18976.41,
+    "total_tdg_provisioned": 21476.41,
     "date_range": {
       "earliest": "20221129",
       "latest": "20250313"
     },
     "source": {
       "contributor_name": "Anupa Dasgupta",
-      "generated_date": "2026-05-14T22:18:13.521362",
+      "generated_date": "2026-05-14T22:21:49.774157",
       "summary": {
         "total_contributions": 133,
-        "total_tdg_provisioned": 18976.41,
-        "total_tdg_issued": 17476.49,
+        "total_tdg_provisioned": 21476.41,
+        "total_tdg_issued": 19976.49,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -35,8 +35,8 @@
       },
       "analysis": {
         "total_contributions": 133,
-        "total_tdg_provisioned": 18976.41,
-        "total_tdg_issued": 17476.49,
+        "total_tdg_provisioned": 21476.41,
+        "total_tdg_issued": 19976.49,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -282,7 +282,7 @@
           {
             "description": "Landing page proposed contents\n\nhttps://docs.google.com/document/d/1Fr88cHH6L-OHhow73x_tAFjTMRcX2IZj3ajct_c7Xus/edit?pli=1#",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230322",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -562,7 +562,7 @@
           {
             "description": "Landing page finalized version \nhttps://editor.wix.com/html/editor/web/renderer/edit/15180d97-120a-4c90-a279-e4186e687058?metaSiteId=508217b2-8792-4ab2-b733-2784b4886a9c",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230822",
             "status": "Successfully Completed / Full Provision Awarded"
           },

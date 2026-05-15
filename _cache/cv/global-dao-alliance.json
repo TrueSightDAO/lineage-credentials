@@ -3,24 +3,24 @@
   "display_name": "Global DAO Alliance",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 4,
-    "total_tdg_provisioned": 500.0,
+    "total_tdg_provisioned": 10250.0,
     "date_range": {
       "earliest": "20220520",
       "latest": "20220607"
     },
     "source": {
       "contributor_name": "Global DAO Alliance",
-      "generated_date": "2026-05-14T22:18:14.060943",
+      "generated_date": "2026-05-14T22:21:50.310730",
       "summary": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 500.0,
-        "total_tdg_issued": 2750.0,
+        "total_tdg_provisioned": 10250.0,
+        "total_tdg_issued": 10250.0,
         "projects": [],
         "date_range": {
           "earliest": "20220520",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 500.0,
-        "total_tdg_issued": 2750.0,
+        "total_tdg_provisioned": 10250.0,
+        "total_tdg_issued": 10250.0,
         "projects": [],
         "rubric_categories": {
           "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO": 4
@@ -50,21 +50,21 @@
           {
             "description": "Payment for Satheesh work done\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220506_kratos_story_approval.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220515_satheesh_Saikrishna%20-%2008May2022%20to%2014May2022.pdf",
             "project": "",
-            "tdg": 0,
+            "tdg": 2250.0,
             "date": "20220520",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "payment for Kratos workdone \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220607%20-%20Global%20DAO%20Alliance%20WorkOrder-2-Timesheet_1-Trigger_Prediction_Validation_Timesheet_15May_28_May_2022.pdf",
             "project": "",
-            "tdg": 0,
+            "tdg": 4650.0,
             "date": "20220607",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Final payment for Kratos workdone \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220607%20-%20Global%20DAO%20Alliance%20Final_Timesheet_as_of_1st_June_2022-Wednesday.pdf",
             "project": "",
-            "tdg": 0,
+            "tdg": 2850.0,
             "date": "20220607",
             "status": "Successfully Completed / Full Provision Awarded"
           }

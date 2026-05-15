@@ -3,23 +3,23 @@
   "display_name": "Garis Pang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 139,
-    "total_tdg_provisioned": 26753.33,
+    "total_tdg_provisioned": 85503.33,
     "date_range": {
       "earliest": "20210103",
       "latest": "20251109"
     },
     "source": {
       "contributor_name": "Garis Pang",
-      "generated_date": "2026-05-14T22:18:13.792291",
+      "generated_date": "2026-05-14T22:21:50.053969",
       "summary": {
         "total_contributions": 139,
-        "total_tdg_provisioned": 26753.33,
+        "total_tdg_provisioned": 85503.33,
         "total_tdg_issued": 67653.33,
         "projects": [
           "MoonShot",
@@ -34,7 +34,7 @@
       },
       "analysis": {
         "total_contributions": 139,
-        "total_tdg_provisioned": 26753.33,
+        "total_tdg_provisioned": 85503.33,
         "total_tdg_issued": 67653.33,
         "projects": [
           "MoonShot",
@@ -74,7 +74,7 @@
           {
             "description": "Structuring reports to focus on trading strategy's past 30 days prediction accuracy levels. Subscribe to get daily trading signals",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210103",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -95,7 +95,7 @@
           {
             "description": "The emphasis on the supply side is the AI bot and not the asset manager",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220110",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -109,21 +109,21 @@
           {
             "description": "Importance of being able to hookup investor brokerage account or wallet will staying anonymous",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220110",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Ability to dictate the denominator of the wallet that gets hooked up while the trading strategy is in execution",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Investor market segmentation: Target audience beginner and intermediate investors. Not high networths",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220118",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -179,28 +179,28 @@
           {
             "description": "Normal bank forex traders typically get 5% return per month on their trades.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220125",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Hedge fund forex traders typically get 20% return per month on their trades.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220125",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Asset type benchmark makes returns believable. Bitcoin 1000% return is believable",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220125",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Acqusition channel: ForexFactory.com are where alot of the potential punters hangout at",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220125",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -214,21 +214,21 @@
           {
             "description": "Humanity is an important aspects that needs to be baked into the DAO's DNA",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220125",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Rebase option to include social cause option",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220125",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Rebase option to include social cause festivals",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220125",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -249,21 +249,21 @@
           {
             "description": "The skill element of pachinko makes it addictive. Need to figure how to incorporate the skill element for training AI bots and betting on Bots. The hooked model is important",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Developer should be able to utilize our universal credibility protocol with their own DApp interface",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Fund management hierachy \n\nManagement\nwealth manager (account manager)\nfund manager ( design the portfolio)\nresearch department\ncompliance \nexecution (trader)",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -305,7 +305,7 @@
           {
             "description": "Community: Structure the DAO's eco-system to allow people to explore new aspects of themselves",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -319,28 +319,28 @@
           {
             "description": "Zoom Sync: rotating cohost for each session",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Community: suggestion establish local chapter",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Zoom Sync: Cohosting",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Zoom Sync: come up with meeting agenda",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220210",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -368,7 +368,7 @@
           {
             "description": "Proposed used of CFD to raise liquidity for DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -613,7 +613,7 @@
           {
             "description": "Indepth analysis of prediction market competition to figure out our differentiation:\n\n    https://augur.net/\n    https://manifold.markets/",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -690,14 +690,14 @@
           {
             "description": "Governance: Executive branch, Legislative branch, Judicial branch\n\nhttps://docs.google.com/document/d/1jDt7OmctW4Xsbz5ydrsF3suXKvoyTfcQKqPKjNVHX7g/edit?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220414",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Governance: Executive branch, Legislative branch, Judicial branch\n\nhttps://docs.google.com/document/d/1jDt7OmctW4Xsbz5ydrsF3suXKvoyTfcQKqPKjNVHX7g/edit?usp=sharing\n\nApproved",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220414",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -788,7 +788,7 @@
           {
             "description": "Governance: Proposed to have a clear and accessible way for active DAO contributors to claim for expenses so that they feel the DAO is taking good care of them",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },

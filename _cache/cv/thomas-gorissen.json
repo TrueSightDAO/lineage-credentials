@@ -3,23 +3,23 @@
   "display_name": "Thomas Gorissen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 7,
-    "total_tdg_provisioned": 600.0,
+    "total_tdg_provisioned": 1850.0,
     "date_range": {
       "earliest": "20211211",
       "latest": "20220307"
     },
     "source": {
       "contributor_name": "Thomas Gorissen",
-      "generated_date": "2026-05-14T22:18:14.561157",
+      "generated_date": "2026-05-14T22:21:50.770933",
       "summary": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 600.0,
+        "total_tdg_provisioned": 1850.0,
         "total_tdg_issued": 1850.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 600.0,
+        "total_tdg_provisioned": 1850.0,
         "total_tdg_issued": 1850.0,
         "projects": [],
         "rubric_categories": {},
@@ -83,7 +83,7 @@
           {
             "description": "Cache.gold onchain data storage architecture: \n\n    - https://explorer.cache.gold/\n    - https://goldsavingsaccount.sg/sg\n\nRecords are written on two separate chains.\nhttps://explorer.cache.gold/r/E2801105200073939A800A28\n    \n    - Gold Bar Deposit event is written on Ethereum Chain\n    - Custodian event is written on Zilliqa Chain",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220307",
             "status": "Successfully Completed / Full Provision Awarded"
           }

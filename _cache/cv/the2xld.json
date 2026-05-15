@@ -3,24 +3,24 @@
   "display_name": "@the2xld",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 28,
-    "total_tdg_provisioned": 1259.97,
+    "total_tdg_provisioned": 2259.9700000000003,
     "date_range": {
       "earliest": "20240808",
       "latest": "20241223"
     },
     "source": {
       "contributor_name": "@the2xld",
-      "generated_date": "2026-05-14T22:18:13.419731",
+      "generated_date": "2026-05-14T22:21:49.672219",
       "summary": {
         "total_contributions": 28,
-        "total_tdg_provisioned": 1259.97,
-        "total_tdg_issued": 1259.97,
+        "total_tdg_provisioned": 2259.9700000000003,
+        "total_tdg_issued": 2259.9700000000003,
         "projects": [
           "Agroverse",
           "TrueSight DAO"
@@ -32,8 +32,8 @@
       },
       "analysis": {
         "total_contributions": 28,
-        "total_tdg_provisioned": 1259.97,
-        "total_tdg_issued": 1259.97,
+        "total_tdg_provisioned": 2259.9700000000003,
+        "total_tdg_issued": 2259.9700000000003,
         "projects": [
           "Agroverse",
           "TrueSight DAO"
@@ -239,7 +239,7 @@
           {
             "description": "Yh I remember contributing nothing less than 10hrs on TG here.",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20241223",
             "status": "Successfully Completed / Full Provision Awarded"
           }

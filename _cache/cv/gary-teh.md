@@ -1,11 +1,11 @@
 # Gary Teh
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **3625**
-- Total TDG provisioned: **nan**
+- Total TDG provisioned: **452,598.53**
 - Active period: 20171231 – 20260430
 - Source: [_cache/cv/gary-teh.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/gary-teh.json)
 

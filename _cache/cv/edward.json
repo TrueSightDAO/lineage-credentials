@@ -3,23 +3,23 @@
   "display_name": "Edward",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 2,
-    "total_tdg_provisioned": 100.0,
+    "total_tdg_provisioned": 1350.0,
     "date_range": {
       "earliest": "20220425",
       "latest": "20220425"
     },
     "source": {
       "contributor_name": "Edward",
-      "generated_date": "2026-05-14T22:18:13.702730",
+      "generated_date": "2026-05-14T22:21:49.967484",
       "summary": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 1350.0,
         "total_tdg_issued": 100.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 1350.0,
         "total_tdg_issued": 100.0,
         "projects": [],
         "rubric_categories": {
@@ -44,7 +44,7 @@
           {
             "description": "Offer an existing hybrid fund legal infrastructure to handle God Mode",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },

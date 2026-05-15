@@ -1,11 +1,11 @@
 # Allison Liu
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **3**
-- Total TDG provisioned: **100.00**
+- Total TDG provisioned: **7,600.00**
 - Active period: 20180901 – 20210829
 - Source: [_cache/cv/allison-liu.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/allison-liu.json)
 

@@ -3,24 +3,24 @@
   "display_name": "Anne Charboneau",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 18,
-    "total_tdg_provisioned": 4910.0,
+    "total_tdg_provisioned": 14410.0,
     "date_range": {
       "earliest": "20210908",
       "latest": "20220430"
     },
     "source": {
       "contributor_name": "Anne Charboneau",
-      "generated_date": "2026-05-14T22:18:13.511328",
+      "generated_date": "2026-05-14T22:21:49.764972",
       "summary": {
         "total_contributions": 18,
-        "total_tdg_provisioned": 4910.0,
-        "total_tdg_issued": 7160.0,
+        "total_tdg_provisioned": 14410.0,
+        "total_tdg_issued": 8410.0,
         "projects": [],
         "date_range": {
           "earliest": "20210908",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 18,
-        "total_tdg_provisioned": 4910.0,
-        "total_tdg_issued": 7160.0,
+        "total_tdg_provisioned": 14410.0,
+        "total_tdg_issued": 8410.0,
         "projects": [],
         "rubric_categories": {
           "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension": 1,
@@ -46,7 +46,7 @@
           {
             "description": "Assemble Media package for use with reporters",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
@@ -88,7 +88,7 @@
           {
             "description": "Copy editing for white paper",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -102,21 +102,21 @@
           {
             "description": "Zoom Sync: Cohosting",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Copy editing for white paper",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220205",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Copyediting for Landing Page collaboration with Pris and Kuoloon",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220308",
             "status": "Successfully Completed / Full Provision Awarded"
           },

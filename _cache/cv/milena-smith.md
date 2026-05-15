@@ -1,11 +1,11 @@
 # Milena Smith
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **42**
-- Total TDG provisioned: **941.19**
+- Total TDG provisioned: **7,654.69**
 - Active period: 20240723 – 20250929
 - Source: [_cache/cv/milena-smith.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/milena-smith.json)
 

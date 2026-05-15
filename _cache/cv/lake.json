@@ -3,23 +3,23 @@
   "display_name": "@Lake",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 32,
-    "total_tdg_provisioned": 3300.0,
+    "total_tdg_provisioned": 7050.0,
     "date_range": {
       "earliest": "20220219",
       "latest": "20220304"
     },
     "source": {
       "contributor_name": "@Lake",
-      "generated_date": "2026-05-14T22:18:13.388331",
+      "generated_date": "2026-05-14T22:21:49.643333",
       "summary": {
         "total_contributions": 32,
-        "total_tdg_provisioned": 3300.0,
+        "total_tdg_provisioned": 7050.0,
         "total_tdg_issued": 7050.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 32,
-        "total_tdg_provisioned": 3300.0,
+        "total_tdg_provisioned": 7050.0,
         "total_tdg_issued": 7050.0,
         "projects": [],
         "rubric_categories": {},
@@ -139,7 +139,7 @@
           {
             "description": "Compliance: Solrise did not manage to gain traction much traction so far is because it is banned in US. So long as the fund component does not exist yet, we are just a game",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -244,7 +244,7 @@
           {
             "description": "Community: There should be a core team and current DAO members are part of it. See how Hawksight does it",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -258,7 +258,7 @@
           {
             "description": "Avoid making NFT a security. 5% royalty resale split is airdropped into wallet of all existing holders of NFTs in collection.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           }

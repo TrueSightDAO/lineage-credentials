@@ -3,23 +3,23 @@
   "display_name": "Brian Kennish",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 2,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 7500.0,
     "date_range": {
       "earliest": "20211214",
       "latest": "20211214"
     },
     "source": {
       "contributor_name": "Brian Kennish",
-      "generated_date": "2026-05-14T22:18:13.574502",
+      "generated_date": "2026-05-14T22:21:49.824840",
       "summary": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 7500.0,
         "total_tdg_issued": 7500.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 7500.0,
         "total_tdg_issued": 7500.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,14 +41,14 @@
           {
             "description": "Suggesting having lots of shareholders to crowd source ideas from which triggered off the idea for the DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211214",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Legal registration suggestions for DAO in state Wyoming: https://sos.wyo.gov/Business/Docs/DAOs_FAQs.pdf",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211214",
             "status": "Successfully Completed / Full Provision Awarded"
           }

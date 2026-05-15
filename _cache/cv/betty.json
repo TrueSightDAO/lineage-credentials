@@ -3,23 +3,23 @@
   "display_name": "Betty",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 55,
-    "total_tdg_provisioned": 12509.0,
+    "total_tdg_provisioned": 15009.0,
     "date_range": {
       "earliest": "20230211",
       "latest": "20240430"
     },
     "source": {
       "contributor_name": "Betty",
-      "generated_date": "2026-05-14T22:18:13.548178",
+      "generated_date": "2026-05-14T22:21:49.797169",
       "summary": {
         "total_contributions": 55,
-        "total_tdg_provisioned": 12509.0,
+        "total_tdg_provisioned": 15009.0,
         "total_tdg_issued": 12009.0,
         "projects": [
           "Agroverse"
@@ -31,7 +31,7 @@
       },
       "analysis": {
         "total_contributions": 55,
-        "total_tdg_provisioned": 12509.0,
+        "total_tdg_provisioned": 15009.0,
         "total_tdg_issued": 12009.0,
         "projects": [
           "Agroverse"
@@ -60,14 +60,14 @@
           {
             "description": "ScripesDAO: setup of mechanical turk system setup for village in Nigeria",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Community Management: Figure out a strategy for community management",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },

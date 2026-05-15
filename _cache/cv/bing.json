@@ -3,24 +3,24 @@
   "display_name": "Bing",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 7,
-    "total_tdg_provisioned": 895.0,
+    "total_tdg_provisioned": 8395.0,
     "date_range": {
       "earliest": "20220409",
       "latest": "20220615"
     },
     "source": {
       "contributor_name": "Bing",
-      "generated_date": "2026-05-14T22:18:13.563048",
+      "generated_date": "2026-05-14T22:21:49.813929",
       "summary": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 895.0,
-        "total_tdg_issued": 7145.0,
+        "total_tdg_provisioned": 8395.0,
+        "total_tdg_issued": 8395.0,
         "projects": [],
         "date_range": {
           "earliest": "20220409",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 895.0,
-        "total_tdg_issued": 7145.0,
+        "total_tdg_provisioned": 8395.0,
+        "total_tdg_issued": 8395.0,
         "projects": [],
         "rubric_categories": {
           "250 : Bring Liquidity - Suggested a way to fund raise for liquidity": 1,
@@ -54,21 +54,21 @@
           {
             "description": "Governance: TSD earned through contribution should be vested via in game activity to be unlocked for transfer to personal wallet. \n\nThis helps reduce dumping of TSD Tokens on the open market and shifts us away from time based vesting which is essentially meaningless while stabilizing the price of TSD on the exchanges once they are listed.\n\nThe initial 1000TSD can be transferred to personal wallets without in-game activity based vesting",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220409",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Finalized agreement with DAOversal group to contribute 14,000TSD worth of manpower effort per month\n    - Engineering \n    - Design\n    - Marketing\n    - Community Management\n\nhttps://truesight.me/rubric",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220410",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Proposed Trading Strategy: Crypto entry signal when red line crosses blackline on the To The Moon chart is a good time to enter into BTC\n\nhttps://truesight.me/large_crypto_spikes",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220410",
             "status": "Successfully Completed / Full Provision Awarded"
           },

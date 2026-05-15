@@ -3,24 +3,24 @@
   "display_name": "Ilya Voytov",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 14,
-    "total_tdg_provisioned": 1410.0,
+    "total_tdg_provisioned": 6410.0,
     "date_range": {
       "earliest": "20181231",
       "latest": "20220602"
     },
     "source": {
       "contributor_name": "Ilya Voytov",
-      "generated_date": "2026-05-14T22:18:14.086641",
+      "generated_date": "2026-05-14T22:21:50.336212",
       "summary": {
         "total_contributions": 14,
-        "total_tdg_provisioned": 1410.0,
-        "total_tdg_issued": 1410.0,
+        "total_tdg_provisioned": 6410.0,
+        "total_tdg_issued": 6410.0,
         "projects": [],
         "date_range": {
           "earliest": "20181231",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 14,
-        "total_tdg_provisioned": 1410.0,
-        "total_tdg_issued": 1410.0,
+        "total_tdg_provisioned": 6410.0,
+        "total_tdg_issued": 6410.0,
         "projects": [],
         "rubric_categories": {
           "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
@@ -46,7 +46,7 @@
           {
             "description": "Contributed key insight on market dispersion theory that the market sell off index is based on also suggested the standard deviation based position sizing and profit taking",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20181231",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -1,11 +1,11 @@
 # Satheesh Paddolker
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **20**
-- Total TDG provisioned: **1,661.00**
+- Total TDG provisioned: **11,661.00**
 - Active period: 20210812 – 20230809
 - Source: [_cache/cv/satheesh-paddolker.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/satheesh-paddolker.json)
 

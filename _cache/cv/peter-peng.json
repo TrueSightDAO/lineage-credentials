@@ -3,24 +3,24 @@
   "display_name": "Peter Peng",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 15,
-    "total_tdg_provisioned": 2730.0,
+    "total_tdg_provisioned": 7730.0,
     "date_range": {
       "earliest": "20220910",
       "latest": "20230314"
     },
     "source": {
       "contributor_name": "Peter Peng",
-      "generated_date": "2026-05-14T22:18:14.421678",
+      "generated_date": "2026-05-14T22:21:50.638982",
       "summary": {
         "total_contributions": 15,
-        "total_tdg_provisioned": 2730.0,
-        "total_tdg_issued": 2730.0,
+        "total_tdg_provisioned": 7730.0,
+        "total_tdg_issued": 7730.0,
         "projects": [
           "Cypher Defense",
           "TrueSight DAO"
@@ -32,8 +32,8 @@
       },
       "analysis": {
         "total_contributions": 15,
-        "total_tdg_provisioned": 2730.0,
-        "total_tdg_issued": 2730.0,
+        "total_tdg_provisioned": 7730.0,
+        "total_tdg_issued": 7730.0,
         "projects": [
           "Cypher Defense",
           "TrueSight DAO"
@@ -71,7 +71,7 @@
           {
             "description": "Airdropped Jetson X limited edition NFT to DAO\n\nhttps://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/31994624028824622634882331559075039874596058413278121187441734849906578817025",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220918",
             "status": "Successfully Completed / Full Provision Awarded"
           },

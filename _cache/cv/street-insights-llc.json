@@ -3,23 +3,23 @@
   "display_name": "Street Insights LLC",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 2,
-    "total_tdg_provisioned": 100.0,
+    "total_tdg_provisioned": 5100.0,
     "date_range": {
       "earliest": "20211211",
       "latest": "20211211"
     },
     "source": {
       "contributor_name": "Street Insights LLC",
-      "generated_date": "2026-05-14T22:18:14.528432",
+      "generated_date": "2026-05-14T22:21:50.740170",
       "summary": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 5100.0,
         "total_tdg_issued": 100.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 5100.0,
         "total_tdg_issued": 100.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "Go to market playbook",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Aborted"
           },

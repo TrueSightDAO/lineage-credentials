@@ -3,24 +3,24 @@
   "display_name": "Jeff",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 5,
-    "total_tdg_provisioned": 1000.0,
+    "total_tdg_provisioned": 7000.0,
     "date_range": {
       "earliest": "20220220",
       "latest": "20220321"
     },
     "source": {
       "contributor_name": "Jeff",
-      "generated_date": "2026-05-14T22:18:14.126297",
+      "generated_date": "2026-05-14T22:21:50.375701",
       "summary": {
         "total_contributions": 5,
-        "total_tdg_provisioned": 1000.0,
-        "total_tdg_issued": 2000.0,
+        "total_tdg_provisioned": 7000.0,
+        "total_tdg_issued": 3000.0,
         "projects": [],
         "date_range": {
           "earliest": "20220220",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 5,
-        "total_tdg_provisioned": 1000.0,
-        "total_tdg_issued": 2000.0,
+        "total_tdg_provisioned": 7000.0,
+        "total_tdg_issued": 3000.0,
         "projects": [],
         "rubric_categories": {},
         "date_range": {
@@ -55,21 +55,21 @@
           {
             "description": "Introduction of TrueSight to Theia Trading",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220227",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Adoption of TrueSight by Theia Trading",
             "project": "",
-            "tdg": 0,
+            "tdg": 4000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Onboarded @shiipshiip - CEO of Theia Capital",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220321",
             "status": "Successfully Completed / Full Provision Awarded"
           }

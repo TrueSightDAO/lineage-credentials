@@ -1,11 +1,11 @@
 # Adi
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **43**
-- Total TDG provisioned: **6,000.94**
+- Total TDG provisioned: **9,750.94**
 - Active period: 20220717 – 20251217
 - Source: [_cache/cv/adi.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/adi.json)
 

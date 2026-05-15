@@ -1,11 +1,11 @@
 # Ed
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **299**
-- Total TDG provisioned: **40,408.83**
+- Total TDG provisioned: **94,758.83**
 - Active period: 20210631 – 20260211
 - Source: [_cache/cv/ed.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/ed.json)
 

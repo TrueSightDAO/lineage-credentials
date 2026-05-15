@@ -3,23 +3,23 @@
   "display_name": "Momo Yamada",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 18,
-    "total_tdg_provisioned": 1550.0,
+    "total_tdg_provisioned": 26382.0,
     "date_range": {
       "earliest": "20210102",
       "latest": "20211111"
     },
     "source": {
       "contributor_name": "Momo Yamada",
-      "generated_date": "2026-05-14T22:18:14.363689",
+      "generated_date": "2026-05-14T22:21:50.578533",
       "summary": {
         "total_contributions": 18,
-        "total_tdg_provisioned": 1550.0,
+        "total_tdg_provisioned": 26382.0,
         "total_tdg_issued": 22383.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 18,
-        "total_tdg_provisioned": 1550.0,
+        "total_tdg_provisioned": 26382.0,
         "total_tdg_issued": 22383.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "Landing page design implementation",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "20210901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -55,35 +55,35 @@
           {
             "description": "PDT-90 Dashboard designs - sell off dashboard",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211020",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-112 Sell off dashboard mobile listing view - Design",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20211111",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-91 Dashboard designs - holdings dashboard",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "PDT-92 Dashboard designs - comparisons view",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "PDT-93 Dashboard designs - topic view",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "",
             "status": "Proposed"
           },
@@ -97,7 +97,7 @@
           {
             "description": "PDT-97: Designs for mobile landing page",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20210930",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -111,42 +111,42 @@
           {
             "description": "PDT-95: Extend UI/UX to allow users to choose from more than one brokerage when attempting to link TrueSight to her brokerage account (eTrade and Coinbase Pro)",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211020",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-104: Extend UI/UX to allow users to save client API key and secrets from brokerages that support that",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211020",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Sell off dashboard overview",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211020",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-150: Companies page design refresh (Desktop)\nhttps://www.pivotaltracker.com/story/show/180833735, https://www.figma.com/file/RQi7oY9IRM3cCFAb3o3so1/Dashboard?node-id=0%3A1",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211023",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-150: Companies page design refresh (Tablet)\nhttps://www.pivotaltracker.com/story/show/180833735, https://www.figma.com/file/RQi7oY9IRM3cCFAb3o3so1/Dashboard?node-id=0%3A1",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211023",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-150: Companies page design refresh (Mobile)\nhttps://www.pivotaltracker.com/story/show/180833735, https://www.figma.com/file/RQi7oY9IRM3cCFAb3o3so1/Dashboard?node-id=0%3A1",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211023",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -3,24 +3,24 @@
   "display_name": "Anika Giftge",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 70,
-    "total_tdg_provisioned": 14710.0,
+    "total_tdg_provisioned": 55710.0,
     "date_range": {
       "earliest": "20220307",
       "latest": "20220430"
     },
     "source": {
       "contributor_name": "Anika Giftge",
-      "generated_date": "2026-05-14T22:18:13.499010",
+      "generated_date": "2026-05-14T22:21:49.752979",
       "summary": {
         "total_contributions": 70,
-        "total_tdg_provisioned": 14710.0,
-        "total_tdg_issued": 16560.0,
+        "total_tdg_provisioned": 55710.0,
+        "total_tdg_issued": 37560.0,
         "projects": [],
         "date_range": {
           "earliest": "20220307",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 70,
-        "total_tdg_provisioned": 14710.0,
-        "total_tdg_issued": 16560.0,
+        "total_tdg_provisioned": 55710.0,
+        "total_tdg_issued": 37560.0,
         "projects": [],
         "rubric_categories": {
           "2500 : Bring Builders - brought on a key opinion leader": 1,
@@ -99,14 +99,14 @@
           {
             "description": "Gamification: Easter egg hunt for an NFT. People who find an NFT will start receiving airdrops to get more tokens to continue playing our Game",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220307",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Community: Organize a movie night on Discord by using the screensharing feature. Let's play https://TheForeCaster-Movie.com",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220307",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -120,7 +120,7 @@
           {
             "description": "Figure out the exact flow for marketing NFTs",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -211,7 +211,7 @@
           {
             "description": "NFT Art Direction: Acceptance to collaborate by Artist Gurra\nhttps://twitter.com/gurra_pellumb",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -225,14 +225,14 @@
           {
             "description": "Inputs on how to setup the NFT campaign\nhttps://drive.google.com/file/d/1zXS7gfbjWg0DBlPbTZQig9O-mwhkTb8A/view?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220312",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Accessment of our current NFT strategy\nhttps://docs.google.com/document/d/1s0Od0ZxHkSuCaKs7DsDdFexwJFFiK1It/edit",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220312",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -295,35 +295,35 @@
           {
             "description": "NFT initiative roadmap and strategy:\n    - Offer NFT minting at phase 3 of our roadmap after our game has been solidified\n    - She will find artist from NFTAcademy to create artwork and design \n    - need to have 8 - 10 people on the team\n    - Launch NFT based on refined tokenomics\n    - Need to find moderators who are willing to volunteer for a project if they like it in hopes that they eventually become core contributors and get paid\n    - Royalty fees of NFT resale should go to some selected charities",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "NFT artistic direction:\n    - Just keep Collection #2 Player Profile Picture ( Alien Civilization )\n    - Scrape Collection #1 Coin of Truth (Unlikely to sell well)\n    - Scrape Collection #3 Alien Evolution (Too complicated)",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "NFT artistic direction:\n    - Main Choice: the 5 types of profile pictures should represent 5 different races. Each race's profile picture should have small subtle variables which ties to off chain benefits (Holding wine glass or SnowBoard which gives access to VIP events)\n    - Secondary Choice: the 5 types of profile pictures should either be having the same base like Cheetah",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Gamification: blue check mark on the NFT itself to indicate very very strong trader",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "TSD airdrops should still continue for NFT holders for it to continue retaining its value.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220320",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -407,7 +407,7 @@
           {
             "description": "NFT artistic direction: Acceptance of collaboration by artist that has blade runner style https://discord.com/channels/@me/949964364675416125/955230228551204904",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -421,7 +421,7 @@
           {
             "description": "NFT artistic direction: Acceptance of collaborate by Monkey Tattoo artist",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -470,7 +470,7 @@
           {
             "description": "Introduction to Boris Giftge: a key opinion leader in his startup and his network",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220325",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -3,24 +3,24 @@
   "display_name": "Ed",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 299,
-    "total_tdg_provisioned": 40408.830000000016,
+    "total_tdg_provisioned": 94758.83,
     "date_range": {
       "earliest": "20210631",
       "latest": "20260211"
     },
     "source": {
       "contributor_name": "Ed",
-      "generated_date": "2026-05-14T22:18:13.679197",
+      "generated_date": "2026-05-14T22:21:49.941652",
       "summary": {
         "total_contributions": 299,
-        "total_tdg_provisioned": 40408.830000000016,
-        "total_tdg_issued": 68880.48000000003,
+        "total_tdg_provisioned": 94758.83,
+        "total_tdg_issued": 82480.48000000001,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -41,8 +41,8 @@
       },
       "analysis": {
         "total_contributions": 299,
-        "total_tdg_provisioned": 40408.830000000016,
-        "total_tdg_issued": 68880.48000000003,
+        "total_tdg_provisioned": 94758.83,
+        "total_tdg_issued": 82480.48000000001,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -119,14 +119,14 @@
           {
             "description": "Advisory on human resource management",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Successfully create the TrueSight.Me branding",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -168,28 +168,28 @@
           {
             "description": "Conduct focus group to get feedback on product for the consumer facing side",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Reach out to HashIndex to understand go to market strategy for crypto in South America",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Human Resources: \n\nWays to become more resilience\n    1. see opportunity in uncertainty\n    2. split personal life from professional life \n    3. Anchor your certainty in some front of your life so that you can absorb uncertainty in other areas of your life\n    4. Important to give people meaning\n    5. Know if you are a missionary or mercenary\n    6. Know your strength and weakness.\n    7. Take personal leadership in your management abilities\n    8. See yourself as a sales person.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220129",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "2 hours time for analyzing pitch deck presentation\nhttps://docs.google.com/document/d/1eT_aAyNbF_R_ghcIHy2gDFetxIuJqv_u6WKAeljFip8/edit?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220202",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -231,7 +231,7 @@
           {
             "description": "Critical inputs on the pitch: need social proofing from recognized brand, Dogecoin has Elon Musk, Ethereum has Vitalik, we need Rakuten or another prominent brand",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220314",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -287,7 +287,7 @@
           {
             "description": "Planning for focus group: https://docs.google.com/document/d/1kaDz3B1SqmkgAIdEar1n9YDLJ7zGuS_iTqv78CBmGsI/edit?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220215",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -357,14 +357,14 @@
           {
             "description": "Art direction: The choice of art and narrative should fit with the mission and purpose of the project. It is important to avoid choosing narrative and connotations that detracts from the actual purpose of the project.\n\nSince the purpose of TrueSight DAO is to build a better world based on fundamental truth, and the goal is to get to as wide a swath of people as possible in terms of adoption, aliens and mystism might not be a good choice. There are sections of human society that are mistrustful of aliens and mystics \n\nIt might be acceptable to tap into very very strong narrative frame if the goal of this project is to attract a small group of very very enthusiatic supporter. However with great enthusiasm also comes great apathy and aversion for sections of the population where these narration carry no meaning or a negative connotation",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220406",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Art direction: Research into proper narrative choice provide general art framework for artist to fill in the details to complete the art direction.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -420,21 +420,21 @@
           {
             "description": "User Experience: Identified 3 different target market segments we are attempting to go after\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220418",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "User Experience: Proposed to split experience into 3 different apps. That will help us with the narrative and the go to market for each of these segments\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220418",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "User Experience: Proposed to use themes for each of these NFT collections that will resonate best with each market segment\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220418",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -455,7 +455,7 @@
           {
             "description": "Offer an existing hybrid fund legal infrastructure to handle God Mode",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -511,14 +511,14 @@
           {
             "description": "Raised a concern about the barter trade agreement with Global DAO Alliance",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220603",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Referendum: Triggered off a referendum to rectify barter trade agreement with Global DAO Alliance",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220603",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -882,7 +882,7 @@
           {
             "description": "Publish official academic research paper on DAOs using TrueSight DAO as a case study",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -1197,7 +1197,7 @@
           {
             "description": "attended in real life discussion meetings with CooperCabruca 8am to 7pm (11 hours) on 2nd June 2023",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1100.0,
             "date": "20230602",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1484,7 +1484,7 @@
           {
             "description": "Oversaw an entire marketing campaign at Edge and Node on 14th September 2023. \nProvided the venue and recruited all the participants",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230917",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1736,7 +1736,7 @@
           {
             "description": "@5511982667030 spent 10 hours researching the strategy of the other chocolate companies and proposed two go to market strategies for testing \n\n- current go to market strategy is still too spotty and lack enough consistency to scale \n\n- shadowing/replication the distribution network of specific health food store that is in close proximity to the yoga studios/gym that was observed in Palo Alto \n\n- ⁠focus on smaller regional retail networks that are focused on our target audience segment. Example ranch99 established their network in areas with a high concentration of Chinese. We need to find similar distributors that are focused on wellness enthusiasts... something like the retail distributor chain that the Tanto (_kitchen head of department in the zen monastery_) suggested <This message was edited>",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20240707",
             "status": "Successfully Completed / Full Provision Awarded"
           },

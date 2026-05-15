@@ -3,23 +3,23 @@
   "display_name": "Peter Gwee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 7,
-    "total_tdg_provisioned": 2512.5,
+    "total_tdg_provisioned": 3762.5,
     "date_range": {
       "earliest": "20220128",
       "latest": "20250318"
     },
     "source": {
       "contributor_name": "Peter Gwee",
-      "generated_date": "2026-05-14T22:18:14.419817",
+      "generated_date": "2026-05-14T22:21:50.636680",
       "summary": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 2512.5,
+        "total_tdg_provisioned": 3762.5,
         "total_tdg_issued": 3775.0,
         "projects": [
           "20250617_edgar"
@@ -31,7 +31,7 @@
       },
       "analysis": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 2512.5,
+        "total_tdg_provisioned": 3762.5,
         "total_tdg_issued": 3775.0,
         "projects": [
           "20250617_edgar"
@@ -82,7 +82,7 @@
           {
             "description": "Strategic input: abort if key resources/personnel cannot be found to fill up all critical slots in the strategic framework",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220128",
             "status": "Successfully Completed / Full Provision Awarded"
           },

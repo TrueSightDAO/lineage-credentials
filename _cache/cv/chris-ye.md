@@ -1,10 +1,11 @@
 # Chris Ye
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **1**
+- Total TDG provisioned: **5,000.00**
 - Active period: 20220705 – 20220705
 - Source: [_cache/cv/chris-ye.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/chris-ye.json)
 

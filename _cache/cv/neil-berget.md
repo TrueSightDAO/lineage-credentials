@@ -1,11 +1,11 @@
 # Neil Berget
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **11**
-- Total TDG provisioned: **400.00**
+- Total TDG provisioned: **19,150.00**
 - Active period: 20211207 – 20220115
 - Source: [_cache/cv/neil-berget.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/neil-berget.json)
 

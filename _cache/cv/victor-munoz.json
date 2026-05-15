@@ -3,23 +3,23 @@
   "display_name": "Victor Munoz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 4,
-    "total_tdg_provisioned": 250.0,
+    "total_tdg_provisioned": 7750.0,
     "date_range": {
       "earliest": "20220509",
       "latest": "20220520"
     },
     "source": {
       "contributor_name": "Victor Munoz",
-      "generated_date": "2026-05-14T22:18:14.627209",
+      "generated_date": "2026-05-14T22:21:50.825121",
       "summary": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 250.0,
+        "total_tdg_provisioned": 7750.0,
         "total_tdg_issued": 5250.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 250.0,
+        "total_tdg_provisioned": 7750.0,
         "total_tdg_issued": 5250.0,
         "projects": [],
         "rubric_categories": {
@@ -45,7 +45,7 @@
           {
             "description": "Introduced TrueSight DAO to community of Bright NFT",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220509",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -59,14 +59,14 @@
           {
             "description": "Introduction to Blockchain Alliance",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Hosted Twitter Spaces for TrueSight.Me",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220520",
             "status": "Successfully Completed / Full Provision Awarded"
           }

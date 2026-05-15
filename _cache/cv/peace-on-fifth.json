@@ -1,0 +1,81 @@
+{
+  "slug": "peace-on-fifth",
+  "display_name": "Peace on fifth",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 8.33,
+    "date_range": {
+      "earliest": "20250220",
+      "latest": "20250220"
+    },
+    "source": {
+      "contributor_name": "Peace on fifth",
+      "generated_date": "2026-05-14T22:06:13.750765",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 8.33,
+        "total_tdg_issued": 8.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20250220",
+          "latest": "20250220"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 8.33,
+        "total_tdg_issued": 8.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250220",
+          "latest": "20250220"
+        },
+        "contribution_types": [
+          {
+            "description": "Peace on fifth spent 5 minutes sharing our Instagram reel \n\nhttps://www.instagram.com/peaceonfifth1?igsh=NTc4MTIwNjQ2YQ==",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Peace on fifth",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Peace on fifth spent 5 minutes sharing our Instagram reel \n\nhttps://www.instagram.com/peaceonfifth1?igsh=NTc4MTIwNjQ2YQ==",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250220",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

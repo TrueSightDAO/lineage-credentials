@@ -1,0 +1,428 @@
+{
+  "slug": "sarah-h",
+  "display_name": "Sarah H",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 15,
+    "total_tdg_provisioned": 2978.58,
+    "date_range": {
+      "earliest": "20201015",
+      "latest": "20240513"
+    },
+    "source": {
+      "contributor_name": "Sarah H",
+      "generated_date": "2026-05-14T22:06:13.810928",
+      "summary": {
+        "total_contributions": 15,
+        "total_tdg_provisioned": 2978.58,
+        "total_tdg_issued": 2978.58,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20240513"
+        }
+      },
+      "analysis": {
+        "total_contributions": 15,
+        "total_tdg_provisioned": 2978.58,
+        "total_tdg_issued": 2978.58,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 5,
+          "250 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension": 1,
+          "500 : Build Game - User Experience - Validated the existence of a user behavior": 1,
+          "10 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, IG, Twitter or Reddit)": 2,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "250 : Build Game - Marketing - Write and post official DAO short social media text post (Facebook or IG, Twitter or Reddit)": 1,
+          "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic": 1,
+          "100 : Build Game - Community Management - Helped out with single task category for a day": 1,
+          "1 : Bring Liquidity - Paid for expenses in USD on behalf of DAO": 1,
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20240513"
+        },
+        "contribution_types": [
+          {
+            "description": "For guessing the poll respondent range correctly\n\nhttps://twitter.com/truesightdao/status/1569441549590876162?s=46&t=I8vcKQG64UyIwwyAnx6FSQ",
+            "project": "TrueSight DAO",
+            "tdg": 10.0,
+            "date": "20220912",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "For guessing the poll respondent range correctly\n\nhttps://twitter.com/TrueSightDAO/status/1567835214625517569?s=20&t=1aqv2vs8Tt9pvbeYsjbK_w",
+            "project": "TrueSight DAO",
+            "tdg": 10.0,
+            "date": "20220912",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfaced Idea to crowd source websites that attempt phishing to protect Web3 member wallets",
+            "project": "Cypher Defense",
+            "tdg": 250.0,
+            "date": "20221007",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfaced the need for content creators in Web3 to feel safe",
+            "project": "Cypher Defense",
+            "tdg": 500.0,
+            "date": "20221007",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reshared the post to help gather more qualitative data into the web3 personal security space\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986686894050852864/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6986686894050852864%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Facetime 1 hour 24th October 2022 over lunch",
+            "project": "Cypher Defense",
+            "tdg": 100.0,
+            "date": "20201024",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reposted Francois' post to drive adoption amongst followers\n\nhttps://www.linkedin.com/posts/francoisrenet_betterworld-dao-blockchain-activity-7002898379307384832-vIQv?utm_source=share&utm_medium=member_desktop",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20221129",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Social Proofing this project\n\nhttps://www.linkedin.com/posts/rita-helo%C3%ADsa-rabello-de-araujo_scam-shout-out-someone-opened-a-fake-activity-7005972628431585280-Rdou?utm_source=share&utm_medium=member_desktop",
+            "project": "Cypher Defense",
+            "tdg": 250.0,
+            "date": "20221209",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Created document that describes what the project is about",
+            "project": "Cypher Defense",
+            "tdg": 625.0,
+            "date": "20221211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Helped scheduled meetup session",
+            "project": "Cypher Defense",
+            "tdg": 100.0,
+            "date": "20221211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Flight tickets to DevCon to market Cypher defense.\n\nhttps://github.com/TrueSightDAO/.github/commit/ec2a078f0e7c7b54de37ace8859b4aa4e07d7a55",
+            "project": "Cypher Defense",
+            "tdg": 883.58,
+            "date": "20221211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Responded to for profile or profit optional poll\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221227%20-%20Poll%20for%20profit%20or%20profit%20optional.jpg",
+            "project": "TrueSight DAO",
+            "tdg": 10.0,
+            "date": "20221227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Responded to surfacing AID framework as a project space\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221227%20-%20poll%20to%20include%20AID%20framework%20as%20a%20project%20space.jpg",
+            "project": "TrueSight DAO",
+            "tdg": 10.0,
+            "date": "20221227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Prompted for a need for a project discussion\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221220%20-%20Sarah%20and%20Francois%20prompted%20discussion%20meeting.jpg",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20221227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent two hours yesterday catching up with Sarah here in Portland, Oregon and to discuss the following\n\n- on the use of our cacao to mix with magic mushroom she is using for therapy \n\n- ⁠she has reached out to her shaman contacts here on our ceremonial grade cacao\n\nPS: she is a state certified therapist for magic mushrooms also she is right now helping setup the Portland branch for the church of the Sacred growth which is based out of Oakland ‎<This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20240513",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 15
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "For guessing the poll respondent range correctly\n\nhttps://twitter.com/truesightdao/status/1569441549590876162?s=46&t=I8vcKQG64UyIwwyAnx6FSQ",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220912",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "For guessing the poll respondent range correctly\n\nhttps://twitter.com/TrueSightDAO/status/1567835214625517569?s=20&t=1aqv2vs8Tt9pvbeYsjbK_w",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220912",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Surfaced Idea to crowd source websites that attempt phishing to protect Web3 member wallets",
+          "Rubric classification": "250 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20221007",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Surfaced the need for content creators in Web3 to feel safe",
+          "Rubric classification": "500 : Build Game - User Experience - Validated the existence of a user behavior",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20221007",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Reshared the post to help gather more qualitative data into the web3 personal security space\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986686894050852864/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6986686894050852864%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+          "Rubric classification": "10 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Facetime 1 hour 24th October 2022 over lunch",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20201024",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Reposted Francois' post to drive adoption amongst followers\n\nhttps://www.linkedin.com/posts/francoisrenet_betterworld-dao-blockchain-activity-7002898379307384832-vIQv?utm_source=share&utm_medium=member_desktop",
+          "Rubric classification": "10 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20221129",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Social Proofing this project\n\nhttps://www.linkedin.com/posts/rita-helo%C3%ADsa-rabello-de-araujo_scam-shout-out-someone-opened-a-fake-activity-7005972628431585280-Rdou?utm_source=share&utm_medium=member_desktop",
+          "Rubric classification": "250 : Build Game - Marketing - Write and post official DAO short social media text post (Facebook or IG, Twitter or Reddit)",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20221209",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Created document that describes what the project is about ",
+          "Rubric classification": "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic",
+          "TDGs Provisioned": "625.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "625.00",
+          "Status date": "20221211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "625.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Helped scheduled meetup session",
+          "Rubric classification": "100 : Build Game - Community Management - Helped out with single task category for a day",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20221211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Flight tickets to DevCon to market Cypher defense.\n\nhttps://github.com/TrueSightDAO/.github/commit/ec2a078f0e7c7b54de37ace8859b4aa4e07d7a55",
+          "Rubric classification": "1 : Bring Liquidity - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "883.58",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "883.58",
+          "Status date": "20221211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "883.58",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Responded to for profile or profit optional poll\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221227%20-%20Poll%20for%20profit%20or%20profit%20optional.jpg",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20221227",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Responded to surfacing AID framework as a project space\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221227%20-%20poll%20to%20include%20AID%20framework%20as%20a%20project%20space.jpg",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20221227",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Prompted for a need for a project discussion\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221220%20-%20Sarah%20and%20Francois%20prompted%20discussion%20meeting.jpg",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20221227",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sarah H",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Spent two hours yesterday catching up with Sarah here in Portland, Oregon and to discuss the following\n\n- on the use of our cacao to mix with magic mushroom she is using for therapy \n\n- ⁠she has reached out to her shaman contacts here on our ceremonial grade cacao\n\nPS: she is a state certified therapist for magic mushrooms also she is right now helping setup the Portland branch for the church of the Sacred growth which is based out of Oakland ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200",
+          "Status date": "20240513",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

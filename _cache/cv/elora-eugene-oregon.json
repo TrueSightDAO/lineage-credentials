@@ -1,0 +1,129 @@
+{
+  "slug": "elora-eugene-oregon",
+  "display_name": "Elora - Eugene Oregon",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20250801",
+      "latest": "20250806"
+    },
+    "source": {
+      "contributor_name": "Elora - Eugene Oregon",
+      "generated_date": "2026-05-14T22:06:13.103891",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250801",
+          "latest": "20250806"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 3
+        },
+        "date_range": {
+          "earliest": "20250801",
+          "latest": "20250806"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Sharing about the event and hooking us up for that\n- Contributor(s): Elora - Eugene Oregon\n- TDG Issued: 25.00\n- Attached Filename: IMG_9822.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250801182300_gary_teh_img_9822.jpeg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: qCaHSHQ4tp6es+21GaEGpgDK53NZ0riSgixcPJ08DXrfc0vvSWHZv1NYHJSK/0rmmgW8ZcwD1l7Tjd4FoztkizuyVyfEePN7eIncrB64nj+PKYQ6HVkK2zeGAnqe8rCePfRW+9eLZ8jM6/tDNKf27hNZIT4+hq8ECFFtJUe1wULXQ5C/2ACULXSYzXriS3wLkMG7S8MdO53WGevKVe8/UXJbleSwNiLBgn1a1pdxDlhDQSkH3UOQQSQ4Z56J73ofe+GPnecJENneC4+In+DWsG9DwiFpTKI8yzx7ZMz5hU62tFaNZwGlourvlZupa0nlG0MrQEqUvSo4wihi9iM0Xw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754072506247\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20250801",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Elora’s friend Lokesh invited to offer cacao during their Ayuhuasca retreat on the 7th of Nov\n- Contributor(s): Elora - Eugene Oregon, Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: pV5VeSHfu5yh8Fh9st50BaEJCzW8+uxwTRCckjpAK1SWZ1231UW8LzqYgkU9PRY2LbgMRPObzQ1TaQZ9Z8rDCiM1ibeBS43mtlpJzbfaxpxiv3FRAiWghioDQavv91B8W2cf3rm0JmE6XTIQNoX0UucoanyqM/lWFO3w5pMvoJ/qOdAscsd/oDjxzMyYjPd9KKd1aaDlP32vB3xRVwjIky3KiIup1Lm+YQ/LPA73CKP7/aUZMexHQZL8SR8dJG4Xn+CZuShTg+tMpdI5MtcHTHWn1GdRyQEuMtxNi0Z7/WHZXJfFD/U7Gvz3C3Yp5y4KRHHOjC2OpnKUxxyPkOYbtw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20250805",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Shared about Chico’s California as a space for estatic dance\n- Contributor(s): Elora - Eugene Oregon\n- TDG Issued: 25.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: mUxfBGOKvvt0HZngmPSid3iww9b1AYF0Xdxacjd0cmLuq4GnQr3cHWWYjt++4ln81ClRSlRrpoR4VIYVFI6eVrsteQ7KINxcDHb3xtmd6ebOJAdDl4Ivcq39e8Ahyc2prQ/iRkmFUXGWgd2t1KIhLUwSnjbzKiKlq+LsPnIQCGizIRN3hDZ5c4nOyxiM2NpCtVTLc4jzRlWYa57LvIxJISFgPZpJ5hpX1cdDrsmUP6ACqyprM8N3B2mRQQEUW5EBj8fL+J/bxzPaa+usgC+Rbw4D2aD+5EHt//t+h2VUZ2K+v7BEfH8dCTts3eDCO2DonrfyoyIVB4ItNSbHSsOJUg==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20250806",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Elora - Eugene Oregon",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Sharing about the event and hooking us up for that\n- Contributor(s): Elora - Eugene Oregon\n- TDG Issued: 25.00\n- Attached Filename: IMG_9822.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250801182300_gary_teh_img_9822.jpeg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: qCaHSHQ4tp6es+21GaEGpgDK53NZ0riSgixcPJ08DXrfc0vvSWHZv1NYHJSK/0rmmgW8ZcwD1l7Tjd4FoztkizuyVyfEePN7eIncrB64nj+PKYQ6HVkK2zeGAnqe8rCePfRW+9eLZ8jM6/tDNKf27hNZIT4+hq8ECFFtJUe1wULXQ5C/2ACULXSYzXriS3wLkMG7S8MdO53WGevKVe8/UXJbleSwNiLBgn1a1pdxDlhDQSkH3UOQQSQ4Z56J73ofe+GPnecJENneC4+In+DWsG9DwiFpTKI8yzx7ZMz5hU62tFaNZwGlourvlZupa0nlG0MrQEqUvSo4wihi9iM0Xw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754072506247\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250801",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Elora - Eugene Oregon",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Elora’s friend Lokesh invited to offer cacao during their Ayuhuasca retreat on the 7th of Nov\n- Contributor(s): Elora - Eugene Oregon, Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: pV5VeSHfu5yh8Fh9st50BaEJCzW8+uxwTRCckjpAK1SWZ1231UW8LzqYgkU9PRY2LbgMRPObzQ1TaQZ9Z8rDCiM1ibeBS43mtlpJzbfaxpxiv3FRAiWghioDQavv91B8W2cf3rm0JmE6XTIQNoX0UucoanyqM/lWFO3w5pMvoJ/qOdAscsd/oDjxzMyYjPd9KKd1aaDlP32vB3xRVwjIky3KiIup1Lm+YQ/LPA73CKP7/aUZMexHQZL8SR8dJG4Xn+CZuShTg+tMpdI5MtcHTHWn1GdRyQEuMtxNi0Z7/WHZXJfFD/U7Gvz3C3Yp5y4KRHHOjC2OpnKUxxyPkOYbtw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250805",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Elora - Eugene Oregon",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Shared about Chico’s California as a space for estatic dance\n- Contributor(s): Elora - Eugene Oregon\n- TDG Issued: 25.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: mUxfBGOKvvt0HZngmPSid3iww9b1AYF0Xdxacjd0cmLuq4GnQr3cHWWYjt++4ln81ClRSlRrpoR4VIYVFI6eVrsteQ7KINxcDHb3xtmd6ebOJAdDl4Ivcq39e8Ahyc2prQ/iRkmFUXGWgd2t1KIhLUwSnjbzKiKlq+LsPnIQCGizIRN3hDZ5c4nOyxiM2NpCtVTLc4jzRlWYa57LvIxJISFgPZpJ5hpX1cdDrsmUP6ACqyprM8N3B2mRQQEUW5EBj8fL+J/bxzPaa+usgC+Rbw4D2aD+5EHt//t+h2VUZ2K+v7BEfH8dCTts3eDCO2DonrfyoyIVB4ItNSbHSsOJUg==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250806",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

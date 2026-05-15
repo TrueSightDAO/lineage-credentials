@@ -1,0 +1,155 @@
+{
+  "slug": "youna-kim",
+  "display_name": "Youna Kim",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 1050.0,
+    "date_range": {
+      "earliest": "20211219",
+      "latest": "20231220"
+    },
+    "source": {
+      "contributor_name": "Youna Kim",
+      "generated_date": "2026-05-14T22:06:13.962798",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1050.0,
+        "total_tdg_issued": 1050.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20211219",
+          "latest": "20231220"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1050.0,
+        "total_tdg_issued": 1050.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "5000 : Build Game - Marketing - Oversaw an entire marketing messaging campaign": 1,
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20211219",
+          "latest": "20231220"
+        },
+        "contribution_types": [
+          {
+            "description": "Translating our project description into Korean: 트루사이트(TrueSight.Me)는 시대적 민감도를 위한 탈중앙화 오라클입니다. 우리는 무지한 상태에서 결정을 내리는 것이 인간 고통의 근원이라고 믿습니다. 우리의 목적은 본질적인 진실을 바탕으로 보다 더 나은 세상을 만드는 것입니다. 우리의 임무는 개인에게 크라우드 소싱의 실행 가능한 통찰력을 제공하여 일상 생활에서 중요한 결정을 내리는 것이 가능하도록 제공하는 것입니다. 이것은 점점 더 혼란스러워지는 이 세상에서 필수적이 되었습니다.",
+            "project": "",
+            "tdg": 750.0,
+            "date": "20211219",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Branding cover page: https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/truesight_branding.jpeg",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220213",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Marketing Advertise game in Korea once it is ready",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Proposed"
+          },
+          {
+            "description": "Had a 2 hour chat with @821071361022 two days ago. \n\nThe signals seem to be clearer and clearer as they flow in. I definitely need to further take a step back and let go of the reins of the DAO. \n\n*Integrity* of DAO will evolve to become crowd sourced amongst DAO members and enabled using AI. \n\nThus far what I am seeing seems to indicate that my stepping back and letting go of the rein is eliciting the desired effect.  \n\n*Emptiness* is starting to surface a new Form. And that is desireable. 🤩🙏 ‎<This message was edited>\n‎",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20231220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3,
+          "Proposed": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Youna Kim",
+          "Project Name": "",
+          "Contribution Made": "Translating our project description into Korean: 트루사이트(TrueSight.Me)는 시대적 민감도를 위한 탈중앙화 오라클입니다. 우리는 무지한 상태에서 결정을 내리는 것이 인간 고통의 근원이라고 믿습니다. 우리의 목적은 본질적인 진실을 바탕으로 보다 더 나은 세상을 만드는 것입니다. 우리의 임무는 개인에게 크라우드 소싱의 실행 가능한 통찰력을 제공하여 일상 생활에서 중요한 결정을 내리는 것이 가능하도록 제공하는 것입니다. 이것은 점점 더 혼란스러워지는 이 세상에서 필수적이 되었습니다.",
+          "Rubric classification": "",
+          "TDGs Provisioned": "750.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "750",
+          "Status date": "20211219",
+          "Solana Transfer Hash": "hJf4V1aUtRa3cHDwX4PR67u1VLx8RxpMSkpsJbkxHsRqGQR9t6DhwanKkBXZPnntX5495hEKYzqJgJ1FiWzeRXa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Youna Kim",
+          "Project Name": "",
+          "Contribution Made": "Branding cover page: https://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/truesight_branding.jpeg",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220213",
+          "Solana Transfer Hash": "hJf4V1aUtRa3cHDwX4PR67u1VLx8RxpMSkpsJbkxHsRqGQR9t6DhwanKkBXZPnntX5495hEKYzqJgJ1FiWzeRXa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Youna Kim",
+          "Project Name": "",
+          "Contribution Made": "Marketing Advertise game in Korea once it is ready",
+          "Rubric classification": "5000 : Build Game - Marketing - Oversaw an entire marketing messaging campaign",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Proposed",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Youna Kim",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Had a 2 hour chat with @821071361022 two days ago. \n\nThe signals seem to be clearer and clearer as they flow in. I definitely need to further take a step back and let go of the reins of the DAO. \n\n*Integrity* of DAO will evolve to become crowd sourced amongst DAO members and enabled using AI. \n\nThus far what I am seeing seems to indicate that my stepping back and letting go of the rein is eliciting the desired effect.  \n\n*Emptiness* is starting to surface a new Form. And that is desireable. 🤩🙏 ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200",
+          "Status date": "20231220",
+          "Solana Transfer Hash": "2MdQV3tk3J21X92PPzw5Y9y4UUnVEdZx2wC3TimXzNjmzb3RcVyToQrx2WGJ3A9ahGFVzsf3P8VoQ8vCqcEv42UP",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,14 @@
+# Paloma
+
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:06:14Z*
+
+## DAO Contributions
+
+- Total contributions: **19**
+- Total TDG provisioned: **647.08**
+- Active period: 20240830 – 20250807
+- Source: [_cache/cv/paloma.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/paloma.json)
+
+---
+
+TrueSight DAO Credential Profile. Every claim above cites the line in the underlying ledger or repo — open the source link to audit.

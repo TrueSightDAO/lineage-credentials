@@ -1,0 +1,323 @@
+{
+  "slug": "june-jo",
+  "display_name": "June Jo",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 11,
+    "total_tdg_provisioned": 2000.0,
+    "date_range": {
+      "earliest": "20250113",
+      "latest": "20250819"
+    },
+    "source": {
+      "contributor_name": "June Jo",
+      "generated_date": "2026-05-14T22:06:13.542297",
+      "summary": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 2000.0,
+        "total_tdg_issued": 2000.0,
+        "projects": [
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250113",
+          "latest": "20250819"
+        }
+      },
+      "analysis": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 2000.0,
+        "total_tdg_issued": 2000.0,
+        "projects": [
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 11
+        },
+        "date_range": {
+          "earliest": "20250113",
+          "latest": "20250819"
+        },
+        "contribution_types": [
+          {
+            "description": "Me and June Jo spent 1hour and 15 minutes discussing collaboration.",
+            "project": "TrueSight DAO",
+            "tdg": 125.0,
+            "date": "20250113",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, June and Kirsten spent 15 minutes coordinating today’s cacao circle",
+            "project": "TrueSight DAO",
+            "tdg": 25.0,
+            "date": "20250114",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, June, Kirsten and Edge and Node spent 5 hours today offering cacao to the web3 community 🙂🙏",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20250115",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "June spent 5 minutes introducing Ahmed to us",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250115",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and June spent 10 minutes corresponding to make arrangements to meet with Organic Valley Cooperative Farmers from Napa California tomorrow",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250208",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, June and Tripp spent 1.5 hours sharing insights on growing Agroverse today",
+            "project": "TrueSight DAO",
+            "tdg": 150.0,
+            "date": "20250208",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "June spent 3 hours and 15 minutes organizing this get together to introduce me to Patty \n\nWill follow up with Patty on the kitchen facilities they have in the public library in South Bay as well as get introduced to their chamber of commerce there \n\nSeems there are lots of chocolatiers seeking chocolate supplies",
+            "project": "TrueSight DAO",
+            "tdg": 325.0,
+            "date": "20250215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, June Jo, Tripp and Ahmed spent 5 hours today doing trend spotting as well as exploring the future trends of of the holistic and regenerative movement. Going back to community, defining what Regeneration is is becoming a very clear direction",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20250307",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, @kikiscocoa and June Jo spent 2 hours discussing about food as well as exploring how raw cacao tastes like",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20250321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Introduced Antonio Miceli\r\n- Contributor(s): June Jo\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_0449.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250815020842_gary_teh_img_0449.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: iRHKHlqaEcwl7ygECQ2bLu5nVmSz0lXViyxcTXQZNKjhLp/aAzkYxo8PH4AKu48tO/jt3v2KjbIJyGQtIYN+o/C+0dLWHoVuiAS88GB9art7fpwX7n1xAkhSv/useJZVsR6z7YfbjJRlSeu9v4wxzCvkXJypXZ+LHQXwN5faxJr6zqVVlCGtM+YixknDfC+twOSh35/9SLyjRwIr+gtqUUh2lVQ5cb4o5jg/IB1uzGu+WJYFSHEpMvknAYP+qbp9hR7yu30Z90iEFBCSPAL8VeBT/b2t8N5hqgntg9XHzN8Th1IJTGz4qWMlEu5Qi0tmaWSWylwMWh6M6okIcOYGDA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20250815",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: On COP 2025\r\n- Contributor(s): Gary Teh, June Jo\r\n- TDG Issued: 50.00\r\n- Attached Filename: IMG_0556.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250819090341_gary_teh_img_0556.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: gUVMYA5YjTYbpcrww6dbz/DjwwPeTT9OOei8PYrvJWmoK7LNRVUjCo81POoEToii9cYNXqZoKB1bXUv3nRiFZPa/o/BS89Uju/LdV/62WW8no0OyEmq1VyLCbiQVyBwuMiOL5TOHbv2K47EypaVloNQYBknYPSfUhQ/k9J8puurKUnDqnPY6QrNuK+vG9Otcrei+egUmLdmf64sJG3xP9K0Oy9cmzOfciaycezKDAcEa8e8wxSeQ3yLmkU2oh+uHQLXjDuut95+TEFuCowLL68uE5TH3hB7CHkbNxJdiu8DNNCwBcyHVXfl0nEoWPK+yN0B2XqeGmRh29ZFwIRNRUQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20250819",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 11
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and June Jo spent 1hour and 15 minutes discussing collaboration.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "125.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "125.00",
+          "Status date": "20250113",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125.00",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June and Kirsten spent 15 minutes coordinating today’s cacao circle",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250114",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June, Kirsten and Edge and Node spent 5 hours today offering cacao to the web3 community 🙂🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20250115",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "June spent 5 minutes introducing Ahmed to us",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250115",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and June spent 10 minutes corresponding to make arrangements to meet with Organic Valley Cooperative Farmers from Napa California tomorrow",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250208",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June and Tripp spent 1.5 hours sharing insights on growing Agroverse today",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20250208",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "150.00",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "June spent 3 hours and 15 minutes organizing this get together to introduce me to Patty \n\nWill follow up with Patty on the kitchen facilities they have in the public library in South Bay as well as get introduced to their chamber of commerce there \n\nSeems there are lots of chocolatiers seeking chocolate supplies",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "325.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "325.00",
+          "Status date": "20250215",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "325.00",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June Jo, Tripp and Ahmed spent 5 hours today doing trend spotting as well as exploring the future trends of of the holistic and regenerative movement. Going back to community, defining what Regeneration is is becoming a very clear direction",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20250307",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, @kikiscocoa and June Jo spent 2 hours discussing about food as well as exploring how raw cacao tastes like",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20250321",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200.00",
+          "Discord ID": "+12068495127",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Introduced Antonio Miceli\r\n- Contributor(s): June Jo\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_0449.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250815020842_gary_teh_img_0449.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: iRHKHlqaEcwl7ygECQ2bLu5nVmSz0lXViyxcTXQZNKjhLp/aAzkYxo8PH4AKu48tO/jt3v2KjbIJyGQtIYN+o/C+0dLWHoVuiAS88GB9art7fpwX7n1xAkhSv/useJZVsR6z7YfbjJRlSeu9v4wxzCvkXJypXZ+LHQXwN5faxJr6zqVVlCGtM+YixknDfC+twOSh35/9SLyjRwIr+gtqUUh2lVQ5cb4o5jg/IB1uzGu+WJYFSHEpMvknAYP+qbp9hR7yu30Z90iEFBCSPAL8VeBT/b2t8N5hqgntg9XHzN8Th1IJTGz4qWMlEu5Qi0tmaWSWylwMWh6M6okIcOYGDA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250815",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "June Jo",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: On COP 2025\r\n- Contributor(s): Gary Teh, June Jo\r\n- TDG Issued: 50.00\r\n- Attached Filename: IMG_0556.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250819090341_gary_teh_img_0556.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: gUVMYA5YjTYbpcrww6dbz/DjwwPeTT9OOei8PYrvJWmoK7LNRVUjCo81POoEToii9cYNXqZoKB1bXUv3nRiFZPa/o/BS89Uju/LdV/62WW8no0OyEmq1VyLCbiQVyBwuMiOL5TOHbv2K47EypaVloNQYBknYPSfUhQ/k9J8puurKUnDqnPY6QrNuK+vG9Otcrei+egUmLdmf64sJG3xP9K0Oy9cmzOfciaycezKDAcEa8e8wxSeQ3yLmkU2oh+uHQLXjDuut95+TEFuCowLL68uE5TH3hB7CHkbNxJdiu8DNNCwBcyHVXfl0nEoWPK+yN0B2XqeGmRh29ZFwIRNRUQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250819",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "ewerton-silva",
+  "display_name": "Ewerton Silva",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 200.0,
+    "date_range": {
+      "earliest": "20230607",
+      "latest": "20230607"
+    },
+    "source": {
+      "contributor_name": "Ewerton Silva",
+      "generated_date": "2026-05-14T22:06:13.143400",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230607",
+          "latest": "20230607"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1
+        },
+        "date_range": {
+          "earliest": "20230607",
+          "latest": "20230607"
+        },
+        "contribution_types": [
+          {
+            "description": "Facetime interview with Gary and Ewerton Silva on shipping 10th June 2023\n    - various shipping codes\n    - shipping process from origin warehouse to destination warehouse",
+            "project": "Agroverse",
+            "tdg": 200.0,
+            "date": "20230607",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ewerton Silva",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Facetime interview with Gary and Ewerton Silva on shipping 10th June 2023\n    - various shipping codes\n    - shipping process from origin warehouse to destination warehouse",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20230607",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200.00",
+          "Discord ID": "+55 47 9942-7788",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,316 @@
+{
+  "slug": "neil-berget",
+  "display_name": "Neil Berget",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 11,
+    "total_tdg_provisioned": 400.0,
+    "date_range": {
+      "earliest": "20211207",
+      "latest": "20220115"
+    },
+    "source": {
+      "contributor_name": "Neil Berget",
+      "generated_date": "2026-05-14T22:06:13.713143",
+      "summary": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 400.0,
+        "total_tdg_issued": 15400.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20211207",
+          "latest": "20220115"
+        }
+      },
+      "analysis": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 400.0,
+        "total_tdg_issued": 15400.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20211207",
+          "latest": "20220115"
+        },
+        "contribution_types": [
+          {
+            "description": "Proposal of the DAO",
+            "project": "",
+            "tdg": 0,
+            "date": "20211207",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposal of Solana as the base for TRUE DAO",
+            "project": "",
+            "tdg": 0,
+            "date": "20211207",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Phase 3 - Post DAO rules definition discussion",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Aborted"
+          },
+          {
+            "description": "DAO/Token structure reference: TributeDAO",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO/Token structure implementation: SQUAD\nhttps://devnet.sqds.io/squad/5MecX55aS55NA7d97bQBzTn7WoNhdEWrg7brWd6yEyWc/info",
+            "project": "",
+            "tdg": 0,
+            "date": "20211214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO/Token structure implementation: \nhttps://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO/Token structure implementation: Build Smart contract framework using Serum instead of directly on Rust",
+            "project": "",
+            "tdg": 0,
+            "date": "20211216",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO/Token structure reference: https://nouns.wtf/playground",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Dockerization of TrueSight https://www.pivotaltracker.com/story/show/180833731",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Aborted"
+          },
+          {
+            "description": "Proxy for enterprise adoption https://solana.fm/pricing",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Protocol Loophole: Creating multiple NFts, betting on both sides, thereafter discarding the NFTs with the wrong outcome. Eventually creating an NFT with 100% accuracy level",
+            "project": "",
+            "tdg": 0,
+            "date": "20220115",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 9,
+          "Aborted": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "Proposal of the DAO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20211207",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "Proposal of Solana as the base for TRUE DAO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20211207",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "Phase 3 - Post DAO rules definition discussion",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Aborted",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure reference: TributeDAO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure implementation: SQUAD\nhttps://devnet.sqds.io/squad/5MecX55aS55NA7d97bQBzTn7WoNhdEWrg7brWd6yEyWc/info",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20211214",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure implementation: \nhttps://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211214",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure implementation: Build Smart contract framework using Serum instead of directly on Rust",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20211216",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure reference: https://nouns.wtf/playground",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211220",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "Dockerization of TrueSight https://www.pivotaltracker.com/story/show/180833731",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Aborted",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "Proxy for enterprise adoption https://solana.fm/pricing",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Berget",
+          "Project Name": "",
+          "Contribution Made": "Protocol Loophole: Creating multiple NFts, betting on both sides, thereafter discarding the NFTs with the wrong outcome. Eventually creating an NFT with 100% accuracy level",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220115",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "5000",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

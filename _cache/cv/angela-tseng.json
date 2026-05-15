@@ -1,0 +1,322 @@
+{
+  "slug": "angela-tseng",
+  "display_name": "Angela Tseng",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 11,
+    "total_tdg_provisioned": 1075.01,
+    "date_range": {
+      "earliest": "20250412",
+      "latest": "20250423"
+    },
+    "source": {
+      "contributor_name": "Angela Tseng",
+      "generated_date": "2026-05-14T22:06:12.882141",
+      "summary": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 1075.01,
+        "total_tdg_issued": 1116.6499999999999,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250412",
+          "latest": "20250423"
+        }
+      },
+      "analysis": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 1075.01,
+        "total_tdg_issued": 1116.6499999999999,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 10,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250412",
+          "latest": "20250423"
+        },
+        "contribution_types": [
+          {
+            "description": "Angela Tseng spent 5 minutes introducing Richard Ng who is forming an indigenous DAO\n\nhttps://www.linkedin.com/in/richng/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angela Tseng spent 5 minutes introducing Richard Ng who is forming an indigenous DAO\n\nhttps://www.linkedin.com/in/richng/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angela Tseng spent 10 minutes directly making introduction to Richard Ng on LinkedIn",
+            "project": "telegram_chatlog",
+            "tdg": 8.34,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angela Tseng spent 10 minutes directly making introduction to Richard Ng on LinkedIn",
+            "project": "telegram_chatlog",
+            "tdg": 8.34,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angela Tseng spent 5 minutes crafting up the wording to share about Agroverse",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angela Tseng spent 5 minutes crafting up the wording to share about Agroverse",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angela Tseng spent 5 hours leading the gathering this evening!",
+            "project": "telegram_chatlog",
+            "tdg": 500.0,
+            "date": "20250423",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angela Tseng spent 5 hours leading the gathering this evening!",
+            "project": "telegram_chatlog",
+            "tdg": 500.0,
+            "date": "20250423",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes communicating with Angela about what to expect for the cacao circle happening on the 22nd of April",
+            "project": "telegram_chatlog",
+            "tdg": 4.17,
+            "date": "20250412",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Just confirmed the cacao circle happening on Earth Day 22nd of April during a private gathering of 50 sustainability leaders in Bay Area\n\nMe and Angela Tsent spent 20 minutes discussing the coordination",
+            "project": "telegram_chatlog",
+            "tdg": 16.66,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 15 minutes generating the copy that Angela Tseng will share with the participants coming to the cacao circle on the 22nd of April Earth Day. \n\nAgroverse, a TrueSight DAO initiative, regenerates our Amazon rainforest by backing ceremonial cacao grown on regenerated land via traditional agroforestry previously harmed by soybean farming and cattle ranching. Farmers benefit from 48% of sales, surpassing the usual 6% offered by conventional intermediaries. Experience this innovative and sustainable approach at SF Climate Week, where environmental conservation meets social responsibility.",
+            "project": "telegram_chatlog",
+            "tdg": 12.5,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 11
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 5 minutes introducing Richard Ng who is forming an indigenous DAO\n\nhttps://www.linkedin.com/in/richng/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 5 minutes introducing Richard Ng who is forming an indigenous DAO\n\nhttps://www.linkedin.com/in/richng/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 10 minutes directly making introduction to Richard Ng on LinkedIn",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.34",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 10 minutes directly making introduction to Richard Ng on LinkedIn",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.34",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 5 minutes crafting up the wording to share about Agroverse",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 5 minutes crafting up the wording to share about Agroverse",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 5 hours leading the gathering this evening!",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20250423",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Angela Tseng spent 5 hours leading the gathering this evening!",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20250423",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes communicating with Angela about what to expect for the cacao circle happening on the 22nd of April",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250412",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Just confirmed the cacao circle happening on Earth Day 22nd of April during a private gathering of 50 sustainability leaders in Bay Area\n\nMe and Angela Tsent spent 20 minutes discussing the coordination",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.66",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.66",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Angela Tseng",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 15 minutes generating the copy that Angela Tseng will share with the participants coming to the cacao circle on the 22nd of April Earth Day. \n\nAgroverse, a TrueSight DAO initiative, regenerates our Amazon rainforest by backing ceremonial cacao grown on regenerated land via traditional agroforestry previously harmed by soybean farming and cattle ranching. Farmers benefit from 48% of sales, surpassing the usual 6% offered by conventional intermediaries. Experience this innovative and sustainable approach at SF Climate Week, where environmental conservation meets social responsibility.",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "12.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,317 @@
+{
+  "slug": "john-tan",
+  "display_name": "John Tan",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 11,
+    "total_tdg_provisioned": 1610.0,
+    "date_range": {
+      "earliest": "20220223",
+      "latest": "20220405"
+    },
+    "source": {
+      "contributor_name": "John Tan",
+      "generated_date": "2026-05-14T22:06:13.506376",
+      "summary": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 1610.0,
+        "total_tdg_issued": 4110.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220223",
+          "latest": "20220405"
+        }
+      },
+      "analysis": {
+        "total_contributions": 11,
+        "total_tdg_provisioned": 1610.0,
+        "total_tdg_issued": 4110.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Contribute reference material - link": 3
+        },
+        "date_range": {
+          "earliest": "20220223",
+          "latest": "20220405"
+        },
+        "contribution_types": [
+          {
+            "description": "Partnership: Affinidi - credibility consumption partnership identified",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220223",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Liquidity: introduced Diana Gan",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Made introduction to Philip",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Made introduction to Morgan Wee",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Made introduction to Reuben",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Concept: FWB DAO\nhttps://www.fwb.help/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220305",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Growth Lead for Odyssey DAO \nhttps://twitter.com/hey_bernie/status/1505201580336898055?s=21&fbclid=IwAR2KlqO1LbNUid1ZWVMgPc9dovA0yD-O_6nIBeWgiGstZImi9mCg3HAKmLw",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Make introduction to Suhaimi, CEO of Quant Edge",
+            "project": "",
+            "tdg": 0,
+            "date": "20220320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Environment monitoring: Justin Kan raises 35Million for game focused NFT marketplace\n\nhttps://venturebeat.com/2022/04/01/justin-kans-fractal-raises-35m-for-game-focused-nft-marketplace/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220405",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Recommended book on Game theory, man from the future\n\nhttps://libgen.is/book/index.php?md5=274A29484A45BABD8997F1107FDCDCDF",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220405",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: An influential paper on Game Theory title \"Effective Choice in the Prisoner's Dilemma\"\n\nhttps://www.jstor.org/stable/173932",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220405",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 11
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Partnership: Affinidi - credibility consumption partnership identified",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220223",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Liquidity: introduced Diana Gan",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20220224",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Community: Made introduction to Philip",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Community: Made introduction to Morgan Wee",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Community: Made introduction to Reuben",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Concept: FWB DAO\nhttps://www.fwb.help/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220305",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Growth Lead for Odyssey DAO \nhttps://twitter.com/hey_bernie/status/1505201580336898055?s=21&fbclid=IwAR2KlqO1LbNUid1ZWVMgPc9dovA0yD-O_6nIBeWgiGstZImi9mCg3HAKmLw",
+          "Rubric classification": "",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220320",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Make introduction to Suhaimi, CEO of Quant Edge",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5,000.00",
+          "Status date": "20220320",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Environment monitoring: Justin Kan raises 35Million for game focused NFT marketplace\n\nhttps://venturebeat.com/2022/04/01/justin-kans-fractal-raises-35m-for-game-focused-nft-marketplace/",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220405",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Governance: Recommended book on Game theory, man from the future\n\nhttps://libgen.is/book/index.php?md5=274A29484A45BABD8997F1107FDCDCDF",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220405",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "John Tan",
+          "Project Name": "",
+          "Contribution Made": "Governance: An influential paper on Game Theory title \"Effective Choice in the Prisoner's Dilemma\"\n\nhttps://www.jstor.org/stable/173932",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220405",
+          "Solana Transfer Hash": "48LoSbYYZYkxeyiJMR9bVcLqQ6D4gM35MPHL5NAQiC5qA1k1qnxynHvPr53PX7n9s2i18qqTtRarJnvpHMb7NSWH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

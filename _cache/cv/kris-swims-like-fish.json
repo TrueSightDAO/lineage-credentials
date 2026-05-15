@@ -1,0 +1,81 @@
+{
+  "slug": "kris-swims-like-fish",
+  "display_name": "Kris swims like fish",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20260227",
+      "latest": "20260227"
+    },
+    "source": {
+      "contributor_name": "Kris swims like fish",
+      "generated_date": "2026-05-14T22:06:13.592759",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20260227",
+          "latest": "20260227"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20260227",
+          "latest": "20260227"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Posting and sharing this on Facebook and Instagram and then responding \r\n  \r\n  https://www.facebook.com/share/v/1Dyenk2BaH/?mibextid=wwXIfr\r\n- Contributor(s): Kris swims like fish\r\n- TDG Issued: 100.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: pLAR+ICTEew4NK2jO+50cn0fzcW/NwJwJKZktbA0pM9wef4h5lLUJtVbvKPbs2+29q81lrbEt5NOQR4DkoDNAytj6HjA8C+IpytH2OtWuWonY1TGt3j/OKerCqzGZTXKFYSkb5iPEIIQzahW/SD00WnXs3VA68PVLtxwuVle1JlLA4SJyErLvUxkzDFAXkJr7k8ZQyg5qD86mbGnJ4oGWUF3lykel7xan2o+3F4DrpfeQBpGXZYPpZ5A3HzZcfN/ngOmyp21it4j9/hbZmSbju89q00Ev1+xrb6FhGHdHSpqdFmBu49IG4lFln7QR/UBuyi0ehN/OQFsdvPZK5jgrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20260227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Kris swims like fish",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Posting and sharing this on Facebook and Instagram and then responding \r\n  \r\n  https://www.facebook.com/share/v/1Dyenk2BaH/?mibextid=wwXIfr\r\n- Contributor(s): Kris swims like fish\r\n- TDG Issued: 100.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: pLAR+ICTEew4NK2jO+50cn0fzcW/NwJwJKZktbA0pM9wef4h5lLUJtVbvKPbs2+29q81lrbEt5NOQR4DkoDNAytj6HjA8C+IpytH2OtWuWonY1TGt3j/OKerCqzGZTXKFYSkb5iPEIIQzahW/SD00WnXs3VA68PVLtxwuVle1JlLA4SJyErLvUxkzDFAXkJr7k8ZQyg5qD86mbGnJ4oGWUF3lykel7xan2o+3F4DrpfeQBpGXZYPpZ5A3HzZcfN/ngOmyp21it4j9/hbZmSbju89q00Ev1+xrb6FhGHdHSpqdFmBu49IG4lFln7QR/UBuyi0ehN/OQFsdvPZK5jgrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20260227",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

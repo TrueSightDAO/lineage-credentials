@@ -1,0 +1,14 @@
+# Philip
+
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:06:14Z*
+
+## DAO Contributions
+
+- Total contributions: **19**
+- Total TDG provisioned: **3,260.00**
+- Active period: 20220304 – 20220325
+- Source: [_cache/cv/philip.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/philip.json)
+
+---
+
+TrueSight DAO Credential Profile. Every claim above cites the line in the underlying ledger or repo — open the source link to audit.

@@ -1,0 +1,81 @@
+{
+  "slug": "vanessa-walach-shaman-better-daze",
+  "display_name": "Vanessa Walach - Shaman Better Daze",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20250804",
+      "latest": "20250804"
+    },
+    "source": {
+      "contributor_name": "Vanessa Walach - Shaman Better Daze",
+      "generated_date": "2026-05-14T22:06:13.917003",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250804",
+          "latest": "20250804"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250804",
+          "latest": "20250804"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Spoke about affiliate program, the festival in Ibiza And using of Edgar for the collective that she is building\n- Contributor(s): Gary Teh, Vanessa Walach - Shaman Better Daze\n- TDG Issued: 50.00\n- Attached Filename: IMG_0045.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250804164909_gary_teh_img_0045.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: kAkgYKOENoGhtFEG7lYdlL+sFHvKaz2EraRUXLKms5RUrYldpSMdLYHAsmXGNgOOSFM0JrvlZ5vp9m2Nk94RZ3ovDV2OSEIsAbc40HRXkwFvH0Hek5caQ4/Jz8tpkaI8EGOloSHlLfSZUJgsC50+rbOzj58/v7eNxpXeRZF/J0xLIgKFVenPYBFZt8mDEenfdIZd9AIst+/UHAfQeDIvUQR8fm8V+GewQiQtGHy5Fs4TXZY6IS4tQNWANdeQFR9EfXqzl44LnH4msI3i+H6jbOhM6k2KhFXajWCMQWisBBDzZ68XCHhZ156T6oewmZNyLJkHqNuM//B4LyCO231E4g==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754325327002\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20250804",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Vanessa Walach - Shaman Better Daze",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Spoke about affiliate program, the festival in Ibiza And using of Edgar for the collective that she is building\n- Contributor(s): Gary Teh, Vanessa Walach - Shaman Better Daze\n- TDG Issued: 50.00\n- Attached Filename: IMG_0045.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250804164909_gary_teh_img_0045.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: kAkgYKOENoGhtFEG7lYdlL+sFHvKaz2EraRUXLKms5RUrYldpSMdLYHAsmXGNgOOSFM0JrvlZ5vp9m2Nk94RZ3ovDV2OSEIsAbc40HRXkwFvH0Hek5caQ4/Jz8tpkaI8EGOloSHlLfSZUJgsC50+rbOzj58/v7eNxpXeRZF/J0xLIgKFVenPYBFZt8mDEenfdIZd9AIst+/UHAfQeDIvUQR8fm8V+GewQiQtGHy5Fs4TXZY6IS4tQNWANdeQFR9EfXqzl44LnH4msI3i+H6jbOhM6k2KhFXajWCMQWisBBDzZ68XCHhZ156T6oewmZNyLJkHqNuM//B4LyCO231E4g==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754325327002\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250804",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

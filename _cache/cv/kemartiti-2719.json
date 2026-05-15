@@ -1,0 +1,126 @@
+{
+  "slug": "kemartiti-2719",
+  "display_name": "KemarTiti 🔮#2719",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 750.0,
+    "date_range": {
+      "earliest": "20220329",
+      "latest": "20220331"
+    },
+    "source": {
+      "contributor_name": "KemarTiti 🔮#2719",
+      "generated_date": "2026-05-14T22:06:13.571698",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 750.0,
+        "total_tdg_issued": 750.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220329",
+          "latest": "20220331"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 750.0,
+        "total_tdg_issued": 750.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Engineering - Advise on how to get around a bug": 2,
+          "250 : Build Game - Engineering - Figured out a theorectical way to do something": 1
+        },
+        "date_range": {
+          "earliest": "20220329",
+          "latest": "20220331"
+        },
+        "contribution_types": [
+          {
+            "description": "Engineering: Pointed to reference the correct library for making onchain Pyth Network calls\n\nhttps://github.com/pyth-network/pyth-sdk-rs/tree/main/pyth-sdk-solana/examples\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/958318710194589726",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Engineering: Pointed to reference the correct library for making onchain Pyth Network calls\n\nhttps://solanacookbook.com/integrations/pyth.html#how-to-use-pyth-in-client\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/958318736241229824",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Engineering: reusing parimutal codes\nhttps://twitter.com/HxroNetwork\nhttps://github.com/Hxro-Network",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220331",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "KemarTiti 🔮#2719",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Pointed to reference the correct library for making onchain Pyth Network calls\n\nhttps://github.com/pyth-network/pyth-sdk-rs/tree/main/pyth-sdk-solana/examples\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/958318710194589726",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "2esyyaXVcA3SLsCvo3nbQ5Kg1ELFt9aRYMkDqNjcCFEacPcdU1ZHgenkdjKU3JeaqdNaaxWASmRUFmeWce8Xw3nU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "KemarTiti 🔮#2719",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Pointed to reference the correct library for making onchain Pyth Network calls\n\nhttps://solanacookbook.com/integrations/pyth.html#how-to-use-pyth-in-client\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/958318736241229824",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "2esyyaXVcA3SLsCvo3nbQ5Kg1ELFt9aRYMkDqNjcCFEacPcdU1ZHgenkdjKU3JeaqdNaaxWASmRUFmeWce8Xw3nU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "KemarTiti 🔮#2719",
+          "Project Name": "",
+          "Contribution Made": "Engineering: reusing parimutal codes\nhttps://twitter.com/HxroNetwork\nhttps://github.com/Hxro-Network",
+          "Rubric classification": "250 : Build Game - Engineering - Figured out a theorectical way to do something",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220331",
+          "Solana Transfer Hash": "2esyyaXVcA3SLsCvo3nbQ5Kg1ELFt9aRYMkDqNjcCFEacPcdU1ZHgenkdjKU3JeaqdNaaxWASmRUFmeWce8Xw3nU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

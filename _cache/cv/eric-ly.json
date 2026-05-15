@@ -1,0 +1,75 @@
+{
+  "slug": "eric-ly",
+  "display_name": "Eric Ly",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20220113",
+      "latest": "20220113"
+    },
+    "source": {
+      "contributor_name": "Eric Ly",
+      "generated_date": "2026-05-14T22:06:13.129597",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 1250.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220113",
+          "latest": "20220113"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 1250.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220113",
+          "latest": "20220113"
+        },
+        "contribution_types": [
+          {
+            "description": "Know your customer becomes super important when enterprises start utilizing the protocol. This is to prevent random stranger impersonating a fund on the protocol",
+            "project": "",
+            "tdg": 0,
+            "date": "20220113",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Eric Ly",
+          "Project Name": "",
+          "Contribution Made": "Know your customer becomes super important when enterprises start utilizing the protocol. This is to prevent random stranger impersonating a fund on the protocol",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220113",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

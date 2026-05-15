@@ -1,0 +1,123 @@
+{
+  "slug": "matt-baxter",
+  "display_name": "Matt Baxter",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 750.0,
+    "date_range": {
+      "earliest": "20220320",
+      "latest": "20220320"
+    },
+    "source": {
+      "contributor_name": "Matt Baxter",
+      "generated_date": "2026-05-14T22:06:13.661746",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 750.0,
+        "total_tdg_issued": 750.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220320",
+          "latest": "20220320"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 750.0,
+        "total_tdg_issued": 750.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220320",
+          "latest": "20220320"
+        },
+        "contribution_types": [
+          {
+            "description": "At some point when a hunter's prediction starts to decay and he has already accumulated a huge pile of TSD to grant him influence in the DAO, what is preventing him from modifying governance to protect his own interest.\nGot to think about how we structure governance to tackle that",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "At some point, people will want to consider working full time in the DAO. How would our governance tokenomics support that?",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "People don't always want to make every single decision all the time. That is why they start having representative democracy after a while.\nGot to think about how we structure governance to support that",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Matt Baxter",
+          "Project Name": "",
+          "Contribution Made": "At some point when a hunter's prediction starts to decay and he has already accumulated a huge pile of TSD to grant him influence in the DAO, what is preventing him from modifying governance to protect his own interest.\nGot to think about how we structure governance to tackle that",
+          "Rubric classification": "",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220320",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Matt Baxter",
+          "Project Name": "",
+          "Contribution Made": "At some point, people will want to consider working full time in the DAO. How would our governance tokenomics support that?",
+          "Rubric classification": "",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220320",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Matt Baxter",
+          "Project Name": "",
+          "Contribution Made": "People don't always want to make every single decision all the time. That is why they start having representative democracy after a while.\nGot to think about how we structure governance to support that ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220320",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,542 @@
+{
+  "slug": "satheesh-paddolker",
+  "display_name": "Satheesh Paddolker",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 20,
+    "total_tdg_provisioned": 1661.0,
+    "date_range": {
+      "earliest": "20210812",
+      "latest": "20230809"
+    },
+    "source": {
+      "contributor_name": "Satheesh Paddolker",
+      "generated_date": "2026-05-14T22:06:13.812961",
+      "summary": {
+        "total_contributions": 20,
+        "total_tdg_provisioned": 1661.0,
+        "total_tdg_issued": 11661.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20210812",
+          "latest": "20230809"
+        }
+      },
+      "analysis": {
+        "total_contributions": 20,
+        "total_tdg_provisioned": 1661.0,
+        "total_tdg_issued": 11661.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Contribute reference material - link": 1,
+          "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)": 1,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 2,
+          "500 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic": 1,
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 1,
+          "10 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1
+        },
+        "date_range": {
+          "earliest": "20210812",
+          "latest": "20230809"
+        },
+        "contribution_types": [
+          {
+            "description": "Proposed that Solana to implement our DAO because of low gas fee and high transactions per section",
+            "project": "",
+            "tdg": 0,
+            "date": "20210812",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Translating our project description into Chinese",
+            "project": "",
+            "tdg": 0,
+            "date": "20211219",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reference https://www.coingecko.com/en/coins/boutspro to get listed on Gate.IO",
+            "project": "",
+            "tdg": 0,
+            "date": "20211219",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggestion DAO evangelization using Telegram",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211223",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggestion DAO evangelization using AirDrop",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211225",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO/Token structure reference: Advise on fund raising via tokens",
+            "project": "",
+            "tdg": 0,
+            "date": "20211225",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO/Token structure reference: Advise on token liquidity management",
+            "project": "",
+            "tdg": 0,
+            "date": "20211225",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reference for crafting pitch deck: https://docsend.com/view/m5f38k2yhydc2w6x",
+            "project": "",
+            "tdg": 0,
+            "date": "20211230",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "TRUESIGHT/USDT playbook terminology clarifications",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20211229",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive analysis: https://muunifi.com/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Incorporation: Zug, Switzerland",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220112",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO listing: set budget aside for independent auditing protocol before listing.",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220130",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Costing implementation for protocol, web, android and IOS: 105K plus 1% token",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220202",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: Introduce tiering where the more a watch dog contributes the higher the rank he goes and the more TSD he gets for his contributor\n\nhttps://www.youtube.com/watch?v=kNrp0ETJsPE&t=2s",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220603",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Attended 2 hours of Product Roadmap planning meeting\n\nhttps://www.youtube.com/watch?v=QxYekRUc3zQ\nhttps://www.youtube.com/watch?v=lOSMl5l0BI0",
+            "project": "",
+            "tdg": 200.0,
+            "date": "20220617",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Attended 30 minutes engineering meeting with (Gary, Satheesh and Aravind) 14th July 2022\n\nhttps://www.youtube.com/watch?v=yDxQEPsl5n4&feature=youtu.be",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "1 hour meeting to understand how Foodlens network works and how it can be used to support Agroverse",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20230809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Information on how to list on SDAX.co\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/information%20about%20listing%20on%20sdax",
+            "project": "Agroverse",
+            "tdg": 500.0,
+            "date": "20230809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sample competitor and supplier organicaffairs.co",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "No one is writing any cheques right now in this current environment",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 20
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Proposed that Solana to implement our DAO because of low gas fee and high transactions per section",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20210812",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Translating our project description into Chinese",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20211219",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Reference https://www.coingecko.com/en/coins/boutspro to get listed on Gate.IO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20211219",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Suggestion DAO evangelization using Telegram",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211223",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Suggestion DAO evangelization using AirDrop",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211225",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure reference: Advise on fund raising via tokens",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20211225",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "DAO/Token structure reference: Advise on token liquidity management",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20211225",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Reference for crafting pitch deck: https://docsend.com/view/m5f38k2yhydc2w6x",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20211230",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "TRUESIGHT/USDT playbook terminology clarifications",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20211229",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Competitive analysis: https://muunifi.com/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220110",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Incorporation: Zug, Switzerland",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220112",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "DAO listing: set budget aside for independent auditing protocol before listing.",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220130",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Costing implementation for protocol, web, android and IOS: 105K plus 1% token",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220202",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Introduce tiering where the more a watch dog contributes the higher the rank he goes and the more TSD he gets for his contributor\n\nhttps://www.youtube.com/watch?v=kNrp0ETJsPE&t=2s",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220603",
+          "Solana Transfer Hash": "QVXA7HH7KjvsPCY4KQKeSG8QDXXQdobS6buvhSn6fi8ywEMYvqiWMdigaChWCUKbyzSBmRhNoPkUvtZuUCVyv34",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Attended 2 hours of Product Roadmap planning meeting\n\nhttps://www.youtube.com/watch?v=QxYekRUc3zQ\nhttps://www.youtube.com/watch?v=lOSMl5l0BI0",
+          "Rubric classification": "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20220617",
+          "Solana Transfer Hash": "2weGGeBSmmPq7L9zgBsf91Uwv8MGrXooam2JBAHsNM5MzZsBEKu27AGZnLpFb8s7GNBduJMTfLrti64NhFqP1mXq",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "",
+          "Contribution Made": "Attended 30 minutes engineering meeting with (Gary, Satheesh and Aravind) 14th July 2022\n\nhttps://www.youtube.com/watch?v=yDxQEPsl5n4&feature=youtu.be",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220717",
+          "Solana Transfer Hash": "2weGGeBSmmPq7L9zgBsf91Uwv8MGrXooam2JBAHsNM5MzZsBEKu27AGZnLpFb8s7GNBduJMTfLrti64NhFqP1mXq",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "Agroverse",
+          "Contribution Made": "1 hour meeting to understand how Foodlens network works and how it can be used to support Agroverse",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230809",
+          "Solana Transfer Hash": "5ufTVbqhu2chTcJAZf8XhHZsNEBrWUVpKHmDGjSELDh4tXPUz3s6KdWSsdDwm276Bau6CvUAoJDUgEE9NNMRNnCu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Information on how to list on SDAX.co\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/information%20about%20listing%20on%20sdax",
+          "Rubric classification": "500 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20230809",
+          "Solana Transfer Hash": "5ufTVbqhu2chTcJAZf8XhHZsNEBrWUVpKHmDGjSELDh4tXPUz3s6KdWSsdDwm276Bau6CvUAoJDUgEE9NNMRNnCu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Sample competitor and supplier organicaffairs.co ",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230809",
+          "Solana Transfer Hash": "5ufTVbqhu2chTcJAZf8XhHZsNEBrWUVpKHmDGjSELDh4tXPUz3s6KdWSsdDwm276Bau6CvUAoJDUgEE9NNMRNnCu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Satheesh Paddolker",
+          "Project Name": "Agroverse",
+          "Contribution Made": "No one is writing any cheques right now in this current environment",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230809",
+          "Solana Transfer Hash": "5ufTVbqhu2chTcJAZf8XhHZsNEBrWUVpKHmDGjSELDh4tXPUz3s6KdWSsdDwm276Bau6CvUAoJDUgEE9NNMRNnCu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 8176 6589",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

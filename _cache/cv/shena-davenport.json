@@ -1,0 +1,518 @@
+{
+  "slug": "shena-davenport",
+  "display_name": "Shena Davenport",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 19,
+    "total_tdg_provisioned": 2335.2799999999997,
+    "date_range": {
+      "earliest": "20240820",
+      "latest": "20260320"
+    },
+    "source": {
+      "contributor_name": "Shena Davenport",
+      "generated_date": "2026-05-14T22:06:13.823795",
+      "summary": {
+        "total_contributions": 19,
+        "total_tdg_provisioned": 2335.2799999999997,
+        "total_tdg_issued": 2479.83,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20240820",
+          "latest": "20260320"
+        }
+      },
+      "analysis": {
+        "total_contributions": 19,
+        "total_tdg_provisioned": 2335.2799999999997,
+        "total_tdg_issued": 2479.83,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 12,
+          "1TDG For every 1 USD of liquidity injected": 7
+        },
+        "date_range": {
+          "earliest": "20240820",
+          "latest": "20260320"
+        },
+        "contribution_types": [
+          {
+            "description": "Shena spent 10 minutes yesterday explaining about the trend that’s happening with Gen Z and millennials yesterday evening\n\nThat demographic does not consume much alcohol and they are looking for alternate replacements that has not just juice, but contains herbal properties as well\n\nThe kids that don’t drink they make as much money \n\nThey would rather spend money on experiences then going to the bar and drinking $20 cocktails\n\nMocktail is the in thing in right now <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 0.17,
+            "date": "20240820",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Shena spent 15 minutes describing Alberto, a USA coffee importer, process is like \n\nAlberto hangs around near the area of the farm until his cargo is loaded on the truck for freighting to USA before he departs from the location",
+            "project": "TrueSight DAO",
+            "tdg": 0.25,
+            "date": "20240824",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Shena spent 30 minutes last week explaining how convenience stores work since she owned and operated one for 5 years \n\nVendors typically come in to check the stock and stock up every week \n\nFor the operator, basically the initial investment is the largest \n\nThereafter she only pays for what is required to stock up the inventory to the required level \n\nTypical profit margin is 10% \n\nSome really good products are like the ones she created herself. The profit margin 100% profit margin. She handmade some fishing baits. It costed her $.28 per bait. And she sold it for $5.\n\nWhen she bought the convenience store, it already came with a bunch of vendor relationships \n\nVendors should consider entering the shop to speak to the owner give a sample and help the owner Decide if she wants to stock the inventory.",
+            "project": "TrueSight DAO",
+            "tdg": 0.5,
+            "date": "20240903",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Shena paid USD$4.30 for 2 bottles of sugar cane molasses for blind taste testing purpose versus the cacao molasses as a sanity check that we will be conducting later",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20240824",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I Had a discussion for 30 minutes with Shena, she said she will bump up her purchase of cacao almonds to 250kg from 12.5kg\n\nWill make arrangements to have her cargo shipped directly to her \n\nShe and her daughter will be making magic mushroom bars for distribution at her daughters campus \n\nHer daughter is the medicine woman\n\nSeems more than half our cargo for this year is already sold before it arrives in USA 🤔🤯 <This message was edited>",
+            "project": "Agroverse",
+            "tdg": 0.5,
+            "date": "20240827",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent 30 minutes having a conversation with Shena\n\nHuge part of the discussions was how to convert cacao almonds into\n\n- cacao nibs\n- ⁠cacao tea \n- ⁠cacao liquor \n- ⁠cacao liquor with magic mushroom \n\n_PS: seems to be a recurring theme when analyzing the conversation I had with Willow Star and Sangara the other two medicine women_\n\n_The How Tos are very important_\n\n_They even asked for the recordings of the factory facility where the different types of Cacao derivatives transform into the other types_",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20240828",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Exchange of equity stake in AGL4 for TDG tokens, aka stake in DAO",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20241027",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Shena spent 5 minutes responding on how she preferred it done as a grocer \n\nAlso she mentioned how Alberto who distributes coffee to grocery markets do it",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20241215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Shena spent 1 hour testing the following candied cacao nibs recipe",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20250228",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Shena contributed $30.94 for 26 units of chocolate mold from Temu",
+            "project": "TrueSight DAO",
+            "tdg": 30.94,
+            "date": "20250228",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Nestlé has shifted out of the Chocolate industry\r\n  https://www.confectionerynews.com/Article/2025/12/11/nestle-strips-chocolate-from-iconic-bars-as-cocoa-costs-soar/\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 16.67\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: q+4AIDkEJzWww22heamA49o4AYKFWdSC3cZGsvRJhNumu6J1crunRHjw6T9KQw2wAN32CX7M8gqoCdY9glExqbvdb31Fzn8i3TlQCWsYzDmZHledpcUSQrhCGg9IJ31eG8mLTfDPF5KJp7H0Kcwz6+xbIzhmk0OlURGD4rXh+aHr5t487r20pvDCqfMSvX7TTPRWo8hk4TlovjotG4Tbbsp7zkp3QXTuZNnmdTwMaGRzgO0yxl7ZrRmRczy40srucblJfds28YnpbB3Mj80o5fbkI9DbGKmDSf8h6tqYXtkl44vIe3RGKSzjEGI3meosa3boLYKiJPLtwHDrvOguIg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 16.67,
+            "date": "20260216",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 307\r\n- Description: Flight for Gary from LAX to Austin Texas to extend the south by Southwest gathering to serve our ceremonial Cacau\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 307.00\r\n- Attached Filename: receiptDetails.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260310123123_gary_teh_receiptdetails.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: REi6NUAlgY2mAumTqY2TLlePcN6r3Z5BEnqVuLo5Ja0fQjO6NzSWQ3GCqw23+xBJww9oZprjy9rRfUmt4LFp/NDbmTQorJMZxVsXdr+61Y1PViGnYXcQZ1j4EE6ADKlIsLIJ8043I3PsUmjIKVYE4s4lhV05QxQ0HGVRYA+BkRUmJEQWM4ErOuvouriAYrweZZE+RBKXx5R1zo6NiqXw+6mtAfuK2ec9Kr+NeX0fio6bn4UYMcTuLWkPp9sjvG6I9KrvaADtTQ7te29gbG0ip9BbthCKkTeYvx23M0VuB/5bhtZqjX03eABx+cCIeMje2EDEP60lVGK6pJJ1Kac9Pw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 307.0,
+            "date": "20260310",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 185.60\r\n- Description: Flight tickets to Rochester from Austin for visiting the apothecaries there\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 185.60\r\n- Attached Filename: Congrats On Your SkyMiles Award Trip.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260316221845_gary_teh_congrats_on_your_skymiles_award_trip.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: qUcgGUzjy+PK/D0E4IEjPEUdc2+8URTvD+SOxpbC+5wH/c8gSL2ijbufKg4I0GpH0L31gqVp/lQFNhX7g//CVs0fvDDXb0Fr2dCMBu115voBofCDEQkFtGh8qKUwZo1+CQ2QSabuHGXy14af4vk4eugdFOJiTvB6U6t4XjUO0V+ThyAPA36mQV9l9wVQxAG4NyE/R0JbEisJ4I1TcSIiBk51YKUewb/ZXEMW9N4lwRJFYJ6ZTz0hawZbtF0zHqxt7SKXP9N+j6F8rdDrX/lQ1ZIdAScEXkHKSk/AkmbIZrk7x1DZSdc4GH8QYojmZ+VS8jyChvcMUVQ6ZppL3t/YYA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 185.6,
+            "date": "20260316",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Driving to visit Yara and Sage to speak with the staff about consignment\r\n- Contributor(s): Gary Teh, Shena Davenport\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_8947.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260317183613_gary_teh_img_8947.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: MGrTjwIbJGg3qQyFFSS0eLsV/cHXYvVlbIcD4T2AC5354vQr1hIny7p3i8UaUBxFDeaapiH2KZqS1KReS5iG3N+JZSyxIY9kz1IvQI0FbtEuatzXXWoyyCgaAaIM/nDPpLsXNcTomj87tP02X7+azb2ksiK+ahSM3xGw4F7KnZBnZDnOTYSzbatAfcezcgICKIbcgW5uqNO0O6pscVuA1K+A80TfdYBYhnXV28hv68IbgHgq7g+TZD9blEH1CxFA5cDpR5o17GuPebdTDMvBMMb0hDQ+Gn0fg/pmJ9Tg1duLtk6ZBuKdqW+8S2IIhJeNBLg+YRMNk3bkaTJxmB8JTQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20260317",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 420\r\n- Description: Driving around to visit the 4 venues in Austin Texas and Wimberley Texas\r\n- Contributor(s): Gary Teh, Shena Davenport\r\n- TDG Issued: 700.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260318233321_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: kDJcnTK5oIF1KL+aucCA54UjfM4MJftL+CYF/+SlUSMEUMS2/Zwy/ikR8rLf3AJWDQShMhR1EdARuOQBuZf2FxmR4o9a1W+NOCRXA2MNsuJOxzdOR7lVsreiX58aKXH7mnEse85Cgq7NH2CpRMLUf69szoN8PFm+8KS48oEgipKgbsFvUztWB/h6UWEj/XoFF/RfXKrbeI+zHOAlF/B7EScFWJpmUpTnd/Ain3OLi8w9J4nhFP6mx1bxuP6BIP4MURtLVerfOifJC9VA9OQeVPecEh1pg7pHkanyC71vZaZQ5JYD3XKj88IApQH9hKJfHPQM+7GSXzyS1yCrjDtUaQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 700.0,
+            "date": "20260318",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 14\r\n- Description: For printing this document in preparation for tomorrow's meeting\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 23.33\r\n- Attached Filename: agroverse_bulk_availability.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319002948_gary_teh_agroverse_bulk_availability.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: ikiPg/ZiXXmxOnV0e1bgR5BiM37wgsvv8yNtxGcbd0eeQfGL5FzcD5zXNNx+6UKbcHss7HG2qCR61oveWSttb0exRWTqPk2Q+uAgBvA+x26CHcpf20wMXOltRhZrJapIjXrDdqeLe5jViFLS9zH5jhyDjrgqxKxqxx7YedutQDRNsTjklVxKtQnN/kYZOYjCZBBKsdi0M7aOXIFu7QRchwFzeE2c1fxn2ay1k73h85mVpnASxKSnr9nswNNVgIn18X0bGeLw/RjRc1lfViFWzq0jIeLHATnovK+gS84Ccq2YaSx1U7SHequwLVoszwRv2UYuTOTcr6nTBOUqPhqFvw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 23.33,
+            "date": "20260319",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 210\r\n- Description: Visiting 3rd Eye Chakra to speak with Neil about wholesale sales of cacao to his store in Austin Texas\r\n- Contributor(s): Gary Teh, Shena Davenport\r\n- TDG Issued: 350.00\r\n- Attached Filename: IMG_9073.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319184338_gary_teh_img_9073.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: a8aAW6FtXki/V6K8SAjpjNnP5/tNG1VDzs8J+aXtxOqU65OzrETx/reRA9vJBRqF8JSt+UCpXxA02Uc2XG3qb1I0oOB1mi9IA9hbSxO5URsl1dghv95vaYgOsk2pCwO/qQIh67vwUxN6Pc1N+B5wdvBEuIvEcWxzdTUXOZceotbdMLlDbrD3spIThYEcCZwLj923AYaeh4uM9ZEshwgMZWRRXLjxWME5jONAXrq4y58ilb/T+TNXY9ScxQI1sUg7ghgKWbivW6y7N4575S+OVGag1P/M7VXD9TCo4sJMAJvskT4DDnOUjBSm2FAV/91E6Ip8y0P4N+hnFs0AEhDgoQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 350.0,
+            "date": "20260319",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 5.99\r\n- Description: Contribution for the craft pouches\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 5.99\r\n- Attached Filename: IMG_9095.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260320135108_gary_teh_img_9095.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: SmYy6dOceHsvcnS7TIfPkj44Bd5k/TnlZ8p8HplSAesgAWpmNp6N/QQcIz7z5OhC9/QFgWFGMvMxJu2bJF6mgWJubb2YHdD62ytNmB5Zldx4W3eZUPcXwTN4pDn0qy876+e6NDnX3Ti0Ys55a/c6+4MW/BF4qsyAYgqL3FrW5sv54KI5U9BsP73L0+M29IAzkBTYQiy5sy32kjpXDLWVgCQvP1x/p9rSkCBNzUpHhb/Aa1AteqYNHWyE+3rMB8/uQfrOq/dwJ1uSqsaewsHE0AtOFkAcnfp7ZauP4p9OqTS/M2F0KxAQ3B2wVlw1vy8grND+RINekk4Doy9ClMvGcw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 5.99,
+            "date": "20260320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 456\r\n- Description: Two one-way tickets from Austin, Texas to New Orleans\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 456.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: F2KfEkm6UclX9pT1VcpKaFL2ifWXkZIh7fMZGajR3xjxrgiZS6LUtMta8j7rKu5l5sew/uxIg2v06zBLmleqUle4yN+lmDu9Xr9a9asbasBUMWH7AGWidd4eDOi4t+fYbRm7UPHFw7pOo8gGKgqCR+avq+Z/XFFB2L1+103f+rHuch8XnhHWVyVE0+EpGQEoMMIcAYOgbo/9ZVzhclvuirRjsq42D0utxcEi6LihRLu4R0qb3yXY+hfiS7MH6aqknwjPWIHghpf6dAbKSPPs765VC1p4qseXmcm6RrWPvRVbLWtW3EhKAT5tLRDfOhhLwHJb11KbI90WjKduuhmL6w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 456.0,
+            "date": "20260320",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 19
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Shena spent 10 minutes yesterday explaining about the trend that’s happening with Gen Z and millennials yesterday evening\n\nThat demographic does not consume much alcohol and they are looking for alternate replacements that has not just juice, but contains herbal properties as well\n\nThe kids that don’t drink they make as much money \n\nThey would rather spend money on experiences then going to the bar and drinking $20 cocktails\n\nMocktail is the in thing in right now <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20240820",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Shena spent 15 minutes describing Alberto, a USA coffee importer, process is like \n\nAlberto hangs around near the area of the farm until his cargo is loaded on the truck for freighting to USA before he departs from the location",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20240824",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Shena spent 30 minutes last week explaining how convenience stores work since she owned and operated one for 5 years \n\nVendors typically come in to check the stock and stock up every week \n\nFor the operator, basically the initial investment is the largest \n\nThereafter she only pays for what is required to stock up the inventory to the required level \n\nTypical profit margin is 10% \n\nSome really good products are like the ones she created herself. The profit margin 100% profit margin. She handmade some fishing baits. It costed her $.28 per bait. And she sold it for $5.\n\nWhen she bought the convenience store, it already came with a bunch of vendor relationships \n\nVendors should consider entering the shop to speak to the owner give a sample and help the owner Decide if she wants to stock the inventory.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20240903",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Shena paid USD$4.30 for 2 bottles of sugar cane molasses for blind taste testing purpose versus the cacao molasses as a sanity check that we will be conducting later",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "4.30.",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "4.30",
+          "Status date": "20240824",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "Agroverse",
+          "Contribution Made": "I Had a discussion for 30 minutes with Shena, she said she will bump up her purchase of cacao almonds to 250kg from 12.5kg\n\nWill make arrangements to have her cargo shipped directly to her \n\nShe and her daughter will be making magic mushroom bars for distribution at her daughters campus \n\nHer daughter is the medicine woman\n\nSeems more than half our cargo for this year is already sold before it arrives in USA 🤔🤯 <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20240827",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Spent 30 minutes having a conversation with Shena\n\nHuge part of the discussions was how to convert cacao almonds into\n\n- cacao nibs\n- ⁠cacao tea \n- ⁠cacao liquor \n- ⁠cacao liquor with magic mushroom \n\n_PS: seems to be a recurring theme when analyzing the conversation I had with Willow Star and Sangara the other two medicine women_\n\n_The How Tos are very important_\n\n_They even asked for the recordings of the factory facility where the different types of Cacao derivatives transform into the other types_",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20240828",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Exchange of equity stake in AGL4 for TDG tokens, aka stake in DAO",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "6,180.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "6,180.00",
+          "Status date": "20241027",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Shena spent 5 minutes responding on how she preferred it done as a grocer \n\nAlso she mentioned how Alberto who distributes coffee to grocery markets do it",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241215",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Shena spent 1 hour testing the following candied cacao nibs recipe",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250228",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Shena contributed $30.94 for 26 units of chocolate mold from Temu",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "30.94",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "30.94",
+          "Status date": "20250228",
+          "Solana Transfer Hash": "https://solscan.io/tx/5XsDqZcfr8XbGGcqRPuFiaKtd5cqbbuog82QyPMknE5BYL5PpejmH5PYVrRPbiCeghUjruyY7EsgeGg9uQX2Jgrt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Nestlé has shifted out of the Chocolate industry\r\n  https://www.confectionerynews.com/Article/2025/12/11/nestle-strips-chocolate-from-iconic-bars-as-cocoa-costs-soar/\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 16.67\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: q+4AIDkEJzWww22heamA49o4AYKFWdSC3cZGsvRJhNumu6J1crunRHjw6T9KQw2wAN32CX7M8gqoCdY9glExqbvdb31Fzn8i3TlQCWsYzDmZHledpcUSQrhCGg9IJ31eG8mLTfDPF5KJp7H0Kcwz6+xbIzhmk0OlURGD4rXh+aHr5t487r20pvDCqfMSvX7TTPRWo8hk4TlovjotG4Tbbsp7zkp3QXTuZNnmdTwMaGRzgO0yxl7ZrRmRczy40srucblJfds28YnpbB3Mj80o5fbkI9DbGKmDSf8h6tqYXtkl44vIe3RGKSzjEGI3meosa3boLYKiJPLtwHDrvOguIg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20260216",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 307\r\n- Description: Flight for Gary from LAX to Austin Texas to extend the south by Southwest gathering to serve our ceremonial Cacau\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 307.00\r\n- Attached Filename: receiptDetails.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260310123123_gary_teh_receiptdetails.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: REi6NUAlgY2mAumTqY2TLlePcN6r3Z5BEnqVuLo5Ja0fQjO6NzSWQ3GCqw23+xBJww9oZprjy9rRfUmt4LFp/NDbmTQorJMZxVsXdr+61Y1PViGnYXcQZ1j4EE6ADKlIsLIJ8043I3PsUmjIKVYE4s4lhV05QxQ0HGVRYA+BkRUmJEQWM4ErOuvouriAYrweZZE+RBKXx5R1zo6NiqXw+6mtAfuK2ec9Kr+NeX0fio6bn4UYMcTuLWkPp9sjvG6I9KrvaADtTQ7te29gbG0ip9BbthCKkTeYvx23M0VuB/5bhtZqjX03eABx+cCIeMje2EDEP60lVGK6pJJ1Kac9Pw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "307.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "307.00",
+          "Status date": "20260310",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 185.60\r\n- Description: Flight tickets to Rochester from Austin for visiting the apothecaries there\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 185.60\r\n- Attached Filename: Congrats On Your SkyMiles Award Trip.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260316221845_gary_teh_congrats_on_your_skymiles_award_trip.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: qUcgGUzjy+PK/D0E4IEjPEUdc2+8URTvD+SOxpbC+5wH/c8gSL2ijbufKg4I0GpH0L31gqVp/lQFNhX7g//CVs0fvDDXb0Fr2dCMBu115voBofCDEQkFtGh8qKUwZo1+CQ2QSabuHGXy14af4vk4eugdFOJiTvB6U6t4XjUO0V+ThyAPA36mQV9l9wVQxAG4NyE/R0JbEisJ4I1TcSIiBk51YKUewb/ZXEMW9N4lwRJFYJ6ZTz0hawZbtF0zHqxt7SKXP9N+j6F8rdDrX/lQ1ZIdAScEXkHKSk/AkmbIZrk7x1DZSdc4GH8QYojmZ+VS8jyChvcMUVQ6ZppL3t/YYA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "185.60",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "185.60",
+          "Status date": "20260316",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Driving to visit Yara and Sage to speak with the staff about consignment\r\n- Contributor(s): Gary Teh, Shena Davenport\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_8947.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260317183613_gary_teh_img_8947.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: MGrTjwIbJGg3qQyFFSS0eLsV/cHXYvVlbIcD4T2AC5354vQr1hIny7p3i8UaUBxFDeaapiH2KZqS1KReS5iG3N+JZSyxIY9kz1IvQI0FbtEuatzXXWoyyCgaAaIM/nDPpLsXNcTomj87tP02X7+azb2ksiK+ahSM3xGw4F7KnZBnZDnOTYSzbatAfcezcgICKIbcgW5uqNO0O6pscVuA1K+A80TfdYBYhnXV28hv68IbgHgq7g+TZD9blEH1CxFA5cDpR5o17GuPebdTDMvBMMb0hDQ+Gn0fg/pmJ9Tg1duLtk6ZBuKdqW+8S2IIhJeNBLg+YRMNk3bkaTJxmB8JTQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20260317",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 420\r\n- Description: Driving around to visit the 4 venues in Austin Texas and Wimberley Texas\r\n- Contributor(s): Gary Teh, Shena Davenport\r\n- TDG Issued: 700.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260318233321_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: kDJcnTK5oIF1KL+aucCA54UjfM4MJftL+CYF/+SlUSMEUMS2/Zwy/ikR8rLf3AJWDQShMhR1EdARuOQBuZf2FxmR4o9a1W+NOCRXA2MNsuJOxzdOR7lVsreiX58aKXH7mnEse85Cgq7NH2CpRMLUf69szoN8PFm+8KS48oEgipKgbsFvUztWB/h6UWEj/XoFF/RfXKrbeI+zHOAlF/B7EScFWJpmUpTnd/Ain3OLi8w9J4nhFP6mx1bxuP6BIP4MURtLVerfOifJC9VA9OQeVPecEh1pg7pHkanyC71vZaZQ5JYD3XKj88IApQH9hKJfHPQM+7GSXzyS1yCrjDtUaQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "700.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "700.00",
+          "Status date": "20260318",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 14\r\n- Description: For printing this document in preparation for tomorrow's meeting\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 23.33\r\n- Attached Filename: agroverse_bulk_availability.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319002948_gary_teh_agroverse_bulk_availability.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: ikiPg/ZiXXmxOnV0e1bgR5BiM37wgsvv8yNtxGcbd0eeQfGL5FzcD5zXNNx+6UKbcHss7HG2qCR61oveWSttb0exRWTqPk2Q+uAgBvA+x26CHcpf20wMXOltRhZrJapIjXrDdqeLe5jViFLS9zH5jhyDjrgqxKxqxx7YedutQDRNsTjklVxKtQnN/kYZOYjCZBBKsdi0M7aOXIFu7QRchwFzeE2c1fxn2ay1k73h85mVpnASxKSnr9nswNNVgIn18X0bGeLw/RjRc1lfViFWzq0jIeLHATnovK+gS84Ccq2YaSx1U7SHequwLVoszwRv2UYuTOTcr6nTBOUqPhqFvw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "23.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "23.33",
+          "Status date": "20260319",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 210\r\n- Description: Visiting 3rd Eye Chakra to speak with Neil about wholesale sales of cacao to his store in Austin Texas\r\n- Contributor(s): Gary Teh, Shena Davenport\r\n- TDG Issued: 350.00\r\n- Attached Filename: IMG_9073.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319184338_gary_teh_img_9073.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: a8aAW6FtXki/V6K8SAjpjNnP5/tNG1VDzs8J+aXtxOqU65OzrETx/reRA9vJBRqF8JSt+UCpXxA02Uc2XG3qb1I0oOB1mi9IA9hbSxO5URsl1dghv95vaYgOsk2pCwO/qQIh67vwUxN6Pc1N+B5wdvBEuIvEcWxzdTUXOZceotbdMLlDbrD3spIThYEcCZwLj923AYaeh4uM9ZEshwgMZWRRXLjxWME5jONAXrq4y58ilb/T+TNXY9ScxQI1sUg7ghgKWbivW6y7N4575S+OVGag1P/M7VXD9TCo4sJMAJvskT4DDnOUjBSm2FAV/91E6Ip8y0P4N+hnFs0AEhDgoQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "350.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "350.00",
+          "Status date": "20260319",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 5.99\r\n- Description: Contribution for the craft pouches\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 5.99\r\n- Attached Filename: IMG_9095.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260320135108_gary_teh_img_9095.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: SmYy6dOceHsvcnS7TIfPkj44Bd5k/TnlZ8p8HplSAesgAWpmNp6N/QQcIz7z5OhC9/QFgWFGMvMxJu2bJF6mgWJubb2YHdD62ytNmB5Zldx4W3eZUPcXwTN4pDn0qy876+e6NDnX3Ti0Ys55a/c6+4MW/BF4qsyAYgqL3FrW5sv54KI5U9BsP73L0+M29IAzkBTYQiy5sy32kjpXDLWVgCQvP1x/p9rSkCBNzUpHhb/Aa1AteqYNHWyE+3rMB8/uQfrOq/dwJ1uSqsaewsHE0AtOFkAcnfp7ZauP4p9OqTS/M2F0KxAQ3B2wVlw1vy8grND+RINekk4Doy9ClMvGcw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "5.99",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5.99",
+          "Status date": "20260320",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shena Davenport",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 456\r\n- Description: Two one-way tickets from Austin, Texas to New Orleans\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 456.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: F2KfEkm6UclX9pT1VcpKaFL2ifWXkZIh7fMZGajR3xjxrgiZS6LUtMta8j7rKu5l5sew/uxIg2v06zBLmleqUle4yN+lmDu9Xr9a9asbasBUMWH7AGWidd4eDOi4t+fYbRm7UPHFw7pOo8gGKgqCR+avq+Z/XFFB2L1+103f+rHuch8XnhHWVyVE0+EpGQEoMMIcAYOgbo/9ZVzhclvuirRjsq42D0utxcEi6LihRLu4R0qb3yXY+hfiS7MH6aqknwjPWIHghpf6dAbKSPPs765VC1p4qseXmcm6RrWPvRVbLWtW3EhKAT5tLRDfOhhLwHJb11KbI90WjKduuhmL6w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "456.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "456.00",
+          "Status date": "20260320",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

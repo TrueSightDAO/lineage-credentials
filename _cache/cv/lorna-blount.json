@@ -1,0 +1,233 @@
+{
+  "slug": "lorna-blount",
+  "display_name": "Lorna Blount",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 800.0,
+    "date_range": {
+      "earliest": "20220425",
+      "latest": "20250820"
+    },
+    "source": {
+      "contributor_name": "Lorna Blount",
+      "generated_date": "2026-05-14T22:06:13.630759",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 800.0,
+        "total_tdg_issued": 800.0,
+        "projects": [
+          "20250917_beerhall",
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20220425",
+          "latest": "20250820"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 800.0,
+        "total_tdg_issued": 800.0,
+        "projects": [
+          "20250917_beerhall",
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "100 : Build Game - Strategy - Contribute reference material - link": 2,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "250 : Build Game - Strategy - Contribute reference material accompanied with specific instructions on how to apply it in the form of a strategy extension": 1,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20220425",
+          "latest": "20250820"
+        },
+        "contribution_types": [
+          {
+            "description": "Look into inputs from Edi Line 1226 to Line 1228 and provide marketing suggestion",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Gamification: Allow punters to stake on hunter so that hunter can enter the war of truth without paying for ante",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Companies could just pay PR agencies for article placements in news portals. Content integrity check is not done. That is contributing to alot of information pollution",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Government would not be happy if we attempt to take the ability to control over the news cycle away from them",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "45 minutes marketing/ PR meeting\n\nhttps://youtu.be/WzXXsZ4wavA",
+            "project": "Agroverse",
+            "tdg": 75.0,
+            "date": "20231022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "12 week PR program\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231023%20-%20Lorna%20Agroverse%2012%20week%20PR%20framework.pdf",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20231023",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "just did a quick chat with Lorna and Felix who left our channels recently. Seems like the same old complain that @⁨Allison Laureano⁩ surfaced about WhatsApp default setting of automatically downloading the attachments to their phones.",
+            "project": "20250917_beerhall",
+            "tdg": 25.0,
+            "date": "20250820",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 1,
+          "Successfully Completed / Full Provision Awarded": 6
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Lorna Blount",
+          "Project Name": "",
+          "Contribution Made": "Look into inputs from Edi Line 1226 to Line 1228 and provide marketing suggestion",
+          "Rubric classification": "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (610) 653-7144",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lorna Blount",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Allow punters to stake on hunter so that hunter can enter the war of truth without paying for ante",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220425",
+          "Solana Transfer Hash": "4CV9t4XCxsBffrNyqK7cbmBMTE1cwSfXjERqjQN6T76WEgULwyGfJf7EaS5VacTftrx9vZVZV21Swj2uA6rFneM5",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (610) 653-7144",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lorna Blount",
+          "Project Name": "",
+          "Contribution Made": "Companies could just pay PR agencies for article placements in news portals. Content integrity check is not done. That is contributing to alot of information pollution",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220425",
+          "Solana Transfer Hash": "4CV9t4XCxsBffrNyqK7cbmBMTE1cwSfXjERqjQN6T76WEgULwyGfJf7EaS5VacTftrx9vZVZV21Swj2uA6rFneM5",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (610) 653-7144",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lorna Blount",
+          "Project Name": "",
+          "Contribution Made": "Government would not be happy if we attempt to take the ability to control over the news cycle away from them",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220425",
+          "Solana Transfer Hash": "4CV9t4XCxsBffrNyqK7cbmBMTE1cwSfXjERqjQN6T76WEgULwyGfJf7EaS5VacTftrx9vZVZV21Swj2uA6rFneM5",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (610) 653-7144",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lorna Blount",
+          "Project Name": "Agroverse",
+          "Contribution Made": "45 minutes marketing/ PR meeting\n\nhttps://youtu.be/WzXXsZ4wavA",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20231022",
+          "Solana Transfer Hash": "https://solscan.io/tx/3JJkkYzhknuTBShhRySs2jJGZ7axKzzoDk647p1Pq6tuyqAwK9FFgkk678cgWf1sy4GkjMq2c9bZr7VAJK2DWzcu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (610) 653-7144",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lorna Blount",
+          "Project Name": "Agroverse",
+          "Contribution Made": "12 week PR program\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231023%20-%20Lorna%20Agroverse%2012%20week%20PR%20framework.pdf",
+          "Rubric classification": "250 : Build Game - Strategy - Contribute reference material accompanied with specific instructions on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20231023",
+          "Solana Transfer Hash": "https://solscan.io/tx/3JJkkYzhknuTBShhRySs2jJGZ7axKzzoDk647p1Pq6tuyqAwK9FFgkk678cgWf1sy4GkjMq2c9bZr7VAJK2DWzcu",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (610) 653-7144",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Lorna Blount",
+          "Project Name": "20250917_beerhall",
+          "Contribution Made": "just did a quick chat with Lorna and Felix who left our channels recently. Seems like the same old complain that @⁨Allison Laureano⁩ surfaced about WhatsApp default setting of automatically downloading the attachments to their phones.",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20250820",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

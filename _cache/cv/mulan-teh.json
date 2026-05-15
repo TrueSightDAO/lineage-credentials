@@ -1,0 +1,81 @@
+{
+  "slug": "mulan-teh",
+  "display_name": "Mulan Teh",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 16.5,
+    "date_range": {
+      "earliest": "20240728",
+      "latest": "20240728"
+    },
+    "source": {
+      "contributor_name": "Mulan Teh",
+      "generated_date": "2026-05-14T22:06:13.698951",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 16.5,
+        "total_tdg_issued": 16.67,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240728",
+          "latest": "20240728"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 16.5,
+        "total_tdg_issued": 16.67,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20240728",
+          "latest": "20240728"
+        },
+        "contribution_types": [
+          {
+            "description": "Sonya Gorski and Mulan Teh help conducted a 10 minute taste test of caramelized cacao almond for the Northern American market <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 16.5,
+            "date": "20240728",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Mulan Teh",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Sonya Gorski and Mulan Teh help conducted a 10 minute taste test of caramelized cacao almond for the Northern American market <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20240728",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

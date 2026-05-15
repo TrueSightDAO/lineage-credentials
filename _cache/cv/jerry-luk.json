@@ -1,0 +1,571 @@
+{
+  "slug": "jerry-luk",
+  "display_name": "Jerry Luk",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 21,
+    "total_tdg_provisioned": 1317.71,
+    "date_range": {
+      "earliest": "20220119",
+      "latest": "20251101"
+    },
+    "source": {
+      "contributor_name": "Jerry Luk",
+      "generated_date": "2026-05-14T22:06:13.487567",
+      "summary": {
+        "total_contributions": 21,
+        "total_tdg_provisioned": 1317.71,
+        "total_tdg_issued": 8822.66,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20220119",
+          "latest": "20251101"
+        }
+      },
+      "analysis": {
+        "total_contributions": 21,
+        "total_tdg_provisioned": 1317.71,
+        "total_tdg_issued": 8822.66,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 1,
+          "50 : Commerce - Offline tasks (30 minutes)": 1,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 2,
+          "100TDG For every 1 hour of human effort": 9,
+          "\"100TDG For every 1 hour of human effort": 3
+        },
+        "date_range": {
+          "earliest": "20220119",
+          "latest": "20251101"
+        },
+        "contribution_types": [
+          {
+            "description": "Review product strategy for white paper",
+            "project": "",
+            "tdg": 0,
+            "date": "20220206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Concept Deck: Suggested does not understand how tokenomics work",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220119",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Concept Deck: Make the ask explicit",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220119",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Concept Deck: raised missing components in the deck\nhttps://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/pitch_deck_contents.png",
+            "project": "",
+            "tdg": 0,
+            "date": "20220206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Zoom Sync: Syggestion for 2 sessions in future",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220210",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "NPC streaming on TikTok is a trend\n\nhttps://theconversation.com/what-the-npc-streaming-tiktok-trend-spells-for-the-future-of-gaming-and-erotic-work-210257",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230810",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "1 hour cacao nibs tasting session 20231005\n\nhttps://drive.google.com/drive/u/0/folders/10yJWacoMORuObi4tYogH-BQ8QXakrM7w",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20231005",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Video response for poll\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231018%20-%20jerry%20video%20response%20for%20poll.mp4\n\nTime Taken: 30 minutes",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20231022",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Provided 1 segments to the marketing video \n\nhttps://docs.google.com/spreadsheets/d/1wnyE3ZJ_kV_NiUwPqmX0fCeC8xcqhUfoe9OkiCpJMSg/edit#gid=0\n\nhttps://drive.google.com/drive/u/0/folders/11rdjGaglwdEW-XT45eRUP_8IC3O65Hd8\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231024%20-%20marketing%20video.mp4\n\n\nTime for each segment: 15 minutes\nTotal effort for 1 segments: 15 minutes",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jerry spent 3 minutes proposing to explore into THC cacao bars",
+            "project": "TrueSight DAO",
+            "tdg": 0.05,
+            "date": "20241101",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jerry spent 5 minutes forwarding this Instagram reel about Stem cell regeneration when eating cacao \n\nhttps://www.instagram.com/reel/DALVbPoyCXQ/?igsh=bjM1amk0dWx6OTk4",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20241029",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jerry Luk spent 5 minutes giving a very clear and concise response to the approach of manually tracking the different batches of shipment spread across our entire supply chain… 🤔🤣",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20241107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jerry has spent 10 reminding again the importance of doing SEO for our Agroverse site to ensure it positions as the only supplier that brings Amazonian cacao in the entire USA",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20241219",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent an hour last night with Jerry and Allison \n\nKey insights \n\n- it is a very healthy sign that the value aligned partners upon hearing the message immediately extends offer to support the cause. This means our brand story is on point \n\n- ours is a value/identity based marketing \n\n- as such video/visual content on our site should be centric around the people as opposed to the product \n\n- the CTA to action to be tested should be Join the Movement \n\n- some references of companies that have implemented good content based conversion are as attached \n\n- 501c registration was surfaced again a second time. This time by Allison who has experience registering non-profits in the USA as an activist. The church should be registered as an LLC and then using the details of the LLC registration with IRS as a later step to acquire 501c status \n\n- Jerry has expressed intention to support our efforts by joining and offer cacao in Davos next season.",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20250214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Jerry spent 30 minutes studying the supply chain out of Peru\n\nhttps://www.rooted-nutrition.com/product-page/organic-premium-ceremonial-cacao-paste-2-2-lb\n\nhttps://selenohealth.com/products/ceremonial-cacao-paste-peru-1kg?variant=41260908544180\n\nAfter factoring in the shipping cost our pricing for $50 per kg is competitive",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20250222",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Jerry spent 30 minutes corresponding about market positioning for cacao\n\n- ADHD usage - dopamine boost\n- Fat loss\n- Caffeine replacement \n- need to make it taste good without sugar like Celsius \n- distribution is still key \n- make sure brand gets index by ChatGpt for the keywords",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20250224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Jerry spent 5 minutes to propose to replicate the Labubu phenomena we need an influencer to do the initial trigger ‎<This message was edited>",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: 73% cacao. Go after retailers. Attending trade show. 60% profit margin is the norm and we should just do this as the traditional retailer route can support this \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_3155.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251013051825_gary_teh_img_3155.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ASRv77rWOPhEOK8APVN54bPpb8RYBZB3SZ08Y7zjUfzXS0IzUex9j/tUFKdHpRr4ll2x+vqVpJt91yQKQT1GiUSo/8ocPMsKS0/MCH86k0kwJwUS+ztQeq49SOD9ArUbl8cRTdZP1qiqJFEk5eKrQLNX4WAGDz8tIUeoc571ZSNmccP/AtBjd3wVc3zHpj+pV0uLX2hUH6oM/K1/weqa2QUYgcBACjQuYfm1dXhbfYEWcM53aQ+uCGDxZ1tYgbNG2w61NKkjRLBXcm0rcLwVHOxvQxToP/AhJBJ2VMwvZL8lrayeXMzoAb6RjJpSRyB6MkkLzXyHJTcU5oOAvLW7zQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20251013",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Jerry mentioned the people are paying at least USD50 for the bean to bar experience I created last night (Halloween) during his birthday He also further mentioned in downtown Palo Alto there is a popup store that does something similar with chocolate which charges each person around USD$150 for team building experience Might make sense to offer this to help build up the brand name and then make it easier to target larger retailers once the brand name has been established \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: Cunpz8uWnYlPi0/crfEKoWNN9ihM1d4xee9Yhfnq0tOPH8HnoQtjNWES6SVNQIRCY1nt3+qL50zwg33triaiTdQQrsZtKlPdI2sxt7PZoT1yjR4E1y3CeMVcxxVr3LcGmmzcAi6cwmfZC5rh8VhEcfIVVbbkns7JGOSgawgxbI8JnlvRhm7Rma/ckNZ5iHi3qigsZI8tn7DNOyN7zHa1LtQvCCPTxUapwu8Ebv4V6S0036nCAC4uWnwWhah987ZvBl3Qrb1Tauo1Abp/rWmonefeclTMlPNkavTR/NbODkeC6PftfBrs+QQECn3Uervdt5ge05QwtuUuzHN27srTdQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20251101",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: He also further mentioned in downtown Palo Alto there is a popup store that does something similar with chocolate which charges each person around USD$150 for team building experience Might make sense to offer this to help build up the brand name and then make it easier to target larger retailers once the brand name has been established He suggested that for our experience format, perhaps allow attendees to choose their beans and roasting. Helps with retention \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: w8oyxVusMNBsk8n46h4zNUPDRgWmrXYlzrEnZUw2boVJfkvpa319bmI9sSGT5IKmr0TXJgfRx0CP9O8b5iYsiz0drsIBNP5ocjOQowAIa1YALjt1Fi9oaL6zqIYg5cDTed/reV7QNn9XWgfqnuj3kx6oOsbyMJbw05XgSEMhpVxovvSRwxUr0OBAAIrqlq4Eb1FgHcfGKYCHKunzdctxOkhzve2IV07oK3bPPY+XB7I+a1nfZOM4JPdP6T7/b70OAzcqTx3//QWWy4JgYGEYVUR2uM7z1c/8njyee8rpO6cqbah2h4XUpu/p66aaFG/0Aw1V5o7S0HbVoQ7GNVbA9Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20251101",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Been to bar experiment \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_3777.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251101164532_gary_teh_img_3777.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: l2VW3t7A2VZlx8uikUJvLWfHq3414P4Ywxa/sT1tBSS3TGZw4Gh6PVAkcQqtkNw/ooQaWrWR6zSl0+bXQGesh6R+njq6E1l1dwYqbAnCTE9TEW7FgV3V+uitrxaUuvUpamwP1hRJ4b9STaYhqdaJhs1MAGh5Y8sGWQFRWun/2oqu58RwoAUJ608Q3K2rIDC5GFp3r1Aml3DGH5X5drYAZBKTCVOLQW476/8oYB7SMzE1AlMxfIZY8Te0qR4rjmI9qlFLkEUuBucgR1pvs9ZAhBmMCaKGCgfKJVuaou1II0uwArwDQGiIjB4kIKXlr0PiNr568nAwV/75oxQURI2FpA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20251101",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 21
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "",
+          "Contribution Made": "Review product strategy for white paper",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220206",
+          "Solana Transfer Hash": "4WxzqKS9kZbpYZCdsUKQBrc2n7rZitGBtZEQ66GZPHHx3uNoii4h9Mbqnmag1PEgHtqsK7Ux8vHEsJirwyxPBZ23",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "",
+          "Contribution Made": "Concept Deck: Suggested does not understand how tokenomics work",
+          "Rubric classification": "",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20220119",
+          "Solana Transfer Hash": "4WxzqKS9kZbpYZCdsUKQBrc2n7rZitGBtZEQ66GZPHHx3uNoii4h9Mbqnmag1PEgHtqsK7Ux8vHEsJirwyxPBZ23",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "",
+          "Contribution Made": "Concept Deck: Make the ask explicit",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220119",
+          "Solana Transfer Hash": "4WxzqKS9kZbpYZCdsUKQBrc2n7rZitGBtZEQ66GZPHHx3uNoii4h9Mbqnmag1PEgHtqsK7Ux8vHEsJirwyxPBZ23",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "",
+          "Contribution Made": "Concept Deck: raised missing components in the deck\nhttps://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/pitch_deck_contents.png",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220206",
+          "Solana Transfer Hash": "4WxzqKS9kZbpYZCdsUKQBrc2n7rZitGBtZEQ66GZPHHx3uNoii4h9Mbqnmag1PEgHtqsK7Ux8vHEsJirwyxPBZ23",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "",
+          "Contribution Made": "Zoom Sync: Syggestion for 2 sessions in future",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220210",
+          "Solana Transfer Hash": "4WxzqKS9kZbpYZCdsUKQBrc2n7rZitGBtZEQ66GZPHHx3uNoii4h9Mbqnmag1PEgHtqsK7Ux8vHEsJirwyxPBZ23",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "Agroverse",
+          "Contribution Made": "NPC streaming on TikTok is a trend\n\nhttps://theconversation.com/what-the-npc-streaming-tiktok-trend-spells-for-the-future-of-gaming-and-erotic-work-210257",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230810",
+          "Solana Transfer Hash": "nDo6rXwCxxWxbcypCtrde5NXckPdE43dQvThm7S2WSfL71iSBsrnbEWFCuewPosCd8eqjTwYoQMBUxjFMAQoUgb",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "Agroverse",
+          "Contribution Made": "1 hour cacao nibs tasting session 20231005\n\nhttps://drive.google.com/drive/u/0/folders/10yJWacoMORuObi4tYogH-BQ8QXakrM7w",
+          "Rubric classification": "50 : Commerce - Offline tasks (30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20231005",
+          "Solana Transfer Hash": "nDo6rXwCxxWxbcypCtrde5NXckPdE43dQvThm7S2WSfL71iSBsrnbEWFCuewPosCd8eqjTwYoQMBUxjFMAQoUgb",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Video response for poll\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231018%20-%20jerry%20video%20response%20for%20poll.mp4\n\nTime Taken: 30 minutes",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20231022",
+          "Solana Transfer Hash": "nDo6rXwCxxWxbcypCtrde5NXckPdE43dQvThm7S2WSfL71iSBsrnbEWFCuewPosCd8eqjTwYoQMBUxjFMAQoUgb",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Provided 1 segments to the marketing video \n\nhttps://docs.google.com/spreadsheets/d/1wnyE3ZJ_kV_NiUwPqmX0fCeC8xcqhUfoe9OkiCpJMSg/edit#gid=0\n\nhttps://drive.google.com/drive/u/0/folders/11rdjGaglwdEW-XT45eRUP_8IC3O65Hd8\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231024%20-%20marketing%20video.mp4\n\n\nTime for each segment: 15 minutes\nTotal effort for 1 segments: 15 minutes",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "nDo6rXwCxxWxbcypCtrde5NXckPdE43dQvThm7S2WSfL71iSBsrnbEWFCuewPosCd8eqjTwYoQMBUxjFMAQoUgb",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Jerry spent 3 minutes proposing to explore into THC cacao bars",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "0.05",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5",
+          "Status date": "20241101",
+          "Solana Transfer Hash": "https://solscan.io/tx/5Wow9GDHpNG1wfog6vjw5ccwXjbGjX2DEYWgtp8qPtdghCJpecocarNhAUrSta6PspBEUvhHhJMViZT86CM2wL1T",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Jerry spent 5 minutes forwarding this Instagram reel about Stem cell regeneration when eating cacao \n\nhttps://www.instagram.com/reel/DALVbPoyCXQ/?igsh=bjM1amk0dWx6OTk4",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241029",
+          "Solana Transfer Hash": "https://solscan.io/tx/5Wow9GDHpNG1wfog6vjw5ccwXjbGjX2DEYWgtp8qPtdghCJpecocarNhAUrSta6PspBEUvhHhJMViZT86CM2wL1T",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Jerry Luk spent 5 minutes giving a very clear and concise response to the approach of manually tracking the different batches of shipment spread across our entire supply chain… 🤔🤣",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241107",
+          "Solana Transfer Hash": "https://solscan.io/tx/5Wow9GDHpNG1wfog6vjw5ccwXjbGjX2DEYWgtp8qPtdghCJpecocarNhAUrSta6PspBEUvhHhJMViZT86CM2wL1T",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Jerry has spent 10 reminding again the importance of doing SEO for our Agroverse site to ensure it positions as the only supplier that brings Amazonian cacao in the entire USA",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241219",
+          "Solana Transfer Hash": "https://solscan.io/tx/5Wow9GDHpNG1wfog6vjw5ccwXjbGjX2DEYWgtp8qPtdghCJpecocarNhAUrSta6PspBEUvhHhJMViZT86CM2wL1T",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent an hour last night with Jerry and Allison \n\nKey insights \n\n- it is a very healthy sign that the value aligned partners upon hearing the message immediately extends offer to support the cause. This means our brand story is on point \n\n- ours is a value/identity based marketing \n\n- as such video/visual content on our site should be centric around the people as opposed to the product \n\n- the CTA to action to be tested should be Join the Movement \n\n- some references of companies that have implemented good content based conversion are as attached \n\n- 501c registration was surfaced again a second time. This time by Allison who has experience registering non-profits in the USA as an activist. The church should be registered as an LLC and then using the details of the LLC registration with IRS as a later step to acquire 501c status \n\n- Jerry has expressed intention to support our efforts by joining and offer cacao in Davos next season.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250214",
+          "Solana Transfer Hash": "https://solscan.io/tx/G1cqSLky5wsbds674xF8dbqNb1Vwv9JerstJ1ytohL3oRWrtVKrg6e2a6KWVKhCgcF5P8HmgXYWZFch2YFAGjAo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Jerry spent 30 minutes studying the supply chain out of Peru\n\nhttps://www.rooted-nutrition.com/product-page/organic-premium-ceremonial-cacao-paste-2-2-lb\n\nhttps://selenohealth.com/products/ceremonial-cacao-paste-peru-1kg?variant=41260908544180\n\nAfter factoring in the shipping cost our pricing for $50 per kg is competitive",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250222",
+          "Solana Transfer Hash": "https://solscan.io/tx/G1cqSLky5wsbds674xF8dbqNb1Vwv9JerstJ1ytohL3oRWrtVKrg6e2a6KWVKhCgcF5P8HmgXYWZFch2YFAGjAo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Jerry spent 30 minutes corresponding about market positioning for cacao\n\n- ADHD usage - dopamine boost\n- Fat loss\n- Caffeine replacement \n- need to make it taste good without sugar like Celsius \n- distribution is still key \n- make sure brand gets index by ChatGpt for the keywords",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250224",
+          "Solana Transfer Hash": "https://solscan.io/tx/G1cqSLky5wsbds674xF8dbqNb1Vwv9JerstJ1ytohL3oRWrtVKrg6e2a6KWVKhCgcF5P8HmgXYWZFch2YFAGjAo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Jerry spent 5 minutes to propose to replicate the Labubu phenomena we need an influencer to do the initial trigger ‎<This message was edited>",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: 73% cacao. Go after retailers. Attending trade show. 60% profit margin is the norm and we should just do this as the traditional retailer route can support this \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_3155.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251013051825_gary_teh_img_3155.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ASRv77rWOPhEOK8APVN54bPpb8RYBZB3SZ08Y7zjUfzXS0IzUex9j/tUFKdHpRr4ll2x+vqVpJt91yQKQT1GiUSo/8ocPMsKS0/MCH86k0kwJwUS+ztQeq49SOD9ArUbl8cRTdZP1qiqJFEk5eKrQLNX4WAGDz8tIUeoc571ZSNmccP/AtBjd3wVc3zHpj+pV0uLX2hUH6oM/K1/weqa2QUYgcBACjQuYfm1dXhbfYEWcM53aQ+uCGDxZ1tYgbNG2w61NKkjRLBXcm0rcLwVHOxvQxToP/AhJBJ2VMwvZL8lrayeXMzoAb6RjJpSRyB6MkkLzXyHJTcU5oOAvLW7zQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20251013",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Jerry mentioned the people are paying at least USD50 for the bean to bar experience I created last night (Halloween) during his birthday He also further mentioned in downtown Palo Alto there is a popup store that does something similar with chocolate which charges each person around USD$150 for team building experience Might make sense to offer this to help build up the brand name and then make it easier to target larger retailers once the brand name has been established \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: Cunpz8uWnYlPi0/crfEKoWNN9ihM1d4xee9Yhfnq0tOPH8HnoQtjNWES6SVNQIRCY1nt3+qL50zwg33triaiTdQQrsZtKlPdI2sxt7PZoT1yjR4E1y3CeMVcxxVr3LcGmmzcAi6cwmfZC5rh8VhEcfIVVbbkns7JGOSgawgxbI8JnlvRhm7Rma/ckNZ5iHi3qigsZI8tn7DNOyN7zHa1LtQvCCPTxUapwu8Ebv4V6S0036nCAC4uWnwWhah987ZvBl3Qrb1Tauo1Abp/rWmonefeclTMlPNkavTR/NbODkeC6PftfBrs+QQECn3Uervdt5ge05QwtuUuzHN27srTdQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20251101",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: He also further mentioned in downtown Palo Alto there is a popup store that does something similar with chocolate which charges each person around USD$150 for team building experience Might make sense to offer this to help build up the brand name and then make it easier to target larger retailers once the brand name has been established He suggested that for our experience format, perhaps allow attendees to choose their beans and roasting. Helps with retention \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: w8oyxVusMNBsk8n46h4zNUPDRgWmrXYlzrEnZUw2boVJfkvpa319bmI9sSGT5IKmr0TXJgfRx0CP9O8b5iYsiz0drsIBNP5ocjOQowAIa1YALjt1Fi9oaL6zqIYg5cDTed/reV7QNn9XWgfqnuj3kx6oOsbyMJbw05XgSEMhpVxovvSRwxUr0OBAAIrqlq4Eb1FgHcfGKYCHKunzdctxOkhzve2IV07oK3bPPY+XB7I+a1nfZOM4JPdP6T7/b70OAzcqTx3//QWWy4JgYGEYVUR2uM7z1c/8njyee8rpO6cqbah2h4XUpu/p66aaFG/0Aw1V5o7S0HbVoQ7GNVbA9Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20251101",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Jerry Luk",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Been to bar experiment \r\n- Contributor(s): Gary Teh, Jerry Luk\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_3777.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251101164532_gary_teh_img_3777.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: l2VW3t7A2VZlx8uikUJvLWfHq3414P4Ywxa/sT1tBSS3TGZw4Gh6PVAkcQqtkNw/ooQaWrWR6zSl0+bXQGesh6R+njq6E1l1dwYqbAnCTE9TEW7FgV3V+uitrxaUuvUpamwP1hRJ4b9STaYhqdaJhs1MAGh5Y8sGWQFRWun/2oqu58RwoAUJ608Q3K2rIDC5GFp3r1Aml3DGH5X5drYAZBKTCVOLQW476/8oYB7SMzE1AlMxfIZY8Te0qR4rjmI9qlFLkEUuBucgR1pvs9ZAhBmMCaKGCgfKJVuaou1II0uwArwDQGiIjB4kIKXlr0PiNr568nAwV/75oxQURI2FpA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20251101",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

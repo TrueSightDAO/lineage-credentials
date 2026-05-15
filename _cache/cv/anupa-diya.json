@@ -1,0 +1,153 @@
+{
+  "slug": "anupa-diya",
+  "display_name": "Anupa/diya",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 123.0,
+    "date_range": {
+      "earliest": "20240117",
+      "latest": "20240219"
+    },
+    "source": {
+      "contributor_name": "Anupa/diya",
+      "generated_date": "2026-05-14T22:06:12.920254",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 123.0,
+        "total_tdg_issued": 123.0,
+        "projects": [
+          "Sun Mint"
+        ],
+        "date_range": {
+          "earliest": "20240117",
+          "latest": "20240219"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 123.0,
+        "total_tdg_issued": 123.0,
+        "projects": [
+          "Sun Mint"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 4
+        },
+        "date_range": {
+          "earliest": "20240117",
+          "latest": "20240219"
+        },
+        "contribution_types": [
+          {
+            "description": "10 mins 🤣",
+            "project": "Sun Mint",
+            "tdg": 16.0,
+            "date": "20240117",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "In that case from my experience of publication design. What is the picture will this be for research or is it a coffee table book \n\nIf it's a coffee table book. Photos are the main thing. Photos will are captioned and labelled . \n\nIn india, many wedding companies are getting this community photo accounts where everyone uploads their photos to a common cloud",
+            "project": "Sun Mint",
+            "tdg": 6.0,
+            "date": "20240218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "This is great research for trekking communities, competitions like Barclays running, or even for music festivals that happen in the deserts or mountains.",
+            "project": "Sun Mint",
+            "tdg": 1.0,
+            "date": "20240218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I hr with the other resources",
+            "project": "Sun Mint",
+            "tdg": 100.0,
+            "date": "20240219",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Anupa/diya",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "10 mins 🤣",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.00",
+          "Status date": "20240117",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anupa/diya",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "In that case from my experience of publication design. What is the picture will this be for research or is it a coffee table book \n\nIf it's a coffee table book. Photos are the main thing. Photos will are captioned and labelled . \n\nIn india, many wedding companies are getting this community photo accounts where everyone uploads their photos to a common cloud",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "6.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "6.00",
+          "Status date": "20240218",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "6.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anupa/diya",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "This is great research for trekking communities, competitions like Barclays running, or even for music festivals that happen in the deserts or mountains.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20240218",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Anupa/diya",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "I hr with the other resources",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20240219",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

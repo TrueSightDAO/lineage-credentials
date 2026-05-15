@@ -1,0 +1,158 @@
+{
+  "slug": "jacki-roach",
+  "display_name": "Jacki Roach",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 1010.0,
+    "date_range": {
+      "earliest": "20201015",
+      "latest": "20221119"
+    },
+    "source": {
+      "contributor_name": "Jacki Roach",
+      "generated_date": "2026-05-14T22:06:13.456355",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1010.0,
+        "total_tdg_issued": 1010.0,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20221119"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 1010.0,
+        "total_tdg_issued": 1010.0,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Bring Builders - brought on a active contributor": 1,
+          "500 : Build Game - User Experience - Validated the existence of a user behavior": 1,
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 1,
+          "250 : Build Game - Marketing - Write and post official DAO short social media text post (Facebook or IG, Twitter or Reddit)": 1
+        },
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20221119"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduced Alexander Anser",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20220806",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfaced impersonation is a prevalent problem in the web3 space.",
+            "project": "Cypher Defense",
+            "tdg": 500.0,
+            "date": "20221007",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Follow up with conversation on the thread to gather even more qualitative data inputs to better understand the web3 personal security problem\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986447689106259968%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986484289806770177%29",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfacing our project to relevant victim on Linkedin\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6999144097668104192/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6999144096791494656%2C6999227579928907776)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(6999227579928907776%2Curn%3Ali%3AugcPost%3A6999144096791494656)&dashReplyUrn=urn%3Ali%3Afsd_comment%3A(6999317092277624832%2Curn%3Ali%3AugcPost%3A6999144096791494656)&replyUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6999144096791494656%2C6999317092277624832)",
+            "project": "Cypher Defense",
+            "tdg": 250.0,
+            "date": "20221119",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jacki Roach",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Alexander Anser",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220806",
+          "Solana Transfer Hash": "5sFS3tAUdAHMj254c3ca5JFfhVmn4FgLhmxgCqU1XKKKqTHV8bxBwcCZMzGnmMtkHu3XbXHLMykysi5QVdkJ3d4H",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jacki Roach",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Surfaced impersonation is a prevalent problem in the web3 space.  ",
+          "Rubric classification": "500 : Build Game - User Experience - Validated the existence of a user behavior",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20221007",
+          "Solana Transfer Hash": "5sFS3tAUdAHMj254c3ca5JFfhVmn4FgLhmxgCqU1XKKKqTHV8bxBwcCZMzGnmMtkHu3XbXHLMykysi5QVdkJ3d4H",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jacki Roach",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Follow up with conversation on the thread to gather even more qualitative data inputs to better understand the web3 personal security problem\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986447689106259968%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986484289806770177%29",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "5sFS3tAUdAHMj254c3ca5JFfhVmn4FgLhmxgCqU1XKKKqTHV8bxBwcCZMzGnmMtkHu3XbXHLMykysi5QVdkJ3d4H",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jacki Roach",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Surfacing our project to relevant victim on Linkedin\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6999144097668104192/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6999144096791494656%2C6999227579928907776)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(6999227579928907776%2Curn%3Ali%3AugcPost%3A6999144096791494656)&dashReplyUrn=urn%3Ali%3Afsd_comment%3A(6999317092277624832%2Curn%3Ali%3AugcPost%3A6999144096791494656)&replyUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6999144096791494656%2C6999317092277624832)",
+          "Rubric classification": "250 : Build Game - Marketing - Write and post official DAO short social media text post (Facebook or IG, Twitter or Reddit)",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20221119",
+          "Solana Transfer Hash": "5sFS3tAUdAHMj254c3ca5JFfhVmn4FgLhmxgCqU1XKKKqTHV8bxBwcCZMzGnmMtkHu3XbXHLMykysi5QVdkJ3d4H",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

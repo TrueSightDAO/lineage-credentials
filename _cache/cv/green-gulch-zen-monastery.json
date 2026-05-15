@@ -1,0 +1,107 @@
+{
+  "slug": "green-gulch-zen-monastery",
+  "display_name": "Green Gulch Zen Monastery",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 200.0,
+    "date_range": {
+      "earliest": "20231126",
+      "latest": "20231128"
+    },
+    "source": {
+      "contributor_name": "Green Gulch Zen Monastery",
+      "generated_date": "2026-05-14T22:06:13.419385",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20231126",
+          "latest": "20231128"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 200.0,
+        "total_tdg_issued": 200.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20231126",
+          "latest": "20231128"
+        },
+        "contribution_types": [
+          {
+            "description": "Something I observed about the way work is structured around these work session teams at the Zen monastery I have been studying these past few days\n\n*_simplicity*_\nThe task at each position is simple and well defined. Which allows easy build up of muscle memory after 3-4 iteration by a person executing that the role\n\nAlso the number of roles are very very limited since the overall scope of operations was deliberately kept to a minimal as is the signature characteristic of Zen inspired designs \n\n*_ease of role switching*_\nSince these roles are designed to be simple, anyone could easily swap in and swap out of those roles (_which happens on a weekly basis_). \n\nThis also makes it possible for a guest student who has just joined the community for a 2 week period to quickly get into the hang of any assigned role after 2-3 days and start being productive by day 4\n\n*_pairing*_\nSomeone more experienced in a role is paired with someone new to a role. \n\nI have observed similar process before in engineering teams called _pair programming_ where an engineer more experienced with a codebase is paired up with an incoming engineer that is new to the codebase to quickly onboard the new engineer \n\n*_redundancy*_\nThere is a healthy level of redundancy built into the system design. \n\n7-8 people are loaded into a scope that could be easily handled by 3-4 people ‎<This message was edited>\n‎",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20231126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Another local distributor she proposed to reach out to \n\nhttps://veritablevegetable.com/grower/\n\nSomething she pointed out that @41765737357 mentioned earlier in the year during our group chat together, *_the story of where the food comes*_ from is almost if not becoming even more important than the food now that *_conscious consumption*_ has became the trend \n\nShe proposed to checkout the sample story of a farm on the link below and when we visit the store watch out for the physical marketing material collateral placed in the stores to help consumers know more about the various stories of each product  \n\nhttps://veritablevegetable.com/grower/anthony-vineyards/\n\n*Time taken: 1 hour*",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20231128",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Green Gulch Zen Monastery",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Something I observed about the way work is structured around these work session teams at the Zen monastery I have been studying these past few days\n\n*_simplicity*_\nThe task at each position is simple and well defined. Which allows easy build up of muscle memory after 3-4 iteration by a person executing that the role\n\nAlso the number of roles are very very limited since the overall scope of operations was deliberately kept to a minimal as is the signature characteristic of Zen inspired designs \n\n*_ease of role switching*_\nSince these roles are designed to be simple, anyone could easily swap in and swap out of those roles (_which happens on a weekly basis_). \n\nThis also makes it possible for a guest student who has just joined the community for a 2 week period to quickly get into the hang of any assigned role after 2-3 days and start being productive by day 4\n\n*_pairing*_\nSomeone more experienced in a role is paired with someone new to a role. \n\nI have observed similar process before in engineering teams called _pair programming_ where an engineer more experienced with a codebase is paired up with an incoming engineer that is new to the codebase to quickly onboard the new engineer \n\n*_redundancy*_\nThere is a healthy level of redundancy built into the system design. \n\n7-8 people are loaded into a scope that could be easily handled by 3-4 people ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20231126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Green Gulch Zen Monastery",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Another local distributor she proposed to reach out to \n\nhttps://veritablevegetable.com/grower/\n\nSomething she pointed out that @41765737357 mentioned earlier in the year during our group chat together, *_the story of where the food comes*_ from is almost if not becoming even more important than the food now that *_conscious consumption*_ has became the trend \n\nShe proposed to checkout the sample story of a farm on the link below and when we visit the store watch out for the physical marketing material collateral placed in the stores to help consumers know more about the various stories of each product  \n\nhttps://veritablevegetable.com/grower/anthony-vineyards/\n\n*Time taken: 1 hour*",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20231128",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "susan-oh",
+  "display_name": "Susan Oh",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 450.0,
+    "date_range": {
+      "earliest": "20220506",
+      "latest": "20220506"
+    },
+    "source": {
+      "contributor_name": "Susan Oh",
+      "generated_date": "2026-05-14T22:06:13.857977",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 450.0,
+        "total_tdg_issued": 450.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220506",
+          "latest": "20220506"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 450.0,
+        "total_tdg_issued": 450.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "100 : Build Game - Strategy - Contribute reference material - link": 1,
+          "100 : Build Game - User Experience - Suggestions for a UX": 1
+        },
+        "date_range": {
+          "earliest": "20220506",
+          "latest": "20220506"
+        },
+        "contribution_types": [
+          {
+            "description": "Focus group #2 - Compliance: Raised chain of custody concept to deal with KYC",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group #2 - Governance: Prove of participation by timestamp",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group #2 - Governance: Gradient of voting where fewer and fewer people get to vote on depending on level of voting weightage",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Susan Oh",
+          "Project Name": "",
+          "Contribution Made": "Focus group #2 - Compliance: Raised chain of custody concept to deal with KYC",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "3pwvw5veU3Z2CJain3QR7wrrvGu1rK9SKuUPrdXjPKNtpmVzk4v7vfkmGxwKNk6DdHz5KBd799Bj5ZVoDKP1VgzA",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Susan Oh",
+          "Project Name": "",
+          "Contribution Made": "Focus group #2 - Governance: Prove of participation by timestamp",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "3pwvw5veU3Z2CJain3QR7wrrvGu1rK9SKuUPrdXjPKNtpmVzk4v7vfkmGxwKNk6DdHz5KBd799Bj5ZVoDKP1VgzA",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Susan Oh",
+          "Project Name": "",
+          "Contribution Made": "Focus group #2 - Governance: Gradient of voting where fewer and fewer people get to vote on depending on level of voting weightage",
+          "Rubric classification": "100 : Build Game - User Experience - Suggestions for a UX",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "3pwvw5veU3Z2CJain3QR7wrrvGu1rK9SKuUPrdXjPKNtpmVzk4v7vfkmGxwKNk6DdHz5KBd799Bj5ZVoDKP1VgzA",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

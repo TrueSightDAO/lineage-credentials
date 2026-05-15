@@ -1,0 +1,548 @@
+{
+  "slug": "edi-hsu",
+  "display_name": "Edi Hsu",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 20,
+    "total_tdg_provisioned": 1055.0,
+    "date_range": {
+      "earliest": "20220406",
+      "latest": "20230810"
+    },
+    "source": {
+      "contributor_name": "Edi Hsu",
+      "generated_date": "2026-05-14T22:06:13.083439",
+      "summary": {
+        "total_contributions": 20,
+        "total_tdg_provisioned": 1055.0,
+        "total_tdg_issued": 9805.0,
+        "projects": [
+          "Agroverse",
+          "MarketMonocle"
+        ],
+        "date_range": {
+          "earliest": "20220406",
+          "latest": "20230810"
+        }
+      },
+      "analysis": {
+        "total_contributions": 20,
+        "total_tdg_provisioned": 1055.0,
+        "total_tdg_issued": 9805.0,
+        "projects": [
+          "Agroverse",
+          "MarketMonocle"
+        ],
+        "rubric_categories": {
+          "5000 : Build Game - User Experience - Design System": 2,
+          "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO": 3,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 2,
+          "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)": 1,
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 6,
+          "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources": 2,
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 2,
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 1
+        },
+        "date_range": {
+          "earliest": "20220406",
+          "latest": "20230810"
+        },
+        "contribution_types": [
+          {
+            "description": "Art direction: The choice of art and narrative should fit with the mission and purpose of the project. It is important to avoid choosing narrative and connotations that detracts from the actual purpose of the project.\n\nSince the purpose of TrueSight DAO is to build a better world based on fundamental truth, and the goal is to get to as wide a swath of people as possible in terms of adoption, aliens and mystism might not be a good choice. There are sections of human society that are mistrustful of aliens and mystics \n\nIt might be acceptable to tap into very very strong narrative frame if the goal of this project is to attract a small group of very very enthusiatic supporter. However with great enthusiasm also comes great apathy and aversion for sections of the population where these narration carry no meaning or a negative connotation",
+            "project": "",
+            "tdg": 0,
+            "date": "20220406",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Art direction: Research into proper narrative choice provide general art framework for artist to fill in the details to complete the art direction.",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "User Experience: Identified 3 different target market segments we are attempting to go after\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be",
+            "project": "",
+            "tdg": 0,
+            "date": "20220418",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "User Experience: Proposed to split experience into 3 different apps. That will help us with the narrative and the go to market for each of these segments\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
+            "project": "",
+            "tdg": 0,
+            "date": "20220418",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "User Experience: Proposed to use themes for each of these NFT collections that will resonate best with each market segment\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
+            "project": "",
+            "tdg": 0,
+            "date": "20220418",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Raised concern about too many chefs in the kitchen and need a strong leader to provide clear direction",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220420",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Branding and storyline discussions meeting with Edi (20220701) (1 hour)\n\nhttps://www.youtube.com/watch?v=PBbhpRK7Hw4",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220701",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed to do a periodic checkin with Pris to ensure art direction makes sense still from a big picture perspective",
+            "project": "",
+            "tdg": 75.0,
+            "date": "20220701",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Submitted suggestions for brand name",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220716",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Perfectly illustrated our roll out plan in terms of markets\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220717%20-%20edi%20explains%20our%20three%20markets.jpeg",
+            "project": "MarketMonocle",
+            "tdg": 25.0,
+            "date": "20220717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis\n\nhttps://www.predictit.org/markets/17/US-Elections?gclid=CjwKCAjw5s6WBhA4EiwACGncZUu3WksIccPqFQx9yD7H_DKlhb21kTm6HyWmDaZPfNNL8LJr8yZ52RoCqCsQAvD_BwE",
+            "project": "MarketMonocle",
+            "tdg": 25.0,
+            "date": "20220717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Voted on naming\nhttps://docs.google.com/forms/d/1Z-putP4KztPg39g8Fay1sQcTPzvnsXmaob2R4RhEoM8/edit#responses",
+            "project": "MarketMonocle",
+            "tdg": 10.0,
+            "date": "20220718",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Pointed out that the brand name doesnt need to be trading-specific if the tagline already is",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested to use an everyday object as the focal point of brand name",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "\"Requested more research into Owl as a mascot\n\n\"\"Affirms we are in the right direction, owl is regarded very highly in these portrayals\n\n1) We need to see if the owl has any downsides / bad omens / unwelcome presences in different cultures\n\n2) has an owl been used in any other trading platforms?\"\"\"",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Pointed out that the brand name just needs to be first and foremost catchy and memorable, and secondly make sense to audience.\nStory/narrative that doesn’t need to depend on a name.",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Set criteria for brand name / logo - \n1) Memorable\n2) easy to pronounce by target ethnicities\n3) catchy when both read visually and outloud\n4) does not offend major target audiences, ideally none\n5) no major competitors with similar name\n6) domain/social media availability\n7) literal / nonliteral",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Voted for brand names suggested by design team",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Explained and described to TDG - Go To Market on Whatsapp the advantages/potential in designing for separate vertical markets",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested to reach out to Dean Mao distribute it in Moon Drive Camp during Burning Man",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230810",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 19,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Art direction: The choice of art and narrative should fit with the mission and purpose of the project. It is important to avoid choosing narrative and connotations that detracts from the actual purpose of the project.\n\nSince the purpose of TrueSight DAO is to build a better world based on fundamental truth, and the goal is to get to as wide a swath of people as possible in terms of adoption, aliens and mystism might not be a good choice. There are sections of human society that are mistrustful of aliens and mystics \n\nIt might be acceptable to tap into very very strong narrative frame if the goal of this project is to attract a small group of very very enthusiatic supporter. However with great enthusiasm also comes great apathy and aversion for sections of the population where these narration carry no meaning or a negative connotation",
+          "Rubric classification": "5000 : Build Game - User Experience - Design System",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220406",
+          "Solana Transfer Hash": "4cM2kr6tJW3fo3WYJYbR86UwfR8L2bZ2JFis7NCWiBFPkr9fuLfJRnL7NC1XYnnwaqxpjZWDBuwWbm8tELM84Ska",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Art direction: Research into proper narrative choice provide general art framework for artist to fill in the details to complete the art direction.",
+          "Rubric classification": "5000 : Build Game - User Experience - Design System",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "User Experience: Identified 3 different target market segments we are attempting to go after\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be",
+          "Rubric classification": "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220418",
+          "Solana Transfer Hash": "4cM2kr6tJW3fo3WYJYbR86UwfR8L2bZ2JFis7NCWiBFPkr9fuLfJRnL7NC1XYnnwaqxpjZWDBuwWbm8tELM84Ska",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "User Experience: Proposed to split experience into 3 different apps. That will help us with the narrative and the go to market for each of these segments\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
+          "Rubric classification": "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220418",
+          "Solana Transfer Hash": "4cM2kr6tJW3fo3WYJYbR86UwfR8L2bZ2JFis7NCWiBFPkr9fuLfJRnL7NC1XYnnwaqxpjZWDBuwWbm8tELM84Ska",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "User Experience: Proposed to use themes for each of these NFT collections that will resonate best with each market segment\n\nhttps://www.youtube.com/watch?v=itETtUVqJb8&feature=youtu.be\nhttps://drive.google.com/file/d/12i_yh4caQ4yyHWwLhDXO2rijnKNp8QMc/view?usp=sharing",
+          "Rubric classification": "1250 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220418",
+          "Solana Transfer Hash": "4cM2kr6tJW3fo3WYJYbR86UwfR8L2bZ2JFis7NCWiBFPkr9fuLfJRnL7NC1XYnnwaqxpjZWDBuwWbm8tELM84Ska",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Raised concern about too many chefs in the kitchen and need a strong leader to provide clear direction",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220420",
+          "Solana Transfer Hash": "4cM2kr6tJW3fo3WYJYbR86UwfR8L2bZ2JFis7NCWiBFPkr9fuLfJRnL7NC1XYnnwaqxpjZWDBuwWbm8tELM84Ska",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Branding and storyline discussions meeting with Edi (20220701) (1 hour)\n\nhttps://www.youtube.com/watch?v=PBbhpRK7Hw4",
+          "Rubric classification": "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220701",
+          "Solana Transfer Hash": "3BKNxB1ehAmZQR18eBLcbgvKLStZg5MCVBZCmns5EdeXhFVoyUPEJUaVShKFbEcUKe2e6Gn5fTwihGMvqYhX7A6F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Proposed to do a periodic checkin with Pris to ensure art direction makes sense still from a big picture perspective",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20220701",
+          "Solana Transfer Hash": "3BKNxB1ehAmZQR18eBLcbgvKLStZg5MCVBZCmns5EdeXhFVoyUPEJUaVShKFbEcUKe2e6Gn5fTwihGMvqYhX7A6F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Submitted suggestions for brand name",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220716",
+          "Solana Transfer Hash": "3BKNxB1ehAmZQR18eBLcbgvKLStZg5MCVBZCmns5EdeXhFVoyUPEJUaVShKFbEcUKe2e6Gn5fTwihGMvqYhX7A6F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "MarketMonocle",
+          "Contribution Made": "Perfectly illustrated our roll out plan in terms of markets\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220717%20-%20edi%20explains%20our%20three%20markets.jpeg",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20220717",
+          "Solana Transfer Hash": "3BKNxB1ehAmZQR18eBLcbgvKLStZg5MCVBZCmns5EdeXhFVoyUPEJUaVShKFbEcUKe2e6Gn5fTwihGMvqYhX7A6F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "MarketMonocle",
+          "Contribution Made": "Competitive Analysis\n\nhttps://www.predictit.org/markets/17/US-Elections?gclid=CjwKCAjw5s6WBhA4EiwACGncZUu3WksIccPqFQx9yD7H_DKlhb21kTm6HyWmDaZPfNNL8LJr8yZ52RoCqCsQAvD_BwE",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20220717",
+          "Solana Transfer Hash": "3BKNxB1ehAmZQR18eBLcbgvKLStZg5MCVBZCmns5EdeXhFVoyUPEJUaVShKFbEcUKe2e6Gn5fTwihGMvqYhX7A6F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "MarketMonocle",
+          "Contribution Made": "Voted on naming\nhttps://docs.google.com/forms/d/1Z-putP4KztPg39g8Fay1sQcTPzvnsXmaob2R4RhEoM8/edit#responses",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220718",
+          "Solana Transfer Hash": "3BKNxB1ehAmZQR18eBLcbgvKLStZg5MCVBZCmns5EdeXhFVoyUPEJUaVShKFbEcUKe2e6Gn5fTwihGMvqYhX7A6F",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Pointed out that the brand name doesnt need to be trading-specific if the tagline already is",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "3owLZCa7vUR2qATA6UScnJXWYrDXgcP91NegNoyzqGcP6DMuQTfTKZ2SRH3JeePd3T7oJ8P37cyQ3rDb6obwkrSi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Suggested to use an everyday object as the focal point of brand name",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "3owLZCa7vUR2qATA6UScnJXWYrDXgcP91NegNoyzqGcP6DMuQTfTKZ2SRH3JeePd3T7oJ8P37cyQ3rDb6obwkrSi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "\"Requested more research into Owl as a mascot\n\n\"\"Affirms we are in the right direction, owl is regarded very highly in these portrayals\n\n1) We need to see if the owl has any downsides / bad omens / unwelcome presences in different cultures\n\n2) has an owl been used in any other trading platforms?\"\"\"",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "3owLZCa7vUR2qATA6UScnJXWYrDXgcP91NegNoyzqGcP6DMuQTfTKZ2SRH3JeePd3T7oJ8P37cyQ3rDb6obwkrSi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Pointed out that the brand name just needs to be first and foremost catchy and memorable, and secondly make sense to audience.\nStory/narrative that doesn’t need to depend on a name.",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "3owLZCa7vUR2qATA6UScnJXWYrDXgcP91NegNoyzqGcP6DMuQTfTKZ2SRH3JeePd3T7oJ8P37cyQ3rDb6obwkrSi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Set criteria for brand name / logo - \n1) Memorable\n2) easy to pronounce by target ethnicities\n3) catchy when both read visually and outloud\n4) does not offend major target audiences, ideally none\n5) no major competitors with similar name\n6) domain/social media availability\n7) literal / nonliteral",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "3owLZCa7vUR2qATA6UScnJXWYrDXgcP91NegNoyzqGcP6DMuQTfTKZ2SRH3JeePd3T7oJ8P37cyQ3rDb6obwkrSi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Voted for brand names suggested by design team",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "3owLZCa7vUR2qATA6UScnJXWYrDXgcP91NegNoyzqGcP6DMuQTfTKZ2SRH3JeePd3T7oJ8P37cyQ3rDb6obwkrSi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "",
+          "Contribution Made": "Explained and described to TDG - Go To Market on Whatsapp the advantages/potential in designing for separate vertical markets ",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "3owLZCa7vUR2qATA6UScnJXWYrDXgcP91NegNoyzqGcP6DMuQTfTKZ2SRH3JeePd3T7oJ8P37cyQ3rDb6obwkrSi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edi Hsu",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested to reach out to Dean Mao distribute it in Moon Drive Camp during Burning Man",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230810",
+          "Solana Transfer Hash": "2kWZTtRmTn7F751VXyMRTnKFsmsQCjv45rs8fnywLc62BhVe6CrhKTDMKP8nTK3rw21eGVmiQ9ZSpYvnuArEgWAi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

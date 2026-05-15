@@ -1,0 +1,149 @@
+{
+  "slug": "jayan",
+  "display_name": "Jayan",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 0.0,
+    "date_range": {
+      "earliest": null,
+      "latest": null
+    },
+    "source": {
+      "contributor_name": "Jayan",
+      "generated_date": "2026-05-14T22:06:13.474140",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 0.0,
+        "total_tdg_issued": 0.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": null,
+          "latest": null
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 0.0,
+        "total_tdg_issued": 0.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": null,
+          "latest": null
+        },
+        "contribution_types": [
+          {
+            "description": "Indicated landing port as a parameter",
+            "project": "Agroverse",
+            "tdg": 0.0,
+            "date": "",
+            "status": ""
+          },
+          {
+            "description": "Indicated shipping port as a parameter",
+            "project": "Agroverse",
+            "tdg": 0.0,
+            "date": "",
+            "status": ""
+          },
+          {
+            "description": "Indicated tonnage of cargo as a parameter",
+            "project": "Agroverse",
+            "tdg": 0.0,
+            "date": "",
+            "status": ""
+          },
+          {
+            "description": "Need to apply for coal export permit for Nigeria side",
+            "project": "Agroverse",
+            "tdg": 0.0,
+            "date": "",
+            "status": ""
+          }
+        ],
+        "status_breakdown": {}
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jayan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Indicated landing port as a parameter",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jayan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Indicated shipping port as a parameter",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jayan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Indicated tonnage of cargo as a parameter",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jayan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Need to apply for coal export permit for Nigeria side",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

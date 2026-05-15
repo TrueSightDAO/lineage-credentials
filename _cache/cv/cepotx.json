@@ -1,0 +1,105 @@
+{
+  "slug": "cepotx",
+  "display_name": "CEPOTX",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 58.33,
+    "date_range": {
+      "earliest": "20250802",
+      "latest": "20250802"
+    },
+    "source": {
+      "contributor_name": "CEPOTX",
+      "generated_date": "2026-05-14T22:06:12.976604",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 58.33,
+        "total_tdg_issued": 58.33,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250802",
+          "latest": "20250802"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 58.33,
+        "total_tdg_issued": 58.33,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20250802",
+          "latest": "20250802"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: Shared our Instagram post https://www.instagram.com/stories/jedielciocacau/3690367831041779785?utm_source=ig_story_item_share&igsh=cGkwZG8xZndidzN0\n- Contributor(s): CEPOTX\n- TDG Issued: 8.33\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: wK0Zrz2+PAxTQkvmBAXwVXSU0Kp3XXkn0/0u7jRi2pVOt3W0DXf10Nx01qq+9YtDKB8XbbT51HpH5rfAIMv0rlAwN1Jf0c7/n8t/a4wdbYdDliFxaUDfv3ntl4Aw0fJfpBOjKmEDYdk+gNl+z7La5QLJ/WHp6W4Lw73urBQXD38/4aJ511ME3iAsMQa7jb14/ADAgFwn5uhxluwSm6/YQJnYeA5ttfYt/J+2ojfwwj6UaojQ8xOY7/IuJfc2RCDUDRigA++YNrKya7I0wCQtJxbK1f3DaRUS0oRtzQ/skQlCEoMEMn1mOrf6hOyiA7UMF3T9UOwy6rwQvYc9ctP1NQ==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754157279877\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 8.33,
+            "date": "20250802",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: discussing about tree planting initiative collaboration with CEPOTX\n- Contributor(s): CEPOTX, Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: IMG_9845.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250802175929_gary_teh_img_9845.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: nMczBqxm4gA5JgqBB6/Z+7U2kyYzZGuPx9PhaHVxsYDKb11hNkAUX8s95IBexugiblrxUG6G/ovRgmE6dHyhmYjxu/EIedUPu0suCK2BmdO5Nu3gP8HeJWcBNcuhvqe0qWHM0q/uqMp0lap5zlmDf6xUAk7L46qFlHhEjjkuxpg3O7vOZYjkkaVu9DdBxhmBCwfwvoO43jFBG8B4cq5xgPKuyVPKPc8c6DP5TGLVqBGU22QZEj1IROWkf4Xki41bdwFaxYJoRY20puqbAhm6vgGeOMyDptYgf/d+NmVSE9gjO15J367V0Nn4FyXEft2WGK6FznBx3ewC27CXOWF4cw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754157279877&reload=true\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 50.0,
+            "date": "20250802",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "CEPOTX",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: Shared our Instagram post https://www.instagram.com/stories/jedielciocacau/3690367831041779785?utm_source=ig_story_item_share&igsh=cGkwZG8xZndidzN0\n- Contributor(s): CEPOTX\n- TDG Issued: 8.33\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: wK0Zrz2+PAxTQkvmBAXwVXSU0Kp3XXkn0/0u7jRi2pVOt3W0DXf10Nx01qq+9YtDKB8XbbT51HpH5rfAIMv0rlAwN1Jf0c7/n8t/a4wdbYdDliFxaUDfv3ntl4Aw0fJfpBOjKmEDYdk+gNl+z7La5QLJ/WHp6W4Lw73urBQXD38/4aJ511ME3iAsMQa7jb14/ADAgFwn5uhxluwSm6/YQJnYeA5ttfYt/J+2ojfwwj6UaojQ8xOY7/IuJfc2RCDUDRigA++YNrKya7I0wCQtJxbK1f3DaRUS0oRtzQ/skQlCEoMEMn1mOrf6hOyiA7UMF3T9UOwy6rwQvYc9ctP1NQ==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754157279877\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250802",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "CEPOTX",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: discussing about tree planting initiative collaboration with CEPOTX\n- Contributor(s): CEPOTX, Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: IMG_9845.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250802175929_gary_teh_img_9845.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: nMczBqxm4gA5JgqBB6/Z+7U2kyYzZGuPx9PhaHVxsYDKb11hNkAUX8s95IBexugiblrxUG6G/ovRgmE6dHyhmYjxu/EIedUPu0suCK2BmdO5Nu3gP8HeJWcBNcuhvqe0qWHM0q/uqMp0lap5zlmDf6xUAk7L46qFlHhEjjkuxpg3O7vOZYjkkaVu9DdBxhmBCwfwvoO43jFBG8B4cq5xgPKuyVPKPc8c6DP5TGLVqBGU22QZEj1IROWkf4Xki41bdwFaxYJoRY20puqbAhm6vgGeOMyDptYgf/d+NmVSE9gjO15J367V0Nn4FyXEft2WGK6FznBx3ewC27CXOWF4cw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754157279877&reload=true\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250802",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

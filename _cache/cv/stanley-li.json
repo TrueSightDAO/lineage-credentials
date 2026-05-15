@@ -1,0 +1,256 @@
+{
+  "slug": "stanley-li",
+  "display_name": "Stanley Li",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 8,
+    "total_tdg_provisioned": 514.0,
+    "date_range": {
+      "earliest": "20241021",
+      "latest": "20251013"
+    },
+    "source": {
+      "contributor_name": "Stanley Li",
+      "generated_date": "2026-05-14T22:06:13.843593",
+      "summary": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 514.0,
+        "total_tdg_issued": 591.66,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20241021",
+          "latest": "20251013"
+        }
+      },
+      "analysis": {
+        "total_contributions": 8,
+        "total_tdg_provisioned": 514.0,
+        "total_tdg_issued": 591.66,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 7,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20241021",
+          "latest": "20251013"
+        },
+        "contribution_types": [
+          {
+            "description": "Me, @557191035605 and Stanley Li and Mayra from San Francisco State University spent 45 minutes discussing about how we will be presenting Agroverse during next Friday’s student hour to encourage student volunteers to step forward to help out with the following scope\n\n- marketing and awareness\n- ⁠technology solutioning\n\n_PS: Interesting to observe both the synchronicity and alignment. Both @557191035605 and Mayra are indigenous. Mayra is of indigenous ancestry from Peru! 🤩🙏_",
+            "project": "Agroverse",
+            "tdg": 1.5,
+            "date": "20241021",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Stanley Li spent 5 minutes exploring how to collaborate with SFLUV token",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250306",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @85296482030 spent 5 minutes coordinating about an introduction he is trying to help setup with a local distributor for our cacao",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250404",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thanks @85296482030 for spending 2 hours with me today over lunch to discuss how to potentially boost the value of the TDG via barter trading it for security compliance services as well as figuring out to how barter trade cacao for security compliances",
+            "project": "20250617_beerhall",
+            "tdg": 200.0,
+            "date": "20250406",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@85296482030 thank you for spending 10 minutes to help make the introduction to SF Luv which might be a potential Web3 partner to help further spread our message to restore the Amazon rainforest in the Bay Area community 😊🙏 ‎<This message was edited>",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250326",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@85296482030 spent 15 minutes setting up the discussion group",
+            "project": "20250617_beerhall",
+            "tdg": 25.0,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @14158606255 and @85296482030 spent 5 minutes coordinating tomorrow’s meetup at the Chocolate festival in San Francisco.",
+            "project": "20250617_beerhall",
+            "tdg": 4.17,
+            "date": "20250405",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 150\r\n- Description: Had a morning coffee session with @⁨Stanley Li⁩ and @⁨Ken Nim - Bay Area ⁩ Key take aways- hippie market segment- ⁠chocolatier and chocolate maker segment- ⁠fine dining- ⁠grocers - ⁠Mormon market - ⁠SFSU is organizing a TED talk in November next month - ⁠with the GENIUS and CLARITY acts companies are starting to look at including crypto in their treasury Thank you @⁨Ken Nim - Bay Area ⁩for organizing this get together 😊🙏\r\n- Contributor(s): Gary Teh, Ken Nim, Stanley Li\r\n- TDG Issued: 250.00\r\n- Attached Filename: 09c2f990-59fc-4c54-8808-9bcd91cf5af4.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251013174720_gary_teh_09c2f990_59fc_4c54_8808_9bcd91cf5af4.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: EiumtxIRwzVRc+KZ4fKD//U88+njwn+lJlAxxaZ6rsC5nd77jKb6bJJDdVgYmzWXpDEJ6k3JfgAwqOrDNNQu3iW4uJFUVEoxx/ykYZmVb24zrYftNJ9oHvKhjAxoyEPJ4wB1OzTcZ9H7jmLBWirAFoka1Z6rRmzDJxtW8JvkteZJICbefInIIZlpkXEAaMGVBYMJRfo7jhlB2lZ/uAEi5FAQ6rqLWsTE9njCzqIjqTS7g337g8ur21k3gexrWSjmytSuvak3Sj3BUJdCR2a3/gBk5M/QfKzpGrDFWVUVNxhevghekKIxLZ82Msk16r6gEjdedWWfzRmxEgJ0P4rhXw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 250.0,
+            "date": "20251013",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 8
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Me, @557191035605 and Stanley Li and Mayra from San Francisco State University spent 45 minutes discussing about how we will be presenting Agroverse during next Friday’s student hour to encourage student volunteers to step forward to help out with the following scope\n\n- marketing and awareness\n- ⁠technology solutioning\n\n_PS: Interesting to observe both the synchronicity and alignment. Both @557191035605 and Mayra are indigenous. Mayra is of indigenous ancestry from Peru! 🤩🙏_",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20241021",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75",
+          "Discord ID": "+852 9648 2030",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Stanley Li spent 5 minutes exploring how to collaborate with SFLUV token",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250306",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "+852 9648 2030",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @85296482030 spent 5 minutes coordinating about an introduction he is trying to help setup with a local distributor for our cacao",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250404",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thanks @85296482030 for spending 2 hours with me today over lunch to discuss how to potentially boost the value of the TDG via barter trading it for security compliance services as well as figuring out to how barter trade cacao for security compliances",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200",
+          "Status date": "20250406",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "@85296482030 thank you for spending 10 minutes to help make the introduction to SF Luv which might be a potential Web3 partner to help further spread our message to restore the Amazon rainforest in the Bay Area community 😊🙏 ‎<This message was edited>",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250326",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "@85296482030 spent 15 minutes setting up the discussion group",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and @14158606255 and @85296482030 spent 5 minutes coordinating tomorrow’s meetup at the Chocolate festival in San Francisco.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "4.17",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250405",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Stanley Li",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 150\r\n- Description: Had a morning coffee session with @⁨Stanley Li⁩ and @⁨Ken Nim - Bay Area ⁩ Key take aways- hippie market segment- ⁠chocolatier and chocolate maker segment- ⁠fine dining- ⁠grocers - ⁠Mormon market - ⁠SFSU is organizing a TED talk in November next month - ⁠with the GENIUS and CLARITY acts companies are starting to look at including crypto in their treasury Thank you @⁨Ken Nim - Bay Area ⁩for organizing this get together 😊🙏\r\n- Contributor(s): Gary Teh, Ken Nim, Stanley Li\r\n- TDG Issued: 250.00\r\n- Attached Filename: 09c2f990-59fc-4c54-8808-9bcd91cf5af4.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251013174720_gary_teh_09c2f990_59fc_4c54_8808_9bcd91cf5af4.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: EiumtxIRwzVRc+KZ4fKD//U88+njwn+lJlAxxaZ6rsC5nd77jKb6bJJDdVgYmzWXpDEJ6k3JfgAwqOrDNNQu3iW4uJFUVEoxx/ykYZmVb24zrYftNJ9oHvKhjAxoyEPJ4wB1OzTcZ9H7jmLBWirAFoka1Z6rRmzDJxtW8JvkteZJICbefInIIZlpkXEAaMGVBYMJRfo7jhlB2lZ/uAEi5FAQ6rqLWsTE9njCzqIjqTS7g337g8ur21k3gexrWSjmytSuvak3Sj3BUJdCR2a3/gBk5M/QfKzpGrDFWVUVNxhevghekKIxLZ82Msk16r6gEjdedWWfzRmxEgJ0P4rhXw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20251013",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

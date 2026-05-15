@@ -1,0 +1,125 @@
+{
+  "slug": "fark-kader",
+  "display_name": "Fark Kader",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 300.0,
+    "date_range": {
+      "earliest": "20220404",
+      "latest": "20220404"
+    },
+    "source": {
+      "contributor_name": "Fark Kader",
+      "generated_date": "2026-05-14T22:06:13.149635",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 300.0,
+        "total_tdg_issued": 300.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220404",
+          "latest": "20220404"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 300.0,
+        "total_tdg_issued": 300.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Bring Builders - brought on a passive observer": 3
+        },
+        "date_range": {
+          "earliest": "20220404",
+          "latest": "20220404"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduction: recruited subject for focus group - https://forms.gle/wvehedKfGWL1n8zL6\n\ninfo@ramiasalya.com",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220404",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction: recruited subject for focus group - https://forms.gle/wvehedKfGWL1n8zL6\n\nadilah39@gmail.com",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220404",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction: recruited subject for focus group - https://forms.gle/wvehedKfGWL1n8zL6\n\ndkyouraj@gmail.com",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220404",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Fark Kader",
+          "Project Name": "",
+          "Contribution Made": "Introduction: recruited subject for focus group - https://forms.gle/wvehedKfGWL1n8zL6\n\ninfo@ramiasalya.com\n\n",
+          "Rubric classification": "100 : Bring Builders - brought on a passive observer",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220404",
+          "Solana Transfer Hash": "FgPnjRsRwY7i93pKTYfD3mc86HRTHtY4MCFnMiw9acttAZAKExxXcZn522Xdc4t6u54xfw8gUDkEUUReihsWcjt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Fark Kader",
+          "Project Name": "",
+          "Contribution Made": "Introduction: recruited subject for focus group - https://forms.gle/wvehedKfGWL1n8zL6\n\nadilah39@gmail.com",
+          "Rubric classification": "100 : Bring Builders - brought on a passive observer",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220404",
+          "Solana Transfer Hash": "FgPnjRsRwY7i93pKTYfD3mc86HRTHtY4MCFnMiw9acttAZAKExxXcZn522Xdc4t6u54xfw8gUDkEUUReihsWcjt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Fark Kader",
+          "Project Name": "",
+          "Contribution Made": "Introduction: recruited subject for focus group - https://forms.gle/wvehedKfGWL1n8zL6\n\ndkyouraj@gmail.com",
+          "Rubric classification": "100 : Bring Builders - brought on a passive observer",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220404",
+          "Solana Transfer Hash": "FgPnjRsRwY7i93pKTYfD3mc86HRTHtY4MCFnMiw9acttAZAKExxXcZn522Xdc4t6u54xfw8gUDkEUUReihsWcjt",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

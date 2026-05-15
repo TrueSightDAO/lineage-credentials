@@ -1,0 +1,81 @@
+{
+  "slug": "ahmed",
+  "display_name": "Ahmed",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 500.0,
+    "date_range": {
+      "earliest": "20250307",
+      "latest": "20250307"
+    },
+    "source": {
+      "contributor_name": "Ahmed",
+      "generated_date": "2026-05-14T22:06:12.831987",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 500.0,
+        "total_tdg_issued": 500.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20250307",
+          "latest": "20250307"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 500.0,
+        "total_tdg_issued": 500.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250307",
+          "latest": "20250307"
+        },
+        "contribution_types": [
+          {
+            "description": "Me, June Jo, Tripp and Ahmed spent 5 hours today doing trend spotting as well as exploring the future trends of of the holistic and regenerative movement. Going back to community, defining what Regeneration is is becoming a very clear direction",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20250307",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ahmed",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, June Jo, Tripp and Ahmed spent 5 hours today doing trend spotting as well as exploring the future trends of of the holistic and regenerative movement. Going back to community, defining what Regeneration is is becoming a very clear direction",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20250307",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

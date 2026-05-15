@@ -1,0 +1,81 @@
+{
+  "slug": "lester-barebottle-brewery",
+  "display_name": "Lester BareBottle Brewery",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 572.0,
+    "date_range": {
+      "earliest": "20250414",
+      "latest": "20250414"
+    },
+    "source": {
+      "contributor_name": "Lester BareBottle Brewery",
+      "generated_date": "2026-05-14T22:06:13.617722",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 572.0,
+        "total_tdg_issued": 572.0,
+        "projects": [
+          "20250617_agroverse"
+        ],
+        "date_range": {
+          "earliest": "20250414",
+          "latest": "20250414"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 572.0,
+        "total_tdg_issued": 572.0,
+        "projects": [
+          "20250617_agroverse"
+        ],
+        "rubric_categories": {
+          "1TDG For every 1 USD of liquidity injected": 1
+        },
+        "date_range": {
+          "earliest": "20250414",
+          "latest": "20250414"
+        },
+        "contribution_types": [
+          {
+            "description": "Received $572 in cash from Lester for the Cacao nibs we gave him last week.",
+            "project": "20250617_agroverse",
+            "tdg": 572.0,
+            "date": "20250414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Lester BareBottle Brewery",
+          "Project Name": "20250617_agroverse",
+          "Contribution Made": "Received $572 in cash from Lester for the Cacao nibs we gave him last week.",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "572",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "572",
+          "Status date": "20250414",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

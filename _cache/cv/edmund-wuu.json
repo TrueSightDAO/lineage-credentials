@@ -1,0 +1,147 @@
+{
+  "slug": "edmund-wuu",
+  "display_name": "Edmund Wuu",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 400.0,
+    "date_range": {
+      "earliest": "20220315",
+      "latest": "20220315"
+    },
+    "source": {
+      "contributor_name": "Edmund Wuu",
+      "generated_date": "2026-05-14T22:06:13.085476",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 400.0,
+        "total_tdg_issued": 400.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220315",
+          "latest": "20220315"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 400.0,
+        "total_tdg_issued": 400.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220315",
+          "latest": "20220315"
+        },
+        "contribution_types": [
+          {
+            "description": "1. Trading prediction is one, but NOT the only variable, for trading success and generating returns",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "2. It is possible to have low trading prediction accuracy (e.g. less than 50%) but still make money and generate alpha. VC funds might lose on more than 50% of investments but make outsized returns from a few big successes",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "3. There is a quote from Stanley Druckenmiller when he was asked what he learned from Soros: “It’s not whether you’re right or wrong that’s important, but how much money you make when you’re right and how much you lose when you are wrong. The few times that Soros ever criticized me was when I was really right on a market and didn’t maximise the opportunity … It takes courage to be a pig.”",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "4. So it might be worth thinking about whether you want to track only one key variable (trading accuracy), or other variables (e.g. conviction, amount staked etc …)",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Edmund Wuu",
+          "Project Name": "",
+          "Contribution Made": "1. Trading prediction is one, but NOT the only variable, for trading success and generating returns",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "kbhrEXPFsxsZszz8dYLPZgQZZJ4UL1mzWE9fbqJ1zvRAS1d86fYxv7Y1pMSFA8UVFayEUChkdFpun3sq7WXWBt4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edmund Wuu",
+          "Project Name": "",
+          "Contribution Made": "2. It is possible to have low trading prediction accuracy (e.g. less than 50%) but still make money and generate alpha. VC funds might lose on more than 50% of investments but make outsized returns from a few big successes",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "kbhrEXPFsxsZszz8dYLPZgQZZJ4UL1mzWE9fbqJ1zvRAS1d86fYxv7Y1pMSFA8UVFayEUChkdFpun3sq7WXWBt4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edmund Wuu",
+          "Project Name": "",
+          "Contribution Made": "3. There is a quote from Stanley Druckenmiller when he was asked what he learned from Soros: “It’s not whether you’re right or wrong that’s important, but how much money you make when you’re right and how much you lose when you are wrong. The few times that Soros ever criticized me was when I was really right on a market and didn’t maximise the opportunity … It takes courage to be a pig.”",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "kbhrEXPFsxsZszz8dYLPZgQZZJ4UL1mzWE9fbqJ1zvRAS1d86fYxv7Y1pMSFA8UVFayEUChkdFpun3sq7WXWBt4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edmund Wuu",
+          "Project Name": "",
+          "Contribution Made": "4. So it might be worth thinking about whether you want to track only one key variable (trading accuracy), or other variables (e.g. conviction, amount staked etc …)",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "kbhrEXPFsxsZszz8dYLPZgQZZJ4UL1mzWE9fbqJ1zvRAS1d86fYxv7Y1pMSFA8UVFayEUChkdFpun3sq7WXWBt4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

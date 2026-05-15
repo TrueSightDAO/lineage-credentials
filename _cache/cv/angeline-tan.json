@@ -1,0 +1,353 @@
+{
+  "slug": "angeline-tan",
+  "display_name": "Angeline Tan",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 12,
+    "total_tdg_provisioned": 775.0,
+    "date_range": {
+      "earliest": "20210731",
+      "latest": "20250503"
+    },
+    "source": {
+      "contributor_name": "Angeline Tan",
+      "generated_date": "2026-05-14T22:06:12.885395",
+      "summary": {
+        "total_contributions": 12,
+        "total_tdg_provisioned": 775.0,
+        "total_tdg_issued": 3608.0,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20210731",
+          "latest": "20250503"
+        }
+      },
+      "analysis": {
+        "total_contributions": 12,
+        "total_tdg_provisioned": 775.0,
+        "total_tdg_issued": 3608.0,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Build Game - Marketing - Write and post short  (less than 10 minutes or 1000 words long) social media post (Facebook or IG, Twitter or Reddit) by an account with at least 10,000 followers": 1,
+          "1250 : Events Planning - Provided a booth to showcase our product and service at event": 1,
+          "100TDG For every 1 hour of human effort": 2,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20210731",
+          "latest": "20250503"
+        },
+        "contribution_types": [
+          {
+            "description": "Copyrighting for successfully creating a usable sales deck",
+            "project": "",
+            "tdg": 0,
+            "date": "20210801",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Successfully building a scalable subscriber acquisition model usiing Influencer via Twitter",
+            "project": "",
+            "tdg": 0,
+            "date": "20210731",
+            "status": "Failed / Partial shares issued"
+          },
+          {
+            "description": "Successfully building a scalable subscriber acquisition model usiing content marketing",
+            "project": "",
+            "tdg": 0,
+            "date": "20210815",
+            "status": "Failed / Partial shares issued"
+          },
+          {
+            "description": "Successfully building a scalable subscriber acquisition model usiing content marketing",
+            "project": "",
+            "tdg": 0,
+            "date": "20210901",
+            "status": "Failed / Partial shares issued"
+          },
+          {
+            "description": "Landing page copywriting implementation",
+            "project": "",
+            "tdg": 0,
+            "date": "20210901",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Cold outreach message: https://drive.google.com/file/d/19-zGVhowFxnxwkMIJ1HJuVMRuCqasEob/view?usp=sharing",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Caught large dip reports bug where you can buy stocks that are not supported",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220126",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Promoted Agroverse on LinkedIN\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7123110038503661569/",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Organized Climate Change in Tech at Block71\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7118457942743425025/",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent 3 hours this evening attending a network session organized by Angeline and @6598622082 at E27 \n\nGot introduced to Enam the panel moderator who will has offered to\n\n- make introductions to cacao buyers in Pakistan and India \n\n- ⁠invite us on to his next panel where we share about Agroverse 2 tier DeFi financing model \n\n_PS: timing of my arrival into Silicon Valley couldn’t have been more perfect. It’s climate tech week this week. So all the green tech folks are in town_ ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 300.0,
+            "date": "20240423",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 10 minutes with Angeline and @6598622082 making arrangements to serve our cacao at Block71 during climate week in SF on the 22nd of April 🙂🙏",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250205",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Angeline Tan spent 5 minutes explaining that their next maritime related Block71 is going to happenin during October in LA. And we are welcomed to offer cacao circles there is we would like",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250503",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 9,
+          "Failed / Partial shares issued": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "",
+          "Contribution Made": "Copyrighting for successfully creating a usable sales deck",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2,500.00",
+          "Status date": "20210801",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2,500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "",
+          "Contribution Made": "Successfully building a scalable subscriber acquisition model usiing Influencer via Twitter",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Failed / Partial shares issued",
+          "TDGs Issued": "500",
+          "Status date": "20210731",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "",
+          "Contribution Made": "Successfully building a scalable subscriber acquisition model usiing content marketing",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Failed / Partial shares issued",
+          "TDGs Issued": "500",
+          "Status date": "20210815",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "",
+          "Contribution Made": "Successfully building a scalable subscriber acquisition model usiing content marketing",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Failed / Partial shares issued",
+          "TDGs Issued": "500",
+          "Status date": "20210901",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "",
+          "Contribution Made": "Landing page copywriting implementation",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,333.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1333",
+          "Status date": "20210901",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1333",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "",
+          "Contribution Made": "Cold outreach message: https://drive.google.com/file/d/19-zGVhowFxnxwkMIJ1HJuVMRuCqasEob/view?usp=sharing",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "",
+          "Contribution Made": "Caught large dip reports bug where you can buy stocks that are not supported",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220126",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Promoted Agroverse on LinkedIN\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7123110038503661569/",
+          "Rubric classification": "250 : Build Game - Marketing - Write and post short  (less than 10 minutes or 1000 words long) social media post (Facebook or IG, Twitter or Reddit) by an account with at least 10,000 followers",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Organized Climate Change in Tech at Block71\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7118457942743425025/",
+          "Rubric classification": "1250 : Events Planning - Provided a booth to showcase our product and service at event",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1,250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Spent 3 hours this evening attending a network session organized by Angeline and @6598622082 at E27 \n\nGot introduced to Enam the panel moderator who will has offered to\n\n- make introductions to cacao buyers in Pakistan and India \n\n- ⁠invite us on to his next panel where we share about Agroverse 2 tier DeFi financing model \n\n_PS: timing of my arrival into Silicon Valley couldn’t have been more perfect. It’s climate tech week this week. So all the green tech folks are in town_ ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "300.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "300",
+          "Status date": "20240423",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "300",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent 10 minutes with Angeline and @6598622082 making arrangements to serve our cacao at Block71 during climate week in SF on the 22nd of April 🙂🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250205",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Angeline Tan",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Angeline Tan spent 5 minutes explaining that their next maritime related Block71 is going to happenin during October in LA. And we are welcomed to offer cacao circles there is we would like",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250503",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "ray-wu",
+  "display_name": "Ray Wu",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 416.67,
+    "date_range": {
+      "earliest": "20231121",
+      "latest": "20250113"
+    },
+    "source": {
+      "contributor_name": "Ray Wu",
+      "generated_date": "2026-05-14T22:06:13.786328",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 416.67,
+        "total_tdg_issued": 416.67,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20231121",
+          "latest": "20250113"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 416.67,
+        "total_tdg_issued": 416.67,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 5
+        },
+        "date_range": {
+          "earliest": "20231121",
+          "latest": "20250113"
+        },
+        "contribution_types": [
+          {
+            "description": "The first thing that Ray immediately identified when he understood how the model works is that there needs to be a high level of trust amongst members within our DAO\n\nAs soon as *_trust*_ is breached in one link, the whole network will fall apart ‎<This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20231121",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Vegan chocolate recipe experiment at Ray’s place right before I left for Zen training 🤩🙏\n\nhttps://www.instagram.com/reel/C0TDFLRODEk/?igshid=MzRlODBiNWFlZA==\n‎",
+            "project": "Agroverse",
+            "tdg": 150.0,
+            "date": "20231130",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Message from Ray Wu.\n\n_My friend Michael Michelini (based in Chiangmai) has been in eCommerce for years and runs Cross Border Summit. I met him in China years ago._\n\n_He's currently working on loadpipe.com - which is selling on the blockchain. I mentioned your DAO to him. Would you be open to connecting with him? https://www.linkedin.com/in/mikemichelini/?originalSubdomain=_\n\nTime take for introduction by him 1 hour\n\n_PS: seems once DAO network achieved some level of critical mass it just ends up self perpetuating_\n\n_at some point, my best form of the contribution is to not get in the way by practicing *Do Nothing* in the @120363044542957540@g.us 🤩🙏_ ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20240103",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Ray and Lan spent 30 minutes tasting and reviewing the cacao wine I brought in from Altamira. \n\nRay was proposing that we should reach out to bartenders to try using this in their recipes",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20250113",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Ray spent 10 minutes introducing June Jo a food ethnographer from Google to us.",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250113",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ray Wu",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "The first thing that Ray immediately identified when he understood how the model works is that there needs to be a high level of trust amongst members within our DAO\n\nAs soon as *_trust*_ is breached in one link, the whole network will fall apart ‎<This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20231121",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ray Wu",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Vegan chocolate recipe experiment at Ray’s place right before I left for Zen training 🤩🙏\n\nhttps://www.instagram.com/reel/C0TDFLRODEk/?igshid=MzRlODBiNWFlZA==\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20231130",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "150.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ray Wu",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Message from Ray Wu.\n\n_My friend Michael Michelini (based in Chiangmai) has been in eCommerce for years and runs Cross Border Summit. I met him in China years ago._\n\n_He's currently working on loadpipe.com - which is selling on the blockchain. I mentioned your DAO to him. Would you be open to connecting with him? https://www.linkedin.com/in/mikemichelini/?originalSubdomain=_\n\nTime take for introduction by him 1 hour\n\n_PS: seems once DAO network achieved some level of critical mass it just ends up self perpetuating_\n\n_at some point, my best form of the contribution is to not get in the way by practicing *Do Nothing* in the @120363044542957540@g.us 🤩🙏_ ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20240103",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ray Wu",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, Ray and Lan spent 30 minutes tasting and reviewing the cacao wine I brought in from Altamira. \n\nRay was proposing that we should reach out to bartenders to try using this in their recipes",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250113",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ray Wu",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Ray spent 10 minutes introducing June Jo a food ethnographer from Google to us.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250113",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,230 @@
+{
+  "slug": "nelson",
+  "display_name": "Nelson",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 2675.0,
+    "date_range": {
+      "earliest": "20220910",
+      "latest": "20221227"
+    },
+    "source": {
+      "contributor_name": "Nelson",
+      "generated_date": "2026-05-14T22:06:13.718666",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 2675.0,
+        "total_tdg_issued": 2675.0,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20220910",
+          "latest": "20221227"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 2675.0,
+        "total_tdg_issued": 2675.0,
+        "projects": [
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100 : Governance - Raised a concern about existing minor issue in our DAO": 1,
+          "500 : Build Game - User Experience - UI design for a single feature (component)": 4,
+          "500 : Build Game - User Experience - Validated the existence of a user behavior": 1,
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1
+        },
+        "date_range": {
+          "earliest": "20220910",
+          "latest": "20221227"
+        },
+        "contribution_types": [
+          {
+            "description": "Clearly and concisely express a concern about the ill-defined purpose of TrueSight DAO Network channel",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Icon for deactivated chrome extension",
+            "project": "Cypher Defense",
+            "tdg": 500.0,
+            "date": "20221106",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Icon for validated chrome extension",
+            "project": "Cypher Defense",
+            "tdg": 500.0,
+            "date": "20221106",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Logo for Cypher guardians",
+            "project": "Cypher Defense",
+            "tdg": 500.0,
+            "date": "20221106",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Designed logo",
+            "project": "Cypher Defense",
+            "tdg": 500.0,
+            "date": "20221211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfaced that having no reviews on chrome extension detracts from the credibility of the project",
+            "project": "Cypher Defense",
+            "tdg": 75.0,
+            "date": "20221227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Submitted new icon which could be used for indicating an impersonation attack",
+            "project": "Cypher Defense",
+            "tdg": 500.0,
+            "date": "20221227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Nelson",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Clearly and concisely express a concern about the ill-defined purpose of TrueSight DAO Network channel",
+          "Rubric classification": "100 : Governance - Raised a concern about existing minor issue in our DAO",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nelson",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Icon for deactivated chrome extension",
+          "Rubric classification": "500 : Build Game - User Experience - UI design for a single feature (component)",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20221106",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nelson",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Icon for validated chrome extension",
+          "Rubric classification": "500 : Build Game - User Experience - UI design for a single feature (component)",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20221106",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nelson",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Logo for Cypher guardians",
+          "Rubric classification": "500 : Build Game - User Experience - UI design for a single feature (component)",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20221106",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nelson",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Designed logo ",
+          "Rubric classification": "500 : Build Game - User Experience - Validated the existence of a user behavior",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20221211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nelson",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Surfaced that having no reviews on chrome extension detracts from the credibility of the project",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20221227",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nelson",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Submitted new icon which could be used for indicating an impersonation attack",
+          "Rubric classification": "500 : Build Game - User Experience - UI design for a single feature (component)",
+          "TDGs Provisioned": "500",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20221227",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

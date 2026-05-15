@@ -1,0 +1,81 @@
+{
+  "slug": "andy-choi",
+  "display_name": "Andy Choi",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 66.67,
+    "date_range": {
+      "earliest": "20251023",
+      "latest": "20251023"
+    },
+    "source": {
+      "contributor_name": "Andy Choi",
+      "generated_date": "2026-05-14T22:06:12.876822",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 66.67,
+        "total_tdg_issued": 66.67,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20251023",
+          "latest": "20251023"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 66.67,
+        "total_tdg_issued": 66.67,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20251023",
+          "latest": "20251023"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 40\r\n- Description: Talk about how to vote on the nonprofit feature of TrueSight DAO as well as tax rebate receipt for the purchase of Cacao\r\n- Contributor(s): Andy Choi, Gary Teh\r\n- TDG Issued: 66.67\r\n- Attached Filename: IMG_3443.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251023200703_gary_teh_img_3443.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ocRkmIdWxTdbTkaeYmUde8JNH1KCWY/N9avFZH9GZJc5kt4FtxWdd41l9hHXkRVpYvQnQA0fWq/aNEV2+z5iotF+GXA3xCJLDUg13maRdsHREjXwJUZZhUrnQecxTk0es13LIFulRujLBxSIAHDSr+pmajuiprtWOLiYutEvRqh4naSDHGmC2aL1ilL3ncSyrcD/Mcb0igP2qB1QxOihxiycTgORpKJxALAoPDgJo2fL7KOitvE4UVMv9Y+SFUC6JVsf192tqkndOxp7PToT2AwFdNZNkBM+TsQtzr0dJ3Mi5v5DHUisTSS7MQvL/FK2USWle0vXc34TImGMsib64Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 66.67,
+            "date": "20251023",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Andy Choi",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 40\r\n- Description: Talk about how to vote on the nonprofit feature of TrueSight DAO as well as tax rebate receipt for the purchase of Cacao\r\n- Contributor(s): Andy Choi, Gary Teh\r\n- TDG Issued: 66.67\r\n- Attached Filename: IMG_3443.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251023200703_gary_teh_img_3443.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ocRkmIdWxTdbTkaeYmUde8JNH1KCWY/N9avFZH9GZJc5kt4FtxWdd41l9hHXkRVpYvQnQA0fWq/aNEV2+z5iotF+GXA3xCJLDUg13maRdsHREjXwJUZZhUrnQecxTk0es13LIFulRujLBxSIAHDSr+pmajuiprtWOLiYutEvRqh4naSDHGmC2aL1ilL3ncSyrcD/Mcb0igP2qB1QxOihxiycTgORpKJxALAoPDgJo2fL7KOitvE4UVMv9Y+SFUC6JVsf192tqkndOxp7PToT2AwFdNZNkBM+TsQtzr0dJ3Mi5v5DHUisTSS7MQvL/FK2USWle0vXc34TImGMsib64Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "66.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "66.67",
+          "Status date": "20251023",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

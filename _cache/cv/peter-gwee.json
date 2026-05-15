@@ -1,0 +1,225 @@
+{
+  "slug": "peter-gwee",
+  "display_name": "Peter Gwee",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 2512.5,
+    "date_range": {
+      "earliest": "20220128",
+      "latest": "20250318"
+    },
+    "source": {
+      "contributor_name": "Peter Gwee",
+      "generated_date": "2026-05-14T22:06:13.755414",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 2512.5,
+        "total_tdg_issued": 3775.0,
+        "projects": [
+          "20250617_edgar"
+        ],
+        "date_range": {
+          "earliest": "20220128",
+          "latest": "20250318"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 2512.5,
+        "total_tdg_issued": 3775.0,
+        "projects": [
+          "20250617_edgar"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20220128",
+          "latest": "20250318"
+        },
+        "contribution_types": [
+          {
+            "description": "Strategic input: figure out the operating framework. Figure out the entire financial costing to know what cost can be supported by each part. Find the right leader for each section and find the right resource for each section leader to go acquire. Setup the right communication dynamic between each section leader. Once the entire system is up, it should become self sustaining",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220128",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Management input: avoid putting individuals with communication problem as section leader",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220128",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Strategic input: focus not on the sound bites but on what central banks around the world is doing. Overlay historical scenarios onto current situation to gain clarity.  Market cycle changes every six months",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220128",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Market segment: older demographic fund managers are not suitable for this concept as they don't have time. Focus on GenZ. Trading behavior timeframe is important. Ignore fund manager segment that is long term position holders for this",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220128",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Strategic input: age group and location are important for segment consideration. That will also help segment the market sizing",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220128",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Strategic input: abort if key resources/personnel cannot be found to fill up all critical slots in the strategic framework",
+            "project": "",
+            "tdg": 0,
+            "date": "20220128",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Peter Gwee the third generation Fengshui master from Singapore whom I have known for 16 years who originally introduced me to Bazi and WuXing just spent 15 minutes sharing some insights about the financial markets",
+            "project": "20250617_edgar",
+            "tdg": 12.5,
+            "date": "20250318",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Peter Gwee",
+          "Project Name": "",
+          "Contribution Made": "Strategic input: figure out the operating framework. Figure out the entire financial costing to know what cost can be supported by each part. Find the right leader for each section and find the right resource for each section leader to go acquire. Setup the right communication dynamic between each section leader. Once the entire system is up, it should become self sustaining ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220128",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Peter Gwee",
+          "Project Name": "",
+          "Contribution Made": "Management input: avoid putting individuals with communication problem as section leader ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220128",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Peter Gwee",
+          "Project Name": "",
+          "Contribution Made": "Strategic input: focus not on the sound bites but on what central banks around the world is doing. Overlay historical scenarios onto current situation to gain clarity.  Market cycle changes every six months",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220128",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Peter Gwee",
+          "Project Name": "",
+          "Contribution Made": "Market segment: older demographic fund managers are not suitable for this concept as they don't have time. Focus on GenZ. Trading behavior timeframe is important. Ignore fund manager segment that is long term position holders for this ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220128",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Peter Gwee",
+          "Project Name": "",
+          "Contribution Made": "Strategic input: age group and location are important for segment consideration. That will also help segment the market sizing ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220128",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Peter Gwee",
+          "Project Name": "",
+          "Contribution Made": "Strategic input: abort if key resources/personnel cannot be found to fill up all critical slots in the strategic framework ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1250",
+          "Status date": "20220128",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Peter Gwee",
+          "Project Name": "20250617_edgar",
+          "Contribution Made": "Peter Gwee the third generation Fengshui master from Singapore whom I have known for 16 years who originally introduced me to Bazi and WuXing just spent 15 minutes sharing some insights about the financial markets",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "12.5",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20250318",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

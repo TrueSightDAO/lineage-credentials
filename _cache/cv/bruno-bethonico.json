@@ -1,0 +1,155 @@
+{
+  "slug": "bruno-bethonico",
+  "display_name": "Bruno Bethonico",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 716.58,
+    "date_range": {
+      "earliest": "20240622",
+      "latest": "20250415"
+    },
+    "source": {
+      "contributor_name": "Bruno Bethonico",
+      "generated_date": "2026-05-14T22:06:12.972760",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 716.58,
+        "total_tdg_issued": 716.6600000000001,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240622",
+          "latest": "20250415"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 716.58,
+        "total_tdg_issued": 716.6600000000001,
+        "projects": [
+          "20250617_beerhall",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 4
+        },
+        "date_range": {
+          "earliest": "20240622",
+          "latest": "20250415"
+        },
+        "contribution_types": [
+          {
+            "description": "Spent 6 hours today with @557391090002 and Bruno where we discussed about Instagram content generation for @120363044028036610@g.us (_part of our retention strategy after we finish conducting our in person cacao circles_)\n\n- @557391090002 has the closest proximity to where the cacaos are farmed as well as the culture around it\n\n- Bruno is an international award winning chef he is the best person to make video recordings of himself coming up with recipes for our cacao nibs \n\nBoth are highly psyched to make Instagram video recordings on their areas of expertise and invite our Instagram account as collaborator 🤩🙏 <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 600.0,
+            "date": "20240622",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Bruno spent an hour creating this reel from last nights event for sharing \n\nhttps://www.instagram.com/reel/C9nH-leup_b/?igsh=M3hwMmpmanR0YWdt",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20240719",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@553182509772 spent 5 minutes and shared this brand as a referenced for caramelized cacao almonds in terms of packaging \n\nhttps://www.instagram.com/reel/C9S-ZdwNrQP/?igsh=MTRucng1aDE4NGJvNw==",
+            "project": "TrueSight DAO",
+            "tdg": 8.25,
+            "date": "20240802",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes responding to @553182509772 on his outreach to sell our product at the taste festival in São Paulo on a consignment basis",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Bruno Bethonico",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Spent 6 hours today with @557391090002 and Bruno where we discussed about Instagram content generation for @120363044028036610@g.us (_part of our retention strategy after we finish conducting our in person cacao circles_)\n\n- @557391090002 has the closest proximity to where the cacaos are farmed as well as the culture around it\n\n- Bruno is an international award winning chef he is the best person to make video recordings of himself coming up with recipes for our cacao nibs \n\nBoth are highly psyched to make Instagram video recordings on their areas of expertise and invite our Instagram account as collaborator 🤩🙏 <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "600.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "600",
+          "Status date": "20240622",
+          "Solana Transfer Hash": "https://solscan.io/tx/aDsy1p3YxojFpxeuZdjJZ2DNWW1TgaciLZFidJwnP7ovCDhsNXhuY4WKFczReDoErkREdJqFwgy1XSYDzbH5cgd",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+55 31 98250-9772",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bruno Bethonico",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Bruno spent an hour creating this reel from last nights event for sharing \n\nhttps://www.instagram.com/reel/C9nH-leup_b/?igsh=M3hwMmpmanR0YWdt",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20240719",
+          "Solana Transfer Hash": "https://solscan.io/tx/aDsy1p3YxojFpxeuZdjJZ2DNWW1TgaciLZFidJwnP7ovCDhsNXhuY4WKFczReDoErkREdJqFwgy1XSYDzbH5cgd",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+55 31 98250-9772",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bruno Bethonico",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@553182509772 spent 5 minutes and shared this brand as a referenced for caramelized cacao almonds in terms of packaging \n\nhttps://www.instagram.com/reel/C9S-ZdwNrQP/?igsh=MTRucng1aDE4NGJvNw==",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240802",
+          "Solana Transfer Hash": "https://solscan.io/tx/aDsy1p3YxojFpxeuZdjJZ2DNWW1TgaciLZFidJwnP7ovCDhsNXhuY4WKFczReDoErkREdJqFwgy1XSYDzbH5cgd",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+55 31 98250-9772",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Bruno Bethonico",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent 5 minutes responding to @553182509772 on his outreach to sell our product at the taste festival in São Paulo on a consignment basis",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250415",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,353 @@
+{
+  "slug": "danielle-sunberg",
+  "display_name": "Danielle Sunberg",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 12,
+    "total_tdg_provisioned": 618.0,
+    "date_range": {
+      "earliest": "20230822",
+      "latest": "20231023"
+    },
+    "source": {
+      "contributor_name": "Danielle Sunberg",
+      "generated_date": "2026-05-14T22:06:13.026009",
+      "summary": {
+        "total_contributions": 12,
+        "total_tdg_provisioned": 618.0,
+        "total_tdg_issued": 368.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230822",
+          "latest": "20231023"
+        }
+      },
+      "analysis": {
+        "total_contributions": 12,
+        "total_tdg_provisioned": 618.0,
+        "total_tdg_issued": 368.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "250 : Bring Builders - brought on a active contributor": 1,
+          "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing": 7,
+          "250 : Build Game - Strategy - Contribute reference material accompanied with specific instructions on how to apply it in the form of a strategy extension": 1,
+          "1 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending": 1,
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 1
+        },
+        "date_range": {
+          "earliest": "20230822",
+          "latest": "20231023"
+        },
+        "contribution_types": [
+          {
+            "description": "1 hour face time to discuss about go to market on the 22nd August 2023 ( Gary and Danielle)\n\nhttps://docs.google.com/document/d/1xAQfj8lv90gBXLxMEKyQ-SeEfeURLx6eUxa4kL_VHXM/edit",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Made introduction to Ted on fundraising for DAO structure in USA jurisdiction",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Suggested WholeFoods as distribution partner",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested WheatsVille as distribution partner",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested Sprouts as distribution partner",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested Yoga Studio as distribution partner",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested Sunlife organics as distribution partner",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested Spas as distribution partner",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested middle age wealthy parents are potential demographics",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested clear protocol on how to onboard on to distributors\n\nhttps://docs.google.com/document/d/1xAQfj8lv90gBXLxMEKyQ-SeEfeURLx6eUxa4kL_VHXM/edit",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested B-Corp as the way to open alot of doors",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Have a clear ask ready when doing fund raising. Have 2-3 options and then based on your discussion present the best fit\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20daniell%20sunberg%20for%20sales%20deck.jpg",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20231023",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 11,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "1 hour face time to discuss about go to market on the 22nd August 2023 ( Gary and Danielle)\n\nhttps://docs.google.com/document/d/1xAQfj8lv90gBXLxMEKyQ-SeEfeURLx6eUxa4kL_VHXM/edit",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Made introduction to Ted on fundraising for DAO structure in USA jurisdiction",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested WholeFoods as distribution partner",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested WheatsVille as distribution partner",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested Sprouts as distribution partner",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested Yoga Studio as distribution partner",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested Sunlife organics as distribution partner",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested Spas as distribution partner",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested middle age wealthy parents are potential demographics",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested clear protocol on how to onboard on to distributors\n\nhttps://docs.google.com/document/d/1xAQfj8lv90gBXLxMEKyQ-SeEfeURLx6eUxa4kL_VHXM/edit",
+          "Rubric classification": "250 : Build Game - Strategy - Contribute reference material accompanied with specific instructions on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested B-Corp as the way to open alot of doors",
+          "Rubric classification": "1 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Danielle Sunberg",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Have a clear ask ready when doing fund raising. Have 2-3 options and then based on your discussion present the best fit\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20daniell%20sunberg%20for%20sales%20deck.jpg",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20231023",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

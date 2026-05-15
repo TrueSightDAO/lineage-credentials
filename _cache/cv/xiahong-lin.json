@@ -1,0 +1,75 @@
+{
+  "slug": "xiahong-lin",
+  "display_name": "XiaHong Lin",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20210831",
+      "latest": "20210831"
+    },
+    "source": {
+      "contributor_name": "XiaHong Lin",
+      "generated_date": "2026-05-14T22:06:13.957479",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20210831",
+          "latest": "20210831"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20210831",
+          "latest": "20210831"
+        },
+        "contribution_types": [
+          {
+            "description": "Pointing to CoinGecko API to pull the latest crypto-currency prices for financial modeling",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20210831",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "XiaHong Lin",
+          "Project Name": "",
+          "Contribution Made": "Pointing to CoinGecko API to pull the latest crypto-currency prices for financial modeling ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20210831",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

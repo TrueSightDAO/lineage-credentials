@@ -1,0 +1,75 @@
+{
+  "slug": "yuan-luo",
+  "display_name": "Yuan Luo",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20220105",
+      "latest": "20220105"
+    },
+    "source": {
+      "contributor_name": "Yuan Luo",
+      "generated_date": "2026-05-14T22:06:13.968328",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 5000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220105",
+          "latest": "20220105"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 5000.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220105",
+          "latest": "20220105"
+        },
+        "contribution_types": [
+          {
+            "description": "The double blind algorithm utilized in the TrueSight Protocol to verify the accuracy of the prediction without revealing the actual contents",
+            "project": "",
+            "tdg": 0,
+            "date": "20220105",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Yuan Luo",
+          "Project Name": "",
+          "Contribution Made": "The double blind algorithm utilized in the TrueSight Protocol to verify the accuracy of the prediction without revealing the actual contents",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220105",
+          "Solana Transfer Hash": "4Mogoyf2Dzg4scwbZkDmuW5a7ZqDNCpwByb7sQZeEK1xEepuyXBxXYb9Exs6uxn6s7KRfvJPTtz3TxKv7RwYfmdB",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

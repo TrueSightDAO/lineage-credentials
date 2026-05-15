@@ -1,0 +1,106 @@
+{
+  "slug": "shine-light",
+  "display_name": "Shine Light",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 120.0,
+    "date_range": {
+      "earliest": "20250613",
+      "latest": "20250617"
+    },
+    "source": {
+      "contributor_name": "Shine Light",
+      "generated_date": "2026-05-14T22:06:13.828172",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 120.0,
+        "total_tdg_issued": 120.0,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "date_range": {
+          "earliest": "20250613",
+          "latest": "20250617"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 120.0,
+        "total_tdg_issued": 120.0,
+        "projects": [
+          "20250617_beerhall"
+        ],
+        "rubric_categories": {
+          "1TDG For every 1 USD of liquidity injected": 1,
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250613",
+          "latest": "20250617"
+        },
+        "contribution_types": [
+          {
+            "description": "Shine contributed a $20 bottle of wild flower honey",
+            "project": "20250617_beerhall",
+            "tdg": 20.0,
+            "date": "20250613",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Shine spent 1 hour talking about the Autumn Okanogan family barter faire happening later in the year",
+            "project": "20250617_beerhall",
+            "tdg": 100.0,
+            "date": "20250617",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Shine Light",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Shine contributed a $20 bottle of wild flower honey",
+          "Rubric classification": "1TDG For every 1 USD of liquidity injected",
+          "TDGs Provisioned": "20",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "20",
+          "Status date": "20250613",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Shine Light",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and Shine spent 1 hour talking about the Autumn Okanogan family barter faire happening later in the year",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20250617",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

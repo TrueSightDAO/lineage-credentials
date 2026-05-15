@@ -1,0 +1,303 @@
+{
+  "slug": "james-sung",
+  "display_name": "James Sung",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 10,
+    "total_tdg_provisioned": 608.3499999999998,
+    "date_range": {
+      "earliest": "20220430",
+      "latest": "20250321"
+    },
+    "source": {
+      "contributor_name": "James Sung",
+      "generated_date": "2026-05-14T22:06:13.468392",
+      "summary": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 608.3499999999998,
+        "total_tdg_issued": 608.3499999999998,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20220430",
+          "latest": "20250321"
+        }
+      },
+      "analysis": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 608.3499999999998,
+        "total_tdg_issued": 608.3499999999998,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Contribute reference material - link": 1,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 2,
+          "250 : Bring Builders - brought on a active contributor": 1,
+          "25 : Bring Builders - brought on a active contributor": 1,
+          "100TDG For every 1 hour of human effort": 5
+        },
+        "date_range": {
+          "earliest": "20220430",
+          "latest": "20250321"
+        },
+        "contribution_types": [
+          {
+            "description": "Competitive Analysis: https://www.bibox.com/en",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220430",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Facetime attendence of July Edition - Hangout\n\n1 hour\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%201.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%202.jpg",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230710",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "30 minutes facetime to discuss about DAOversal ESG investment",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20230710",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Meir S. Simhi\n    - Amazon marketing expert\n    - Valuation expert",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230717",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Agroverse linkedin campaign for support to deal with Amazon GTIN hijack concern\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7112451595786706944/\n\nIntroduced Zack Franklin",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20230928",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Edgar, James and Blake spent 10 minutes doing some testing",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Edgar, James and Blake spent 10 minutes doing some testing again",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and James spent 10 minutes corresponding about reaching out to the Center SF to host a healing circle there",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and James spent 10 minutes coordinating on the variants to be shipped from Dubai to USA for taste testing and RnD",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250208",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@971585558688 spent 10 minutes figuring out how we could get the Dubai variants directly in USA",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250209",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 10
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: https://www.bibox.com/en",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220430",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Facetime attendence of July Edition - Hangout\n\n1 hour\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%201.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%202.jpg",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230710",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "Agroverse",
+          "Contribution Made": "30 minutes facetime to discuss about DAOversal ESG investment",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230710",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Meir S. Simhi\n    - Amazon marketing expert\n    - Valuation expert",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230717",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Agroverse linkedin campaign for support to deal with Amazon GTIN hijack concern\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7112451595786706944/\n\nIntroduced Zack Franklin",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20230928",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, Edgar, James and Blake spent 10 minutes doing some testing",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250110",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, Edgar, James and Blake spent 10 minutes doing some testing again",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250110",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and James spent 10 minutes corresponding about reaching out to the Center SF to host a healing circle there",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250321",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and James spent 10 minutes coordinating on the variants to be shipped from Dubai to USA for taste testing and RnD",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250208",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "James Sung",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@971585558688 spent 10 minutes figuring out how we could get the Dubai variants directly in USA",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250209",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "@971585558688",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

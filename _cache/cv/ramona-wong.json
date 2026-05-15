@@ -1,0 +1,176 @@
+{
+  "slug": "ramona-wong",
+  "display_name": "Ramona Wong",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 155.0,
+    "date_range": {
+      "earliest": "20220613",
+      "latest": "20220613"
+    },
+    "source": {
+      "contributor_name": "Ramona Wong",
+      "generated_date": "2026-05-14T22:06:13.777324",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 155.0,
+        "total_tdg_issued": 155.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220613",
+          "latest": "20220613"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 155.0,
+        "total_tdg_issued": 155.0,
+        "projects": [],
+        "rubric_categories": {
+          "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources": 2,
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "20 : Governance - Raised a concern about how future potential concern in our DAO": 1,
+          "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending": 1
+        },
+        "date_range": {
+          "earliest": "20220613",
+          "latest": "20220613"
+        },
+        "contribution_types": [
+          {
+            "description": "Potential partner: https://www.punditnetwork.com/",
+            "project": "",
+            "tdg": 25.0,
+            "date": "20220613",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Potential Key Opinion Leader: https://www.youtube.com/c/ConscienceAbhigyaAnand",
+            "project": "",
+            "tdg": 25.0,
+            "date": "20220613",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "UI feedback: landing page looks scammy. Don't use the $ sign",
+            "project": "",
+            "tdg": 75.0,
+            "date": "20220613",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Once TrueSight DAO becomes resource rich people will want to power grab",
+            "project": "",
+            "tdg": 20.0,
+            "date": "20220613",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Marketing: take selfie with influential people to gain social proofing",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220613",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ramona Wong",
+          "Project Name": "",
+          "Contribution Made": "Potential partner: https://www.punditnetwork.com/",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20220613",
+          "Solana Transfer Hash": "4pGLS9AXpUyAr6k9Nf2t5LLUW4p68eG8qMiqYHBUW5792eRL3roi4pCUgdiJzVCoz116VyGKSGrwfFtJZnuXonDp",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ramona Wong",
+          "Project Name": "",
+          "Contribution Made": "Potential Key Opinion Leader: https://www.youtube.com/c/ConscienceAbhigyaAnand",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20220613",
+          "Solana Transfer Hash": "4pGLS9AXpUyAr6k9Nf2t5LLUW4p68eG8qMiqYHBUW5792eRL3roi4pCUgdiJzVCoz116VyGKSGrwfFtJZnuXonDp",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ramona Wong",
+          "Project Name": "",
+          "Contribution Made": "UI feedback: landing page looks scammy. Don't use the $ sign",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20220613",
+          "Solana Transfer Hash": "4pGLS9AXpUyAr6k9Nf2t5LLUW4p68eG8qMiqYHBUW5792eRL3roi4pCUgdiJzVCoz116VyGKSGrwfFtJZnuXonDp",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ramona Wong",
+          "Project Name": "",
+          "Contribution Made": "Governance: Once TrueSight DAO becomes resource rich people will want to power grab",
+          "Rubric classification": "20 : Governance - Raised a concern about how future potential concern in our DAO",
+          "TDGs Provisioned": "20.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "20",
+          "Status date": "20220613",
+          "Solana Transfer Hash": "4pGLS9AXpUyAr6k9Nf2t5LLUW4p68eG8qMiqYHBUW5792eRL3roi4pCUgdiJzVCoz116VyGKSGrwfFtJZnuXonDp",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ramona Wong",
+          "Project Name": "",
+          "Contribution Made": "Marketing: take selfie with influential people to gain social proofing",
+          "Rubric classification": "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220613",
+          "Solana Transfer Hash": "4pGLS9AXpUyAr6k9Nf2t5LLUW4p68eG8qMiqYHBUW5792eRL3roi4pCUgdiJzVCoz116VyGKSGrwfFtJZnuXonDp",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

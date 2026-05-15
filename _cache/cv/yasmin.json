@@ -1,0 +1,228 @@
+{
+  "slug": "yasmin",
+  "display_name": "Yasmin",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 265.28999999999996,
+    "date_range": {
+      "earliest": "20250425",
+      "latest": "20250511"
+    },
+    "source": {
+      "contributor_name": "Yasmin",
+      "generated_date": "2026-05-14T22:06:13.959849",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 265.28999999999996,
+        "total_tdg_issued": 308.34000000000003,
+        "projects": [
+          "20250617_beerhall",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250425",
+          "latest": "20250511"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 265.28999999999996,
+        "total_tdg_issued": 308.34000000000003,
+        "projects": [
+          "20250617_beerhall",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 6,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250425",
+          "latest": "20250511"
+        },
+        "contribution_types": [
+          {
+            "description": "Yasmin spent 40 minutes updating inventory status for sales on her side",
+            "project": "telegram_chatlog",
+            "tdg": 66.67,
+            "date": "20250511",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Yasmin spent 40 minutes updating inventory status for sales on her side",
+            "project": "telegram_chatlog",
+            "tdg": 66.67,
+            "date": "20250511",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Yasmin spent 40 minutes updating inventory status for sales on her side",
+            "project": "telegram_chatlog",
+            "tdg": 66.67,
+            "date": "20250511",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes onboarding @41782189866 to our DAO channels",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250511",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Jasmine and Fatima spent 45 minutes discussing about the supply chain into Zurich.",
+            "project": "20250617_beerhall",
+            "tdg": 37.5,
+            "date": "20250425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Yasmine spent 10 minutes coordinating our upcoming discussions",
+            "project": "20250617_beerhall",
+            "tdg": 16.67,
+            "date": "20250425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes onboarding Yasmin into our DAO as well as linking up Fatima with her",
+            "project": "telegram_chatlog",
+            "tdg": 2.78,
+            "date": "20250425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Yasmin",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Yasmin spent 40 minutes updating inventory status for sales on her side",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "66.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "66.67",
+          "Status date": "20250511",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Yasmin",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Yasmin spent 40 minutes updating inventory status for sales on her side",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "66.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "66.67",
+          "Status date": "20250511",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Yasmin",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "Yasmin spent 40 minutes updating inventory status for sales on her side",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "66.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "66.67",
+          "Status date": "20250511",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Yasmin",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "I spent 5 minutes onboarding @41782189866 to our DAO channels",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250511",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Yasmin",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me, Jasmine and Fatima spent 45 minutes discussing about the supply chain into Zurich.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "37.5",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20250425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Yasmin",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Me and Yasmine spent 10 minutes coordinating our upcoming discussions",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Yasmin",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "I spent 5 minutes onboarding Yasmin into our DAO as well as linking up Fatima with her",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "2.78",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "gilbert-zhuo",
+  "display_name": "Gilbert Zhuo",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20220315",
+      "latest": "20220315"
+    },
+    "source": {
+      "contributor_name": "Gilbert Zhuo",
+      "generated_date": "2026-05-14T22:06:13.412145",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220315",
+          "latest": "20220315"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220315",
+          "latest": "20220315"
+        },
+        "contribution_types": [
+          {
+            "description": "NFT liquidity: controlling rarity\nhttps://github.com/NotLuksus/nft-art-generator",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Gilbert Zhuo",
+          "Project Name": "",
+          "Contribution Made": "NFT liquidity: controlling rarity\nhttps://github.com/NotLuksus/nft-art-generator",
+          "Rubric classification": "",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

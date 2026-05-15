@@ -1,0 +1,77 @@
+{
+  "slug": "bradley-hsu",
+  "display_name": "Bradley Hsu",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 10.0,
+    "date_range": {
+      "earliest": "20220613",
+      "latest": "20220613"
+    },
+    "source": {
+      "contributor_name": "Bradley Hsu",
+      "generated_date": "2026-05-14T22:06:12.962711",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 10.0,
+        "total_tdg_issued": 10.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220613",
+          "latest": "20220613"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 10.0,
+        "total_tdg_issued": 10.0,
+        "projects": [],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending": 1
+        },
+        "date_range": {
+          "earliest": "20220613",
+          "latest": "20220613"
+        },
+        "contribution_types": [
+          {
+            "description": "Gamification: Turn combination of top performers into an index\n\nReiteration of the Numer.ai model",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220613",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Bradley Hsu ",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Turn combination of top performers into an index\n\nReiteration of the Numer.ai model",
+          "Rubric classification": "10 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220613",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

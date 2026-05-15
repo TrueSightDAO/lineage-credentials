@@ -1,0 +1,81 @@
+{
+  "slug": "vina-e-microbio-de-bike",
+  "display_name": "Vina e Microbio De Bike",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 1.67,
+    "date_range": {
+      "earliest": "20241006",
+      "latest": "20241006"
+    },
+    "source": {
+      "contributor_name": "Vina e Microbio De Bike",
+      "generated_date": "2026-05-14T22:06:13.932400",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.67,
+        "total_tdg_issued": 16.67,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20241006",
+          "latest": "20241006"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 1.67,
+        "total_tdg_issued": 16.67,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20241006",
+          "latest": "20241006"
+        },
+        "contribution_types": [
+          {
+            "description": "Vina spent 10 minutes giving feedback on the winning variant. I specifically asked for her to focus on what doesn’t work with this product\n\n_PS: meanwhile I been working through this bottle to determine how high a dosage I can consumed before I get sated to the point of being sick and tired of the taste._\n\n_6 almonds seems to be where the tipping from bliss to sated happens 🤔_\n\n_Gut feeling tells me 50/50 the USA market might not be receptive to this._\n\n_What I hate about this_\n\n- _it dries the mouth_. \n\n- ⁠_the almonds don’t just totally crumble after the initial crunch. Ideal experience would be for it to totally fall apart after a very potent initial crunch_\n\n- ⁠_some portions of it remain chewy after falling apart and at some point feels like chewing chalk_",
+            "project": "TrueSight DAO",
+            "tdg": 1.67,
+            "date": "20241006",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Vina e Microbio De Bike",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Vina spent 10 minutes giving feedback on the winning variant. I specifically asked for her to focus on what doesn’t work with this product\n\n_PS: meanwhile I been working through this bottle to determine how high a dosage I can consumed before I get sated to the point of being sick and tired of the taste._\n\n_6 almonds seems to be where the tipping from bliss to sated happens 🤔_\n\n_Gut feeling tells me 50/50 the USA market might not be receptive to this._\n\n_What I hate about this_\n\n- _it dries the mouth_. \n\n- ⁠_the almonds don’t just totally crumble after the initial crunch. Ideal experience would be for it to totally fall apart after a very potent initial crunch_\n\n- ⁠_some portions of it remain chewy after falling apart and at some point feels like chewing chalk_",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20241006",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "+55 73 9997-6092",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

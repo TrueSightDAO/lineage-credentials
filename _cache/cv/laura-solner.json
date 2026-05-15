@@ -1,0 +1,129 @@
+{
+  "slug": "laura-solner",
+  "display_name": "Laura Solner",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 30.0,
+    "date_range": {
+      "earliest": "20230929",
+      "latest": "20230929"
+    },
+    "source": {
+      "contributor_name": "Laura Solner",
+      "generated_date": "2026-05-14T22:06:13.611182",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 30.0,
+        "total_tdg_issued": 30.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230929",
+          "latest": "20230929"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 30.0,
+        "total_tdg_issued": 30.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 3
+        },
+        "date_range": {
+          "earliest": "20230929",
+          "latest": "20230929"
+        },
+        "contribution_types": [
+          {
+            "description": "Internet Bank in Brazil\n\nhttps://koetzadvocacia.com.br/conta-bancaria-estrangeiros/#:~:text=Qualquer%20cidad%C3%A3o%20estrangeiro%20pode%20solicitar,maneira%20costumeira%20pelas%20institui%C3%A7%C3%B5es%20financeiras",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230929",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Internet Bank in BRazil for foreigner: nubank",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230929",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Internet Bank in BRazil for foreigner: banco inter",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230929",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Laura Solner",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Internet Bank in Brazil\n\nhttps://koetzadvocacia.com.br/conta-bancaria-estrangeiros/#:~:text=Qualquer%20cidad%C3%A3o%20estrangeiro%20pode%20solicitar,maneira%20costumeira%20pelas%20institui%C3%A7%C3%B5es%20financeiras",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230929",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Laura Solner",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Internet Bank in BRazil for foreigner: nubank",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230929",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Laura Solner",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Internet Bank in BRazil for foreigner: banco inter",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230929",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

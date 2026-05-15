@@ -1,0 +1,455 @@
+{
+  "slug": "jonathan",
+  "display_name": "Jonathan",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 16,
+    "total_tdg_provisioned": 2565.96,
+    "date_range": {
+      "earliest": "20221209",
+      "latest": "20250703"
+    },
+    "source": {
+      "contributor_name": "Jonathan",
+      "generated_date": "2026-05-14T22:06:13.522467",
+      "summary": {
+        "total_contributions": 16,
+        "total_tdg_provisioned": 2565.96,
+        "total_tdg_issued": 2015.9899999999998,
+        "projects": [
+          "20250917_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20221209",
+          "latest": "20250703"
+        }
+      },
+      "analysis": {
+        "total_contributions": 16,
+        "total_tdg_provisioned": 2565.96,
+        "total_tdg_issued": 2015.9899999999998,
+        "projects": [
+          "20250917_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic": 1,
+          "1000 : Bring Builders - brought on a resource owner": 1,
+          "750 : Events Planning - Created blast to advertise media on social media (per channel)": 1,
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 1,
+          "1 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending": 1,
+          "250 : Bring Builders - brought on a active contributor": 3,
+          "50 : Bring Builders - introduced a potential investor": 2,
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 1,
+          "10 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "100TDG For every 1 hour of human effort": 4
+        },
+        "date_range": {
+          "earliest": "20221209",
+          "latest": "20250703"
+        },
+        "contribution_types": [
+          {
+            "description": "Proposed strategies useful for further development of our community's tokenization\n\nhttps://diamondapp.com/u/nader/blog/coinstrapping-building-a-sustainable-crypto-flywheel?tab=posts",
+            "project": "TrueSight DAO",
+            "tdg": 625.0,
+            "date": "20221209",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Greg shea for Africa",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Made a LinkedIn blast to advertise the Buenos Aires event\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7038879491867238400/\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230307%20-%20Ken%20Nim%20flyer%20for%20offchain%20buenos%20aires%20meetup.jpeg",
+            "project": "TrueSight DAO",
+            "tdg": 750.0,
+            "date": "20230307",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Paua.life indigenous communities",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230515",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reintroduced Mathew Bowen on Legal needs for TrueSight DAO\n\nhttps://www.linkedin.com/in/matthewkbowen/",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20230524",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Johnny Browaeys who is familiar about Uganda Cacao \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230617%20-%20Johnny%20about%20uganda.jpg",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20230617",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[9:35 PM, 6/12/2023] Jonathan: I have one good contact in Uganda. She is not about web3 but probably will be into this\n[9:35 PM, 6/12/2023] Jonathan: https://www.linkedin.com/in/antonia-lorenz",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "[9:37 PM, 6/12/2023] Jonathan: And this person who I knew from the Precursor of OffChain in the 90’s\n[9:37 PM, 6/12/2023] Jonathan: https://www.linkedin.com/in/brett-rierson-922b",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Introduced Javi Arroyo from ICP grants (now on Telegram)\n\nhttps://support.dfinity.org/hc/en-us/sections/8730977702804-Developer-Grants\nhttps://support.dfinity.org/hc/en-us/articles/13955238826516-DFINITY-Community-Grants-Program-Terms-and-Conditions",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Introduced Bernie VeDAO independent web3 investor (now on Telegram)\n\n    - investment size: USD50K to USD400K",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20230828",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Have a table\n    - Sign trying to sell with a big sign\n    - Have a quick talk before speaker starts\n    - Have people feel when they buy cacao they are also helping with a cause\n    - Have a poster hear the story of how TrueSight DAO is revolutionalizing cacao farmers in Latin America",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Eggnog recipe suggestion to make chocolate alcoholic\n\n[11:41 PM, 10/28/2023] Jonathan: I think you could follow the eggnog way - \"If you would like to add alcohol to your eggnog, choose a drink with a high alcohol concentration to help counterbalance the sweetness of the eggnog.  Common choices of alcohol to add to eggnog include brandy, rum, bourbon or whisky.\"\n[11:41 PM, 10/28/2023] Jonathan: While brandy is the most traditional alcohol to pair with eggnog, according to traditional recipes, you can also use a mixture of dark rum and Cognac. If you like your eggnog with more of a kick you can also add bourbon, but we recommend sticking to rum and Cognac to preserve the 'nog's flavors\n[11:42 PM, 10/28/2023] Jonathan: Brandy: Makes the Most Traditional Eggnog\nFor the most traditional holiday experience, reach for brandy (specifically, Cognac) to spike your 'nog. It's important to note, though, that both brandy and eggnog are quite sweet. Combining them will produce something that someone with a sweet tooth will love, but that others may find cloying. Proceed with caution.",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Had a 30 minutes correspondence with @8618926086648 where we discuss in detail facilitating drop shipping operations for cacao nibs while utilizing @120363044028036610@g.us backend infrastructure 🙂🙏 ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20240124",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@8618926086648 Thanks for spending 2 minutes to repost this 🤩🙏\n\nhttps://www.linkedin.com/posts/garyjob_truesight-dao-governance-token-price-tdg-activity-7227653775086301184-ewhk?utm_source=screenshot_social_share&utm_medium=member_ios&utm_campaign=copy_link",
+            "project": "TrueSight DAO",
+            "tdg": 3.3,
+            "date": "20240809",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@8618926086648 spent 5 minutes responding with insight 🤩🙏",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250210",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 5 minutes reporting this potential fraud to @⁨Ken Nim - Bay Area ⁩ and @⁨Jonathan⁩ who is right now lurking in OffChain's sustainability channel",
+            "project": "20250917_beerhall",
+            "tdg": 8.33,
+            "date": "20250703",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 13,
+          "Work in Progress": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Proposed strategies useful for further development of our community's tokenization\n\nhttps://diamondapp.com/u/nader/blog/coinstrapping-building-a-sustainable-crypto-flywheel?tab=posts",
+          "Rubric classification": "625 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic",
+          "TDGs Provisioned": "625.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "625.00",
+          "Status date": "20221209",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "625.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Greg shea for Africa ",
+          "Rubric classification": "1000 : Bring Builders - brought on a resource owner",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,000.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1,000.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Made a LinkedIn blast to advertise the Buenos Aires event\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7038879491867238400/\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230307%20-%20Ken%20Nim%20flyer%20for%20offchain%20buenos%20aires%20meetup.jpeg",
+          "Rubric classification": "750 : Events Planning - Created blast to advertise media on social media (per channel)",
+          "TDGs Provisioned": "750.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "750.00",
+          "Status date": "20230307",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "750.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Paua.life indigenous communities ",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230515",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Reintroduced Mathew Bowen on Legal needs for TrueSight DAO\n\nhttps://www.linkedin.com/in/matthewkbowen/",
+          "Rubric classification": "1 : Build Game - Strategy - Independently reiterated a signal that has associated with a decision that is still pending",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230524",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Johnny Browaeys who is familiar about Uganda Cacao \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230617%20-%20Johnny%20about%20uganda.jpg",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230617",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "[9:35 PM, 6/12/2023] Jonathan: I have one good contact in Uganda. She is not about web3 but probably will be into this\n[9:35 PM, 6/12/2023] Jonathan: https://www.linkedin.com/in/antonia-lorenz",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "[9:37 PM, 6/12/2023] Jonathan: And this person who I knew from the Precursor of OffChain in the 90’s\n[9:37 PM, 6/12/2023] Jonathan: https://www.linkedin.com/in/brett-rierson-922b",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Javi Arroyo from ICP grants (now on Telegram)\n\nhttps://support.dfinity.org/hc/en-us/sections/8730977702804-Developer-Grants\nhttps://support.dfinity.org/hc/en-us/articles/13955238826516-DFINITY-Community-Grants-Program-Terms-and-Conditions",
+          "Rubric classification": "50 : Bring Builders - introduced a potential investor",
+          "TDGs Provisioned": "50.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Bernie VeDAO independent web3 investor (now on Telegram)\n\n    - investment size: USD50K to USD400K",
+          "Rubric classification": "50 : Bring Builders - introduced a potential investor",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20230828",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Have a table\n    - Sign trying to sell with a big sign\n    - Have a quick talk before speaker starts\n    - Have people feel when they buy cacao they are also helping with a cause\n    - Have a poster hear the story of how TrueSight DAO is revolutionalizing cacao farmers in Latin America ",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Eggnog recipe suggestion to make chocolate alcoholic\n\n[11:41 PM, 10/28/2023] Jonathan: I think you could follow the eggnog way - \"If you would like to add alcohol to your eggnog, choose a drink with a high alcohol concentration to help counterbalance the sweetness of the eggnog.  Common choices of alcohol to add to eggnog include brandy, rum, bourbon or whisky.\"\n[11:41 PM, 10/28/2023] Jonathan: While brandy is the most traditional alcohol to pair with eggnog, according to traditional recipes, you can also use a mixture of dark rum and Cognac. If you like your eggnog with more of a kick you can also add bourbon, but we recommend sticking to rum and Cognac to preserve the 'nog's flavors\n[11:42 PM, 10/28/2023] Jonathan: Brandy: Makes the Most Traditional Eggnog\nFor the most traditional holiday experience, reach for brandy (specifically, Cognac) to spike your 'nog. It's important to note, though, that both brandy and eggnog are quite sweet. Combining them will produce something that someone with a sweet tooth will love, but that others may find cloying. Proceed with caution.",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Had a 30 minutes correspondence with @8618926086648 where we discuss in detail facilitating drop shipping operations for cacao nibs while utilizing @120363044028036610@g.us backend infrastructure 🙂🙏 ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20240124",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@8618926086648 Thanks for spending 2 minutes to repost this 🤩🙏\n\nhttps://www.linkedin.com/posts/garyjob_truesight-dao-governance-token-price-tdg-activity-7227653775086301184-ewhk?utm_source=screenshot_social_share&utm_medium=member_ios&utm_campaign=copy_link",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.30",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.33",
+          "Status date": "20240809",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "3.33",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@8618926086648 spent 5 minutes responding with insight 🤩🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250210",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "+86 189 2608 6648",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jonathan",
+          "Project Name": "20250917_beerhall",
+          "Contribution Made": "I spent 5 minutes reporting this potential fraud to @⁨Ken Nim - Bay Area ⁩ and @⁨Jonathan⁩ who is right now lurking in OffChain's sustainability channel",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250703",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

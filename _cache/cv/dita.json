@@ -1,0 +1,369 @@
+{
+  "slug": "dita",
+  "display_name": "Dita",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 13,
+    "total_tdg_provisioned": 4550.0,
+    "date_range": {
+      "earliest": "20220410",
+      "latest": "20220506"
+    },
+    "source": {
+      "contributor_name": "Dita",
+      "generated_date": "2026-05-14T22:06:13.051169",
+      "summary": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 4550.0,
+        "total_tdg_issued": 3550.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220410",
+          "latest": "20220506"
+        }
+      },
+      "analysis": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 4550.0,
+        "total_tdg_issued": 3550.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Build Game - User Experience - Suggestions for a UX": 2,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "100 : Bring Builders - brought on a passive observer": 1,
+          "500 : Bring Builders - brought on a active contributor": 8
+        },
+        "date_range": {
+          "earliest": "20220410",
+          "latest": "20220506"
+        },
+        "contribution_types": [
+          {
+            "description": "User experience: Punter should prompted to indicate the tickers they want to watch when they first sign up",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220410",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group: attendence",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction to fortune teller whose son utilizes Astrology to make market predictions",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Made introduction to Alex",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group: contribution",
+            "project": "",
+            "tdg": 0.0,
+            "date": "",
+            "status": ""
+          },
+          {
+            "description": "Introduction to fortune teller whose Muslim fortune teller",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Research: Recruit participants for focus group #2 - Biljana Sanev",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Research: Recruit participants for focus group #2 - Tanja Burlica",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Research: Recruit participants for focus group #2 - Ervin Sarajevo",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Research: Recruit participants for focus group #2 - Dejan Nikolic",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Research: Recruit participants for focus group #2 - Susan Corea",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220506",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Research: Recruit participants for focus group #2 - Participant #6",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Research: Recruit participants for focus group #2 - Participant #7",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 10,
+          "Work in Progress": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "User experience: Punter should prompted to indicate the tickers they want to watch when they first sign up",
+          "Rubric classification": "100 : Build Game - User Experience - Suggestions for a UX",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220410",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Focus group: attendence",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220414",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Introduction to fortune teller whose son utilizes Astrology to make market predictions",
+          "Rubric classification": "100 : Bring Builders - brought on a passive observer",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220414",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Made introduction to Alex",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220414",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Focus group: contribution",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Introduction to fortune teller whose Muslim fortune teller",
+          "Rubric classification": "100 : Build Game - User Experience - Suggestions for a UX",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220414",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Research: Recruit participants for focus group #2 - Biljana Sanev",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Research: Recruit participants for focus group #2 - Tanja Burlica",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Research: Recruit participants for focus group #2 - Ervin Sarajevo",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Research: Recruit participants for focus group #2 - Dejan Nikolic",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Research: Recruit participants for focus group #2 - Susan Corea",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220506",
+          "Solana Transfer Hash": "kgGTQgNjAWesg29Kj3it57Y5gg4d4Ufz3PQnrZFQnijHy5WR6YLCLUxn6xdx7XPV8TnSjkoZ7rWeU1jZoMBEBEE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Research: Recruit participants for focus group #2 - Participant #6",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dita",
+          "Project Name": "",
+          "Contribution Made": "Research: Recruit participants for focus group #2 - Participant #7",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

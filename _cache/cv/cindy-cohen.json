@@ -1,0 +1,176 @@
+{
+  "slug": "cindy-cohen",
+  "display_name": "Cindy Cohen",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 525.0,
+    "date_range": {
+      "earliest": "20220712",
+      "latest": "20220712"
+    },
+    "source": {
+      "contributor_name": "Cindy Cohen",
+      "generated_date": "2026-05-14T22:06:13.002593",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 525.0,
+        "total_tdg_issued": 525.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220712",
+          "latest": "20220712"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 525.0,
+        "total_tdg_issued": 525.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 2,
+          "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources": 1
+        },
+        "date_range": {
+          "earliest": "20220712",
+          "latest": "20220712"
+        },
+        "contribution_types": [
+          {
+            "description": "Facetime discussion on fundraising process (1 hour)",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220712",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Fundraising: Problem with operating model\n\nPercent of budget for each category of expenses. Proposed \n  - Need to be light on Operations in the beginning\n  - Heavy on Product Development\n  - Heavy on Customer Acquisition",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220712",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Fundraising: Problem with operating model\n\nHow business generates returns needs to be super clear. Right now it is not obvious based on the model",
+            "project": "",
+            "tdg": 75.0,
+            "date": "20220712",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "The Legal Counsel is the \"Closer\". The parameters for closing a provided by the founder",
+            "project": "",
+            "tdg": 25.0,
+            "date": "20220712",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Accountability of the Operating model is going to be an issue since Governors play round robin\n\n- A dedicated leadership is needed\n- CV of team needs to be available to ensure the team doesn't run the business into the groud",
+            "project": "",
+            "tdg": 75.0,
+            "date": "20220712",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Cindy Cohen",
+          "Project Name": "",
+          "Contribution Made": "Facetime discussion on fundraising process (1 hour)",
+          "Rubric classification": "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220712",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Cindy Cohen",
+          "Project Name": "",
+          "Contribution Made": "Fundraising: Problem with operating model\n\nPercent of budget for each category of expenses. Proposed \n  - Need to be light on Operations in the beginning\n  - Heavy on Product Development\n  - Heavy on Customer Acquisition",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220712",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Cindy Cohen",
+          "Project Name": "",
+          "Contribution Made": "Fundraising: Problem with operating model\n\nHow business generates returns needs to be super clear. Right now it is not obvious based on the model",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20220712",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Cindy Cohen",
+          "Project Name": "",
+          "Contribution Made": "The Legal Counsel is the \"Closer\". The parameters for closing a provided by the founder",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20220712",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Cindy Cohen",
+          "Project Name": "",
+          "Contribution Made": "Accountability of the Operating model is going to be an issue since Governors play round robin\n\n- A dedicated leadership is needed\n- CV of team needs to be available to ensure the team doesn't run the business into the groud",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20220712",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

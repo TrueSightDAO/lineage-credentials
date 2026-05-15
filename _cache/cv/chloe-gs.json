@@ -1,0 +1,105 @@
+{
+  "slug": "chloe-gs",
+  "display_name": "Chloé GS",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 51.67,
+    "date_range": {
+      "earliest": "20241006",
+      "latest": "20241006"
+    },
+    "source": {
+      "contributor_name": "Chloé GS",
+      "generated_date": "2026-05-14T22:06:12.991880",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 51.67,
+        "total_tdg_issued": 58.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20241006",
+          "latest": "20241006"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 51.67,
+        "total_tdg_issued": 58.33,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20241006",
+          "latest": "20241006"
+        },
+        "contribution_types": [
+          {
+            "description": "Chloe (_canadian, anthropologist by training, an activist of gender equality, social and environmental justice_) spent 30 minutes surfacing importance of \n\n*Subject matter 1: taking into account invisible work that is often performed by women folk* that is not accounted for in the economy which prevents them from fully contributing into the tokenized part of the economy \n\n- childcare \n- ⁠domestic finance management such as ensuring the men in the house not spend all the household money on alcohol which is common in Latin America\n\n*Subject matter 2: Problem of ethics* when interfacing with the Indigenous community \n\n- ⁠when interfacing with the indigenous community in @⁨<guild>[project] SunMint Guild⁩ ensure we do not inadvertently steer them in a direction that cause them to change the fauna on the tribal land and introduce imbalance\n\n*Subject matter 3: relevance of TrueSight DAO variant of tokenomics* to NGO organizations addressing social and environment justice. Organizations surfaced include \n\n- https://www.oxfam.org.br/\n- ⁠https://suco.org/ <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20241006",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Chloe spent 5 minutes responding to the question of Itacare history as a black escaped slaves refuge, a quilombo <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 1.67,
+            "date": "20241006",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Chloé GS",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Chloe (_canadian, anthropologist by training, an activist of gender equality, social and environmental justice_) spent 30 minutes surfacing importance of \n\n*Subject matter 1: taking into account invisible work that is often performed by women folk* that is not accounted for in the economy which prevents them from fully contributing into the tokenized part of the economy \n\n- childcare \n- ⁠domestic finance management such as ensuring the men in the house not spend all the household money on alcohol which is common in Latin America\n\n*Subject matter 2: Problem of ethics* when interfacing with the Indigenous community \n\n- ⁠when interfacing with the indigenous community in @⁨<guild>[project] SunMint Guild⁩ ensure we do not inadvertently steer them in a direction that cause them to change the fauna on the tribal land and introduce imbalance\n\n*Subject matter 3: relevance of TrueSight DAO variant of tokenomics* to NGO organizations addressing social and environment justice. Organizations surfaced include \n\n- https://www.oxfam.org.br/\n- ⁠https://suco.org/ <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50",
+          "Status date": "20241006",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Chloé GS",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Chloe spent 5 minutes responding to the question of Itacare history as a black escaped slaves refuge, a quilombo <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20241006",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

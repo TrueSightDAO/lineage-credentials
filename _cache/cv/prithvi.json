@@ -1,0 +1,81 @@
+{
+  "slug": "prithvi",
+  "display_name": "Prithvi",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 75.0,
+    "date_range": {
+      "earliest": "20250219",
+      "latest": "20250219"
+    },
+    "source": {
+      "contributor_name": "Prithvi",
+      "generated_date": "2026-05-14T22:06:13.771900",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 75.0,
+        "total_tdg_issued": 75.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20250219",
+          "latest": "20250219"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 75.0,
+        "total_tdg_issued": 75.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250219",
+          "latest": "20250219"
+        },
+        "contribution_types": [
+          {
+            "description": "Just completed 45 minutes of FaceTime with Prithvi from Nzatu where we discussed \n\n- The African cacao situation\n\n- western coast is controlled by the cacao board which is basically the government and is hard to deal \n\n- East coast in Tanzania, Uganda and Madagascar is where the single origin small family farms are (1-2 hectares of land)\n\nFollow ups\n\n- Explore replicating the model pioneered in Brazil first in Uganda, then later to Tanzania and Madagascar \n\n- speak to the farmers to figure out who is onboard \n\n- identify the processing facility \n\n- identify the exporting entity \n\n- start with 100kg payload \n\n- converted to ceremonial bars in bags of 200 grams bags \n\n- FDA approval for the Uganda exporting company \n\n- Come up with storyline for the farms in the region",
+            "project": "TrueSight DAO",
+            "tdg": 75.0,
+            "date": "20250219",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Prithvi",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Just completed 45 minutes of FaceTime with Prithvi from Nzatu where we discussed \n\n- The African cacao situation\n\n- western coast is controlled by the cacao board which is basically the government and is hard to deal \n\n- East coast in Tanzania, Uganda and Madagascar is where the single origin small family farms are (1-2 hectares of land)\n\nFollow ups\n\n- Explore replicating the model pioneered in Brazil first in Uganda, then later to Tanzania and Madagascar \n\n- speak to the farmers to figure out who is onboard \n\n- identify the processing facility \n\n- identify the exporting entity \n\n- start with 100kg payload \n\n- converted to ceremonial bars in bags of 200 grams bags \n\n- FDA approval for the Uganda exporting company \n\n- Come up with storyline for the farms in the region",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20250219",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

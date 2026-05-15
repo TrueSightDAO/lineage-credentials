@@ -1,0 +1,219 @@
+{
+  "slug": "thomas-tang",
+  "display_name": "Thomas Tang",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 1100.0,
+    "date_range": {
+      "earliest": "20220220",
+      "latest": "20220227"
+    },
+    "source": {
+      "contributor_name": "Thomas Tang",
+      "generated_date": "2026-05-14T22:06:13.874611",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 1100.0,
+        "total_tdg_issued": 1100.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220220",
+          "latest": "20220227"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 1100.0,
+        "total_tdg_issued": 1100.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220220",
+          "latest": "20220227"
+        },
+        "contribution_types": [
+          {
+            "description": "Concept Deck: what's happening in the background for any/every Txn does not need to be explicitly stated",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis: https://zignaly.com/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Example module for creating DAOs on Solana: \nhttps://twitter.com/farzatv/status/1494063089439817729?s=21\nhttps://buildspace.so/daos",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220222",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO Tooling: https://docs.google.com/spreadsheets/d/1YRfIhcckhdNi9xSaCpCIDc2VV5HkprLlnp7lbTh5Txk/edit#gid=464771811",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO Tooling: https://twitter.com/_KaliDAO",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO Tooling: https://twitter.com/hedgeyfinance",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "DAO Tooling: https://backdrop.so/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220227",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Thomas Tang",
+          "Project Name": "",
+          "Contribution Made": "Concept Deck: what's happening in the background for any/every Txn does not need to be explicitly stated",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220220",
+          "Solana Transfer Hash": "3Gmp57D3zfCCsSRJunf1f9euNBJSU5hiUsTUjhFToChDpo2BTknFmiqybvcCL1UR4BtDFTtEn5vzBYPhaykQ7L8B",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Thomas Tang",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: https://zignaly.com/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220220",
+          "Solana Transfer Hash": "3Gmp57D3zfCCsSRJunf1f9euNBJSU5hiUsTUjhFToChDpo2BTknFmiqybvcCL1UR4BtDFTtEn5vzBYPhaykQ7L8B",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Thomas Tang",
+          "Project Name": "",
+          "Contribution Made": "Example module for creating DAOs on Solana: \nhttps://twitter.com/farzatv/status/1494063089439817729?s=21\nhttps://buildspace.so/daos",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220222",
+          "Solana Transfer Hash": "3Gmp57D3zfCCsSRJunf1f9euNBJSU5hiUsTUjhFToChDpo2BTknFmiqybvcCL1UR4BtDFTtEn5vzBYPhaykQ7L8B",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Thomas Tang",
+          "Project Name": "",
+          "Contribution Made": "DAO Tooling: https://docs.google.com/spreadsheets/d/1YRfIhcckhdNi9xSaCpCIDc2VV5HkprLlnp7lbTh5Txk/edit#gid=464771811",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220227",
+          "Solana Transfer Hash": "3Gmp57D3zfCCsSRJunf1f9euNBJSU5hiUsTUjhFToChDpo2BTknFmiqybvcCL1UR4BtDFTtEn5vzBYPhaykQ7L8B",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Thomas Tang",
+          "Project Name": "",
+          "Contribution Made": "DAO Tooling: https://twitter.com/_KaliDAO",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220227",
+          "Solana Transfer Hash": "3Gmp57D3zfCCsSRJunf1f9euNBJSU5hiUsTUjhFToChDpo2BTknFmiqybvcCL1UR4BtDFTtEn5vzBYPhaykQ7L8B",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Thomas Tang",
+          "Project Name": "",
+          "Contribution Made": "DAO Tooling: https://twitter.com/hedgeyfinance",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220227",
+          "Solana Transfer Hash": "3Gmp57D3zfCCsSRJunf1f9euNBJSU5hiUsTUjhFToChDpo2BTknFmiqybvcCL1UR4BtDFTtEn5vzBYPhaykQ7L8B",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Thomas Tang",
+          "Project Name": "",
+          "Contribution Made": "DAO Tooling: https://backdrop.so/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220227",
+          "Solana Transfer Hash": "3Gmp57D3zfCCsSRJunf1f9euNBJSU5hiUsTUjhFToChDpo2BTknFmiqybvcCL1UR4BtDFTtEn5vzBYPhaykQ7L8B",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

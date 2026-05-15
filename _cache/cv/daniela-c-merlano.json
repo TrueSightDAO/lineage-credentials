@@ -1,0 +1,109 @@
+{
+  "slug": "daniela-c-merlano",
+  "display_name": "Daniela C. Merlano",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 260.0,
+    "date_range": {
+      "earliest": "20201015",
+      "latest": "20201015"
+    },
+    "source": {
+      "contributor_name": "Daniela C. Merlano",
+      "generated_date": "2026-05-14T22:06:13.023917",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 260.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "Cypher Defense",
+          "Sun Mint"
+        ],
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20201015"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 260.0,
+        "total_tdg_issued": 10.0,
+        "projects": [
+          "Cypher Defense",
+          "Sun Mint"
+        ],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 1,
+          "250 : Bring Builders - brought on a active contributor": 1
+        },
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20201015"
+        },
+        "contribution_types": [
+          {
+            "description": "Provided further insights into personal security concerns \n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986434150106865665%29",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Nick Reyes",
+            "project": "Sun Mint",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Daniela C. Merlano ",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Provided further insights into personal security concerns \n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986434150106865665%29",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Daniela C. Merlano ",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "Introduced Nick Reyes",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

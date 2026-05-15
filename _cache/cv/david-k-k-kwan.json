@@ -1,0 +1,81 @@
+{
+  "slug": "david-k-k-kwan",
+  "display_name": "David K K Kwan",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20221129",
+      "latest": "20221129"
+    },
+    "source": {
+      "contributor_name": "David K K Kwan",
+      "generated_date": "2026-05-14T22:06:13.036238",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 2500.0,
+        "projects": [
+          "Cypher Defense"
+        ],
+        "date_range": {
+          "earliest": "20221129",
+          "latest": "20221129"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 2500.0,
+        "projects": [
+          "Cypher Defense"
+        ],
+        "rubric_categories": {
+          "2500 : Build Game - Marketing - Crafted contents for entire marketing campaign": 1
+        },
+        "date_range": {
+          "earliest": "20221129",
+          "latest": "20221129"
+        },
+        "contribution_types": [
+          {
+            "description": "Posted about cypher defense to followers and explained clearly how it works\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7003545918310408192/",
+            "project": "Cypher Defense",
+            "tdg": 0,
+            "date": "20221129",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "David K K Kwan",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Posted about cypher defense to followers and explained clearly how it works\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7003545918310408192/",
+          "Rubric classification": "2500 : Build Game - Marketing - Crafted contents for entire marketing campaign",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20221129",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

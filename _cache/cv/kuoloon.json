@@ -1,0 +1,474 @@
+{
+  "slug": "kuoloon",
+  "display_name": "Kuoloon",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 17,
+    "total_tdg_provisioned": 1395.0,
+    "date_range": {
+      "earliest": "20220312",
+      "latest": "20220910"
+    },
+    "source": {
+      "contributor_name": "Kuoloon",
+      "generated_date": "2026-05-14T22:06:13.597197",
+      "summary": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 1395.0,
+        "total_tdg_issued": 1395.0,
+        "projects": [
+          "MarketMonocle"
+        ],
+        "date_range": {
+          "earliest": "20220312",
+          "latest": "20220910"
+        }
+      },
+      "analysis": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 1395.0,
+        "total_tdg_issued": 1395.0,
+        "projects": [
+          "MarketMonocle"
+        ],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)": 3,
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 2,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 2,
+          "5000 : Build Game - User Experience - Design System": 2,
+          "100 : Build Game - User Experience - Suggestions for a UX": 1,
+          "1250 : Build Game - User Experience - UI design for a single surface (screen template)": 2,
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 2,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1
+        },
+        "date_range": {
+          "earliest": "20220312",
+          "latest": "20220910"
+        },
+        "contribution_types": [
+          {
+            "description": "Product Development: User flow for punters in PVE mode",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Product Development: Landing page for hunters and punters\nhttps://miro.com/welcomeonboard/S05ZbWJtbktUZGFKMDVKUHRwckpyTjdVQkNNOG9xVk82OUJ6aTVWWkU1c2J2T2NhM2pNdjhUZnRVWlNTemNyOHwzMDc0NDU3MzQ1ODQ1MjA3NzMw?invite_link_id=875019625633",
+            "project": "",
+            "tdg": 0,
+            "date": "20220312",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "1 hour of UI/UX branding planninig meeting",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220621",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Brand Identity: Pancake Swap with its Bunny Mascots\n\nA light hearted approach\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220623%20-%20Pris%20and%20Kuoloon%20on%20the%20brand%20story.jpg",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220623",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Brand Identity: Little boy as the storyline\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220623%20-%20Pris%20and%20Kuoloon%20on%20the%20brand%20story.jpg",
+            "project": "",
+            "tdg": 50.0,
+            "date": "20220623",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "UI helped cleared mental block on landing page for Pris\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220623%20-%20Pris%20and%20Kuoloon%20on%20the%20brand%20story.jpg",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220623",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Branding UI moodboard\n\nhttps://www.figma.com/file/szjivVvzVyHG1enAqU440c/TrueSight-UI-(Copy)?node-id=369-29621&t=kznOqEBg13k0Ao6S-0",
+            "project": "",
+            "tdg": 0,
+            "date": "20220701",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Dashboard V1 UI - very rough mockup\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220701%20-%20Kuolon%20Dashboard%20V1.jpeg",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220701",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Branding: Explored the following \n\n(1) Seek - focusing on the constant search for truth as our core objective\n(2) Delta - focusing on opening the eyes and changing perceptions of our target audience",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220624",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Branding and storyline discussions meeting with Pris (20220701) (1 hour)\n\nhttps://youtu.be/3J6cfiHNCj4",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220701",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Version 3 dashboard design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220711%20-%20Pris%20and%20Kuoloon%20version%203%20dashboard%20UI.jpeg\n\nhttps://www.figma.com/file/aZxQnYIlRVv0dk0ij15YX4/TrueSight-UI---Design?node-id=390%3A30253",
+            "project": "",
+            "tdg": 0,
+            "date": "20220710",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Version 2 dashboard design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220711%20-%20Pris%20and%20Kuoloon%20version%202%20dashboard%20UI.jpeg",
+            "project": "",
+            "tdg": 125.0,
+            "date": "20220711",
+            "status": "Failed / Partial Provision Awarded"
+          },
+          {
+            "description": "Facetime discussion for UI/UX Kuoloon and Pris (1.5 hours)\n\nhttps://www.youtube.com/watch?v=2k_wduFzPAo",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220711",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Creating the frontend foundational design system for UI",
+            "project": "",
+            "tdg": 0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Voted on naming\nhttps://docs.google.com/forms/d/1Z-putP4KztPg39g8Fay1sQcTPzvnsXmaob2R4RhEoM8/edit#responses",
+            "project": "MarketMonocle",
+            "tdg": 10.0,
+            "date": "20220718",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Attended 1hr 45 mins of Design System meeting",
+            "project": "",
+            "tdg": 200.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Voted for brand names suggested by design team",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220910",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Work in Progress": 2,
+          "Successfully Completed / Full Provision Awarded": 14,
+          "Failed / Partial Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Product Development: User flow for punters in PVE mode",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Product Development: Landing page for hunters and punters\nhttps://miro.com/welcomeonboard/S05ZbWJtbktUZGFKMDVKUHRwckpyTjdVQkNNOG9xVk82OUJ6aTVWWkU1c2J2T2NhM2pNdjhUZnRVWlNTemNyOHwzMDc0NDU3MzQ1ODQ1MjA3NzMw?invite_link_id=875019625633",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2,500.00",
+          "Status date": "20220312",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "2,500.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "1 hour of UI/UX branding planninig meeting",
+          "Rubric classification": "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220621",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Brand Identity: Pancake Swap with its Bunny Mascots\n\nA light hearted approach\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220623%20-%20Pris%20and%20Kuoloon%20on%20the%20brand%20story.jpg",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220623",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Brand Identity: Little boy as the storyline\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220623%20-%20Pris%20and%20Kuoloon%20on%20the%20brand%20story.jpg",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20220623",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "UI helped cleared mental block on landing page for Pris\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220623%20-%20Pris%20and%20Kuoloon%20on%20the%20brand%20story.jpg",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220623",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Branding UI moodboard\n\nhttps://www.figma.com/file/szjivVvzVyHG1enAqU440c/TrueSight-UI-(Copy)?node-id=369-29621&t=kznOqEBg13k0Ao6S-0",
+          "Rubric classification": "5000 : Build Game - User Experience - Design System",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5,000.00",
+          "Status date": "20220701",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "5,000.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Dashboard V1 UI - very rough mockup\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220701%20-%20Kuolon%20Dashboard%20V1.jpeg",
+          "Rubric classification": "100 : Build Game - User Experience - Suggestions for a UX",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220701",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Branding: Explored the following \n\n(1) Seek - focusing on the constant search for truth as our core objective\n(2) Delta - focusing on opening the eyes and changing perceptions of our target audience",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220624",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Branding and storyline discussions meeting with Pris (20220701) (1 hour)\n\nhttps://youtu.be/3J6cfiHNCj4",
+          "Rubric classification": "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220701",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Version 3 dashboard design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220711%20-%20Pris%20and%20Kuoloon%20version%203%20dashboard%20UI.jpeg\n\nhttps://www.figma.com/file/aZxQnYIlRVv0dk0ij15YX4/TrueSight-UI---Design?node-id=390%3A30253",
+          "Rubric classification": "1250 : Build Game - User Experience - UI design for a single surface (screen template)",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20220710",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1,250.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Version 2 dashboard design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220711%20-%20Pris%20and%20Kuoloon%20version%202%20dashboard%20UI.jpeg",
+          "Rubric classification": "1250 : Build Game - User Experience - UI design for a single surface (screen template)",
+          "TDGs Provisioned": "125.00",
+          "Status": "Failed / Partial Provision Awarded",
+          "TDGs Issued": "125.00",
+          "Status date": "20220711",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "125.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Facetime discussion for UI/UX Kuoloon and Pris (1.5 hours)\n\nhttps://www.youtube.com/watch?v=2k_wduFzPAo",
+          "Rubric classification": "100 : Build Game - Strategy - Attended Facetime Meetings (per hour)",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220711",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "150.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Creating the frontend foundational design system for UI",
+          "Rubric classification": "5000 : Build Game - User Experience - Design System",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "MarketMonocle",
+          "Contribution Made": "Voted on naming\nhttps://docs.google.com/forms/d/1Z-putP4KztPg39g8Fay1sQcTPzvnsXmaob2R4RhEoM8/edit#responses",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220718",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Attended 1hr 45 mins of Design System meeting",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kuoloon",
+          "Project Name": "",
+          "Contribution Made": "Voted for brand names suggested by design team",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220910",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "+65 9183 8899",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "neo",
+  "display_name": "Neo",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 600.0,
+    "date_range": {
+      "earliest": "20220425",
+      "latest": "20220705"
+    },
+    "source": {
+      "contributor_name": "Neo",
+      "generated_date": "2026-05-14T22:06:13.722215",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 600.0,
+        "total_tdg_issued": 7266.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220425",
+          "latest": "20220705"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 600.0,
+        "total_tdg_issued": 7266.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Contribute reference material - link": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 2,
+          "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO": 2
+        },
+        "date_range": {
+          "earliest": "20220425",
+          "latest": "20220705"
+        },
+        "contribution_types": [
+          {
+            "description": "Legal: The main condition that differentiates between legal and illegal money game in any country is whether its operations is aligned with that country's monetary policy. In China privately lending out money at interest rate of 3% or lower is legal. In the US, so long as a contract is signed it is legal",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Strategy: At the early stage everyone’s minimal viable product looks almost the same. What really differentiates is the proposed strategy to take the future market and the team in place to take it.",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220425",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sponsorship for TrueSight to be featured at the Tomorrow Conference",
+            "project": "",
+            "tdg": 0,
+            "date": "20220514",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Remove redundant members from operations channels",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220615",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Sponsorship to feature TrueSight DAO at the Web3Galaxy Conference in Dubai\n\nhttps://www.web3galaxy.world/",
+            "project": "",
+            "tdg": 0,
+            "date": "20220705",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Neo",
+          "Project Name": "",
+          "Contribution Made": "Legal: The main condition that differentiates between legal and illegal money game in any country is whether its operations is aligned with that country's monetary policy. In China privately lending out money at interest rate of 3% or lower is legal. In the US, so long as a contract is signed it is legal",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neo",
+          "Project Name": "",
+          "Contribution Made": "Strategy: At the early stage everyone’s minimal viable product looks almost the same. What really differentiates is the proposed strategy to take the future market and the team in place to take it.",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220425",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neo",
+          "Project Name": "",
+          "Contribution Made": "Sponsorship for TrueSight to be featured at the Tomorrow Conference",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "6,666.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "6666",
+          "Status date": "20220514",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "6666",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neo",
+          "Project Name": "",
+          "Contribution Made": "Remove redundant members from operations channels",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220615",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neo",
+          "Project Name": "",
+          "Contribution Made": "Sponsorship to feature TrueSight DAO at the Web3Galaxy Conference in Dubai\n\nhttps://www.web3galaxy.world/",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "3,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3,000.00",
+          "Status date": "20220705",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "3,000.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

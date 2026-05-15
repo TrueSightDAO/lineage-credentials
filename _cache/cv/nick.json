@@ -1,0 +1,131 @@
+{
+  "slug": "nick",
+  "display_name": "Nick",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 330.0,
+    "date_range": {
+      "earliest": "20221109",
+      "latest": "20221129"
+    },
+    "source": {
+      "contributor_name": "Nick",
+      "generated_date": "2026-05-14T22:06:13.724700",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 330.0,
+        "total_tdg_issued": 330.0,
+        "projects": [
+          "Cypher Defense"
+        ],
+        "date_range": {
+          "earliest": "20221109",
+          "latest": "20221129"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 330.0,
+        "total_tdg_issued": 330.0,
+        "projects": [
+          "Cypher Defense"
+        ],
+        "rubric_categories": {
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "5 : Build Game - Marketing - Caught and rectified a copy writing error": 1
+        },
+        "date_range": {
+          "earliest": "20221109",
+          "latest": "20221129"
+        },
+        "contribution_types": [
+          {
+            "description": "Propose to focus on human behavior aspects when it comes to adoption. Siloing on Web3 is a very very small piece of the market\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221109%20-%20Nick%20on%20web20%20enterprise%20hurdles.jpg",
+            "project": "Cypher Defense",
+            "tdg": 75.0,
+            "date": "20221109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfaced the two different strategies used by Phishers the blanket approach and the high network sniping approach",
+            "project": "Cypher Defense",
+            "tdg": 250.0,
+            "date": "20221119",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed \"protection from false actors and scams in web 3\"\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221129%20-%20nick%20on%20proposed%20copy%20changes.jpg",
+            "project": "Cypher Defense",
+            "tdg": 5.0,
+            "date": "20221129",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Nick",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Propose to focus on human behavior aspects when it comes to adoption. Siloing on Web3 is a very very small piece of the market\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221109%20-%20Nick%20on%20web20%20enterprise%20hurdles.jpg",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20221109",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nick",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Surfaced the two different strategies used by Phishers the blanket approach and the high network sniping approach",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20221119",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nick",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Proposed \"protection from false actors and scams in web 3\"\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221129%20-%20nick%20on%20proposed%20copy%20changes.jpg",
+          "Rubric classification": "5 : Build Game - Marketing - Caught and rectified a copy writing error",
+          "TDGs Provisioned": "5.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5.00",
+          "Status date": "20221129",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "5.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

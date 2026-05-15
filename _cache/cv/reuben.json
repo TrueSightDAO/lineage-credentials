@@ -1,0 +1,465 @@
+{
+  "slug": "reuben",
+  "display_name": "Reuben",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 17,
+    "total_tdg_provisioned": 4300.0,
+    "date_range": {
+      "earliest": "20220304",
+      "latest": "20220325"
+    },
+    "source": {
+      "contributor_name": "Reuben",
+      "generated_date": "2026-05-14T22:06:13.788292",
+      "summary": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 4300.0,
+        "total_tdg_issued": 1850.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220304",
+          "latest": "20220325"
+        }
+      },
+      "analysis": {
+        "total_contributions": 17,
+        "total_tdg_provisioned": 4300.0,
+        "total_tdg_issued": 1850.0,
+        "projects": [],
+        "rubric_categories": {
+          "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension": 2,
+          "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something": 1,
+          "100 : Build Game - Strategy - Contribute reference material - link": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1
+        },
+        "date_range": {
+          "earliest": "20220304",
+          "latest": "20220325"
+        },
+        "contribution_types": [
+          {
+            "description": "Tokenomics: Prefer tokens to just shoot to the moon",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Rebasement is fraught with issues in other projects",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "NFT liquidity: Figure out why we are doing an NFT sale. \n\n    - Is it for liquidity? (Money Grab)\n    - Social Status as an early OG member\n    - Or enhancing the game play?",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "NFT liquidity: 3 series of collections feels like a lot to process",
+            "project": "",
+            "tdg": 100.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Make introductions to friend who runs a fund",
+            "project": "",
+            "tdg": 100.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Make introductions to friend who is connected with a lot of investment bloggers",
+            "project": "",
+            "tdg": 100.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Bigger picture web3 startup principles\nhttps://docs.google.com/document/d/14B2sDyfg8Yo0GuIJ-x_fXPBR4ec5WeO12h-7AceqjCQ/mobilebasic",
+            "project": "",
+            "tdg": 100.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "We are considering using Solv Protocol to launch our financial NFT\n\nhttps://solv.finance/home",
+            "project": "",
+            "tdg": 100.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "NFT Liquidity: Main concern is the NFT equipment came before the NFT avatars.\n\nFeels like all the NFTs could essentially just be one main collection",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "NFT Liquidity: The NFT needs to feel like a collectible instead of a money grab",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Introduction to Ben, PlayBook investments",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "The none intersection between Defi and NFT communites\nhttps://polygondefi.substack.com/p/can-nfts-revitalize-this-defi-cycle",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220317",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: review incentive plan for work to earn model for loop holes\nhttps://docs.google.com/spreadsheets/d/1s4mnUFMhR37AElVBDGQ653pJ5ODp4bcr2N8eMLpMuxw/edit#gid=0",
+            "project": "",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "NFT Minting early Access: \nIdeally who do you think the holders of the NFT should be? \n\nIf it’s the current set of governors sure. I’d think it’s the broader community / participants who might not even be part of the DAO yet might want to rethink the mechanic which allows participation from this group",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220323",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Yeah discord grinding is a big turn off",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Ben Mezrich was about to pull off 3 batches of early access for his NFT collection associated with his books. \nEngagement model is different since its revolves around a single project\nhttps://twitter.com/benmezrich?s=11",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Decentralization for humans: exploring four key areas of DAO decentralization in 2022\nhttps://www.quorumnewsletter.xyz/decentralization-for-humans/\n\nRaised the concern to focus on the autonomy and Treasury management",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 8,
+          "Work in Progress": 9
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Tokenomics: Prefer tokens to just shoot to the moon",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Rebasement is fraught with issues in other projects",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "NFT liquidity: Figure out why we are doing an NFT sale. \n\n    - Is it for liquidity? (Money Grab)\n    - Social Status as an early OG member\n    - Or enhancing the game play?",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "NFT liquidity: 3 series of collections feels like a lot to process",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Make introductions to friend who runs a fund",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Make introductions to friend who is connected with a lot of investment bloggers",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Bigger picture web3 startup principles\nhttps://docs.google.com/document/d/14B2sDyfg8Yo0GuIJ-x_fXPBR4ec5WeO12h-7AceqjCQ/mobilebasic",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "We are considering using Solv Protocol to launch our financial NFT\n\nhttps://solv.finance/home",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "NFT Liquidity: Main concern is the NFT equipment came before the NFT avatars.\n\nFeels like all the NFTs could essentially just be one main collection",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "NFT Liquidity: The NFT needs to feel like a collectible instead of a money grab",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Introduction to Ben, PlayBook investments",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "The none intersection between Defi and NFT communites\nhttps://polygondefi.substack.com/p/can-nfts-revitalize-this-defi-cycle",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220317",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Governance: review incentive plan for work to earn model for loop holes\nhttps://docs.google.com/spreadsheets/d/1s4mnUFMhR37AElVBDGQ653pJ5ODp4bcr2N8eMLpMuxw/edit#gid=0",
+          "Rubric classification": "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "NFT Minting early Access: \nIdeally who do you think the holders of the NFT should be? \n\nIf it’s the current set of governors sure. I’d think it’s the broader community / participants who might not even be part of the DAO yet might want to rethink the mechanic which allows participation from this group",
+          "Rubric classification": "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20220323",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Yeah discord grinding is a big turn off",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Ben Mezrich was about to pull off 3 batches of early access for his NFT collection associated with his books. \nEngagement model is different since its revolves around a single project\nhttps://twitter.com/benmezrich?s=11",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Reuben",
+          "Project Name": "",
+          "Contribution Made": "Decentralization for humans: exploring four key areas of DAO decentralization in 2022\nhttps://www.quorumnewsletter.xyz/decentralization-for-humans/\n\nRaised the concern to focus on the autonomy and Treasury management",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "r1stz8XCAqNRy98UYzpe6Mde79LfgHgdM25qJN5SR8FVUJATxLGwLiS77ussxkiTpPsVA7KTzs8YUBoFbcdf2iE",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

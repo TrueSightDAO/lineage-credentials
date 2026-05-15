@@ -1,0 +1,178 @@
+{
+  "slug": "kevin-deval",
+  "display_name": "Kevin Deval",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20211218",
+      "latest": "20231023"
+    },
+    "source": {
+      "contributor_name": "Kevin Deval",
+      "generated_date": "2026-05-14T22:06:13.580476",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 10100.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20211218",
+          "latest": "20231023"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 10100.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "50 : Commerce - Quotation from vendor (each)": 2,
+          "1250 : Build Game - User Experience - UI design for a single surface (screen template, In real life artifact)": 1
+        },
+        "date_range": {
+          "earliest": "20211218",
+          "latest": "20231023"
+        },
+        "contribution_types": [
+          {
+            "description": "Landing page design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+            "project": "",
+            "tdg": 0,
+            "date": "20211218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Brand design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+            "project": "",
+            "tdg": 0,
+            "date": "20220301",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Packaging supplier - Roastar. \nUSD1.95 per bag \nMinimum order quantity 1000\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20roastar.jpeg",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20230823",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Packaging supplier - VistaPrint \nUSD1.3 per bag. \nMInimum order quantity 500\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20vistaprint.jpeg",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20230823",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Banner for store front design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231020%20-%20Kevin%20banner%20asset.jpeg",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20231023",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "",
+          "Contribution Made": "Landing page design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20211218",
+          "Solana Transfer Hash": "4n3Sc3Xygs6n86FhMt3PvCvYqf998JaMQjHViPd6nQEPbmATcjZFJwsGBHmTanDgQuKQpWza1Pe345LjbaWvMQzF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "",
+          "Contribution Made": "Brand design system: designs https://xd.adobe.com/view/ae48ef01-a3c8-4204-bfef-81d2a0cdc0ac-fb1b/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220301",
+          "Solana Transfer Hash": "4n3Sc3Xygs6n86FhMt3PvCvYqf998JaMQjHViPd6nQEPbmATcjZFJwsGBHmTanDgQuKQpWza1Pe345LjbaWvMQzF",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Packaging supplier - Roastar. \nUSD1.95 per bag \nMinimum order quantity 1000\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20roastar.jpeg",
+          "Rubric classification": "50 : Commerce - Quotation from vendor (each)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230823",
+          "Solana Transfer Hash": "5yQg4e7xWe8H4iaihatV2bnNMHCHGR8vf9AQM9T3BK9UycUi4MPnFHY4jhaH8BDFEhkGjjp51sfAmsqsc7NjaTLh",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Packaging supplier - VistaPrint \nUSD1.3 per bag. \nMInimum order quantity 500\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20kevin%20surfaced%20package%20supplier%20vistaprint.jpeg",
+          "Rubric classification": "50 : Commerce - Quotation from vendor (each)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230823",
+          "Solana Transfer Hash": "5yQg4e7xWe8H4iaihatV2bnNMHCHGR8vf9AQM9T3BK9UycUi4MPnFHY4jhaH8BDFEhkGjjp51sfAmsqsc7NjaTLh",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Kevin Deval",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Banner for store front design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231020%20-%20Kevin%20banner%20asset.jpeg",
+          "Rubric classification": "1250 : Build Game - User Experience - UI design for a single surface (screen template, In real life artifact)",
+          "TDGs Provisioned": "1,250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,250.00",
+          "Status date": "20231023",
+          "Solana Transfer Hash": "5yQg4e7xWe8H4iaihatV2bnNMHCHGR8vf9AQM9T3BK9UycUi4MPnFHY4jhaH8BDFEhkGjjp51sfAmsqsc7NjaTLh",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

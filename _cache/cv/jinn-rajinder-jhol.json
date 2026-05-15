@@ -1,0 +1,107 @@
+{
+  "slug": "jinn-rajinder-jhol",
+  "display_name": "Jinn Rajinder Jhol",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 375.0,
+    "date_range": {
+      "earliest": "20240214",
+      "latest": "20240215"
+    },
+    "source": {
+      "contributor_name": "Jinn Rajinder Jhol",
+      "generated_date": "2026-05-14T22:06:13.497176",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 375.0,
+        "total_tdg_issued": 375.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240214",
+          "latest": "20240215"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 375.0,
+        "total_tdg_issued": 375.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20240214",
+          "latest": "20240215"
+        },
+        "contribution_types": [
+          {
+            "description": "Please welcome @41788888581 who me and @41799155602 met in Davos 🙂🙏\n\nHe has recently contributed 3 hours of time helping draft an action plan to evangelize international Do Nothing DAy (_a secular day where people take a step back to observe sabbath and reconsider their purpose of existence 🙂🙏_)\n\nhttps://docs.google.com/document/d/1e9iplvbggCK8onp1HKSVJ5RXgQi4rdAQhEsCN6bS_qU/edit?usp=sharing ‎<This message was edited>\n‎",
+            "project": "TrueSight DAO",
+            "tdg": 300.0,
+            "date": "20240215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and @41788888581 had a 45 minutes conversation where we shared discussed about the following \n\n- discuss sourcing produce for @120363044028036610@g.us that is grown using regenerative technique from Congo when he meets with the minister in March. @41799155602 please see if you could meet them \n\n- ⁠he is planning to work on publishing a book on education for kids on how to Do Nothing (_with computers_) now that addiction level is almost hitting epidemic level as well as how to live simply. I have proposed the RND that we are conducting via @120363045796860099@g.us be forwarded over to him to include in the book. Once it’s published, the book could be forwarded over to @41786813052 \n\n- ⁠he mentioned USA used to be setup as networks of trading post where the European civilization gradually expanded westwards. @120363045796860099@g.us cluster that @19209806391 shared could be a modern rendition of this network\n\n- ⁠Evangelizing an intentional day of Do Nothing as a movement! This we will more deeply explore in the @120363044542957540@g.us 🤩🙏\n\n- ⁠Do Nothing as a secular reindition of the Sabbath, Zen Mediation and Taoist Emptiness ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 75.0,
+            "date": "20240214",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Jinn Rajinder Jhol",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Please welcome @41788888581 who me and @41799155602 met in Davos 🙂🙏\n\nHe has recently contributed 3 hours of time helping draft an action plan to evangelize international Do Nothing DAy (_a secular day where people take a step back to observe sabbath and reconsider their purpose of existence 🙂🙏_)\n\nhttps://docs.google.com/document/d/1e9iplvbggCK8onp1HKSVJ5RXgQi4rdAQhEsCN6bS_qU/edit?usp=sharing ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "300.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "300.00",
+          "Status date": "20240215",
+          "Solana Transfer Hash": "5tkvPBxbLYp3MMn6HTKxB7FpooDeYAWZqfqqPbWpDaqqqKWgAd5vtiYkbyswCxY7uYyza37Qb1WAcCjsujB8rWAH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+41 78 888 85 81",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Jinn Rajinder Jhol",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Me and @41788888581 had a 45 minutes conversation where we shared discussed about the following \n\n- discuss sourcing produce for @120363044028036610@g.us that is grown using regenerative technique from Congo when he meets with the minister in March. @41799155602 please see if you could meet them \n\n- ⁠he is planning to work on publishing a book on education for kids on how to Do Nothing (_with computers_) now that addiction level is almost hitting epidemic level as well as how to live simply. I have proposed the RND that we are conducting via @120363045796860099@g.us be forwarded over to him to include in the book. Once it’s published, the book could be forwarded over to @41786813052 \n\n- ⁠he mentioned USA used to be setup as networks of trading post where the European civilization gradually expanded westwards. @120363045796860099@g.us cluster that @19209806391 shared could be a modern rendition of this network\n\n- ⁠Evangelizing an intentional day of Do Nothing as a movement! This we will more deeply explore in the @120363044542957540@g.us 🤩🙏\n\n- ⁠Do Nothing as a secular reindition of the Sabbath, Zen Mediation and Taoist Emptiness ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "75",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20240214",
+          "Solana Transfer Hash": "5tkvPBxbLYp3MMn6HTKxB7FpooDeYAWZqfqqPbWpDaqqqKWgAd5vtiYkbyswCxY7uYyza37Qb1WAcCjsujB8rWAH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+41 78 888 85 81",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

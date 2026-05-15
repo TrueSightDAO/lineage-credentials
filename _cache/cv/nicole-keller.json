@@ -1,0 +1,229 @@
+{
+  "slug": "nicole-keller",
+  "display_name": "Nicole Keller",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 7,
+    "total_tdg_provisioned": 990.0,
+    "date_range": {
+      "earliest": "20240130",
+      "latest": "20250429"
+    },
+    "source": {
+      "contributor_name": "Nicole Keller",
+      "generated_date": "2026-05-14T22:06:13.726639",
+      "summary": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 990.0,
+        "total_tdg_issued": 990.0,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20240130",
+          "latest": "20250429"
+        }
+      },
+      "analysis": {
+        "total_contributions": 7,
+        "total_tdg_provisioned": 990.0,
+        "total_tdg_issued": 990.0,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 7
+        },
+        "date_range": {
+          "earliest": "20240130",
+          "latest": "20250429"
+        },
+        "contribution_types": [
+          {
+            "description": "🌱Are you an organisation with a #nature-positive solution? 🚀 We recognise innovation, collaboration and leadership that have a positive impact on nature! Take part in our I4N AWARD: \n \n🏆 The I4N AWARD is our way of recognising and encouraging visionaries like you and provides #financial and non-financial support. Win up to CHF 100,000 in prize money across 4 key areas. Open globally. \n\nApply here: https://i4n.ch/i4n-award/",
+            "project": "TrueSight DAO",
+            "tdg": 15.0,
+            "date": "20240215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Nicole Keller had our bag of cacao nibs on display for 6 hours at the Green Hub on the day she received the bag from @41799155602",
+            "project": "Agroverse",
+            "tdg": 600.0,
+            "date": "20240130",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Just finished an hour of facetime with @41786813052 \n\n_Discussed_\n- Green Up is a non-profit Swiss association\n- ⁠Explored how Green Up operates projects and events in Switzerland\n- ⁠One of the most popular workshop offered by Green Up to cooperations is how to live simply\n- ⁠how foundations that provide financing to Green Up projects work\n\npotential areas for interfacing\n- Green Up has done a bunch of research on living simply and soil restoration. We could potentially utilize the research materials to identify prototypes we want to test and implement for testing in the SunMint Project. Those that we have tested to work in our SunMint project we can then compile as a handbook that Green Up could use in their workshops\n- We could learn from operating processes that Green Up follows when running volunteer based events\n- ⁠There has been a bunch of folks in our DAO that have proposed that I write a book at some point. I think the most useful book I could probably come up with right now is basically a blueprint that people can follow to implement the minimal carbon footprint off-grid setup I have right now. I will contribute that as materials to the workshop that Green Up workshop\n- ⁠Foundations that Green Up is in communications with in Switzerland that are associated retailing distribution would be helpful for distributing Agroverse produce growing using environmentally restorative techniques. We should support the farmers ‎<This message was edited>\n‎",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20240212",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent 10 minutes having conversations with @41786813052 about serving up cacao at our cacao circle in Davos this upcoming WEF at the climate hub \n\nSeems logistics are generally flowing along for the type of equipments we need on site 🤩🙏",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20240920",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Evi and Nicole Keller spent 30 minutes discussing tomorrow’s logistics for serving cacao at the climate hub",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20250120",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Nicole Keller spent 2 hours helping coordinate setup",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20250121",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you @41786813052 for spending 5 minutes to respond to my question 😊🙏",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250429",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 7
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Nicole Keller",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "🌱Are you an organisation with a #nature-positive solution? 🚀 We recognise innovation, collaboration and leadership that have a positive impact on nature! Take part in our I4N AWARD: \n \n🏆 The I4N AWARD is our way of recognising and encouraging visionaries like you and provides #financial and non-financial support. Win up to CHF 100,000 in prize money across 4 key areas. Open globally. \n\nApply here: https://i4n.ch/i4n-award/",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "15.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "15.00",
+          "Status date": "20240215",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "15.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nicole Keller",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Nicole Keller had our bag of cacao nibs on display for 6 hours at the Green Hub on the day she received the bag from @41799155602",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "600.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "600.00",
+          "Status date": "20240130",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "600.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nicole Keller",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Just finished an hour of facetime with @41786813052 \n\n_Discussed_\n- Green Up is a non-profit Swiss association\n- ⁠Explored how Green Up operates projects and events in Switzerland\n- ⁠One of the most popular workshop offered by Green Up to cooperations is how to live simply\n- ⁠how foundations that provide financing to Green Up projects work\n\npotential areas for interfacing\n- Green Up has done a bunch of research on living simply and soil restoration. We could potentially utilize the research materials to identify prototypes we want to test and implement for testing in the SunMint Project. Those that we have tested to work in our SunMint project we can then compile as a handbook that Green Up could use in their workshops\n- We could learn from operating processes that Green Up follows when running volunteer based events\n- ⁠There has been a bunch of folks in our DAO that have proposed that I write a book at some point. I think the most useful book I could probably come up with right now is basically a blueprint that people can follow to implement the minimal carbon footprint off-grid setup I have right now. I will contribute that as materials to the workshop that Green Up workshop\n- ⁠Foundations that Green Up is in communications with in Switzerland that are associated retailing distribution would be helpful for distributing Agroverse produce growing using environmentally restorative techniques. We should support the farmers ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20240212",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nicole Keller",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Spent 10 minutes having conversations with @41786813052 about serving up cacao at our cacao circle in Davos this upcoming WEF at the climate hub \n\nSeems logistics are generally flowing along for the type of equipments we need on site 🤩🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20240920",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nicole Keller",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, Evi and Nicole Keller spent 30 minutes discussing tomorrow’s logistics for serving cacao at the climate hub",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250120",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nicole Keller",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Nicole Keller spent 2 hours helping coordinate setup",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20250121",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Nicole Keller",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you @41786813052 for spending 5 minutes to respond to my question 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250429",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

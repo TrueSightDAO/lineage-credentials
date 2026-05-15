@@ -1,0 +1,131 @@
+{
+  "slug": "dr-nike-schmidt",
+  "display_name": "Dr. Nike Schmidt",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 111.0,
+    "date_range": {
+      "earliest": "20230518",
+      "latest": "20230518"
+    },
+    "source": {
+      "contributor_name": "Dr. Nike Schmidt",
+      "generated_date": "2026-05-14T22:06:13.063874",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 111.0,
+        "total_tdg_issued": 111.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230518",
+          "latest": "20230518"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 111.0,
+        "total_tdg_issued": 111.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 1,
+          "10 : Bring Builders - reactivated a dormant member": 1
+        },
+        "date_range": {
+          "earliest": "20230518",
+          "latest": "20230518"
+        },
+        "contribution_types": [
+          {
+            "description": "1 hour facetime discussing about setting up of DAO on 20230518",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Proposed to refer to web3lex to source for legal experts in Web3 space \n\nhttps://www.web3lex.io/",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20230518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reintroduced us to Karin, DAO legal specialist in Switzerland\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230518%20-%20Introduction_Karin__Gary__Anita__TrueSight_DAO__-_garyjob_truesight_me_-_GetData_Inc_Mail.jpg",
+            "project": "TrueSight DAO",
+            "tdg": 10.0,
+            "date": "20230518",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Dr. Nike Schmidt ",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "1 hour facetime discussing about setting up of DAO on 20230518",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230518",
+          "Solana Transfer Hash": "3HPGJ1WZutCh2dq7R4n9QRRmaJiPymY7rMKUPs9wHdfrstFb9e36iRQFj4bq1xdhNNZSrzPtTsEyu4kMikDFDVRi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dr. Nike Schmidt ",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Proposed to refer to web3lex to source for legal experts in Web3 space \n\nhttps://www.web3lex.io/",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230518",
+          "Solana Transfer Hash": "3HPGJ1WZutCh2dq7R4n9QRRmaJiPymY7rMKUPs9wHdfrstFb9e36iRQFj4bq1xdhNNZSrzPtTsEyu4kMikDFDVRi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Dr. Nike Schmidt ",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Reintroduced us to Karin, DAO legal specialist in Switzerland\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230518%20-%20Introduction_Karin__Gary__Anita__TrueSight_DAO__-_garyjob_truesight_me_-_GetData_Inc_Mail.jpg",
+          "Rubric classification": "10 : Bring Builders - reactivated a dormant member",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230518",
+          "Solana Transfer Hash": "3HPGJ1WZutCh2dq7R4n9QRRmaJiPymY7rMKUPs9wHdfrstFb9e36iRQFj4bq1xdhNNZSrzPtTsEyu4kMikDFDVRi",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

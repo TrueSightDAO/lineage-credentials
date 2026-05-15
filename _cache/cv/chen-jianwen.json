@@ -1,0 +1,105 @@
+{
+  "slug": "chen-jianwen",
+  "display_name": "Chen JianWen",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 501.0,
+    "date_range": {
+      "earliest": "20220105",
+      "latest": "20230509"
+    },
+    "source": {
+      "contributor_name": "Chen JianWen",
+      "generated_date": "2026-05-14T22:06:12.989256",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 501.0,
+        "total_tdg_issued": 501.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20220105",
+          "latest": "20230509"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 501.0,
+        "total_tdg_issued": 501.0,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing": 1
+        },
+        "date_range": {
+          "earliest": "20220105",
+          "latest": "20230509"
+        },
+        "contribution_types": [
+          {
+            "description": "Company page UI/UX review",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220105",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested https://www.junglescout.com/ for market research",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230509",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Chen JianWen",
+          "Project Name": "",
+          "Contribution Made": "Company page UI/UX review",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220105",
+          "Solana Transfer Hash": "9ao85UnBPTxpUyrWoq2ZZHCnfFQTiurcpCz4dxiKApSEAtwseZ7tu8Q2BRj3tsZzQzwX2GQfsUTPKCrfTaj8La3",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Chen JianWen",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Suggested https://www.junglescout.com/ for market research",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230509",
+          "Solana Transfer Hash": "2A99GJx2VJLY77hXoxymPQ8cP7k958GPfzDAk1DJ82aSgMbVzES8r1EgqXbQRMytfMxG6KLBjLMUZt9EYQtNTu21",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

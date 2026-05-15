@@ -1,0 +1,102 @@
+{
+  "slug": "edwin-lun",
+  "display_name": "Edwin Lun",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 600.0,
+    "date_range": {
+      "earliest": "20220406",
+      "latest": "20220410"
+    },
+    "source": {
+      "contributor_name": "Edwin Lun",
+      "generated_date": "2026-05-14T22:06:13.093577",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 600.0,
+        "total_tdg_issued": 600.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220406",
+          "latest": "20220410"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 600.0,
+        "total_tdg_issued": 600.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Bring Builders - brought on a passive observer": 1,
+          "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension": 1
+        },
+        "date_range": {
+          "earliest": "20220406",
+          "latest": "20220410"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduction to David - GhostDrive",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220406",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Proposal for two tiered voting structure \n\nhttps://polemos.io/whitepaper/\nhttps://github.com/TrueSightDAO/.github/raw/main/assets/20220410_edwin_lun_polemos_2_tiered_voting.png",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220410",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Edwin Lun",
+          "Project Name": "",
+          "Contribution Made": "Introduction to David - GhostDrive",
+          "Rubric classification": "100 : Bring Builders - brought on a passive observer",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220406",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Edwin Lun",
+          "Project Name": "",
+          "Contribution Made": "Governance: Proposal for two tiered voting structure \n\nhttps://polemos.io/whitepaper/\nhttps://github.com/TrueSightDAO/.github/raw/main/assets/20220410_edwin_lun_polemos_2_tiered_voting.png",
+          "Rubric classification": "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220410",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

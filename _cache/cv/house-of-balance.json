@@ -1,0 +1,277 @@
+{
+  "slug": "house-of-balance",
+  "display_name": "House of Balance",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 9,
+    "total_tdg_provisioned": 425.0,
+    "date_range": {
+      "earliest": "20220705",
+      "latest": "20231010"
+    },
+    "source": {
+      "contributor_name": "House of Balance",
+      "generated_date": "2026-05-14T22:06:13.431831",
+      "summary": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 425.0,
+        "total_tdg_issued": 425.0,
+        "projects": [
+          "Agroverse",
+          "Sun Mint"
+        ],
+        "date_range": {
+          "earliest": "20220705",
+          "latest": "20231010"
+        }
+      },
+      "analysis": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 425.0,
+        "total_tdg_issued": 425.0,
+        "projects": [
+          "Agroverse",
+          "Sun Mint"
+        ],
+        "rubric_categories": {
+          "5000 : Build Game - Marketing - Oversaw an entire marketing messaging campaign": 1,
+          "250 : Bring Builders - brought on a active contributor": 1,
+          "25 : Bring Builders - brought on a active contributor": 7
+        },
+        "date_range": {
+          "earliest": "20220705",
+          "latest": "20231010"
+        },
+        "contribution_types": [
+          {
+            "description": "Featured TrueSight DAO at the House of Balance in Davos 2022\n\nhttps://www.thecosmicinternet.com/schedule-sonora",
+            "project": "",
+            "tdg": 0,
+            "date": "20220705",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Alessandro Mele who might is interested in the project",
+            "project": "Sun Mint",
+            "tdg": 250.0,
+            "date": "20230209",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduce Francois Renet",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231010",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Karin Lanz",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231010",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Iwona Fluda",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231010",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Tiffany Harnsongkram",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231010",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Victor Pineda",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231010",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduce Janet",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231010",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Farah Nanji",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20231010",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 9
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "",
+          "Contribution Made": "Featured TrueSight DAO at the House of Balance in Davos 2022\n\nhttps://www.thecosmicinternet.com/schedule-sonora",
+          "Rubric classification": "5000 : Build Game - Marketing - Oversaw an entire marketing messaging campaign",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5,000.00",
+          "Status date": "20220705",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "5,000.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "Introduced Alessandro Mele who might is interested in the project",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230209",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduce Francois Renet",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231010",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Karin Lanz",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231010",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Iwona Fluda",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231010",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Tiffany Harnsongkram",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231010",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Victor Pineda",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231010",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduce Janet",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231010",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "House of Balance",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Farah Nanji",
+          "Rubric classification": "25 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20231010",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,385 @@
+{
+  "slug": "alessandro-mele",
+  "display_name": "Alessandro Mele",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 13,
+    "total_tdg_provisioned": 956.6600000000001,
+    "date_range": {
+      "earliest": "20230203",
+      "latest": "20250610"
+    },
+    "source": {
+      "contributor_name": "Alessandro Mele",
+      "generated_date": "2026-05-14T22:06:12.836230",
+      "summary": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 956.6600000000001,
+        "total_tdg_issued": 956.6600000000001,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "Sun Mint",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230203",
+          "latest": "20250610"
+        }
+      },
+      "analysis": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 956.6600000000001,
+        "total_tdg_issued": 956.6600000000001,
+        "projects": [
+          "20250617_beerhall",
+          "Agroverse",
+          "Sun Mint",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 1,
+          "500 : Bring Builders - brought on a key opinion leader": 1,
+          "250 : Commerce - Sourced for producer": 1,
+          "1000 : Bring Builders - brought on a resource owner": 1,
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 2,
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 1,
+          "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)": 2,
+          "1 : Events Planning - ReShared/Upvote a short media text post  (Facebook, LinkedIn, IG, Twitter or Reddit)": 1,
+          "100TDG For every 1 hour of human effort": 2,
+          "\"100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20230203",
+          "latest": "20250610"
+        },
+        "contribution_types": [
+          {
+            "description": "Renting a regis office space to mine bitcoin might work since they dont check for electricity usage",
+            "project": "Sun Mint",
+            "tdg": 50.0,
+            "date": "20230203",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Stefan who operates YesWeTrust.com which runs a model to facilitate social impact investing",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "20230329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://producersmarket.com/",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230515",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Helped find free ticket for suheil to attend conference\n\n https://www.changenow.world",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230524",
+            "status": "Failed / Partial Provision Awarded"
+          },
+          {
+            "description": "Shared this post\n\nhttps://www.linkedin.com/posts/keithagoada_i-believe-regenerative-farming-for-small-activity-7079039655400079360-wp8u?utm_source=share&utm_medium=member_ios",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230628",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Water extraction from nothing \n\nhttps://www.facebook.com/reel/637309251598616?fs=e&s=7MtrtK",
+            "project": "Sun Mint",
+            "tdg": 10.0,
+            "date": "20230628",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://wikifarmer.com/market/en/rfq-create/?product_id=47829",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20230730",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reposting\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7114868120460087296/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231003",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reposted on Episode 9 on LinkedIn\n\nhttps://www.linkedin.com/company/74714083/admin/feed/posts/",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Resharing episode 9 on Facetime\n\nhttps://www.facebook.com/590788071/posts/pfbid02Hk8DajRw8fkA9NkFoAPUuKy63Suss9b7AmPM61gFze3iZS9cNkzjQtWQDqeufhP6l/?mibextid=cr9u03",
+            "project": "Agroverse",
+            "tdg": 1.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Alessandro made an introduction to UK chocolatier\n\nHe spent 15 minutes <This message was edited>",
+            "project": "Agroverse",
+            "tdg": 25.0,
+            "date": "20240617",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Let’s thank Alessandro for this five minute contribution of the term _*“regeneration”_*",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250121",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Thank you Alessandro for spending 5 minutes to reach out about DAO 2050",
+            "project": "20250617_beerhall",
+            "tdg": 8.33,
+            "date": "20250610",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 12,
+          "Failed / Partial Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "Renting a regis office space to mine bitcoin might work since they dont check for electricity usage",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230203",
+          "Solana Transfer Hash": "56cgxwvgLuwgaJQCk9hXKFZ7b7EyNssBWSBm4QaoGoXHDk2TDUh8noEBjB74dKV1JYMuj9j3dsJ5Q8F4fRXFc1c8",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Stefan who operates YesWeTrust.com which runs a model to facilitate social impact investing",
+          "Rubric classification": "500 : Bring Builders - brought on a key opinion leader",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20230329",
+          "Solana Transfer Hash": "56cgxwvgLuwgaJQCk9hXKFZ7b7EyNssBWSBm4QaoGoXHDk2TDUh8noEBjB74dKV1JYMuj9j3dsJ5Q8F4fRXFc1c8",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Agroverse",
+          "Contribution Made": "https://producersmarket.com/",
+          "Rubric classification": "250 : Commerce - Sourced for producer",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230515",
+          "Solana Transfer Hash": "56cgxwvgLuwgaJQCk9hXKFZ7b7EyNssBWSBm4QaoGoXHDk2TDUh8noEBjB74dKV1JYMuj9j3dsJ5Q8F4fRXFc1c8",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Helped find free ticket for suheil to attend conference\n\n https://www.changenow.world",
+          "Rubric classification": "1000 : Bring Builders - brought on a resource owner",
+          "TDGs Provisioned": "100.00",
+          "Status": "Failed / Partial Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230524",
+          "Solana Transfer Hash": "2mXJWKTSAo4EjwsgDomqDeMZDu6GLHz1C5pNMBMrp7HVV674nXsuhsZejXDweEAxQpwHGY8uJHFCpssTCJYBG8uo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Shared this post\n\nhttps://www.linkedin.com/posts/keithagoada_i-believe-regenerative-farming-for-small-activity-7079039655400079360-wp8u?utm_source=share&utm_medium=member_ios",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230628",
+          "Solana Transfer Hash": "56cgxwvgLuwgaJQCk9hXKFZ7b7EyNssBWSBm4QaoGoXHDk2TDUh8noEBjB74dKV1JYMuj9j3dsJ5Q8F4fRXFc1c8",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "Water extraction from nothing \n\nhttps://www.facebook.com/reel/637309251598616?fs=e&s=7MtrtK",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230628",
+          "Solana Transfer Hash": "56cgxwvgLuwgaJQCk9hXKFZ7b7EyNssBWSBm4QaoGoXHDk2TDUh8noEBjB74dKV1JYMuj9j3dsJ5Q8F4fRXFc1c8",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Agroverse",
+          "Contribution Made": "https://wikifarmer.com/market/en/rfq-create/?product_id=47829",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230730",
+          "Solana Transfer Hash": "2mXJWKTSAo4EjwsgDomqDeMZDu6GLHz1C5pNMBMrp7HVV674nXsuhsZejXDweEAxQpwHGY8uJHFCpssTCJYBG8uo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Reposting\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7114868120460087296/",
+          "Rubric classification": "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231003",
+          "Solana Transfer Hash": "2mXJWKTSAo4EjwsgDomqDeMZDu6GLHz1C5pNMBMrp7HVV674nXsuhsZejXDweEAxQpwHGY8uJHFCpssTCJYBG8uo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Reposted on Episode 9 on LinkedIn\n\nhttps://www.linkedin.com/company/74714083/admin/feed/posts/",
+          "Rubric classification": "1 : Build Game - Marketing - ReShared/Upvote a short media text post  (Facebook, Linkedin, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "2mXJWKTSAo4EjwsgDomqDeMZDu6GLHz1C5pNMBMrp7HVV674nXsuhsZejXDweEAxQpwHGY8uJHFCpssTCJYBG8uo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Resharing episode 9 on Facetime\n\nhttps://www.facebook.com/590788071/posts/pfbid02Hk8DajRw8fkA9NkFoAPUuKy63Suss9b7AmPM61gFze3iZS9cNkzjQtWQDqeufhP6l/?mibextid=cr9u03",
+          "Rubric classification": "1 : Events Planning - ReShared/Upvote a short media text post  (Facebook, LinkedIn, IG, Twitter or Reddit)",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "2mXJWKTSAo4EjwsgDomqDeMZDu6GLHz1C5pNMBMrp7HVV674nXsuhsZejXDweEAxQpwHGY8uJHFCpssTCJYBG8uo",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Alessandro made an introduction to UK chocolatier\n\nHe spent 15 minutes <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20240617",
+          "Solana Transfer Hash": "https://solscan.io/tx/2DfpQ1fWqQhVHSpT3HMZ5ZGwkz53dnTdMCXbUtrKirCWM2TdT3kD3knusdNrS8ApDjr6v5MxvhFiCchwDS9TPxTU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Let’s thank Alessandro for this five minute contribution of the term _*“regeneration”_*",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250121",
+          "Solana Transfer Hash": "https://solscan.io/tx/3hrAF8evRfHaHhYC3tqTE6uGnGBouoexBqFto3njrNV3QRuN3NAmHfp1bF2LYqujFK1N725vQAXNcSC9D7W2tKSp",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alessandro Mele",
+          "Project Name": "20250617_beerhall",
+          "Contribution Made": "Thank you Alessandro for spending 5 minutes to reach out about DAO 2050",
+          "Rubric classification": "\"100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250610",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

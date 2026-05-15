@@ -1,0 +1,180 @@
+{
+  "slug": "guenther-dobrauz",
+  "display_name": "Guenther Dobrauz",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 601.0,
+    "date_range": {
+      "earliest": "20230203",
+      "latest": "20230520"
+    },
+    "source": {
+      "contributor_name": "Guenther Dobrauz",
+      "generated_date": "2026-05-14T22:06:13.421251",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 601.0,
+        "total_tdg_issued": 601.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230203",
+          "latest": "20230520"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 601.0,
+        "total_tdg_issued": 601.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 2,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing": 1
+        },
+        "date_range": {
+          "earliest": "20230203",
+          "latest": "20230520"
+        },
+        "contribution_types": [
+          {
+            "description": "Suggested an association might be a cheap affordable format for registering in Switzerland",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20230203",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Suggested the current rotating governors format might not work well with the association format",
+            "project": "TrueSight DAO",
+            "tdg": 75.0,
+            "date": "20230203",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Easiest way around all the legal issues is to not call it a DAO. Just call it a game",
+            "project": "TrueSight DAO",
+            "tdg": 75.0,
+            "date": "20230203",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "2 hours of facetime discussion about how to structure the DAO in the Switzerland jurisdiction",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20230203",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "SwissLLC is 20k paid up capital, Ltd is 100k (of which you must pay in 50k but the other 50k remain).",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20230520",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Guenther Dobrauz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Suggested an association might be a cheap affordable format for registering in Switzerland",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230203",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Guenther Dobrauz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Suggested the current rotating governors format might not work well with the association format",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20230203",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Guenther Dobrauz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Easiest way around all the legal issues is to not call it a DAO. Just call it a game",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20230203",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Guenther Dobrauz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "2 hours of facetime discussion about how to structure the DAO in the Switzerland jurisdiction",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20230203",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Guenther Dobrauz",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "SwissLLC is 20k paid up capital, Ltd is 100k (of which you must pay in 50k but the other 50k remain).",
+          "Rubric classification": "1 : Build Game - Strategy - Suggested a snippet of standalone insight that is associated with what we are doing",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20230520",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

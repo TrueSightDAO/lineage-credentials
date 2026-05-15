@@ -1,0 +1,150 @@
+{
+  "slug": "luigi",
+  "display_name": "Luigi",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 75.0,
+    "date_range": {
+      "earliest": "20220607",
+      "latest": "20220607"
+    },
+    "source": {
+      "contributor_name": "Luigi",
+      "generated_date": "2026-05-14T22:06:13.634967",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 75.0,
+        "total_tdg_issued": 75.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220607",
+          "latest": "20220607"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 75.0,
+        "total_tdg_issued": 75.0,
+        "projects": [],
+        "rubric_categories": {
+          "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources": 3
+        },
+        "date_range": {
+          "earliest": "20220607",
+          "latest": "20220607"
+        },
+        "contribution_types": [
+          {
+            "description": "Marketing: User acquisition via Telegram using Python",
+            "project": "",
+            "tdg": 0.0,
+            "date": "",
+            "status": "Proposed"
+          },
+          {
+            "description": "Reading material: the soul of Web3, soulbound tokens\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220607%20-%20luigi%209078665059360003278soulbound_token.pdf",
+            "project": "",
+            "tdg": 25.0,
+            "date": "20220607",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Reading material:  understanding community lead approaches to community change\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220607%20-%20luigi%20Community-Led%20Approaches.pdf",
+            "project": "",
+            "tdg": 25.0,
+            "date": "20220607",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Tool to allow DAOs to coordinate\n\nhttps://app.dework.xyz/",
+            "project": "",
+            "tdg": 25.0,
+            "date": "20220607",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Proposed": 1,
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Luigi",
+          "Project Name": "",
+          "Contribution Made": "Marketing: User acquisition via Telegram using Python",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "Proposed",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+971 56 597 2337",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Luigi",
+          "Project Name": "",
+          "Contribution Made": "Reading material: the soul of Web3, soulbound tokens\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220607%20-%20luigi%209078665059360003278soulbound_token.pdf",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20220607",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25",
+          "Discord ID": "+971 56 597 2337",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Luigi",
+          "Project Name": "",
+          "Contribution Made": "Reading material:  understanding community lead approaches to community change\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220607%20-%20luigi%20Community-Led%20Approaches.pdf",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20220607",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25",
+          "Discord ID": "+971 56 597 2337",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Luigi",
+          "Project Name": "",
+          "Contribution Made": "Governance: Tool to allow DAOs to coordinate\n\nhttps://app.dework.xyz/",
+          "Rubric classification": "25 : Build Game - Strategy - Contribute reference material - hyperlink to some online resources",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25",
+          "Status date": "20220607",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "25",
+          "Discord ID": "+971 56 597 2337",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "marta-lopes",
+  "display_name": "Marta Lopes",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 2,
+    "total_tdg_provisioned": 50.0,
+    "date_range": {
+      "earliest": "20251006",
+      "latest": "20251012"
+    },
+    "source": {
+      "contributor_name": "Marta Lopes",
+      "generated_date": "2026-05-14T22:06:13.649200",
+      "summary": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20251006",
+          "latest": "20251012"
+        }
+      },
+      "analysis": {
+        "total_contributions": 2,
+        "total_tdg_provisioned": 50.0,
+        "total_tdg_issued": 50.0,
+        "projects": [
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20251006",
+          "latest": "20251012"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Explained that the malaise trap is used for counting diversity of insects in an ecosystem. Pattern recognition could then be applied to it to do the count.\r\n- Contributor(s): Marta Lopes\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 5Q/WmTdbksYeanQDyvywo/oFeccGhw0qMbbZs5VxWo73I/MVggFdCHAFIDOh0DxdZh40mguJoaYQ9ldYB3DPtsbYJGtyax4mDwaZZtRgVYdtn0R1BmNFylpkGJd5cuOe0M4GbaNB9vr8YSb7a+5R9hQDjV0MwWQhkJ7oIf/Eho92JAHbXzYJin9/gEGRjpfJOqaNyUl54GzX2leaLedBAvdE3vVB1NITu3iPkpfCykDoo0vXEYmPQ2sT2GCjUpmpmUbdZPS64e6xP4QqKRnmuEEKP+2jfdlI3k2JBIRRSez0a5K9K3RDvdYhk5otSr++ntibO42csAF95nCndkPssA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20251006",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: https://maps.app.goo.gl/XXGy4rV4kxPrLDm5A?g_st=ipc Surfacing of new cacao source from Rondonia \r\n- Contributor(s): Gary Teh, Marta Lopes\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: vEu8Q5g9LfQr+Adr3d8OvHjI20lNci7B2ySMRJAfHh3cxQ5t86fNWZBtCQD1M50huDQBKz71YHuckK8+0+4y+wZKuCYtiHEcMKdKEz+qlfkr78yVuxuFkUANnW5gOoytsqvHdAjt0lvO5TAAgedhBWq4w8QxFYaUj3F9o1GJQ7EgaVsl27cOltpDFaLy5WwZTVyc8gJUo9TZJQJDy8gl82BYL9D6ODZ1rs2V0mAPPTlRC73lSgs89KMfMN+LsH+YrwQ/9Q58VW1N4wrBhzYTE3sQcuWBwENYn6K3qJGJj+4Td46lHqlgEzxfIuRI2kftYpeXBQyEtWO5vE6tHB5VvA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 25.0,
+            "date": "20251012",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 2
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Marta Lopes",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Explained that the malaise trap is used for counting diversity of insects in an ecosystem. Pattern recognition could then be applied to it to do the count.\r\n- Contributor(s): Marta Lopes\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 5Q/WmTdbksYeanQDyvywo/oFeccGhw0qMbbZs5VxWo73I/MVggFdCHAFIDOh0DxdZh40mguJoaYQ9ldYB3DPtsbYJGtyax4mDwaZZtRgVYdtn0R1BmNFylpkGJd5cuOe0M4GbaNB9vr8YSb7a+5R9hQDjV0MwWQhkJ7oIf/Eho92JAHbXzYJin9/gEGRjpfJOqaNyUl54GzX2leaLedBAvdE3vVB1NITu3iPkpfCykDoo0vXEYmPQ2sT2GCjUpmpmUbdZPS64e6xP4QqKRnmuEEKP+2jfdlI3k2JBIRRSez0a5K9K3RDvdYhk5otSr++ntibO42csAF95nCndkPssA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20251006",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Marta Lopes",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: https://maps.app.goo.gl/XXGy4rV4kxPrLDm5A?g_st=ipc Surfacing of new cacao source from Rondonia \r\n- Contributor(s): Gary Teh, Marta Lopes\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: vEu8Q5g9LfQr+Adr3d8OvHjI20lNci7B2ySMRJAfHh3cxQ5t86fNWZBtCQD1M50huDQBKz71YHuckK8+0+4y+wZKuCYtiHEcMKdKEz+qlfkr78yVuxuFkUANnW5gOoytsqvHdAjt0lvO5TAAgedhBWq4w8QxFYaUj3F9o1GJQ7EgaVsl27cOltpDFaLy5WwZTVyc8gJUo9TZJQJDy8gl82BYL9D6ODZ1rs2V0mAPPTlRC73lSgs89KMfMN+LsH+YrwQ/9Q58VW1N4wrBhzYTE3sQcuWBwENYn6K3qJGJj+4Td46lHqlgEzxfIuRI2kftYpeXBQyEtWO5vE6tHB5VvA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "25.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "25.00",
+          "Status date": "20251012",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

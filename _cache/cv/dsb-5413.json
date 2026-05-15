@@ -1,0 +1,126 @@
+{
+  "slug": "dsb-5413",
+  "display_name": "dsb#5413",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 1000.0,
+    "date_range": {
+      "earliest": "20220327",
+      "latest": "20220329"
+    },
+    "source": {
+      "contributor_name": "dsb#5413",
+      "generated_date": "2026-05-14T22:06:13.989480",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220327",
+          "latest": "20220329"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Engineering - Advise on how to get around a bug": 2,
+          "500 : Bring Builders - brought on a active contributor": 1
+        },
+        "date_range": {
+          "earliest": "20220327",
+          "latest": "20220329"
+        },
+        "contribution_types": [
+          {
+            "description": "Engineering: Help debugging Pyth Network method call to Base64\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/957590509382139944",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220327",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Engineering: Pointing to the correct location to fetch the onchain data from Pyth.Network\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/957939590113660999",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220328",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction: KemarTiti who is more experienced with onchain Anchor calls\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/958314408528998471",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "dsb#5413",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Help debugging Pyth Network method call to Base64\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/957590509382139944",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220327",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "dsb#5413",
+          "Project Name": "",
+          "Contribution Made": "Engineering: Pointing to the correct location to fetch the onchain data from Pyth.Network\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/957939590113660999",
+          "Rubric classification": "250 : Build Game - Engineering - Advise on how to get around a bug",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220328",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "dsb#5413",
+          "Project Name": "",
+          "Contribution Made": "Introduction: KemarTiti who is more experienced with onchain Anchor calls\n\nhttps://discord.com/channels/826115122799837205/842994700864192562/958314408528998471",
+          "Rubric classification": "500 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "500.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

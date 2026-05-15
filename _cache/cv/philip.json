@@ -1,0 +1,509 @@
+{
+  "slug": "philip",
+  "display_name": "Philip",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 19,
+    "total_tdg_provisioned": 3260.0,
+    "date_range": {
+      "earliest": "20220304",
+      "latest": "20220325"
+    },
+    "source": {
+      "contributor_name": "Philip",
+      "generated_date": "2026-05-14T22:06:13.760861",
+      "summary": {
+        "total_contributions": 19,
+        "total_tdg_provisioned": 3260.0,
+        "total_tdg_issued": 18260.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220304",
+          "latest": "20220325"
+        }
+      },
+      "analysis": {
+        "total_contributions": 19,
+        "total_tdg_provisioned": 3260.0,
+        "total_tdg_issued": 18260.0,
+        "projects": [],
+        "rubric_categories": {
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1
+        },
+        "date_range": {
+          "earliest": "20220304",
+          "latest": "20220325"
+        },
+        "contribution_types": [
+          {
+            "description": "Governance: Having a DAO too early sends a negative signal to the community since that is usually when founders have already made enough money and want to cash out and do something else. Best to maintain a centralized until later on.",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Most quants don't last long. Their strategies will fail within a 5 year horizon unless they can update their models across multiple regime changes",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: More bullish on sports betting though have reservations on the legal aspects of it",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis: Enzyme finance",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis: DHedge",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Strategy: Unless you are already picking a space that is very crowded in crypto like attempting to build an exchange there is still a lot of space in the crypto space. \n\nPick one or two players whose concept you like and then out execute them. Since the market size is still exanding rapidly, if you can grow faster than then you will still become market leader",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: study SeekingAlpha.com and Investing.com to see long lasting the quants usually are",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: Only QuantEdge and Renaissance fund last because they are that good. Most don't last that long",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tokenomics: Figure out how to have transparent odds generated. Gambling bookie space is ripe for disruption since their odds are usually not very transparent",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Hold off on targeting institutional people",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "UX: Have drop down that allows punters to filter by 1 day, 1 week, 1 month and all time win rate",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: think of what kind of behavior you want to encourage quants, some maximize ranking for short period or longer period",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Engineering: https://twitter.com/dabit3",
+            "project": "",
+            "tdg": 0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Not having visibilty on the accuracy is a feature and maybe a bug for traders",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: Calling our discord a betting pool",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220307",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tokenomics: Token Velocity is a thing\nhttps://multicoin.capital/2017/12/08/understanding-token-velocity/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220312",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis: augur.net",
+            "project": "",
+            "tdg": 10.0,
+            "date": "20220312",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Competitive Analysis: https://betswap.gg/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220316",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "NFT Minting early access: \nhmmm i kinda understand what you're saying and i think it does create the urgency. but i dont know enough about it to comment unfortunately. not very experienced in this area. i would say its more iimportant at this point to guage general interest? like even with special early access who is this grp that would be clamoring for tokens?",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220325",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 19
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Governance: Having a DAO too early sends a negative signal to the community since that is usually when founders have already made enough money and want to cash out and do something else. Best to maintain a centralized until later on.",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Community: Most quants don't last long. Their strategies will fail within a 5 year horizon unless they can update their models across multiple regime changes",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Community: More bullish on sports betting though have reservations on the legal aspects of it",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: Enzyme finance ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: DHedge",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Strategy: Unless you are already picking a space that is very crowded in crypto like attempting to build an exchange there is still a lot of space in the crypto space. \n\nPick one or two players whose concept you like and then out execute them. Since the market size is still exanding rapidly, if you can grow faster than then you will still become market leader",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Community: study SeekingAlpha.com and Investing.com to see long lasting the quants usually are",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Community: Only QuantEdge and Renaissance fund last because they are that good. Most don't last that long",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Tokenomics: Figure out how to have transparent odds generated. Gambling bookie space is ripe for disruption since their odds are usually not very transparent",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Hold off on targeting institutional people",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "UX: Have drop down that allows punters to filter by 1 day, 1 week, 1 month and all time win rate",
+          "Rubric classification": "",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1000",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Gamification: think of what kind of behavior you want to encourage quants, some maximize ranking for short period or longer period",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Engineering: https://twitter.com/dabit3",
+          "Rubric classification": "",
+          "TDGs Provisioned": "2,500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "2500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Governance: Not having visibilty on the accuracy is a feature and maybe a bug for traders",
+          "Rubric classification": "",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Calling our discord a betting pool ",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220307",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Tokenomics: Token Velocity is a thing\nhttps://multicoin.capital/2017/12/08/understanding-token-velocity/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220312",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: augur.net",
+          "Rubric classification": "",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20220312",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "Competitive Analysis: https://betswap.gg/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220316",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Philip",
+          "Project Name": "",
+          "Contribution Made": "NFT Minting early access: \nhmmm i kinda understand what you're saying and i think it does create the urgency. but i dont know enough about it to comment unfortunately. not very experienced in this area. i would say its more iimportant at this point to guage general interest? like even with special early access who is this grp that would be clamoring for tokens?",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220325",
+          "Solana Transfer Hash": "R3PPvFZbc4aykfVgg6bKPBtSJmwhB2ELw3gFjAAZGT2oUnPBSb28GxGkUJFVLcEwQyDtN1x3buR9gNwavzsMN35",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

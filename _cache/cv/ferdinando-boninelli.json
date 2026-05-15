@@ -1,0 +1,396 @@
+{
+  "slug": "ferdinando-boninelli",
+  "display_name": "Ferdinando Boninelli",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 14,
+    "total_tdg_provisioned": 1233.2099999999998,
+    "date_range": {
+      "earliest": "20230618",
+      "latest": "20230728"
+    },
+    "source": {
+      "contributor_name": "Ferdinando Boninelli",
+      "generated_date": "2026-05-14T22:06:13.166343",
+      "summary": {
+        "total_contributions": 14,
+        "total_tdg_provisioned": 1233.2099999999998,
+        "total_tdg_issued": 1233.2099999999998,
+        "projects": [
+          "Agroverse"
+        ],
+        "date_range": {
+          "earliest": "20230618",
+          "latest": "20230728"
+        }
+      },
+      "analysis": {
+        "total_contributions": 14,
+        "total_tdg_provisioned": 1233.2099999999998,
+        "total_tdg_issued": 1233.2099999999998,
+        "projects": [
+          "Agroverse"
+        ],
+        "rubric_categories": {
+          "50 : Commerce - Facetime phone call with vendor (30 minutes)": 3,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 2,
+          "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO": 8,
+          "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step": 1
+        },
+        "date_range": {
+          "earliest": "20230618",
+          "latest": "20230728"
+        },
+        "contribution_types": [
+          {
+            "description": "Made calls to Grupo Conacado, Dominican Republic to help setup visit 1 hour",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20230618",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "ECO-57: 7 hours drive to and from Coopnacado facility in Hato Mayo, east of Dominican Republic (origin Punta Cana)\n\nfrom 7.30am to 2.30pm",
+            "project": "Agroverse",
+            "tdg": 700.0,
+            "date": "20230620",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "ECO-57: Drive from Punta Cana to San Francisco De Marios to have meeting with Abel and then back from Conacado Cooperative in Dominican Republic. \n\nStart time: 5.30am\nEnd time: 3.30pm\n\n10 hours",
+            "project": "Agroverse",
+            "tdg": 0,
+            "date": "20230624",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Provided car transport for the day for drive from Punta Cana to visit Pila from Conancado at their cacao collection facility",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20230624",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tap into drop shipping network for USA distribution",
+            "project": "Agroverse",
+            "tdg": 10.0,
+            "date": "20230628",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Followed with Abel to check if he has received the details for the email sent from Dragon\n30 minutes",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20230701",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Lunch meeting after our trip from Hata Mayo to visit aggregation center in Dominican Republic\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20lunch%20expenses%20after%20hato%20mayo.jpeg",
+            "project": "Agroverse",
+            "tdg": 9.11,
+            "date": "20230702",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Fuel expense from Punta Cana to San Francisco  to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20fuel%20expense%20san%20francisco%20part%201.jpeg",
+            "project": "Agroverse",
+            "tdg": 54.3,
+            "date": "20230702",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Lunch expenses after drive from San Francisco  to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20fuel%20expense%20san%20francisco%20part%201.jpeg",
+            "project": "Agroverse",
+            "tdg": 51.66,
+            "date": "20230702",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Day 1 Road tolls to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20san%20francisco%20road%20toll%20day%201.jpeg",
+            "project": "Agroverse",
+            "tdg": 27.15,
+            "date": "20230702",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Day 2 Road tolls to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230703%20-%20ferdinando%20second%20day%20return%20trip%20from%20San%20Francisco.jpeg",
+            "project": "Agroverse",
+            "tdg": 18.1,
+            "date": "20230702",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Day 2 gasoline to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230703%20-%20ferdinando%20second%20day%20return%20trip%20from%20San%20Francisco.jpeg",
+            "project": "Agroverse",
+            "tdg": 18.1,
+            "date": "20230702",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Day 2 car rental extension to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20san%20francisco%20car%20rental%20extension%20day%202.jpeg",
+            "project": "Agroverse",
+            "tdg": 44.79,
+            "date": "20230702",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "30 minutes factime to discuss about Sourcing in Colombia on 21st July",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20230728",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 14
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Made calls to Grupo Conacado, Dominican Republic to help setup visit 1 hour",
+          "Rubric classification": "50 : Commerce - Facetime phone call with vendor (30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230618",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "ECO-57: 7 hours drive to and from Coopnacado facility in Hato Mayo, east of Dominican Republic (origin Punta Cana)\n\nfrom 7.30am to 2.30pm",
+          "Rubric classification": "50 : Commerce - Facetime phone call with vendor (30 minutes)",
+          "TDGs Provisioned": "700.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "700.00",
+          "Status date": "20230620",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "ECO-57: Drive from Punta Cana to San Francisco De Marios to have meeting with Abel and then back from Conacado Cooperative in Dominican Republic. \n\nStart time: 5.30am\nEnd time: 3.30pm\n\n10 hours",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "1,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1,000.00",
+          "Status date": "20230624",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Provided car transport for the day for drive from Punta Cana to visit Pila from Conancado at their cacao collection facility",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230624",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Tap into drop shipping network for USA distribution ",
+          "Rubric classification": "10 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific actionable step",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20230628",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Followed with Abel to check if he has received the details for the email sent from Dragon\n30 minutes",
+          "Rubric classification": "50 : Commerce - Facetime phone call with vendor (30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230701",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Lunch meeting after our trip from Hata Mayo to visit aggregation center in Dominican Republic\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20lunch%20expenses%20after%20hato%20mayo.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "9.11",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "9.11",
+          "Status date": "20230702",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Fuel expense from Punta Cana to San Francisco  to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20fuel%20expense%20san%20francisco%20part%201.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "54.30",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "54.30",
+          "Status date": "20230702",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Lunch expenses after drive from San Francisco  to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20fuel%20expense%20san%20francisco%20part%201.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "51.66",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "51.66",
+          "Status date": "20230702",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Day 1 Road tolls to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20san%20francisco%20road%20toll%20day%201.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "27.15",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "27.15",
+          "Status date": "20230702",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Day 2 Road tolls to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230703%20-%20ferdinando%20second%20day%20return%20trip%20from%20San%20Francisco.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "18.10",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "18.10",
+          "Status date": "20230702",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Day 2 gasoline to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230703%20-%20ferdinando%20second%20day%20return%20trip%20from%20San%20Francisco.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "18.10",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "18.10",
+          "Status date": "20230702",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Day 2 car rental extension to San Francisco to visit Cooperative Processing Facility\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230702%20-%20ferdinando%20san%20francisco%20car%20rental%20extension%20day%202.jpeg",
+          "Rubric classification": "1 : Bring Liquidity  - Paid for expenses in USD on behalf of DAO",
+          "TDGs Provisioned": "44.79",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "44.79",
+          "Status date": "20230702",
+          "Solana Transfer Hash": "34wjjBRL6aPqnLVvnpbVzd78y5jjs8sLYrHjEBVKno5gbDvGT8C2Arp825TMP1wQtMr1PmraXdvhSGdJGba8KjKe",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Ferdinando Boninelli",
+          "Project Name": "Agroverse",
+          "Contribution Made": "30 minutes factime to discuss about Sourcing in Colombia on 21st July",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230728",
+          "Solana Transfer Hash": "PgPDswkKMrFv7F6P87BdAPdx2mKzKKvDADtWTvxvvEVdqAWsUgMgR1X2D9t4an1j3ugaVsbmFs6jyL31UNzL9sq",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "+1 (829) 836-4965",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "michael-lim",
+  "display_name": "Michael Lim",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 0,
+    "date_range": {
+      "earliest": "20220206",
+      "latest": "20220206"
+    },
+    "source": {
+      "contributor_name": "Michael Lim",
+      "generated_date": "2026-05-14T22:06:13.680860",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 5000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220206",
+          "latest": "20220206"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 0,
+        "total_tdg_issued": 5000.0,
+        "projects": [],
+        "rubric_categories": {},
+        "date_range": {
+          "earliest": "20220206",
+          "latest": "20220206"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduction email to VC should be in the form of a story that entices about the promises of a potential market opportunity.",
+            "project": "",
+            "tdg": 0,
+            "date": "20220206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Michael Lim",
+          "Project Name": "",
+          "Contribution Made": "Introduction email to VC should be in the form of a story that entices about the promises of a potential market opportunity.",
+          "Rubric classification": "",
+          "TDGs Provisioned": "5,000.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5000",
+          "Status date": "20220206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "5000",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

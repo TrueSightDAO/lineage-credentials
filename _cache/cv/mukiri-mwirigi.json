@@ -1,0 +1,304 @@
+{
+  "slug": "mukiri-mwirigi",
+  "display_name": "Mukiri Mwirigi",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 10,
+    "total_tdg_provisioned": 1010.0,
+    "date_range": {
+      "earliest": "20230211",
+      "latest": "20231224"
+    },
+    "source": {
+      "contributor_name": "Mukiri Mwirigi",
+      "generated_date": "2026-05-14T22:06:13.696874",
+      "summary": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 1010.0,
+        "total_tdg_issued": 1010.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230211",
+          "latest": "20231224"
+        }
+      },
+      "analysis": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 1010.0,
+        "total_tdg_issued": 1010.0,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Commerce - Sourced for SKU with details provided": 2,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 3,
+          "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "5 : Events Planning - Caught and rectified a copy writing error": 1,
+          "5 : Build Game - Marketing - Caught and rectified a copy writing error": 1,
+          "100TDG For every 1 hour of human effort": 2
+        },
+        "date_range": {
+          "earliest": "20230211",
+          "latest": "20231224"
+        },
+        "contribution_types": [
+          {
+            "description": "Golden Hass Avocado via port Mombasa, Kenya",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Macadamia via port Mombasa, Kenya",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Facetime session to discuss about planning for Ecoverse21 project 1 hour\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230321%20-%20ecoverse21%20planning%20meeting",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20230321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Smaller farms on the east coast of Africa are being exploited by the middle men since they have not alot of knowledge on how to export their materials\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230321%20-%20ecoverse21%20planning%20meeting",
+            "project": "Agroverse",
+            "tdg": 75.0,
+            "date": "20230321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Facetime attendence of July Edition - Hangout\n\n1 hour\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%201.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%202.jpg",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230710",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Caught copy writing error on Agroverse.shop\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20Mukiri%20agroverse%20website%20copy%20proof%20read.png",
+            "project": "Agroverse",
+            "tdg": 5.0,
+            "date": "20230823",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20230917%20-%20mukiri%20copyediting%20changes.pdf\n\nCopy writing errors identified\n\nTotal count: 6",
+            "project": "Agroverse",
+            "tdg": 30.0,
+            "date": "20230917",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Provided 2 segments to the marketing video \n\nhttps://docs.google.com/spreadsheets/d/1wnyE3ZJ_kV_NiUwPqmX0fCeC8xcqhUfoe9OkiCpJMSg/edit#gid=0\n\nhttps://drive.google.com/drive/u/0/folders/11rdjGaglwdEW-XT45eRUP_8IC3O65Hd8\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231024%20-%20marketing%20video.mp4\n\n\nTime for each segment: 15 minutes\nTotal effort for 1 segments: 30 minutes",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20231107",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@254700187599 spent 30 minutes explaining the USSD protocol that is popular amongst Kenyans as opposed to mobile applications \n\nhttps://en.m.wikipedia.org/wiki/Unstructured_Supplementary_Service_Data\n\nCost of the following types of trees saplings \n\n_We have nurseries that do the grafting and nurturing where we make our purchases_.\n\n- Macadamia - 300 kes\n- Avocado - 350-450 kes\n- Wambugu apple - 1000 kes\n- Peach - 10000kes\n\n_All fruit trees come with different prices._",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20231224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@254700187599 spent an hour gathering the following information for @120363044028036610@g.us for macadamia nuts \n\nI am sorry for sharing this in your inbox, it is too much for the hall.\n\n\nFrom farmers, the prices have been varying from 80kes to 100kes per kg of the raw product. I will share a photo from our farm.\n\nHowever, depending on the level of value addition the bags in supermarkets go for 600kes to over 800kes for 250grams. This value add is typically roasting and salting.\n\nFor the very premium ones, they go for as high as 250 kes for 30grams.\n\nI will share some photos below.\n\nI requested a quote from an epz that does the cracking of the nuts in tonnes. I am waiting for their response.",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20231224",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 10
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Golden Hass Avocado via port Mombasa, Kenya",
+          "Rubric classification": "250 : Commerce - Sourced for SKU with details provided",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "2diFs8ojPPc2keK7BV7XEtrWZifmBk2U9JsbAURv8jqxXRuGZrGxxu94CgDUxxgZeKKrJrriNuk5WjBxfMYQ5HiN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Macadamia via port Mombasa, Kenya",
+          "Rubric classification": "250 : Commerce - Sourced for SKU with details provided",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230211",
+          "Solana Transfer Hash": "2diFs8ojPPc2keK7BV7XEtrWZifmBk2U9JsbAURv8jqxXRuGZrGxxu94CgDUxxgZeKKrJrriNuk5WjBxfMYQ5HiN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Facetime session to discuss about planning for Ecoverse21 project 1 hour\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230321%20-%20ecoverse21%20planning%20meeting",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230321",
+          "Solana Transfer Hash": "2diFs8ojPPc2keK7BV7XEtrWZifmBk2U9JsbAURv8jqxXRuGZrGxxu94CgDUxxgZeKKrJrriNuk5WjBxfMYQ5HiN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Smaller farms on the east coast of Africa are being exploited by the middle men since they have not alot of knowledge on how to export their materials\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230321%20-%20ecoverse21%20planning%20meeting",
+          "Rubric classification": "75 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20230321",
+          "Solana Transfer Hash": "2diFs8ojPPc2keK7BV7XEtrWZifmBk2U9JsbAURv8jqxXRuGZrGxxu94CgDUxxgZeKKrJrriNuk5WjBxfMYQ5HiN",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Facetime attendence of July Edition - Hangout\n\n1 hour\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%201.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230710%20-%20July%20Edition%20name%20list%202.jpg",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230710",
+          "Solana Transfer Hash": "5Xj526RC9RAwUBBiBDe6e1H4doUg2GT6Xpa9nFnsCQNgF48tiAfh6yQkfqot8GJW6SHeVDhjnmXtPKWqMHVEC3y4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Caught copy writing error on Agroverse.shop\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230823%20-%20Mukiri%20agroverse%20website%20copy%20proof%20read.png",
+          "Rubric classification": "5 : Events Planning - Caught and rectified a copy writing error",
+          "TDGs Provisioned": "5.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "5.00",
+          "Status date": "20230823",
+          "Solana Transfer Hash": "5Xj526RC9RAwUBBiBDe6e1H4doUg2GT6Xpa9nFnsCQNgF48tiAfh6yQkfqot8GJW6SHeVDhjnmXtPKWqMHVEC3y4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "https://github.com/TrueSightDAO/.github/blob/main/assets/20230917%20-%20mukiri%20copyediting%20changes.pdf\n\nCopy writing errors identified\n\nTotal count: 6",
+          "Rubric classification": "5 : Build Game - Marketing - Caught and rectified a copy writing error",
+          "TDGs Provisioned": "30.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "30.00",
+          "Status date": "20230917",
+          "Solana Transfer Hash": "5Xj526RC9RAwUBBiBDe6e1H4doUg2GT6Xpa9nFnsCQNgF48tiAfh6yQkfqot8GJW6SHeVDhjnmXtPKWqMHVEC3y4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Provided 2 segments to the marketing video \n\nhttps://docs.google.com/spreadsheets/d/1wnyE3ZJ_kV_NiUwPqmX0fCeC8xcqhUfoe9OkiCpJMSg/edit#gid=0\n\nhttps://drive.google.com/drive/u/0/folders/11rdjGaglwdEW-XT45eRUP_8IC3O65Hd8\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231024%20-%20marketing%20video.mp4\n\n\nTime for each segment: 15 minutes\nTotal effort for 1 segments: 30 minutes",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20231107",
+          "Solana Transfer Hash": "5Xj526RC9RAwUBBiBDe6e1H4doUg2GT6Xpa9nFnsCQNgF48tiAfh6yQkfqot8GJW6SHeVDhjnmXtPKWqMHVEC3y4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "@254700187599 spent 30 minutes explaining the USSD protocol that is popular amongst Kenyans as opposed to mobile applications \n\nhttps://en.m.wikipedia.org/wiki/Unstructured_Supplementary_Service_Data\n\nCost of the following types of trees saplings \n\n_We have nurseries that do the grafting and nurturing where we make our purchases_.\n\n- Macadamia - 300 kes\n- Avocado - 350-450 kes\n- Wambugu apple - 1000 kes\n- Peach - 10000kes\n\n_All fruit trees come with different prices._",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20231224",
+          "Solana Transfer Hash": "5Xj526RC9RAwUBBiBDe6e1H4doUg2GT6Xpa9nFnsCQNgF48tiAfh6yQkfqot8GJW6SHeVDhjnmXtPKWqMHVEC3y4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mukiri Mwirigi",
+          "Project Name": "Agroverse",
+          "Contribution Made": "@254700187599 spent an hour gathering the following information for @120363044028036610@g.us for macadamia nuts \n\nI am sorry for sharing this in your inbox, it is too much for the hall.\n\n\nFrom farmers, the prices have been varying from 80kes to 100kes per kg of the raw product. I will share a photo from our farm.\n\nHowever, depending on the level of value addition the bags in supermarkets go for 600kes to over 800kes for 250grams. This value add is typically roasting and salting.\n\nFor the very premium ones, they go for as high as 250 kes for 30grams.\n\nI will share some photos below.\n\nI requested a quote from an epz that does the cracking of the nuts in tonnes. I am waiting for their response.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20231224",
+          "Solana Transfer Hash": "5Xj526RC9RAwUBBiBDe6e1H4doUg2GT6Xpa9nFnsCQNgF48tiAfh6yQkfqot8GJW6SHeVDhjnmXtPKWqMHVEC3y4",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

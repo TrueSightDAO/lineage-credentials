@@ -1,0 +1,186 @@
+{
+  "slug": "tiffany-harnsongkram",
+  "display_name": "Tiffany Harnsongkram",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 777.67,
+    "date_range": {
+      "earliest": "20201015",
+      "latest": "20250212"
+    },
+    "source": {
+      "contributor_name": "Tiffany Harnsongkram",
+      "generated_date": "2026-05-14T22:06:13.877155",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 777.67,
+        "total_tdg_issued": 277.67,
+        "projects": [
+          "Agroverse",
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20250212"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 777.67,
+        "total_tdg_issued": 277.67,
+        "projects": [
+          "Agroverse",
+          "Cypher Defense",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 1,
+          "500 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic": 1,
+          "250 : Bring Builders - brought on a active contributor": 1,
+          "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept": 1,
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20201015",
+          "latest": "20250212"
+        },
+        "contribution_types": [
+          {
+            "description": "Provided further insights into personal security concerns \n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986928129512472576%29",
+            "project": "Cypher Defense",
+            "tdg": 10.0,
+            "date": "20201015",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tiff proposes to retrofit Peace on Snow assocation for TrueSight DAO usage and makes introduction\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230611%20-%20Tiff%20sending%20introduction%20to%20peace%20on%20snow%20for%20use%20of%20swiss%20assocation.jpeg",
+            "project": "TrueSight DAO",
+            "tdg": 500.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Introduced Danielle Sunberg as high impact contributor for Agroverse project",
+            "project": "Agroverse",
+            "tdg": 250.0,
+            "date": "20230822",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Surfaced bridge market bridge with ING\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231110-tiff_bridge_private_market.pdf",
+            "project": "TrueSight DAO",
+            "tdg": 1.0,
+            "date": "20231110",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Tiffany Harnsongkram spent 10 minutes introducing Ida Cantrella to do a research on TrueSight DAO",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250212",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Tiffany Harnsongkram",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Provided further insights into personal security concerns \n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6986411321999187968?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6986411321999187968%2C6986928129512472576%29",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20201015",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "10.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tiffany Harnsongkram",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Tiff proposes to retrofit Peace on Snow assocation for TrueSight DAO usage and makes introduction\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230611%20-%20Tiff%20sending%20introduction%20to%20peace%20on%20snow%20for%20use%20of%20swiss%20assocation.jpeg",
+          "Rubric classification": "500 : Build Game - Strategy - Contributed a full scale strategy as well as roll out action plan to grow our DAO - consisting of overview and system logic",
+          "TDGs Provisioned": "500.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tiffany Harnsongkram",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Introduced Danielle Sunberg as high impact contributor for Agroverse project",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20230822",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "250.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tiffany Harnsongkram",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Surfaced bridge market bridge with ING\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231110-tiff_bridge_private_market.pdf",
+          "Rubric classification": "1 : Build Game - Strategy - Contribute reference material - hyperlink to a specific concept",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20231110",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Tiffany Harnsongkram",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Tiffany Harnsongkram spent 10 minutes introducing Ida Cantrella to do a research on TrueSight DAO",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250212",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

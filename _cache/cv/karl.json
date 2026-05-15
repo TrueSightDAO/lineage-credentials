@@ -1,0 +1,81 @@
+{
+  "slug": "karl",
+  "display_name": "Karl",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20250329",
+      "latest": "20250329"
+    },
+    "source": {
+      "contributor_name": "Karl",
+      "generated_date": "2026-05-14T22:06:13.556575",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20250329",
+          "latest": "20250329"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 1
+        },
+        "date_range": {
+          "earliest": "20250329",
+          "latest": "20250329"
+        },
+        "contribution_types": [
+          {
+            "description": "I spent an hour with Karl that @alma_8_omega introduced chatting about the cacao community in Austria, Guatemala and Pyschedelic and Vipassana meditation \n\nThere seems to be much synchronicity\n\nThank you for the introduction once again @alma_8_omega it was such a wonderful chat we had 😊🙏",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20250329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Karl",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "I spent an hour with Karl that @alma_8_omega introduced chatting about the cacao community in Austria, Guatemala and Pyschedelic and Vipassana meditation \n\nThere seems to be much synchronicity\n\nThank you for the introduction once again @alma_8_omega it was such a wonderful chat we had 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250329",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

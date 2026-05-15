@@ -1,0 +1,153 @@
+{
+  "slug": "maegan-gorbett",
+  "display_name": "Maegan Gorbett",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 4,
+    "total_tdg_provisioned": 225.0,
+    "date_range": {
+      "earliest": "20250131",
+      "latest": "20250219"
+    },
+    "source": {
+      "contributor_name": "Maegan Gorbett",
+      "generated_date": "2026-05-14T22:06:13.641513",
+      "summary": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 225.0,
+        "total_tdg_issued": 225.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20250131",
+          "latest": "20250219"
+        }
+      },
+      "analysis": {
+        "total_contributions": 4,
+        "total_tdg_provisioned": 225.0,
+        "total_tdg_issued": 225.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 4
+        },
+        "date_range": {
+          "earliest": "20250131",
+          "latest": "20250219"
+        },
+        "contribution_types": [
+          {
+            "description": "@alma_8_omega spent 30 minutes compiling the playlist which we could use for future instagram reels.",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20250131",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "@alma_8_omega spent 1.5 hours this morning sharing in more details about the Port in Bahia Ilheus region that is messing around with the biodiversity as well as how when it is finally completed, doesnt really add to any job creation since it will only employ 50 people",
+            "project": "TrueSight DAO",
+            "tdg": 150.0,
+            "date": "20250131",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Meagan Gorbett spent 5 minutes sharing these two ceremonial cacao providers based in Europe\n\nhttps://www.kakaochi.com/\nhttps://www.ritualcacao.co.uk/",
+            "project": "TrueSight DAO",
+            "tdg": 8.33,
+            "date": "20250218",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Maegan spent 10 minutes coordinating the introduction to Peruvian ceremonial cacao bar providers in Europe 😊🙏",
+            "project": "TrueSight DAO",
+            "tdg": 16.67,
+            "date": "20250219",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 4
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Maegan Gorbett",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@alma_8_omega spent 30 minutes compiling the playlist which we could use for future instagram reels.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250131",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Maegan Gorbett",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "@alma_8_omega spent 1.5 hours this morning sharing in more details about the Port in Bahia Ilheus region that is messing around with the biodiversity as well as how when it is finally completed, doesnt really add to any job creation since it will only employ 50 people",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20250131",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "150.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Maegan Gorbett",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Meagan Gorbett spent 5 minutes sharing these two ceremonial cacao providers based in Europe\n\nhttps://www.kakaochi.com/\nhttps://www.ritualcacao.co.uk/",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.33",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20250218",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Maegan Gorbett",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me and Maegan spent 10 minutes coordinating the introduction to Peruvian ceremonial cacao bar providers in Europe 😊🙏",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "16.67",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "16.67",
+          "Status date": "20250219",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "16.67",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

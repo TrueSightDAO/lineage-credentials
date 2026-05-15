@@ -1,0 +1,174 @@
+{
+  "slug": "walter-punsapy",
+  "display_name": "Walter Punsapy",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 5,
+    "total_tdg_provisioned": 1000.0,
+    "date_range": {
+      "earliest": "20220315",
+      "latest": "20220329"
+    },
+    "source": {
+      "contributor_name": "Walter Punsapy",
+      "generated_date": "2026-05-14T22:06:13.946448",
+      "summary": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220315",
+          "latest": "20220329"
+        }
+      },
+      "analysis": {
+        "total_contributions": 5,
+        "total_tdg_provisioned": 1000.0,
+        "total_tdg_issued": 1000.0,
+        "projects": [],
+        "rubric_categories": {
+          "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1
+        },
+        "date_range": {
+          "earliest": "20220315",
+          "latest": "20220329"
+        },
+        "contribution_types": [
+          {
+            "description": "NFTs that look like Rick and Morty just for the fun of it",
+            "project": "",
+            "tdg": 200.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: DAO is almost like a cult that is not very different from fight club",
+            "project": "",
+            "tdg": 200.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Community: In flight club members are encourage to perform certain activities to show their affliation to the club. That is how identity is built",
+            "project": "",
+            "tdg": 200.0,
+            "date": "20220315",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: When people start tying their sense of self worth to their credibility score it might start becoming unhealthy",
+            "project": "",
+            "tdg": 150.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Gamification: Allow people to feel good by having many categories of leaderboard so that they have a chance to feel good about something. \nIf there is only one leaderboard then there is really only one hierarchy. People might feel it is daunting to get to the top of that leaderboard and just give up. \n\nYahoo Answers solved the retention problem by increasing the probably of people becoming best at something.",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220329",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 5
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Walter Punsapy",
+          "Project Name": "",
+          "Contribution Made": "NFTs that look like Rick and Morty just for the fun of it",
+          "Rubric classification": "",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "2x9gA8zV2Srs5kHdt3Q7ohjKFV79YnM9YsjVsHahRRQRYpi5CH7oHFjpTAxAnJvNVzARwZU8x4LTB7Xerrdu43Sa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Walter Punsapy",
+          "Project Name": "",
+          "Contribution Made": "Community: DAO is almost like a cult that is not very different from fight club",
+          "Rubric classification": "",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "2x9gA8zV2Srs5kHdt3Q7ohjKFV79YnM9YsjVsHahRRQRYpi5CH7oHFjpTAxAnJvNVzARwZU8x4LTB7Xerrdu43Sa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Walter Punsapy",
+          "Project Name": "",
+          "Contribution Made": "Community: In flight club members are encourage to perform certain activities to show their affliation to the club. That is how identity is built",
+          "Rubric classification": "",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20220315",
+          "Solana Transfer Hash": "2x9gA8zV2Srs5kHdt3Q7ohjKFV79YnM9YsjVsHahRRQRYpi5CH7oHFjpTAxAnJvNVzARwZU8x4LTB7Xerrdu43Sa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Walter Punsapy",
+          "Project Name": "",
+          "Contribution Made": "Gamification: When people start tying their sense of self worth to their credibility score it might start becoming unhealthy",
+          "Rubric classification": "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for",
+          "TDGs Provisioned": "150.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "150.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "2x9gA8zV2Srs5kHdt3Q7ohjKFV79YnM9YsjVsHahRRQRYpi5CH7oHFjpTAxAnJvNVzARwZU8x4LTB7Xerrdu43Sa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Walter Punsapy",
+          "Project Name": "",
+          "Contribution Made": "Gamification: Allow people to feel good by having many categories of leaderboard so that they have a chance to feel good about something. \nIf there is only one leaderboard then there is really only one hierarchy. People might feel it is daunting to get to the top of that leaderboard and just give up. \n\nYahoo Answers solved the retention problem by increasing the probably of people becoming best at something.",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220329",
+          "Solana Transfer Hash": "2x9gA8zV2Srs5kHdt3Q7ohjKFV79YnM9YsjVsHahRRQRYpi5CH7oHFjpTAxAnJvNVzARwZU8x4LTB7Xerrdu43Sa",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

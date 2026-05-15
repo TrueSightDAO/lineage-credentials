@@ -1,0 +1,129 @@
+{
+  "slug": "david-california-land-owner-davos",
+  "display_name": "David - California Land Owner Davos",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 5.0,
+    "date_range": {
+      "earliest": "20240206",
+      "latest": "20240206"
+    },
+    "source": {
+      "contributor_name": "David - California Land Owner Davos",
+      "generated_date": "2026-05-14T22:06:13.028589",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 5.0,
+        "total_tdg_issued": 5.0,
+        "projects": [
+          "Sun Mint"
+        ],
+        "date_range": {
+          "earliest": "20240206",
+          "latest": "20240206"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 5.0,
+        "total_tdg_issued": 5.0,
+        "projects": [
+          "Sun Mint"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 3
+        },
+        "date_range": {
+          "earliest": "20240206",
+          "latest": "20240206"
+        },
+        "contribution_types": [
+          {
+            "description": "A lb of cricket meal? One gallon.\n‎",
+            "project": "Sun Mint",
+            "tdg": 1.0,
+            "date": "20240206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Beyond CO2? A lb of beef takes ~1850 gallons of water to produce. As in - ~4070 gallons per kg.",
+            "project": "Sun Mint",
+            "tdg": 1.0,
+            "date": "20240206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "That being said? So many start ups in the space are focused on direct to human consumption. Reasons?\n\nIn blind taste tests, crickets beat beef.\n\nCrickets have a better amino/protein/carb mix than beef, by a long shot (really).",
+            "project": "Sun Mint",
+            "tdg": 3.0,
+            "date": "20240206",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "David - California Land Owner Davos",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "A lb of cricket meal? One gallon.\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20240206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David - California Land Owner Davos",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "Beyond CO2? A lb of beef takes ~1850 gallons of water to produce. As in - ~4070 gallons per kg.",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "1.00",
+          "Status date": "20240206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "1.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "David - California Land Owner Davos",
+          "Project Name": "Sun Mint",
+          "Contribution Made": "That being said? So many start ups in the space are focused on direct to human consumption. Reasons?\n\nIn blind taste tests, crickets beat beef.\n\nCrickets have a better amino/protein/carb mix than beef, by a long shot (really).",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "3.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "3.00",
+          "Status date": "20240206",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "3.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

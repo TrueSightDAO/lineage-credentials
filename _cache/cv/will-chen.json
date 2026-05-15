@@ -1,0 +1,131 @@
+{
+  "slug": "will-chen",
+  "display_name": "Will Chen",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 3,
+    "total_tdg_provisioned": 175.0,
+    "date_range": {
+      "earliest": "20250622",
+      "latest": "20251021"
+    },
+    "source": {
+      "contributor_name": "Will Chen",
+      "generated_date": "2026-05-14T22:06:13.948792",
+      "summary": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 175.0,
+        "total_tdg_issued": 175.0,
+        "projects": [
+          "20250917_beerhall",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20250622",
+          "latest": "20251021"
+        }
+      },
+      "analysis": {
+        "total_contributions": 3,
+        "total_tdg_provisioned": 175.0,
+        "total_tdg_issued": 175.0,
+        "projects": [
+          "20250917_beerhall",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100TDG For every 1 hour of human effort": 3
+        },
+        "date_range": {
+          "earliest": "20250622",
+          "latest": "20251021"
+        },
+        "contribution_types": [
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Spoke about the Melanger situation to process the nibs into cacao mass\r\n- Contributor(s): Gary Teh, Will Chen\r\n- TDG Issued: 75.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251021213733_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 3kq58iJ45LanmA325pop2Kv0f8rzW6ZOgxaejsswq0q3ttFyv94YPhYFHxpLC7qv2b2OyYf9ONH4kCuAIkaZ1QpqaVA88fUC+vV6uE2ZAdrZjq66MkGCigQpEmpQyL82bVKxiwfgb3NY46cPW26yV9w2ekOxi/uj8g+yw2r1Zllbafz/qPFXZLYLH5dQt2adLpznsvXEz+7SQU+BMjmFSz35+7eoMNf+1ESiB29qcChViSFC9x03oIdSTAnAGGanDS890TMsaFbmcMesAJORwLIENRhbYiPA2gyjFtemOIH1sWa8a1JG8q5qiv1Sq1vXp8/i4IrePngAwLN4tRUkYQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 75.0,
+            "date": "20251021",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me and Will Chen spent 30 minutes chatting about the project during Alex Memorial",
+            "project": "20250917_beerhall",
+            "tdg": 50.0,
+            "date": "20250622",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "I spent 15 minutes speaking with Will about bringing our cacao to Burning Man next year during September and making it available to the entire community as part of Moon Drive canoe’s gift",
+            "project": "20250917_beerhall",
+            "tdg": 50.0,
+            "date": "20250623",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 3
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Will Chen",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Spoke about the Melanger situation to process the nibs into cacao mass\r\n- Contributor(s): Gary Teh, Will Chen\r\n- TDG Issued: 75.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251021213733_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 3kq58iJ45LanmA325pop2Kv0f8rzW6ZOgxaejsswq0q3ttFyv94YPhYFHxpLC7qv2b2OyYf9ONH4kCuAIkaZ1QpqaVA88fUC+vV6uE2ZAdrZjq66MkGCigQpEmpQyL82bVKxiwfgb3NY46cPW26yV9w2ekOxi/uj8g+yw2r1Zllbafz/qPFXZLYLH5dQt2adLpznsvXEz+7SQU+BMjmFSz35+7eoMNf+1ESiB29qcChViSFC9x03oIdSTAnAGGanDS890TMsaFbmcMesAJORwLIENRhbYiPA2gyjFtemOIH1sWa8a1JG8q5qiv1Sq1vXp8/i4IrePngAwLN4tRUkYQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "75.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75.00",
+          "Status date": "20251021",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Will Chen",
+          "Project Name": "20250917_beerhall",
+          "Contribution Made": "Me and Will Chen spent 30 minutes chatting about the project during Alex Memorial",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250622",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Will Chen",
+          "Project Name": "20250917_beerhall",
+          "Contribution Made": "I spent 15 minutes speaking with Will about bringing our cacao to Burning Man next year during September and making it available to the entire community as part of Moon Drive canoe’s gift",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20250623",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

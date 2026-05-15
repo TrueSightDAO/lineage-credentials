@@ -1,0 +1,271 @@
+{
+  "slug": "sharvin-baindur",
+  "display_name": "Sharvin Baindur",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 9,
+    "total_tdg_provisioned": 1300.0,
+    "date_range": {
+      "earliest": "20220215",
+      "latest": "20220430"
+    },
+    "source": {
+      "contributor_name": "Sharvin Baindur",
+      "generated_date": "2026-05-14T22:06:13.821858",
+      "summary": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 1300.0,
+        "total_tdg_issued": 1200.0,
+        "projects": [],
+        "date_range": {
+          "earliest": "20220215",
+          "latest": "20220430"
+        }
+      },
+      "analysis": {
+        "total_contributions": 9,
+        "total_tdg_provisioned": 1300.0,
+        "total_tdg_issued": 1200.0,
+        "projects": [],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Contribute reference material - link": 2,
+          "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension": 1
+        },
+        "date_range": {
+          "earliest": "20220215",
+          "latest": "20220430"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduction to Beam Metchawin Sequoia",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220215",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction to Jeremy Chong SoftBank",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220217",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduction to GP in family office",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220220",
+            "status": "Aborted"
+          },
+          {
+            "description": "New York is the new crypto capital in US",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220220",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Concept: https://rift.finance/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220304",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "NFT project management tool: https://rampp.xyz/",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220316",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: Identified and surfaced a new concept of Optimized Autonomous Organization\n\nhttps://graymirror.substack.com/p/optimal-autonomous-organizations",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220416",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Governance: various challenges Service DAOs experience and suggestions on how to tackle them \n\nhttps://medium.com/1kxnetwork/service-daos-landscape-challenges-and-solutions-b1af1a212ea",
+            "project": "",
+            "tdg": 500.0,
+            "date": "20220416",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Solana now comes with notifications to get you to vote\nhttps://cointelegraph.com/news/solana-daos-can-now-bug-you-to-vote-with-phone-calls-and-texts",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220430",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 8,
+          "Aborted": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "Introduction to Beam Metchawin Sequoia",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220215",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "Introduction to Jeremy Chong SoftBank",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220217",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "Introduction to GP in family office",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Aborted",
+          "TDGs Issued": "",
+          "Status date": "20220220",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "New York is the new crypto capital in US",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220220",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "Concept: https://rift.finance/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220304",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "NFT project management tool: https://rampp.xyz/",
+          "Rubric classification": "",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220316",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "Governance: Identified and surfaced a new concept of Optimized Autonomous Organization\n\nhttps://graymirror.substack.com/p/optimal-autonomous-organizations",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220416",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "Governance: various challenges Service DAOs experience and suggestions on how to tackle them \n\nhttps://medium.com/1kxnetwork/service-daos-landscape-challenges-and-solutions-b1af1a212ea",
+          "Rubric classification": "500 : Build Game - Strategy - Contribute reference material accompanied with idea on how to apply it in the form of a strategy extension",
+          "TDGs Provisioned": "500.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "500",
+          "Status date": "20220416",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Sharvin Baindur",
+          "Project Name": "",
+          "Contribution Made": "Solana now comes with notifications to get you to vote\nhttps://cointelegraph.com/news/solana-daos-can-now-bug-you-to-vote-with-phone-calls-and-texts",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20220430",
+          "Solana Transfer Hash": "7h5wHXi1Hc9cL33L4yx7ZKaqJc3jAAdgsDv2bTDoATvmBfMWGNAC32LxKyFkofeMU5Fuj1SeEdL7atgdCxgt4EU",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

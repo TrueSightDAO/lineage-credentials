@@ -1,0 +1,308 @@
+{
+  "slug": "neil-maxwell",
+  "display_name": "Neil Maxwell",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 10,
+    "total_tdg_provisioned": 1468.0,
+    "date_range": {
+      "earliest": "20220806",
+      "latest": "20240303"
+    },
+    "source": {
+      "contributor_name": "Neil Maxwell",
+      "generated_date": "2026-05-14T22:06:13.715913",
+      "summary": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 1468.0,
+        "total_tdg_issued": 1218.0,
+        "projects": [
+          "Agroverse",
+          "Cypher Defense",
+          "Rotten Radish",
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20220806",
+          "latest": "20240303"
+        }
+      },
+      "analysis": {
+        "total_contributions": 10,
+        "total_tdg_provisioned": 1468.0,
+        "total_tdg_issued": 1218.0,
+        "projects": [
+          "Agroverse",
+          "Cypher Defense",
+          "Rotten Radish",
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "250 : Bring Builders - brought on a active contributor": 4,
+          "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 1,
+          "10 : Build Game - Strategy - Participated in voting on an online Poll": 1,
+          "100TDG For every 1 hour of human effort": 3
+        },
+        "date_range": {
+          "earliest": "20220806",
+          "latest": "20240303"
+        },
+        "contribution_types": [
+          {
+            "description": "Introduced Aga",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20220806",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Tess Walkowski",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20220806",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Tushar Sharma",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "20220825",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Introduced Bretty Palladino",
+            "project": "TrueSight DAO",
+            "tdg": 250.0,
+            "date": "",
+            "status": "Work in Progress"
+          },
+          {
+            "description": "Came up with the name for Rotten Radish to name the NFT collection after listening to the Stone Soup story",
+            "project": "Rotten Radish",
+            "tdg": 50.0,
+            "date": "20221109",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Allow participants to freely donate instead of charging a fix fee",
+            "project": "Cypher Defense",
+            "tdg": 250.0,
+            "date": "20221119",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Responded to poll on mission statement",
+            "project": "TrueSight DAO",
+            "tdg": 10.0,
+            "date": "20221211",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Neil is proposing to have @120363044028036610@g.us available on TikTok shipping\n\nTime he took to make suggestion 5 minutes ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 8.0,
+            "date": "20240203",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent an hour today chatting with Neil, @919210068790 \n\n*Agenda*\n\n- brazilian and Indian  suppliers for @120363044028036610@g.us. @919210068790 will send price list over \n\n- ⁠MLM marketing for @120363044028036610@g.us with Neil and his network of influencers \n\n- ⁠Neil’s conscious product market place back by sources from @120363044028036610@g.us \n\n- ⁠@919210068790 and Neil’s mental health market place where all spiritualist and mental health practitioners can list their service… related to the Do Nothing society\n\n- ⁠@120363045796860099@g.us Offgrid facility as a venue for @120363044542957540@g.us to unplug and restore their mental health \n\nSeems it’s becoming apparent all these projects are interconnected. ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20240302",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Neil shared this link for TikTok\n\nHe spent 30 minutes explaining to me how the whole tikTok selling experience works. ‎<This message was edited>\n‎",
+            "project": "Agroverse",
+            "tdg": 50.0,
+            "date": "20240303",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 9,
+          "Work in Progress": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Aga",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220806",
+          "Solana Transfer Hash": "bHafecGqexDLrccyiYKtwAVN1gn6pcLZMBh9mcnCa8aTwQ8hEx8gYWeLWrhqSKPJiXESow6kfKYBLmTPeMyc6jW",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Tess Walkowski",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220806",
+          "Solana Transfer Hash": "bHafecGqexDLrccyiYKtwAVN1gn6pcLZMBh9mcnCa8aTwQ8hEx8gYWeLWrhqSKPJiXESow6kfKYBLmTPeMyc6jW",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Tushar Sharma",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20220825",
+          "Solana Transfer Hash": "2m57Wm14UgjTaXFothMrFF2BQ1N2DaMeVax1f6PBNyVnFnQP2uXN7VeyDBpHvKm76WbXLMQ7jp1fm3meFkF3GWTH",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Introduced Bretty Palladino",
+          "Rubric classification": "250 : Bring Builders - brought on a active contributor",
+          "TDGs Provisioned": "250.00",
+          "Status": "Work in Progress",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "Rotten Radish",
+          "Contribution Made": "Came up with the name for Rotten Radish to name the NFT collection after listening to the Stone Soup story",
+          "Rubric classification": "50 : Build Game - Strategy - Suggested an idea without any proposed implementation details",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20221109",
+          "Solana Transfer Hash": "3Nijn8DSK9WaUM4z7oiG83ohXAAyB19o4Dnhj7UB9GrscqXNHLaMP1ihQtmLp3iwquqtLBQWUbVYKVbmiECFXc9b",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "Cypher Defense",
+          "Contribution Made": "Allow participants to freely donate instead of charging a fix fee",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250.00",
+          "Status date": "20221119",
+          "Solana Transfer Hash": "3Nijn8DSK9WaUM4z7oiG83ohXAAyB19o4Dnhj7UB9GrscqXNHLaMP1ihQtmLp3iwquqtLBQWUbVYKVbmiECFXc9b",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Responded to poll on mission statement ",
+          "Rubric classification": "10 : Build Game - Strategy - Participated in voting on an online Poll",
+          "TDGs Provisioned": "10.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "10.00",
+          "Status date": "20221211",
+          "Solana Transfer Hash": "3Nijn8DSK9WaUM4z7oiG83ohXAAyB19o4Dnhj7UB9GrscqXNHLaMP1ihQtmLp3iwquqtLBQWUbVYKVbmiECFXc9b",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Neil is proposing to have @120363044028036610@g.us available on TikTok shipping\n\nTime he took to make suggestion 5 minutes ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8",
+          "Status date": "20240203",
+          "Solana Transfer Hash": "38hAdww2LtnUGGVJAY56M3iYXzcJXtMJT9XQopmSFSg7FLtpkiq75M7WUN8vXAA5b8RshFC9DSJvSfay3ySzAVVn",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Spent an hour today chatting with Neil, @919210068790 \n\n*Agenda*\n\n- brazilian and Indian  suppliers for @120363044028036610@g.us. @919210068790 will send price list over \n\n- ⁠MLM marketing for @120363044028036610@g.us with Neil and his network of influencers \n\n- ⁠Neil’s conscious product market place back by sources from @120363044028036610@g.us \n\n- ⁠@919210068790 and Neil’s mental health market place where all spiritualist and mental health practitioners can list their service… related to the Do Nothing society\n\n- ⁠@120363045796860099@g.us Offgrid facility as a venue for @120363044542957540@g.us to unplug and restore their mental health \n\nSeems it’s becoming apparent all these projects are interconnected. ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100",
+          "Status date": "20240302",
+          "Solana Transfer Hash": "38hAdww2LtnUGGVJAY56M3iYXzcJXtMJT9XQopmSFSg7FLtpkiq75M7WUN8vXAA5b8RshFC9DSJvSfay3ySzAVVn",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Neil Maxwell",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Neil shared this link for TikTok\n\nHe spent 30 minutes explaining to me how the whole tikTok selling experience works. ‎<This message was edited>\n‎",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20240303",
+          "Solana Transfer Hash": "38hAdww2LtnUGGVJAY56M3iYXzcJXtMJT9XQopmSFSg7FLtpkiq75M7WUN8vXAA5b8RshFC9DSJvSfay3ySzAVVn",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

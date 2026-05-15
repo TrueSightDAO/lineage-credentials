@@ -1,0 +1,376 @@
+{
+  "slug": "alex",
+  "display_name": "Alex",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 13,
+    "total_tdg_provisioned": 1376.25,
+    "date_range": {
+      "earliest": "20220409",
+      "latest": "20250901"
+    },
+    "source": {
+      "contributor_name": "Alex",
+      "generated_date": "2026-05-14T22:06:12.838933",
+      "summary": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 1376.25,
+        "total_tdg_issued": 1449.9900000000002,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "date_range": {
+          "earliest": "20220409",
+          "latest": "20250901"
+        }
+      },
+      "analysis": {
+        "total_contributions": 13,
+        "total_tdg_provisioned": 1376.25,
+        "total_tdg_issued": 1449.9900000000002,
+        "projects": [
+          "Agroverse",
+          "TrueSight DAO",
+          "telegram_chatlog"
+        ],
+        "rubric_categories": {
+          "100 : Build Game - Strategy - Contribute reference material - link": 1,
+          "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement": 2,
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1,
+          "100TDG For every 1 hour of human effort": 8
+        },
+        "date_range": {
+          "earliest": "20220409",
+          "latest": "20250901"
+        },
+        "contribution_types": [
+          {
+            "description": "SoccerBets shops are prevalent all over Serbia",
+            "project": "",
+            "tdg": 100.0,
+            "date": "20220409",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group: attendence",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220414",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Focus group: contribution",
+            "project": "",
+            "tdg": 0.0,
+            "date": "",
+            "status": ""
+          },
+          {
+            "description": "Focus group: stated the importance of borrowing terminology from the gaming community so that the gamers can quickly figure out what roles they should be playing in our game",
+            "project": "",
+            "tdg": 250.0,
+            "date": "20220415",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "30 minutes facetime discussion to go through the technical specifications of our server needs on 16th June 2023",
+            "project": "TrueSight DAO",
+            "tdg": 50.0,
+            "date": "20230616",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Alex Costa spent 5 minutes making introduction",
+            "project": "TrueSight DAO",
+            "tdg": 8.25,
+            "date": "20240612",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Alex spent five minutes surfacing this money transfer service \n\nThis is the third time wise was surfaced as an option with the network <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 8.25,
+            "date": "20240615",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Alex also spent 5 minutes mentioning One of our ex-colleague from Edmodo, Luka, is right now working as the CTO for this digital bank startup in Brazil \n\nIf we need, we can reach to him to talk about opening a bank account with his startup <This message was edited>",
+            "project": "TrueSight DAO",
+            "tdg": 8.25,
+            "date": "20240615",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Spent One hour in Cacau Tasting from Agroverse",
+            "project": "Agroverse",
+            "tdg": 100.0,
+            "date": "20240904",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, @557191035605 and Stanley Li and Mayra from San Francisco State University spent 45 minutes discussing about how we will be presenting Agroverse during next Friday’s student hour to encourage student volunteers to step forward to help out with the following scope\n\n- marketing and awareness\n- ⁠technology solutioning\n\n_PS: Interesting to observe both the synchronicity and alignment. Both @557191035605 and Mayra are indigenous. Mayra is of indigenous ancestry from Peru! 🤩🙏_",
+            "project": "Agroverse",
+            "tdg": 1.5,
+            "date": "20241021",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "Me, Ken Nim and Alex from Circuit Labs spent 2 hours offering cacao circle today \n\nIt was such a wonderful experience",
+            "project": "TrueSight DAO",
+            "tdg": 200.0,
+            "date": "20250321",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Onboarding Alexandre Fernandes to the WIX to handle the post landing event after the user has successfully registered their email address\r\n- Contributor(s): Alexandre Fernandes, Gary Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: GzaD5PKdtyt+eaKihTxsXyfUNBUwDaNdwDetCrHlRlG5hlWuakymnVkoYV6ijWB/8Y9GXVX2fXdbdlhiaEtoidYo+qeF9+Wdy6XTJ2CPqddDDBwouPOCw7FtZUmv7slNYONbNSTwoYl918Q3gsZoNOL+eJ8pj41an+ABpiGPSLCwNC0SaA5HXcHPvcf0ObdgwsUtlRi9scQiVi9DtemkX0vcQtSbBI2TS6iF3G/HwQVkvsKp5xe8wE5RtDc3I7hJLbzwcuW1FyRH6s70VUr0Wc7EJMOssUv+gkDCM/ChHrxe6tbGzZfAyOj7sygNJiC1ULScRzLdDJ/9DTR9PH7qJw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 100.0,
+            "date": "20250827",
+            "status": "Successfully Completed / Full Provision Awarded"
+          },
+          {
+            "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 180\r\n- Description: I undisplayed a form at for the Qr Codes users who was already registered.\r\n- Contributor(s): Alexandre Fernandes\r\n- TDG Issued: 300.00\r\n- Attached Filename: Screenshot 2025-09-01 at 13.48.32.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250901164855_alexandre_fernandes_screenshot_2025_09_01_at_13.48.32.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB\r\n\r\nRequest Transaction ID: XIflNviUglOLZESq0Ubdlo9dwUQE2SLytCZJ9JHPR8Ok7cZQWVr0yj1z9FOkbI4CT/5Cieq99jd28tqPdV0EQEp7AjQSJOXxApvgvkctaFj3CyNB8p2gLViBmb9a80AOyJCH056xp7O9Tm0izzJ+CdxhSVVL5cxo3ahDi8kzRgI29nibJpKZr+qGFXxNr48+u+ICmExaRWqE+QIHbz8rJVY3FPK3kHJTIyxI79NrzJVUR4PSoFZxo6o3JQwxEMELUgTGKbFYR7Uqa2FPPulYGuJYJ4Vy78uCH4qxA3PUt0ettb1K+p/HyHXYOlZqtr2wYy9qt+LQ4y4+q6ZRwdqMkA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+            "project": "telegram_chatlog",
+            "tdg": 300.0,
+            "date": "20250901",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 12
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Alex",
+          "Project Name": "",
+          "Contribution Made": "SoccerBets shops are prevalent all over Serbia",
+          "Rubric classification": "100 : Build Game - Strategy - Contribute reference material - link",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20220409",
+          "Solana Transfer Hash": "5p4AbUiDAe1tNp73EWmxBcGcXK6jGWR2UGjQ2v93AbDAox7zLr4CLuG4cVM26VrLGTSBhVUkh1e6aBLoqQ7sGjrL",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alex",
+          "Project Name": "",
+          "Contribution Made": "Focus group: attendence",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220414",
+          "Solana Transfer Hash": "5p4AbUiDAe1tNp73EWmxBcGcXK6jGWR2UGjQ2v93AbDAox7zLr4CLuG4cVM26VrLGTSBhVUkh1e6aBLoqQ7sGjrL",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alex",
+          "Project Name": "",
+          "Contribution Made": "Focus group: contribution",
+          "Rubric classification": "",
+          "TDGs Provisioned": "",
+          "Status": "",
+          "TDGs Issued": "",
+          "Status date": "",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alex",
+          "Project Name": "",
+          "Contribution Made": "Focus group: stated the importance of borrowing terminology from the gaming community so that the gamers can quickly figure out what roles they should be playing in our game",
+          "Rubric classification": "250 : Build Game - Strategy - Review proposed strategy and suggest a clear and specific improvement",
+          "TDGs Provisioned": "250.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "250",
+          "Status date": "20220415",
+          "Solana Transfer Hash": "5p4AbUiDAe1tNp73EWmxBcGcXK6jGWR2UGjQ2v93AbDAox7zLr4CLuG4cVM26VrLGTSBhVUkh1e6aBLoqQ7sGjrL",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alexander Grau",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "30 minutes facetime discussion to go through the technical specifications of our server needs on 16th June 2023",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "50.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "50.00",
+          "Status date": "20230616",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "50.00",
+          "Discord ID": "+4915785523192",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alex Costa",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Alex Costa spent 5 minutes making introduction",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240612",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alex Costa",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Alex spent five minutes surfacing this money transfer service \n\nThis is the third time wise was surfaced as an option with the network <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240615",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alex Costa",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Alex also spent 5 minutes mentioning One of our ex-colleague from Edmodo, Luka, is right now working as the CTO for this digital bank startup in Brazil \n\nIf we need, we can reach to him to talk about opening a bank account with his startup <This message was edited>",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "8.25",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "8.33",
+          "Status date": "20240615",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "8.33",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "@alexadoglio",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Spent One hour in Cacau Tasting from Agroverse",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20240904",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Mayra Alexandra",
+          "Project Name": "Agroverse",
+          "Contribution Made": "Me, @557191035605 and Stanley Li and Mayra from San Francisco State University spent 45 minutes discussing about how we will be presenting Agroverse during next Friday’s student hour to encourage student volunteers to step forward to help out with the following scope\n\n- marketing and awareness\n- ⁠technology solutioning\n\n_PS: Interesting to observe both the synchronicity and alignment. Both @557191035605 and Mayra are indigenous. Mayra is of indigenous ancestry from Peru! 🤩🙏_",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "1.50",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "75",
+          "Status date": "20241021",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "75",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alex - Circuit Labs",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "Me, Ken Nim and Alex from Circuit Labs spent 2 hours offering cacao circle today \n\nIt was such a wonderful experience",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "200.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "200.00",
+          "Status date": "20250321",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "200.00",
+          "Discord ID": "",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        },
+        {
+          "Contributor Name": "Alexandre Fernandes",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Onboarding Alexandre Fernandes to the WIX to handle the post landing event after the user has successfully registered their email address\r\n- Contributor(s): Alexandre Fernandes, Gary Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: GzaD5PKdtyt+eaKihTxsXyfUNBUwDaNdwDetCrHlRlG5hlWuakymnVkoYV6ijWB/8Y9GXVX2fXdbdlhiaEtoidYo+qeF9+Wdy6XTJ2CPqddDDBwouPOCw7FtZUmv7slNYONbNSTwoYl918Q3gsZoNOL+eJ8pj41an+ABpiGPSLCwNC0SaA5HXcHPvcf0ObdgwsUtlRi9scQiVi9DtemkX0vcQtSbBI2TS6iF3G/HwQVkvsKp5xe8wE5RtDc3I7hJLbzwcuW1FyRH6s70VUr0Wc7EJMOssUv+gkDCM/ChHrxe6tbGzZfAyOj7sygNJiC1ULScRzLdDJ/9DTR9PH7qJw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20250827",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        },
+        {
+          "Contributor Name": "Alexandre Fernandes",
+          "Project Name": "telegram_chatlog",
+          "Contribution Made": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 180\r\n- Description: I undisplayed a form at for the Qr Codes users who was already registered.\r\n- Contributor(s): Alexandre Fernandes\r\n- TDG Issued: 300.00\r\n- Attached Filename: Screenshot 2025-09-01 at 13.48.32.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250901164855_alexandre_fernandes_screenshot_2025_09_01_at_13.48.32.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB\r\n\r\nRequest Transaction ID: XIflNviUglOLZESq0Ubdlo9dwUQE2SLytCZJ9JHPR8Ok7cZQWVr0yj1z9FOkbI4CT/5Cieq99jd28tqPdV0EQEp7AjQSJOXxApvgvkctaFj3CyNB8p2gLViBmb9a80AOyJCH056xp7O9Tm0izzJ+CdxhSVVL5cxo3ahDi8kzRgI29nibJpKZr+qGFXxNr48+u+ICmExaRWqE+QIHbz8rJVY3FPK3kHJTIyxI79NrzJVUR4PSoFZxo6o3JQwxEMELUgTGKbFYR7Uqa2FPPulYGuJYJ4Vy78uCH4qxA3PUt0ettb1K+p/HyHXYOlZqtr2wYy9qt+LQ4y4+q6ZRwdqMkA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+          "Rubric classification": "100TDG For every 1 hour of human effort",
+          "TDGs Provisioned": "300.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "300.00",
+          "Status date": "20250901",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "",
+          "Discord ID": "",
+          "Within past 90 days": "",
+          "Within past 90 days vesting": "",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": ""
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

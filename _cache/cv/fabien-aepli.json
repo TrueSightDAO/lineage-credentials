@@ -1,0 +1,81 @@
+{
+  "slug": "fabien-aepli",
+  "display_name": "Fabien Aepli",
+  "pk_hash": null,
+  "identity": {},
+  "generated_at": "2026-05-15T05:06:14Z",
+  "has_elective_records": false,
+  "has_dao_contributions": true,
+  "programs": {},
+  "dao_contributions": {
+    "total_contributions": 1,
+    "total_tdg_provisioned": 100.0,
+    "date_range": {
+      "earliest": "20230626",
+      "latest": "20230626"
+    },
+    "source": {
+      "contributor_name": "Fabien Aepli",
+      "generated_date": "2026-05-14T22:06:13.145250",
+      "summary": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "date_range": {
+          "earliest": "20230626",
+          "latest": "20230626"
+        }
+      },
+      "analysis": {
+        "total_contributions": 1,
+        "total_tdg_provisioned": 100.0,
+        "total_tdg_issued": 100.0,
+        "projects": [
+          "TrueSight DAO"
+        ],
+        "rubric_categories": {
+          "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)": 1
+        },
+        "date_range": {
+          "earliest": "20230626",
+          "latest": "20230626"
+        },
+        "contribution_types": [
+          {
+            "description": "1 hour facetime to discuss about the proper order to bootstrap our legal structure.\n\n    - step 1: get first shipment from Agroverse going to gather operational and financial performance data\n    - step 2: setup Swiss Association using USD5,000 pay as you go retainer utilizing Fabien's company\n    - step 3: raise liquidity to pay legal retainer fees for Swiss Association from Ethereum using Agroverse data",
+            "project": "TrueSight DAO",
+            "tdg": 100.0,
+            "date": "20230626",
+            "status": "Successfully Completed / Full Provision Awarded"
+          }
+        ],
+        "status_breakdown": {
+          "Successfully Completed / Full Provision Awarded": 1
+        }
+      },
+      "raw_contributions": [
+        {
+          "Contributor Name": "Fabien Aepli",
+          "Project Name": "TrueSight DAO",
+          "Contribution Made": "1 hour facetime to discuss about the proper order to bootstrap our legal structure.\n\n    - step 1: get first shipment from Agroverse going to gather operational and financial performance data\n    - step 2: setup Swiss Association using USD5,000 pay as you go retainer utilizing Fabien's company\n    - step 3: raise liquidity to pay legal retainer fees for Swiss Association from Ethereum using Agroverse data",
+          "Rubric classification": "50 : Build Game - Strategy - Attended Facetime Meetings (every 30 minutes)",
+          "TDGs Provisioned": "100.00",
+          "Status": "Successfully Completed / Full Provision Awarded",
+          "TDGs Issued": "100.00",
+          "Status date": "20230626",
+          "Solana Transfer Hash": "",
+          "TDGs yet Air Dropped": "100.00",
+          "Discord ID": "+41 76 424 05 50",
+          "Within past 90 days": "#REF!",
+          "Within past 90 days vesting": "#REF!",
+          "Within past 180 days": "",
+          "Within past 180 days vesting": "0"
+        }
+      ]
+    }
+  },
+  "_generator": "build_cv_cache"
+}

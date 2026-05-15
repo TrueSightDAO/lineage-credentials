@@ -3,7 +3,7 @@
   "display_name": "Dr Anita Lamprecht",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dr Anita Lamprecht",
-      "generated_date": "2026-05-14T22:32:24.022901",
+      "generated_date": "2026-05-14T22:41:01.044244",
       "summary": {
         "total_contributions": 49,
         "total_tdg_provisioned": 12642.0,
@@ -30,6 +30,13 @@
           "earliest": "20221022",
           "latest": "20241002"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "50",
+        "voting_power_pct": "0.65%",
+        "tdg_controlled": "7,642",
+        "total_voting_power_pct": "0.33%"
       },
       "analysis": {
         "total_contributions": 49,
@@ -1254,6 +1261,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "50",
+    "voting_power_pct": "0.65%",
+    "tdg_controlled": "7,642",
+    "total_voting_power_pct": "0.33%"
   },
   "_generator": "build_cv_cache"
 }

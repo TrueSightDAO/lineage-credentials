@@ -3,7 +3,7 @@
   "display_name": "Val Lapidus",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Val Lapidus",
-      "generated_date": "2026-05-14T22:32:25.013024",
+      "generated_date": "2026-05-14T22:41:02.080467",
       "summary": {
         "total_contributions": 258,
         "total_tdg_provisioned": 88561.53,
@@ -35,6 +35,13 @@
           "earliest": "20210825",
           "latest": "20260128"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "4",
+        "voting_power_pct": "1.86%",
+        "tdg_controlled": "62,143",
+        "total_voting_power_pct": "2.65%"
       },
       "analysis": {
         "total_contributions": 258,
@@ -6296,6 +6303,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "4",
+    "voting_power_pct": "1.86%",
+    "tdg_controlled": "62,143",
+    "total_voting_power_pct": "2.65%"
   },
   "_generator": "build_cv_cache"
 }

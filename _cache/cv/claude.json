@@ -3,7 +3,7 @@
   "display_name": "Claude",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Claude",
-      "generated_date": "2026-05-14T22:32:23.965436",
+      "generated_date": "2026-05-14T22:41:00.984367",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 3.3,
@@ -28,6 +28,13 @@
           "earliest": "20240828",
           "latest": "20240828"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "309",
+        "voting_power_pct": "0.01%",
+        "tdg_controlled": "3",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 1,
@@ -76,6 +83,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "309",
+    "voting_power_pct": "0.01%",
+    "tdg_controlled": "3",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

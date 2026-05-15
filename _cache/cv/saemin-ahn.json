@@ -3,7 +3,7 @@
   "display_name": "Saemin Ahn",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Saemin Ahn",
-      "generated_date": "2026-05-14T22:32:24.903811",
+      "generated_date": "2026-05-14T22:41:01.953502",
       "summary": {
         "total_contributions": 8,
         "total_tdg_provisioned": 9000.0,
@@ -26,6 +26,9 @@
           "earliest": "20220120",
           "latest": "20220206"
         }
+      },
+      "governance": {
+        "is_governor": false
       },
       "analysis": {
         "total_contributions": 8,
@@ -238,6 +241,9 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false
   },
   "_generator": "build_cv_cache"
 }

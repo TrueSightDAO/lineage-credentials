@@ -3,7 +3,7 @@
   "display_name": "Vibhu Mittal",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vibhu Mittal",
-      "generated_date": "2026-05-14T22:32:25.033754",
+      "generated_date": "2026-05-14T22:41:02.105038",
       "summary": {
         "total_contributions": 25,
         "total_tdg_provisioned": 10154.67,
@@ -30,6 +30,13 @@
           "earliest": "20181030",
           "latest": "20250816"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "34",
+        "voting_power_pct": "0.75%",
+        "tdg_controlled": "10,161",
+        "total_voting_power_pct": "0.43%"
       },
       "analysis": {
         "total_contributions": 25,
@@ -667,6 +674,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "34",
+    "voting_power_pct": "0.75%",
+    "tdg_controlled": "10,161",
+    "total_voting_power_pct": "0.43%"
   },
   "_generator": "build_cv_cache"
 }

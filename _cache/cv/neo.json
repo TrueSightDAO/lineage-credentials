@@ -3,7 +3,7 @@
   "display_name": "Neo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Neo",
-      "generated_date": "2026-05-14T22:32:24.809567",
+      "generated_date": "2026-05-14T22:41:01.845369",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 10266.0,
@@ -26,6 +26,13 @@
           "earliest": "20220425",
           "latest": "20220705"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "31",
+        "voting_power_pct": "0.75%",
+        "tdg_controlled": "10,266",
+        "total_voting_power_pct": "0.44%"
       },
       "analysis": {
         "total_contributions": 5,
@@ -170,6 +177,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "31",
+    "voting_power_pct": "0.75%",
+    "tdg_controlled": "10,266",
+    "total_voting_power_pct": "0.44%"
   },
   "_generator": "build_cv_cache"
 }

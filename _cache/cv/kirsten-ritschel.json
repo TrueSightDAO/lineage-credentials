@@ -3,7 +3,7 @@
   "display_name": "Kirsten Ritschel",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kirsten Ritschel",
-      "generated_date": "2026-05-14T22:32:24.667590",
+      "generated_date": "2026-05-14T22:41:01.687231",
       "summary": {
         "total_contributions": 110,
         "total_tdg_provisioned": 18339.619999999995,
@@ -34,6 +34,13 @@
           "earliest": "20250114",
           "latest": "20260214"
         }
+      },
+      "governance": {
+        "is_governor": true,
+        "ownership_rank": "19",
+        "voting_power_pct": "1.02%",
+        "tdg_controlled": "18,574",
+        "total_voting_power_pct": "0.79%"
       },
       "analysis": {
         "total_contributions": 110,
@@ -2707,6 +2714,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": true,
+    "ownership_rank": "19",
+    "voting_power_pct": "1.02%",
+    "tdg_controlled": "18,574",
+    "total_voting_power_pct": "0.79%"
   },
   "_generator": "build_cv_cache"
 }

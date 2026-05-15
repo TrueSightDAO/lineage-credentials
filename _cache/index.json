@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T05:35:48Z",
+  "generated_at": "2026-05-15T05:41:51Z",
   "count": 377,
   "members": [
     {
@@ -7,4901 +7,4901 @@
       "display_name": "Adi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8750.94,
       "total_contributions": 43,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "adrien",
       "display_name": "Adrien",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 150.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "aga-marecka",
       "display_name": "Aga Marecka",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.58,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 13570.679999999998,
       "total_contributions": 60,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "agl15",
       "display_name": "AGL15",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1127.12,
       "total_contributions": 14,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ahbinav",
       "display_name": "Ahbinav",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 291.65,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ahmed",
       "display_name": "Ahmed",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "aihui-ong",
       "display_name": "Aihui Ong",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "aleksa-mil",
       "display_name": "Aléksa Mil",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.91,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 44820.0,
       "total_contributions": 35,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "alessandro-mele",
       "display_name": "Alessandro Mele",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 956.6600000000001,
       "total_contributions": 13,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "alex",
       "display_name": "Alex",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1449.9900000000002,
       "total_contributions": 13,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "alex-circuit-labs",
       "display_name": "Alex - Circuit Labs",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "alex-costa",
       "display_name": "Alex Costa",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 24.990000000000002,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "alexadoglio",
       "display_name": "@alexadoglio",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "alexander-grau",
       "display_name": "Alexander Grau",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "alexandre-fernandes",
       "display_name": "Alexandre Fernandes",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 400.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "allison-d-laureano",
       "display_name": "Allison D. Laureano",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 318.6700000000001,
       "total_contributions": 9,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "allison-liu",
       "display_name": "Allison Liu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2600.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ambarish-malpani",
       "display_name": "Ambarish Malpani",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.32,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 7502.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "anabel",
       "display_name": "Anabel",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "andrea-catalina-falcon-rios-de-pabst",
       "display_name": "Andrea Catalina Falcon Rios De Pabst",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 0.06,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1398.33,
       "total_contributions": 17,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "andreas-quandt",
       "display_name": "Andreas Quandt",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 283.33,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "andrew-shroomed",
       "display_name": "Andrew Shroomed",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "andrey-nayman",
       "display_name": "Andrey Nayman",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.07,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1650.0,
       "total_contributions": 18,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "andy-choi",
       "display_name": "Andy Choi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 66.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "angela-hamit",
       "display_name": "Angela Hamit",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "angela-tseng",
       "display_name": "Angela Tseng",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1116.6499999999999,
       "total_contributions": 11,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "angeline-tan",
       "display_name": "Angeline Tan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.31,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 7358.0,
       "total_contributions": 12,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "anika-giftge",
       "display_name": "Anika Giftge",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.6,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 37560.0,
       "total_contributions": 70,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "anna-love",
       "display_name": "Anna Love",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "anna-nguyenova",
       "display_name": "Anna Nguyenova",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "anne-charboneau",
       "display_name": "Anne Charboneau",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.36,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8410.0,
       "total_contributions": 18,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "annelaure-vuillermoz",
       "display_name": "Annelaure Vuillermoz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "annia-tsiupa",
       "display_name": "Annia Tsiupa",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.38,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8808.33,
       "total_contributions": 39,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "annie-teo",
       "display_name": "Annie Teo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "anupa-dasgupta",
       "display_name": "Anupa Dasgupta",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.85,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 19976.49,
       "total_contributions": 133,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "anupa-diya",
       "display_name": "Anupa/diya",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 123.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "apoorva-abhinav-colleague",
       "display_name": "Apoorva - Abhinav Colleague",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 266.65999999999997,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "aravind-gandavadi",
       "display_name": "Aravind Gandavadi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "arpt",
       "display_name": "ARPT",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 12.5,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "arti",
       "display_name": "Arti",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 4510.75,
       "total_contributions": 39,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "artiom-baloian",
       "display_name": "Artiom Baloian",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "atheleah-nous",
       "display_name": "ATheLeah Nous",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 675.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "baki71166714",
       "display_name": "@Baki71166714",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bala-vishal",
       "display_name": "Bala Vishal",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "barbara-sadini",
       "display_name": "Barbara Sadini",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.13,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3034.9399999999996,
       "total_contributions": 19,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bernard-leong",
       "display_name": "Bernard Leong",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2155.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "betty",
       "display_name": "Betty",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.51,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 12009.0,
       "total_contributions": 55,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bhavana",
       "display_name": "Bhavana",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 425.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bilal",
       "display_name": "Bilal",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "biljana-sanev",
       "display_name": "Biljana Sanev",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "billy-estoque",
       "display_name": "Billy Estoque",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bing",
       "display_name": "Bing",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8395.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "black-izeek",
       "display_name": "@black_izeek",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5.684341886080802e-14,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "blake",
       "display_name": "Blake",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 33.34,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bob-clark",
       "display_name": "Bob Clark",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "boris-giftge",
       "display_name": "Boris Giftge",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 850.0,
       "total_contributions": 6,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bradley-hsu",
       "display_name": "Bradley Hsu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "brian-kennish",
       "display_name": "Brian Kennish",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 7500.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "brian-naughton",
       "display_name": "Brian Naughton",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "brian-vedao",
       "display_name": "Brian VeDAO",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "brian-wee",
       "display_name": "Brian Wee",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "bruno-bethonico",
       "display_name": "Bruno Bethonico",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 716.6600000000001,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "byron-walker",
       "display_name": "Byron Walker",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "carl-ftizgibbon",
       "display_name": "Carl Ftizgibbon",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.07,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1557.0,
       "total_contributions": 22,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "carlos",
       "display_name": "Carlos",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "casey-oppenheim",
       "display_name": "Casey Oppenheim",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "catherine-he-limin",
       "display_name": "Catherine He Limin",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.11,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "cepotx",
       "display_name": "CEPOTX",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 58.33,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "chen-jianwen",
       "display_name": "Chen JianWen",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 501.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "chloe-gs",
       "display_name": "Chloé GS",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 58.33,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "chris-arriola",
       "display_name": "Chris Arriola",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "chris-ye",
       "display_name": "Chris Ye",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.21,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "christina-yu",
       "display_name": "Christina Yu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "cindy-cohen",
       "display_name": "Cindy Cohen",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 525.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "claude",
       "display_name": "Claude",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "cliff",
       "display_name": "Cliff",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "coach-remmie",
       "display_name": "Coach Remmie",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "coopercabruca",
       "display_name": "Coopercabruca",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1132.8899999999999,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "corrales-cachola",
       "display_name": "Corrales Cachola",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "craig-henderson",
       "display_name": "Craig Henderson",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "cryptononymouseconomist",
       "display_name": "@CryptononymousEconomist",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dafu-onepiece-labs",
       "display_name": "Dafu | OnePiece Labs",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dan-cordie",
       "display_name": "Dan Cordie",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 498.33,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "daniel-prime",
       "display_name": "Daniel Prime",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 186.65000000000003,
       "total_contributions": 16,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "daniela-c-merlano",
       "display_name": "Daniela C. Merlano",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "danielle-sunberg",
       "display_name": "Danielle Sunberg",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 368.0,
       "total_contributions": 12,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "david-berget",
       "display_name": "David Berget",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.33,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 7700.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "david-california-land-owner-davos",
       "display_name": "David - California Land Owner Davos",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "david-ghost-drive",
       "display_name": "David - Ghost Drive",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "david-hu",
       "display_name": "David Hu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "david-k-k-kwan",
       "display_name": "David K K Kwan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dean-mao",
       "display_name": "Dean Mao",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 541.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "deric-walintukan",
       "display_name": "Deric Walintukan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "derrek",
       "display_name": "Derrek",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "deya",
       "display_name": "Deya",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "diana-gan",
       "display_name": "Diana Gan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dirk-watkins",
       "display_name": "Dirk Watkins",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.09,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dita",
       "display_name": "Dita",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.15,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3550.0,
       "total_contributions": 13,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "doris-wang",
       "display_name": "Doris Wang",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.26,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 6100.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dr-anita-lamprecht",
       "display_name": "Dr Anita Lamprecht",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.33,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 7642.0,
       "total_contributions": 49,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dr-denis",
       "display_name": "Dr. Denis",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dr-nike-schmidt",
       "display_name": "Dr. Nike Schmidt",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 111.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dr-spencer-william-brown",
       "display_name": "Dr Spencer William Brown",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 625.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dragon",
       "display_name": "Dragon",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.07,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1550.0,
       "total_contributions": 6,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "dsb-5413",
       "display_name": "dsb#5413",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ed",
       "display_name": "Ed",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 82480.48000000001,
       "total_contributions": 299,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "edge-and-node",
       "display_name": "Edge and Node",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.19,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 4442.67,
       "total_contributions": 11,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "edi-hsu",
       "display_name": "Edi Hsu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.42,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 9805.0,
       "total_contributions": 20,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "edmund-wuu",
       "display_name": "Edmund Wuu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 400.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "edward",
       "display_name": "Edward",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "edwin",
       "display_name": "Edwin",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 708.33,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "edwin-fireworkz",
       "display_name": "Edwin - Fireworkz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "edwin-lun",
       "display_name": "Edwin Lun",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 600.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "elinor-janelle",
       "display_name": "Elinor Janelle",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.19,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 4408.32,
       "total_contributions": 15,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "elizabeth-irizarry",
       "display_name": "Elizabeth Irizarry",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "elodie-carter",
       "display_name": "Elodie Carter",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "elora-eugene-oregon",
       "display_name": "Elora - Eugene Oregon",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "elvisyong",
       "display_name": "@elvisyong",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "emelin-frances-lisboa",
       "display_name": "Emelin",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.09,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 25621.449999999924,
       "total_contributions": 356,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "emmanuel-nwanja",
       "display_name": "Emmanuel Nwanja",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "eric-founderhaus",
       "display_name": "Eric - FounderHaus",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "eric-ly",
       "display_name": "Eric Ly",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "eric-y-chen",
       "display_name": "Eric Y Chen",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 6,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ervin-sarajevo",
       "display_name": "Ervin Sarajevo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1180.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ethan-bryan-ng",
       "display_name": "Ethan Bryan Ng",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.63,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 14650.0,
       "total_contributions": 22,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "evan-sui",
       "display_name": "Evan Sui",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "evi",
       "display_name": "Evi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 12015.0,
       "total_contributions": 12,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ewerton-silva",
       "display_name": "Ewerton Silva",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "fabien-aepli",
       "display_name": "Fabien Aepli",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "fadi",
       "display_name": "Fadi",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "fark-kader",
       "display_name": "Fark Kader",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 300.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "fatima-toledo",
       "display_name": "Fatima Toledo",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 2.81,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 65852.81000000003,
       "total_contributions": 247,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "felix",
       "display_name": "Felix",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 325.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ferdinando-boninelli",
       "display_name": "Ferdinando Boninelli",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.1,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2233.2099999999996,
       "total_contributions": 14,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "fleurish-quartz",
       "display_name": "Fleurish Quartz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "florian-cornu",
       "display_name": "Florian Cornu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.11,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "francine-cabral",
       "display_name": "Francine Cabral",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "franck-nouyrigat",
       "display_name": "Franck Nouyrigat",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 23835.0,
       "total_contributions": 38,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "francois-renet",
       "display_name": "Francois Renet",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.37,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8671.0,
       "total_contributions": 28,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "garis-pang",
       "display_name": "Garis Pang",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 2.89,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 67653.33,
       "total_contributions": 139,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "gary-teh",
       "display_name": "Gary Teh",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 40.77,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 955998.0666666903,
       "total_contributions": 3625,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "gautam-mittal",
       "display_name": "Gautam Mittal",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.43,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 33450.0,
       "total_contributions": 37,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "getdata-inc",
       "display_name": "GetData Inc",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0.3600000003061723,
       "total_contributions": 1939,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "gilbert-zhuo",
       "display_name": "Gilbert Zhuo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "glenn-kowalsky",
       "display_name": "Glenn Kowalsky",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "global-dao-alliance",
       "display_name": "Global DAO Alliance",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.44,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10250.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "gloria-chimelu",
       "display_name": "Gloria Chimelu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "green-gulch-zen-monastery",
       "display_name": "Green Gulch Zen Monastery",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "guenther-dobrauz",
       "display_name": "Guenther Dobrauz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 601.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "gwendolyn-regina",
       "display_name": "Gwendolyn Regina",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "h4n5",
       "display_name": "@_H4N5",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "hackerdojo",
       "display_name": "HackerDojo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1276.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "hans-martin-heierling",
       "display_name": "Hans Martin Heierling",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 0.15,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3627.25,
       "total_contributions": 34,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "hawkenzo1",
       "display_name": "@hawkenzo1",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "horacio",
       "display_name": "Horacio",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "house-of-balance",
       "display_name": "House of Balance",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.23,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5425.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "hubert-yee",
       "display_name": "Hubert Yee",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.08,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1780.0,
       "total_contributions": 19,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "hughiegabriel",
       "display_name": "@Hughiegabriel",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ian",
       "display_name": "Ian",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.42,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 33337.0,
       "total_contributions": 24,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ida",
       "display_name": "Ida",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ilya-voytov",
       "display_name": "Ilya Voytov",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 6410.0,
       "total_contributions": 14,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "inza",
       "display_name": "Inza",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "irene-hsu",
       "display_name": "Irene Hsu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 216.67000000000002,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "iris-m",
       "display_name": "Iris M",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.07,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1535.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "isabela",
       "display_name": "Isabela",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "itz-eazyboy",
       "display_name": "@itz_eazyboy",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1.1368683772161603e-13,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "iwona-fluda",
       "display_name": "Iwona Fluda",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.24,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5658.549999999999,
       "total_contributions": 35,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jacki-roach",
       "display_name": "Jacki Roach",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1010.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jacob-m-hot-springs-montana-okanonga-barter-faire",
       "display_name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 57.08,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jacob-nelan",
       "display_name": "Jacob Nelan",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 2.59,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 60725.99,
       "total_contributions": 62,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "james-harvey",
       "display_name": "James Harvey",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "james-sheen",
       "display_name": "James Sheen",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "james-sung",
       "display_name": "James Sung",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 608.3499999999998,
       "total_contributions": 10,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "janet-hob",
       "display_name": "Janet - HOB",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jascha-martschenko",
       "display_name": "Jascha Martschenko",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.51,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 11944.73,
       "total_contributions": 17,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jayan",
       "display_name": "Jayan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jeff",
       "display_name": "Jeff",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.13,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3000.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jen-chan",
       "display_name": "Jen Chan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jenifer-runnion",
       "display_name": "Jenifer Runnion",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 703.3399999999999,
       "total_contributions": 13,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jeramy-dahl",
       "display_name": "Jeramy Dahl",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jeremy-chong",
       "display_name": "Jeremy Chong",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jerry-luk",
       "display_name": "Jerry Luk",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.38,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8822.66,
       "total_contributions": 21,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jessica-jae-liu",
       "display_name": "Jessica Jae Liu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jim-white",
       "display_name": "Jim White",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jinn-rajinder-jhol",
       "display_name": "Jinn Rajinder Jhol",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "joao-fouad",
       "display_name": "Joao Fouad",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "john-saadeh",
       "display_name": "John Saadeh",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "john-tan",
       "display_name": "John Tan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.39,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 9110.0,
       "total_contributions": 11,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "johnlingardr",
       "display_name": "JohnLingardR",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 20.840000000000003,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "johnny-browaeys",
       "display_name": "Johnny Browaeys",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "johnny-bueler",
       "display_name": "Johnny Bueler",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "johnson-teh",
       "display_name": "Johnson Teh",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.65,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 38665.0,
       "total_contributions": 44,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jonathan",
       "display_name": "Jonathan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.13,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3015.99,
       "total_contributions": 16,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "josh-brown",
       "display_name": "Josh Brown",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 133.32999999999998,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "joshua-bishop",
       "display_name": "Joshua Bishop",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "joshua-wee",
       "display_name": "Joshua Wee",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "josue-oscar-rodriguez",
       "display_name": "Josue (Oscar) Rodriguez",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "juan-bernabo",
       "display_name": "Juan Bernabo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 557.7400000000001,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "jules-kenton",
       "display_name": "Jules Kenton",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "junaid-khalid",
       "display_name": "Junaid Khalid",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "june-jo",
       "display_name": "June Jo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.09,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2000.0,
       "total_contributions": 11,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "justine",
       "display_name": "Justine",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "karin-lanz",
       "display_name": "Karin Lanz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.15,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3467.3599999999997,
       "total_contributions": 31,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "karin-lorez",
       "display_name": "Karin Lorez",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 351.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "karl",
       "display_name": "Karl",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kaspar-hidayat",
       "display_name": "Kaspar Hidayat",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kathryn-gichini",
       "display_name": "Kathryn Gichini",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kelly-choo",
       "display_name": "Kelly Choo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kelvin-chew",
       "display_name": "Kelvin Chew",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 2.49,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 58360.0,
       "total_contributions": 85,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kemartiti-2719",
       "display_name": "KemarTiti 🔮#2719",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ken-lee",
       "display_name": "Ken Lee",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ken-nim",
       "display_name": "Ken Nim",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.4,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 9419.220000000001,
       "total_contributions": 47,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kevin-deval",
       "display_name": "Kevin Deval",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.48,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 11350.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kirsten-ritschel",
       "display_name": "Kirsten Ritschel",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 0.79,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 18574.049999999996,
       "total_contributions": 110,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kris-swims-like-fish",
       "display_name": "Kris swims like fish",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "krishanthan-surendran",
       "display_name": "Krishanthan Surendran",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "kuoloon",
       "display_name": "Kuoloon",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.43,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10145.0,
       "total_contributions": 17,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lake",
       "display_name": "@Lake",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.3,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 7050.0,
       "total_contributions": 32,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lan",
       "display_name": "Lan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 69725.01000000002,
       "total_contributions": 112,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "laura-hill",
       "display_name": "Laura Hill",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "laura-liew",
       "display_name": "Laura Liew",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "laura-solner",
       "display_name": "Laura Solner",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lawrence",
       "display_name": "Lawrence",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "leslie-lim",
       "display_name": "Leslie Lim",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lester-barebottle-brewery",
       "display_name": "Lester BareBottle Brewery",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 572.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "levi",
       "display_name": "Levi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 40.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "linda-gorski",
       "display_name": "Linda Gorski",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "liz-george",
       "display_name": "Liz (George)",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lori",
       "display_name": "Lori",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2510.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lorna-blount",
       "display_name": "Lorna Blount",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 800.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lorna-eclectic-india",
       "display_name": "Lorna - Eclectic India",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lucas-root",
       "display_name": "Lucas Root",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "luigi",
       "display_name": "Luigi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lukas-bugla",
       "display_name": "Lukas Bugla",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "lydia-huang",
       "display_name": "Lydia Huang",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1075.0,
       "total_contributions": 10,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "maegan-gorbett",
       "display_name": "Maegan Gorbett",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 225.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "maggie",
       "display_name": "Maggie",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 33.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "marcell",
       "display_name": "Marcell",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 102.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mark-montalban",
       "display_name": "Mark Montalban",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "marta-lopes",
       "display_name": "Marta Lopes",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "marta-poltorak",
       "display_name": "Marta Poltorak",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.06,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1510.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "matheus-reis",
       "display_name": "Matheus Reis",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.27,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 29692.860000000037,
       "total_contributions": 180,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "matt-baxter",
       "display_name": "Matt Baxter",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "matthew-kilkenny",
       "display_name": "Matthew Kilkenny",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 20.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "matthias-gosser",
       "display_name": "Matthias Gösser",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "maya-frost",
       "display_name": "Maya Frost",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mayra-alexandra",
       "display_name": "Mayra Alexandra",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "meir-s-simhi",
       "display_name": "Meir S. Simhi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mercedes",
       "display_name": "Mercedes",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mestre-bico-duro",
       "display_name": "Mestre Bico Duro",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 333.33,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "michael-flaxman",
       "display_name": "Michael Flaxman",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "michael-lim",
       "display_name": "Michael Lim",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mihai-hodisan",
       "display_name": "Mihai Hodisan",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "milena-smith",
       "display_name": "Milena Smith",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.37,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8555.14,
       "total_contributions": 42,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mimrah-mahmood",
       "display_name": "Mimrah Mahmood",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mmaisy-ward",
       "display_name": "Mmaisy Ward",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 20.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "momo-yamada",
       "display_name": "Momo Yamada",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.96,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 22383.0,
       "total_contributions": 18,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mukiri-mwirigi",
       "display_name": "Mukiri Mwirigi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1010.0,
       "total_contributions": 10,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "mulan-teh",
       "display_name": "Mulan Teh",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "murtaza",
       "display_name": "Murtaza",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2250.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nash",
       "display_name": "Nash",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nato",
       "display_name": "Nato",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 33.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "navier",
       "display_name": "Navier",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "neil-bergert",
       "display_name": "Neil Bergert",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "neil-berget",
       "display_name": "Neil Berget",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 15400.0,
       "total_contributions": 11,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "neil-maxwell",
       "display_name": "Neil Maxwell",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1218.0,
       "total_contributions": 10,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nelson",
       "display_name": "Nelson",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.11,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2675.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "neo",
       "display_name": "Neo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.44,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10266.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nick",
       "display_name": "Nick",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 330.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nicole-keller",
       "display_name": "Nicole Keller",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 990.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nima-kaz",
       "display_name": "Nima Kaz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.07,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1528.1600000000003,
       "total_contributions": 18,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nishanth-sudharsanam",
       "display_name": "Nishanth Sudharsanam",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.38,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8850.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nixxholas",
       "display_name": "@nixxholas",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "nosonspot",
       "display_name": "Nosonspot",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "olaf",
       "display_name": "Olaf",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 324.25,
       "total_contributions": 6,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "oliver-scherenberg",
       "display_name": "Oliver Scherenberg",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "orlantildes",
       "display_name": "Orlantildes",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 24.990000000000002,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ozioma-chukwunyere",
       "display_name": "Ózìómà Chúkwúnyéré",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.23,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5278.33,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "paloma",
       "display_name": "Paloma",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 647.0800000000003,
       "total_contributions": 19,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "paul-liu",
       "display_name": "Paul Liu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "paulo-hernandez",
       "display_name": "Paulo Hernandez",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 225.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "peace-on-fifth",
       "display_name": "Peace on fifth",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "perry-tam",
       "display_name": "Perry Tam",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 300.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "peter-gwee",
       "display_name": "Peter Gwee",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.16,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 3775.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "peter-peng",
       "display_name": "Peter Peng",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.33,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 7730.0,
       "total_contributions": 15,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "philip",
       "display_name": "Philip",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.78,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 18260.0,
       "total_contributions": 19,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "pooja-yousra-friend",
       "display_name": "Pooja - Yousra Friend",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "priscilla-huang",
       "display_name": "Priscilla Huang",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 2.5,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 58590.0,
       "total_contributions": 129,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "prithvi",
       "display_name": "Prithvi",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "rafidah-jalil",
       "display_name": "Rafidah Jalil",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "raman",
       "display_name": "Raman",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ramona-wong",
       "display_name": "Ramona Wong",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 155.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ranette-sorenson",
       "display_name": "Ranette Sorenson",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ranette-sorenson-raye-works",
       "display_name": "Ranette Sorenson - Raye Works",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "raphael-bouzy",
       "display_name": "Raphael Bouzy",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 800.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ray-wu",
       "display_name": "Ray Wu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 416.67,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "reuben",
       "display_name": "Reuben",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.08,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1850.0,
       "total_contributions": 17,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "richard-chu",
       "display_name": "Richard Chu",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 1.29,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 30243.0,
       "total_contributions": 25,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "rob-hutter",
       "display_name": "Rob Hutter",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.21,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "rockey599204723",
       "display_name": "@Rockey599204723",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "rodney-wieck",
       "display_name": "Rodney Wieck",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 158.33,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "royston",
       "display_name": "Royston",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "rusty-bogart-pipevine-chocolate",
       "display_name": "Rusty Bogart - PipeVine Chocolate",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ryan-feathermen",
       "display_name": "Ryan Feathermen",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "ryansjjr",
       "display_name": "@ryansjjr",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.63,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 14850.0,
       "total_contributions": 25,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sacred-earth-farms",
       "display_name": "Sacred Earth Farms",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 166.67000000000002,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "saemin-ahn",
       "display_name": "Saemin Ahn",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 9000.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "saltwater-lunch",
       "display_name": "@saltwater_lunch",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "samuel-lambert",
       "display_name": "Samuel Lambert",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sarah-h",
       "display_name": "Sarah H",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.13,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2978.58,
       "total_contributions": 15,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "satheesh-paddolker",
       "display_name": "Satheesh Paddolker",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.5,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 11661.0,
       "total_contributions": 20,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "scott",
       "display_name": "Scott",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "shadi-atamne",
       "display_name": "Shadi Atamne",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.23,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5432.66,
       "total_contributions": 19,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "shane-low",
       "display_name": "Shane Low",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sharvin-baindur",
       "display_name": "Sharvin Baindur",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1200.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "shena-davenport",
       "display_name": "Shena Davenport",
       "pk_hash": null,
-      "is_governor": false,
-      "voting_rights": 0,
+      "is_governor": true,
+      "voting_rights": 0.37,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8659.83,
       "total_contributions": 19,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sherwin",
       "display_name": "Sherwin",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.07,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1600.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "shine-light",
       "display_name": "Shine Light",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 120.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "shino-ling",
       "display_name": "Shino Ling",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.47,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 11045.0,
       "total_contributions": 15,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "soniya-ahuja",
       "display_name": "Soniya Ahuja",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 941.67,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sonya-gorski",
       "display_name": "Sonya Gorski",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 34.67,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sophia",
       "display_name": "Sophia",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sophie-riegert",
       "display_name": "Sophie Riegert",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "stanley-li",
       "display_name": "Stanley Li",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 591.66,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "street-insights-llc",
       "display_name": "Street Insights LLC",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "suhaimi-zainul",
       "display_name": "Suhaimi Zainul",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.25,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5875.0,
       "total_contributions": 28,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "suheil",
       "display_name": "Suheil",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.47,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 11060.66,
       "total_contributions": 78,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "sujit-nair",
       "display_name": "Sujit Nair",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.11,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2591.6800000000003,
       "total_contributions": 6,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "susan-oh",
       "display_name": "Susan Oh",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 450.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "suzo",
       "display_name": "Suzo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "svet-svitlo",
       "display_name": "Svet Svitlo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 60.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "teck-chiong-lim",
       "display_name": "Teck Chiong Lim",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tess-walkowski",
       "display_name": "Tess Walkowski",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.11,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2669.8999999999996,
       "total_contributions": 57,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tessa-rosemary-eckerman",
       "display_name": "Tessa Rosemary Eckerman",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.22,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5200.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "the2xld",
       "display_name": "@the2xld",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 2259.9700000000003,
       "total_contributions": 28,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "theodl",
       "display_name": "@TheoDL",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "thomas-gorissen",
       "display_name": "Thomas Gorissen",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.08,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1850.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "thomas-tang",
       "display_name": "Thomas Tang",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1100.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tiffany-harnsongkram",
       "display_name": "Tiffany Harnsongkram",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 277.67,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tiffine-wang",
       "display_name": "Tiffine Wang",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.64,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 14984.67,
       "total_contributions": 32,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tomas-bernabo",
       "display_name": "Tomas Bernabo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.42,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 9819.82,
       "total_contributions": 31,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tres-garcia",
       "display_name": "Tres Garcia",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.27,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 6285.33,
       "total_contributions": 39,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "trex-d-designer",
       "display_name": "@Trex_d_designer",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 303.33,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tripp",
       "display_name": "Tripp",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 652.78,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "truetech-inc",
       "display_name": "TrueTech Inc",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.21,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 4963.770000000005,
       "total_contributions": 209,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "tushar-sharma",
       "display_name": "Tushar Sharma",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.03,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 608.34,
       "total_contributions": 9,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "val-lapidus",
       "display_name": "Val Lapidus",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 2.65,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 62143.00000000001,
       "total_contributions": 258,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "valentine-stockdale",
       "display_name": "Valentine Stockdale",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vanessa-walach-shaman-better-daze",
       "display_name": "Vanessa Walach - Shaman Better Daze",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vanja",
       "display_name": "Vanja",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 504.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "varma-priyatham",
       "display_name": "Varma Priyatham",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 77.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vibhu-mittal",
       "display_name": "Vibhu Mittal",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.43,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10161.33,
       "total_contributions": 25,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "victor-munoz",
       "display_name": "Victor Munoz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.22,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5250.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "victor-pineda",
       "display_name": "Victor Pineda",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.02,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 403.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vina-e-microbio-de-bike",
       "display_name": "Vina e Microbio De Bike",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vincent-song",
       "display_name": "Vincent Song",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 316.67,
       "total_contributions": 8,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vinibitencourt",
       "display_name": "@vinibitencourt",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 218.31999999999996,
       "total_contributions": 10,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vishvajit",
       "display_name": "Vishvajit",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.05,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1235.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "vlatko-gigov",
       "display_name": "Vlatko Gigov",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 2.16,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50584.08,
       "total_contributions": 162,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "walter-punsapy",
       "display_name": "Walter Punsapy",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "will-chen",
       "display_name": "Will Chen",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 175.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "windy-butler-ehry",
       "display_name": "Windy Butler-Ehry",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "won-kim",
       "display_name": "Won Kim",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "xenofon-kontouris",
       "display_name": "Xenofon Kontouris",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "xiahong-lin",
       "display_name": "XiaHong Lin",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "xjcaa",
       "display_name": "@xjcaa",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "yasmin",
       "display_name": "Yasmin",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 308.34000000000003,
       "total_contributions": 7,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "youna-kim",
       "display_name": "Youna Kim",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.04,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1050.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "yousra-saad-kamoona",
       "display_name": "Yousra Saad Kamoona",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 198.34000000000003,
       "total_contributions": 11,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "yuan-luo",
       "display_name": "Yuan Luo",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.21,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "yukihiro",
       "display_name": "Yukihiro",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.06,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 1300.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "yuval-wirzberger",
       "display_name": "Yuval Wirzberger",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.01,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 150.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "zach-miltz",
       "display_name": "Zach Miltz",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "zach-roth",
       "display_name": "Zach Roth",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "zack-franklin",
       "display_name": "Zack Franklin",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "zake-zephylia",
       "display_name": "Zake Zephylia",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.0,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     },
     {
       "slug": "zoran",
       "display_name": "Zoran",
       "pk_hash": null,
       "is_governor": false,
-      "voting_rights": 0,
+      "voting_rights": 0.22,
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 5100.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-15T05:34:57Z"
+      "last_updated": "2026-05-15T05:41:02Z"
     }
   ]
 }

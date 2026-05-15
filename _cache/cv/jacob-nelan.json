@@ -3,7 +3,7 @@
   "display_name": "Jacob Nelan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jacob Nelan",
-      "generated_date": "2026-05-14T22:32:24.558409",
+      "generated_date": "2026-05-14T22:41:01.554990",
       "summary": {
         "total_contributions": 62,
         "total_tdg_provisioned": 60725.99,
@@ -30,6 +30,13 @@
           "earliest": "20210801",
           "latest": "20260430"
         }
+      },
+      "governance": {
+        "is_governor": true,
+        "ownership_rank": "5",
+        "voting_power_pct": "1.84%",
+        "tdg_controlled": "60,726",
+        "total_voting_power_pct": "2.59%"
       },
       "analysis": {
         "total_contributions": 62,
@@ -1549,6 +1556,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": true,
+    "ownership_rank": "5",
+    "voting_power_pct": "1.84%",
+    "tdg_controlled": "60,726",
+    "total_voting_power_pct": "2.59%"
   },
   "_generator": "build_cv_cache"
 }

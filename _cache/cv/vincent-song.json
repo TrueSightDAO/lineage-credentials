@@ -3,7 +3,7 @@
   "display_name": "Vincent Song",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vincent Song",
-      "generated_date": "2026-05-14T22:32:25.045955",
+      "generated_date": "2026-05-14T22:41:02.118408",
       "summary": {
         "total_contributions": 8,
         "total_tdg_provisioned": 3416.67,
@@ -31,6 +31,13 @@
           "earliest": "20201024",
           "latest": "20250205"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "164",
+        "voting_power_pct": "0.13%",
+        "tdg_controlled": "317",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 8,
@@ -255,6 +262,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "164",
+    "voting_power_pct": "0.13%",
+    "tdg_controlled": "317",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

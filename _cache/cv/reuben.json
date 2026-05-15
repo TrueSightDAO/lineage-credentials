@@ -3,7 +3,7 @@
   "display_name": "Reuben",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Reuben",
-      "generated_date": "2026-05-14T22:32:24.883646",
+      "generated_date": "2026-05-14T22:41:01.930490",
       "summary": {
         "total_contributions": 17,
         "total_tdg_provisioned": 4300.0,
@@ -26,6 +26,13 @@
           "earliest": "20220304",
           "latest": "20220325"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "86",
+        "voting_power_pct": "0.32%",
+        "tdg_controlled": "1,850",
+        "total_voting_power_pct": "0.08%"
       },
       "analysis": {
         "total_contributions": 17,
@@ -460,6 +467,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "86",
+    "voting_power_pct": "0.32%",
+    "tdg_controlled": "1,850",
+    "total_voting_power_pct": "0.08%"
   },
   "_generator": "build_cv_cache"
 }

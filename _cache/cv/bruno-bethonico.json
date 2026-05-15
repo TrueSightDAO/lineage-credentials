@@ -3,7 +3,7 @@
   "display_name": "Bruno Bethonico",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Bruno Bethonico",
-      "generated_date": "2026-05-14T22:32:23.934683",
+      "generated_date": "2026-05-14T22:41:00.949546",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 716.58,
@@ -29,6 +29,13 @@
           "earliest": "20240622",
           "latest": "20250415"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "125",
+        "voting_power_pct": "0.20%",
+        "tdg_controlled": "717",
+        "total_voting_power_pct": "0.03%"
       },
       "analysis": {
         "total_contributions": 4,
@@ -150,6 +157,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "125",
+    "voting_power_pct": "0.20%",
+    "tdg_controlled": "717",
+    "total_voting_power_pct": "0.03%"
   },
   "_generator": "build_cv_cache"
 }

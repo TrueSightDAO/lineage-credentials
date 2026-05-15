@@ -3,7 +3,7 @@
   "display_name": "Yasmin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Yasmin",
-      "generated_date": "2026-05-14T22:32:25.070415",
+      "generated_date": "2026-05-14T22:41:02.149134",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 265.28999999999996,
@@ -29,6 +29,13 @@
           "earliest": "20250425",
           "latest": "20250511"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "165",
+        "voting_power_pct": "0.13%",
+        "tdg_controlled": "308",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 7,
@@ -223,6 +230,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "165",
+    "voting_power_pct": "0.13%",
+    "tdg_controlled": "308",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

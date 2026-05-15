@@ -3,7 +3,7 @@
   "display_name": "Green Gulch Zen Monastery",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Green Gulch Zen Monastery",
-      "generated_date": "2026-05-14T22:32:24.510534",
+      "generated_date": "2026-05-14T22:41:01.503180",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 200.0,
@@ -29,6 +29,13 @@
           "earliest": "20231126",
           "latest": "20231128"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "181",
+        "voting_power_pct": "0.11%",
+        "tdg_controlled": "200",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 2,
@@ -102,6 +109,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "181",
+    "voting_power_pct": "0.11%",
+    "tdg_controlled": "200",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

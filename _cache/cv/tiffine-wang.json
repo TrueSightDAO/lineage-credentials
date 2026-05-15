@@ -3,7 +3,7 @@
   "display_name": "Tiffine Wang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tiffine Wang",
-      "generated_date": "2026-05-14T22:32:24.983976",
+      "generated_date": "2026-05-14T22:41:02.044716",
       "summary": {
         "total_contributions": 32,
         "total_tdg_provisioned": 20084.65,
@@ -29,6 +29,13 @@
           "earliest": "20210522",
           "latest": "20250307"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "21",
+        "voting_power_pct": "0.91%",
+        "tdg_controlled": "14,985",
+        "total_voting_power_pct": "0.64%"
       },
       "analysis": {
         "total_contributions": 32,
@@ -828,6 +835,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "21",
+    "voting_power_pct": "0.91%",
+    "tdg_controlled": "14,985",
+    "total_voting_power_pct": "0.64%"
   },
   "_generator": "build_cv_cache"
 }

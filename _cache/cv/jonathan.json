@@ -3,7 +3,7 @@
   "display_name": "Jonathan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jonathan",
-      "generated_date": "2026-05-14T22:32:24.611407",
+      "generated_date": "2026-05-14T22:41:01.621752",
       "summary": {
         "total_contributions": 16,
         "total_tdg_provisioned": 3565.96,
@@ -30,6 +30,13 @@
           "earliest": "20221209",
           "latest": "20250703"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "75",
+        "voting_power_pct": "0.41%",
+        "tdg_controlled": "3,016",
+        "total_voting_power_pct": "0.13%"
       },
       "analysis": {
         "total_contributions": 16,
@@ -450,6 +457,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "75",
+    "voting_power_pct": "0.41%",
+    "tdg_controlled": "3,016",
+    "total_voting_power_pct": "0.13%"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Nishanth Sudharsanam",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Nishanth Sudharsanam",
-      "generated_date": "2026-05-14T22:32:24.819887",
+      "generated_date": "2026-05-14T22:41:01.859115",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 12600.0,
@@ -26,6 +26,13 @@
           "earliest": "20220110",
           "latest": "20220125"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "41",
+        "voting_power_pct": "0.70%",
+        "tdg_controlled": "8,850",
+        "total_voting_power_pct": "0.38%"
       },
       "analysis": {
         "total_contributions": 7,
@@ -215,6 +222,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "41",
+    "voting_power_pct": "0.70%",
+    "tdg_controlled": "8,850",
+    "total_voting_power_pct": "0.38%"
   },
   "_generator": "build_cv_cache"
 }

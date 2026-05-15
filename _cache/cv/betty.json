@@ -3,7 +3,7 @@
   "display_name": "Betty",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Betty",
-      "generated_date": "2026-05-14T22:32:23.902445",
+      "generated_date": "2026-05-14T22:41:00.908438",
       "summary": {
         "total_contributions": 55,
         "total_tdg_provisioned": 15009.0,
@@ -28,6 +28,13 @@
           "earliest": "20230211",
           "latest": "20240430"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "25",
+        "voting_power_pct": "0.82%",
+        "tdg_controlled": "12,009",
+        "total_voting_power_pct": "0.51%"
       },
       "analysis": {
         "total_contributions": 55,
@@ -1379,6 +1386,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "25",
+    "voting_power_pct": "0.82%",
+    "tdg_controlled": "12,009",
+    "total_voting_power_pct": "0.51%"
   },
   "_generator": "build_cv_cache"
 }

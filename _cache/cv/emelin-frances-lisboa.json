@@ -3,7 +3,7 @@
   "display_name": "Emelin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Emelin",
-      "generated_date": "2026-05-14T22:32:24.079792",
+      "generated_date": "2026-05-14T22:41:01.107818",
       "summary": {
         "total_contributions": 356,
         "total_tdg_provisioned": 17523.719999999936,
@@ -35,6 +35,13 @@
           "earliest": "20230925",
           "latest": "20250905"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "15",
+        "voting_power_pct": "1.19%",
+        "tdg_controlled": "25,621",
+        "total_voting_power_pct": "1.09%"
       },
       "analysis": {
         "total_contributions": 356,
@@ -8628,6 +8635,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "15",
+    "voting_power_pct": "1.19%",
+    "tdg_controlled": "25,621",
+    "total_voting_power_pct": "1.09%"
   },
   "_generator": "build_cv_cache"
 }

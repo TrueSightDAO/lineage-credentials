@@ -3,7 +3,7 @@
   "display_name": "Vishvajit",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vishvajit",
-      "generated_date": "2026-05-14T22:32:25.047802",
+      "generated_date": "2026-05-14T22:41:02.121746",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 1235.0,
@@ -28,6 +28,13 @@
           "earliest": "20211007",
           "latest": "20220720"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "100",
+        "voting_power_pct": "0.26%",
+        "tdg_controlled": "1,235",
+        "total_voting_power_pct": "0.05%"
       },
       "analysis": {
         "total_contributions": 4,
@@ -150,6 +157,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "100",
+    "voting_power_pct": "0.26%",
+    "tdg_controlled": "1,235",
+    "total_voting_power_pct": "0.05%"
   },
   "_generator": "build_cv_cache"
 }

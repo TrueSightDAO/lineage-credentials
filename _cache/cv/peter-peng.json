@@ -3,7 +3,7 @@
   "display_name": "Peter Peng",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Peter Peng",
-      "generated_date": "2026-05-14T22:32:24.847399",
+      "generated_date": "2026-05-14T22:41:01.887429",
       "summary": {
         "total_contributions": 15,
         "total_tdg_provisioned": 7730.0,
@@ -29,6 +29,13 @@
           "earliest": "20220910",
           "latest": "20230314"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "48",
+        "voting_power_pct": "0.66%",
+        "tdg_controlled": "7,730",
+        "total_voting_power_pct": "0.33%"
       },
       "analysis": {
         "total_contributions": 15,
@@ -422,6 +429,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "48",
+    "voting_power_pct": "0.66%",
+    "tdg_controlled": "7,730",
+    "total_voting_power_pct": "0.33%"
   },
   "_generator": "build_cv_cache"
 }

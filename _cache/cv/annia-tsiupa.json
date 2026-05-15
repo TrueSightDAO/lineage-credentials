@@ -3,7 +3,7 @@
   "display_name": "Annia Tsiupa",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Annia Tsiupa",
-      "generated_date": "2026-05-14T22:32:23.864550",
+      "generated_date": "2026-05-14T22:41:00.871623",
       "summary": {
         "total_contributions": 39,
         "total_tdg_provisioned": 8808.33,
@@ -30,6 +30,13 @@
           "earliest": "20230529",
           "latest": "20250407"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "43",
+        "voting_power_pct": "0.70%",
+        "tdg_controlled": "8,808",
+        "total_voting_power_pct": "0.38%"
       },
       "analysis": {
         "total_contributions": 39,
@@ -998,6 +1005,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "43",
+    "voting_power_pct": "0.70%",
+    "tdg_controlled": "8,808",
+    "total_voting_power_pct": "0.38%"
   },
   "_generator": "build_cv_cache"
 }

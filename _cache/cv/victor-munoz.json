@@ -3,7 +3,7 @@
   "display_name": "Victor Munoz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Victor Munoz",
-      "generated_date": "2026-05-14T22:32:25.037687",
+      "generated_date": "2026-05-14T22:41:02.109908",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 7750.0,
@@ -26,6 +26,13 @@
           "earliest": "20220509",
           "latest": "20220520"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "61",
+        "voting_power_pct": "0.54%",
+        "tdg_controlled": "5,250",
+        "total_voting_power_pct": "0.22%"
       },
       "analysis": {
         "total_contributions": 4,
@@ -147,6 +154,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "61",
+    "voting_power_pct": "0.54%",
+    "tdg_controlled": "5,250",
+    "total_voting_power_pct": "0.22%"
   },
   "_generator": "build_cv_cache"
 }

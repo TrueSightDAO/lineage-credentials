@@ -3,7 +3,7 @@
   "display_name": "Tres Garcia",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tres Garcia",
-      "generated_date": "2026-05-14T22:32:24.992828",
+      "generated_date": "2026-05-14T22:41:02.054079",
       "summary": {
         "total_contributions": 39,
         "total_tdg_provisioned": 6285.33,
@@ -32,6 +32,13 @@
           "earliest": "20220906",
           "latest": "20251219"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "54",
+        "voting_power_pct": "0.59%",
+        "tdg_controlled": "6,285",
+        "total_voting_power_pct": "0.27%"
       },
       "analysis": {
         "total_contributions": 39,
@@ -1014,6 +1021,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "54",
+    "voting_power_pct": "0.59%",
+    "tdg_controlled": "6,285",
+    "total_voting_power_pct": "0.27%"
   },
   "_generator": "build_cv_cache"
 }

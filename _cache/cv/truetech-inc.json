@@ -3,7 +3,7 @@
   "display_name": "TrueTech Inc",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "TrueTech Inc",
-      "generated_date": "2026-05-14T22:32:25.000725",
+      "generated_date": "2026-05-14T22:41:02.064712",
       "summary": {
         "total_contributions": 209,
         "total_tdg_provisioned": 28766.239999999976,
@@ -30,6 +30,13 @@
           "earliest": "20220714",
           "latest": "20260128"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "67",
+        "voting_power_pct": "0.52%",
+        "tdg_controlled": "4,964",
+        "total_voting_power_pct": "0.21%"
       },
       "analysis": {
         "total_contributions": 209,
@@ -5077,6 +5084,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "67",
+    "voting_power_pct": "0.52%",
+    "tdg_controlled": "4,964",
+    "total_voting_power_pct": "0.21%"
   },
   "_generator": "build_cv_cache"
 }

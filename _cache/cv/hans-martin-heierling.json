@@ -3,7 +3,7 @@
   "display_name": "Hans Martin Heierling",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Hans Martin Heierling",
-      "generated_date": "2026-05-14T22:32:24.518946",
+      "generated_date": "2026-05-14T22:41:01.514262",
       "summary": {
         "total_contributions": 34,
         "total_tdg_provisioned": 3812.25,
@@ -33,6 +33,13 @@
           "earliest": "20231115",
           "latest": "20260205"
         }
+      },
+      "governance": {
+        "is_governor": true,
+        "ownership_rank": "71",
+        "voting_power_pct": "0.45%",
+        "tdg_controlled": "3,627",
+        "total_voting_power_pct": "0.15%"
       },
       "analysis": {
         "total_contributions": 34,
@@ -880,6 +887,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": true,
+    "ownership_rank": "71",
+    "voting_power_pct": "0.45%",
+    "tdg_controlled": "3,627",
+    "total_voting_power_pct": "0.15%"
   },
   "_generator": "build_cv_cache"
 }

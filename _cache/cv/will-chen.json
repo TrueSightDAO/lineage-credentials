@@ -3,7 +3,7 @@
   "display_name": "Will Chen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Will Chen",
-      "generated_date": "2026-05-14T22:32:25.059760",
+      "generated_date": "2026-05-14T22:41:02.135872",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 175.0,
@@ -29,6 +29,13 @@
           "earliest": "20250622",
           "latest": "20251021"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "189",
+        "voting_power_pct": "0.10%",
+        "tdg_controlled": "175",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 3,
@@ -126,6 +133,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "189",
+    "voting_power_pct": "0.10%",
+    "tdg_controlled": "175",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

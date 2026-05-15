@@ -3,7 +3,7 @@
   "display_name": "@Baki71166714",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@Baki71166714",
-      "generated_date": "2026-05-14T22:32:23.714034",
+      "generated_date": "2026-05-14T22:41:00.717388",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -26,6 +26,13 @@
           "earliest": "20220330",
           "latest": "20220330"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "281",
+        "voting_power_pct": "0.02%",
+        "tdg_controlled": "10",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 1,
@@ -72,6 +79,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "281",
+    "voting_power_pct": "0.02%",
+    "tdg_controlled": "10",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

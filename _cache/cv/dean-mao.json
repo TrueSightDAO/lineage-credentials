@@ -3,7 +3,7 @@
   "display_name": "Dean Mao",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dean Mao",
-      "generated_date": "2026-05-14T22:32:24.005463",
+      "generated_date": "2026-05-14T22:41:01.026193",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 541.0,
@@ -29,6 +29,13 @@
           "earliest": "20230815",
           "latest": "20231110"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "141",
+        "voting_power_pct": "0.17%",
+        "tdg_controlled": "541",
+        "total_voting_power_pct": "0.02%"
       },
       "analysis": {
         "total_contributions": 5,
@@ -177,6 +184,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "141",
+    "voting_power_pct": "0.17%",
+    "tdg_controlled": "541",
+    "total_voting_power_pct": "0.02%"
   },
   "_generator": "build_cv_cache"
 }

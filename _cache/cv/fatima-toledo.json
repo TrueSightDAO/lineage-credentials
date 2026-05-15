@@ -3,7 +3,7 @@
   "display_name": "Fatima Toledo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Fatima Toledo",
-      "generated_date": "2026-05-14T22:32:24.209402",
+      "generated_date": "2026-05-14T22:41:01.160282",
       "summary": {
         "total_contributions": 247,
         "total_tdg_provisioned": 71881.16,
@@ -38,6 +38,13 @@
           "earliest": "20210631",
           "latest": "20260211"
         }
+      },
+      "governance": {
+        "is_governor": true,
+        "ownership_rank": "3",
+        "voting_power_pct": "1.91%",
+        "tdg_controlled": "65,853",
+        "total_voting_power_pct": "2.81%"
       },
       "analysis": {
         "total_contributions": 247,
@@ -6043,6 +6050,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": true,
+    "ownership_rank": "3",
+    "voting_power_pct": "1.91%",
+    "tdg_controlled": "65,853",
+    "total_voting_power_pct": "2.81%"
   },
   "_generator": "build_cv_cache"
 }

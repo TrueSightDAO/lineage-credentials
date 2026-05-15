@@ -3,7 +3,7 @@
   "display_name": "Adi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Adi",
-      "generated_date": "2026-05-14T22:32:23.769940",
+      "generated_date": "2026-05-14T22:41:00.778168",
       "summary": {
         "total_contributions": 43,
         "total_tdg_provisioned": 9750.939999999999,
@@ -31,6 +31,13 @@
           "earliest": "20220717",
           "latest": "20251217"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "253",
+        "voting_power_pct": "0.04%",
+        "tdg_controlled": "33",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 43,
@@ -1103,6 +1110,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "253",
+    "voting_power_pct": "0.04%",
+    "tdg_controlled": "33",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

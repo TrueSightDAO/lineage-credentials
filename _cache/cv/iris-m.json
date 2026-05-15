@@ -3,7 +3,7 @@
   "display_name": "Iris M",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Iris M",
-      "generated_date": "2026-05-14T22:32:24.546953",
+      "generated_date": "2026-05-14T22:41:01.537768",
       "summary": {
         "total_contributions": 8,
         "total_tdg_provisioned": 1535.0,
@@ -29,6 +29,13 @@
           "earliest": "20220703",
           "latest": "20230903"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "93",
+        "voting_power_pct": "0.29%",
+        "tdg_controlled": "1,535",
+        "total_voting_power_pct": "0.07%"
       },
       "analysis": {
         "total_contributions": 8,
@@ -251,6 +258,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "93",
+    "voting_power_pct": "0.29%",
+    "tdg_controlled": "1,535",
+    "total_voting_power_pct": "0.07%"
   },
   "_generator": "build_cv_cache"
 }

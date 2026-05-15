@@ -3,7 +3,7 @@
   "display_name": "Daniel Prime",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Daniel Prime",
-      "generated_date": "2026-05-14T22:32:23.983119",
+      "generated_date": "2026-05-14T22:41:01.003870",
       "summary": {
         "total_contributions": 16,
         "total_tdg_provisioned": 164.16,
@@ -28,6 +28,13 @@
           "earliest": "20250414",
           "latest": "20250530"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "188",
+        "voting_power_pct": "0.10%",
+        "tdg_controlled": "187",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 16,
@@ -437,6 +444,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "188",
+    "voting_power_pct": "0.10%",
+    "tdg_controlled": "187",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Marta Lopes",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Marta Lopes",
-      "generated_date": "2026-05-14T22:32:24.735187",
+      "generated_date": "2026-05-14T22:41:01.768527",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 50.0,
@@ -28,6 +28,13 @@
           "earliest": "20251006",
           "latest": "20251012"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "233",
+        "voting_power_pct": "0.05%",
+        "tdg_controlled": "50",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 2,
@@ -100,6 +107,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "233",
+    "voting_power_pct": "0.05%",
+    "tdg_controlled": "50",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

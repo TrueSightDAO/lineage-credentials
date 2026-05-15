@@ -3,7 +3,7 @@
   "display_name": "Anupa/diya",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Anupa/diya",
-      "generated_date": "2026-05-14T22:32:23.878747",
+      "generated_date": "2026-05-14T22:41:00.883416",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 123.0,
@@ -28,6 +28,9 @@
           "earliest": "20240117",
           "latest": "20240219"
         }
+      },
+      "governance": {
+        "is_governor": false
       },
       "analysis": {
         "total_contributions": 4,
@@ -148,6 +151,9 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false
   },
   "_generator": "build_cv_cache"
 }

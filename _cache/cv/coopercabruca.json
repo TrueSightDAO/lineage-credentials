@@ -3,7 +3,7 @@
   "display_name": "Coopercabruca",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Coopercabruca",
-      "generated_date": "2026-05-14T22:32:23.970852",
+      "generated_date": "2026-05-14T22:41:00.990489",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 1132.8899999999999,
@@ -29,6 +29,13 @@
           "earliest": "20230602",
           "latest": "20250228"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "104",
+        "voting_power_pct": "0.25%",
+        "tdg_controlled": "1,133",
+        "total_voting_power_pct": "0.05%"
       },
       "analysis": {
         "total_contributions": 5,
@@ -178,6 +185,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "104",
+    "voting_power_pct": "0.25%",
+    "tdg_controlled": "1,133",
+    "total_voting_power_pct": "0.05%"
   },
   "_generator": "build_cv_cache"
 }

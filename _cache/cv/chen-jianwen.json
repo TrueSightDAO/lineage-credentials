@@ -3,7 +3,7 @@
   "display_name": "Chen JianWen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Chen JianWen",
-      "generated_date": "2026-05-14T22:32:23.953461",
+      "generated_date": "2026-05-14T22:41:00.972147",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 501.0,
@@ -28,6 +28,13 @@
           "earliest": "20220105",
           "latest": "20230509"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "144",
+        "voting_power_pct": "0.17%",
+        "tdg_controlled": "501",
+        "total_voting_power_pct": "0.02%"
       },
       "analysis": {
         "total_contributions": 2,
@@ -100,6 +107,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "144",
+    "voting_power_pct": "0.17%",
+    "tdg_controlled": "501",
+    "total_voting_power_pct": "0.02%"
   },
   "_generator": "build_cv_cache"
 }

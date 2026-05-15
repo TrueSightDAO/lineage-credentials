@@ -3,7 +3,7 @@
   "display_name": "Milena Smith",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Milena Smith",
-      "generated_date": "2026-05-14T22:32:24.775919",
+      "generated_date": "2026-05-14T22:41:01.808705",
       "summary": {
         "total_contributions": 42,
         "total_tdg_provisioned": 7654.6900000000005,
@@ -31,6 +31,13 @@
           "earliest": "20240723",
           "latest": "20250929"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "46",
+        "voting_power_pct": "0.69%",
+        "tdg_controlled": "8,555",
+        "total_voting_power_pct": "0.37%"
       },
       "analysis": {
         "total_contributions": 42,
@@ -1068,6 +1075,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "46",
+    "voting_power_pct": "0.69%",
+    "tdg_controlled": "8,555",
+    "total_voting_power_pct": "0.37%"
   },
   "_generator": "build_cv_cache"
 }

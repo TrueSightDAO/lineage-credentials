@@ -3,7 +3,7 @@
   "display_name": "Josh Brown",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Josh Brown",
-      "generated_date": "2026-05-14T22:32:24.613950",
+      "generated_date": "2026-05-14T22:41:01.625746",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 133.32999999999998,
@@ -28,6 +28,13 @@
           "earliest": "20250325",
           "latest": "20250520"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "194",
+        "voting_power_pct": "0.09%",
+        "tdg_controlled": "133",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 3,
@@ -125,6 +132,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "194",
+    "voting_power_pct": "0.09%",
+    "tdg_controlled": "133",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

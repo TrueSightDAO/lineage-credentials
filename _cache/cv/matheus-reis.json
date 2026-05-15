@@ -3,7 +3,7 @@
   "display_name": "Matheus Reis",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Matheus Reis",
-      "generated_date": "2026-05-14T22:32:24.744295",
+      "generated_date": "2026-05-14T22:41:01.775661",
       "summary": {
         "total_contributions": 180,
         "total_tdg_provisioned": 21908.650000000038,
@@ -35,6 +35,13 @@
           "earliest": "20230923",
           "latest": "20260316"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "14",
+        "voting_power_pct": "1.28%",
+        "tdg_controlled": "29,693",
+        "total_voting_power_pct": "1.27%"
       },
       "analysis": {
         "total_contributions": 180,
@@ -4395,6 +4402,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "14",
+    "voting_power_pct": "1.28%",
+    "tdg_controlled": "29,693",
+    "total_voting_power_pct": "1.27%"
   },
   "_generator": "build_cv_cache"
 }

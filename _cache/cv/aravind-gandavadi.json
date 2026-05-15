@@ -3,7 +3,7 @@
   "display_name": "Aravind Gandavadi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Aravind Gandavadi",
-      "generated_date": "2026-05-14T22:32:23.884118",
+      "generated_date": "2026-05-14T22:41:00.887500",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 300.0,
@@ -26,6 +26,13 @@
           "earliest": "20220717",
           "latest": "20220717"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "233",
+        "voting_power_pct": "0.05%",
+        "tdg_controlled": "50",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 2,
@@ -98,6 +105,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "233",
+    "voting_power_pct": "0.05%",
+    "tdg_controlled": "50",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

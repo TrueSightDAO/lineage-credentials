@@ -3,7 +3,7 @@
   "display_name": "Mestre Bico Duro",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mestre Bico Duro",
-      "generated_date": "2026-05-14T22:32:24.766900",
+      "generated_date": "2026-05-14T22:41:01.798566",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 333.33,
@@ -28,6 +28,13 @@
           "earliest": "20241109",
           "latest": "20241123"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "159",
+        "voting_power_pct": "0.14%",
+        "tdg_controlled": "333",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 4,
@@ -148,6 +155,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "159",
+    "voting_power_pct": "0.14%",
+    "tdg_controlled": "333",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T05:22:49Z",
+  "generated_at": "2026-05-15T05:28:31Z",
   "count": 377,
   "members": [
     {
@@ -11,7 +11,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8750.94,
+      "total_contributions": 43,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "adrien",
@@ -22,7 +24,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 150.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "aga-marecka",
@@ -33,7 +37,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 13570.679999999998,
+      "total_contributions": 60,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "agl15",
@@ -44,7 +50,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1127.12,
+      "total_contributions": 14,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ahbinav",
@@ -55,7 +63,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 291.65,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ahmed",
@@ -66,7 +76,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 500.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "aihui-ong",
@@ -77,7 +89,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 30.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "aleksa-mil",
@@ -88,7 +102,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 44820.0,
+      "total_contributions": 35,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "alessandro-mele",
@@ -99,7 +115,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 956.6600000000001,
+      "total_contributions": 13,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "alex",
@@ -110,7 +128,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1449.9900000000002,
+      "total_contributions": 13,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "alex-circuit-labs",
@@ -121,7 +141,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "alex-costa",
@@ -132,7 +154,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 24.990000000000002,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "alexadoglio",
@@ -143,7 +167,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "alexander-grau",
@@ -154,7 +180,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "alexandre-fernandes",
@@ -165,7 +193,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 400.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "allison-d-laureano",
@@ -176,7 +206,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 318.6700000000001,
+      "total_contributions": 9,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "allison-liu",
@@ -187,7 +219,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2600.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ambarish-malpani",
@@ -198,7 +232,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 7502.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "anabel",
@@ -209,7 +245,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.66,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "andrea-catalina-falcon-rios-de-pabst",
@@ -220,7 +258,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1398.33,
+      "total_contributions": 17,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "andreas-quandt",
@@ -231,7 +271,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 283.33,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "andrew-shroomed",
@@ -242,7 +284,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "andrey-nayman",
@@ -253,7 +297,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1650.0,
+      "total_contributions": 18,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "andy-choi",
@@ -264,7 +310,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 66.67,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "angela-hamit",
@@ -275,7 +323,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "angela-tseng",
@@ -286,7 +336,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1116.6499999999999,
+      "total_contributions": 11,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "angeline-tan",
@@ -297,7 +349,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 7358.0,
+      "total_contributions": 12,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "anika-giftge",
@@ -308,7 +362,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 37560.0,
+      "total_contributions": 70,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "anna-love",
@@ -319,7 +375,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 30.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "anna-nguyenova",
@@ -330,7 +388,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "anne-charboneau",
@@ -341,7 +401,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8410.0,
+      "total_contributions": 18,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "annelaure-vuillermoz",
@@ -352,7 +414,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "annia-tsiupa",
@@ -363,7 +427,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8808.33,
+      "total_contributions": 39,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "annie-teo",
@@ -374,7 +440,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.67,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "anupa-dasgupta",
@@ -385,7 +453,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 19976.49,
+      "total_contributions": 133,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "anupa-diya",
@@ -396,7 +466,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 123.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "apoorva-abhinav-colleague",
@@ -407,7 +479,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 266.65999999999997,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "aravind-gandavadi",
@@ -418,7 +492,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "arpt",
@@ -429,7 +505,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 12.5,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "arti",
@@ -440,7 +518,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 4510.75,
+      "total_contributions": 39,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "artiom-baloian",
@@ -451,7 +531,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "atheleah-nous",
@@ -462,7 +544,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 675.0,
+      "total_contributions": 9,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "baki71166714",
@@ -473,7 +557,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bala-vishal",
@@ -484,7 +570,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "barbara-sadini",
@@ -495,7 +583,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3034.9399999999996,
+      "total_contributions": 19,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bernard-leong",
@@ -506,7 +596,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2155.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "betty",
@@ -517,7 +609,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 12009.0,
+      "total_contributions": 55,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bhavana",
@@ -528,7 +622,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 425.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bilal",
@@ -539,7 +635,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "biljana-sanev",
@@ -550,7 +648,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "billy-estoque",
@@ -561,7 +661,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 30.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bing",
@@ -572,7 +674,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8395.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "black-izeek",
@@ -583,7 +687,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5.684341886080802e-14,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "blake",
@@ -594,7 +700,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 33.34,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bob-clark",
@@ -605,7 +713,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "boris-giftge",
@@ -616,7 +726,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 850.0,
+      "total_contributions": 6,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bradley-hsu",
@@ -627,7 +739,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "brian-kennish",
@@ -638,7 +752,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 7500.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "brian-naughton",
@@ -649,7 +765,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "brian-vedao",
@@ -660,7 +778,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "brian-wee",
@@ -671,7 +791,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2500.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "bruno-bethonico",
@@ -682,7 +804,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 716.6600000000001,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "byron-walker",
@@ -693,7 +817,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "carl-ftizgibbon",
@@ -704,7 +830,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1557.0,
+      "total_contributions": 22,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "carlos",
@@ -715,7 +843,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "casey-oppenheim",
@@ -726,7 +856,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "catherine-he-limin",
@@ -737,7 +869,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2500.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "cepotx",
@@ -748,7 +882,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 58.33,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "chen-jianwen",
@@ -759,7 +895,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 501.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "chloe-gs",
@@ -770,7 +908,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 58.33,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "chris-arriola",
@@ -781,7 +921,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "chris-ye",
@@ -792,7 +934,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "christina-yu",
@@ -803,7 +947,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5100.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "cindy-cohen",
@@ -814,7 +960,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 525.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "claude",
@@ -825,7 +973,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "cliff",
@@ -836,7 +986,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "coach-remmie",
@@ -847,7 +999,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "coopercabruca",
@@ -858,7 +1012,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1132.8899999999999,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "corrales-cachola",
@@ -869,7 +1025,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "craig-henderson",
@@ -880,7 +1038,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.66,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "cryptononymouseconomist",
@@ -891,7 +1051,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dafu-onepiece-labs",
@@ -902,7 +1064,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dan-cordie",
@@ -913,7 +1077,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 498.33,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "daniel-prime",
@@ -924,7 +1090,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 186.65000000000003,
+      "total_contributions": 16,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "daniela-c-merlano",
@@ -935,7 +1103,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "danielle-sunberg",
@@ -946,7 +1116,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 368.0,
+      "total_contributions": 12,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "david-berget",
@@ -957,7 +1129,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 7700.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "david-california-land-owner-davos",
@@ -968,7 +1142,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "david-ghost-drive",
@@ -979,7 +1155,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "david-hu",
@@ -990,7 +1168,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "david-k-k-kwan",
@@ -1001,7 +1181,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2500.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dean-mao",
@@ -1012,7 +1194,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 541.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "deric-walintukan",
@@ -1023,7 +1207,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 250.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "derrek",
@@ -1034,7 +1220,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 75.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "deya",
@@ -1045,7 +1233,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "diana-gan",
@@ -1056,7 +1246,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dirk-watkins",
@@ -1067,7 +1259,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dita",
@@ -1078,7 +1272,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3550.0,
+      "total_contributions": 13,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "doris-wang",
@@ -1089,7 +1285,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 6100.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dr-anita-lamprecht",
@@ -1100,7 +1298,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 7642.0,
+      "total_contributions": 49,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dr-denis",
@@ -1111,7 +1311,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dr-nike-schmidt",
@@ -1122,7 +1324,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 111.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dr-spencer-william-brown",
@@ -1133,7 +1337,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 625.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dragon",
@@ -1144,7 +1350,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1550.0,
+      "total_contributions": 6,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "dsb-5413",
@@ -1155,7 +1363,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ed",
@@ -1166,7 +1376,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 82480.48000000001,
+      "total_contributions": 299,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "edge-and-node",
@@ -1177,7 +1389,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 4442.67,
+      "total_contributions": 11,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "edi-hsu",
@@ -1188,7 +1402,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 9805.0,
+      "total_contributions": 20,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "edmund-wuu",
@@ -1199,7 +1415,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 400.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "edward",
@@ -1210,7 +1428,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "edwin",
@@ -1221,7 +1441,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 708.33,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "edwin-fireworkz",
@@ -1232,7 +1454,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "edwin-lun",
@@ -1243,7 +1467,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 600.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "elinor-janelle",
@@ -1254,7 +1480,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 4408.32,
+      "total_contributions": 15,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "elizabeth-irizarry",
@@ -1265,7 +1493,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "elodie-carter",
@@ -1276,7 +1506,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "elora-eugene-oregon",
@@ -1287,7 +1519,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "elvisyong",
@@ -1298,7 +1532,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 750.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "emelin-frances-lisboa",
@@ -1309,7 +1545,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 25621.449999999924,
+      "total_contributions": 356,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "emmanuel-nwanja",
@@ -1320,7 +1558,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "eric-founderhaus",
@@ -1331,7 +1571,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.67,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "eric-ly",
@@ -1342,7 +1584,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1250.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "eric-y-chen",
@@ -1353,7 +1597,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 6,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ervin-sarajevo",
@@ -1364,7 +1610,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1180.0,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ethan-bryan-ng",
@@ -1375,7 +1623,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 14650.0,
+      "total_contributions": 22,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "evan-sui",
@@ -1386,7 +1636,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.67,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "evi",
@@ -1397,7 +1649,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 12015.0,
+      "total_contributions": 12,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ewerton-silva",
@@ -1408,7 +1662,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "fabien-aepli",
@@ -1419,7 +1675,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "fadi",
@@ -1430,7 +1688,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "fark-kader",
@@ -1441,7 +1701,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 300.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "fatima-toledo",
@@ -1452,7 +1714,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 65852.81000000003,
+      "total_contributions": 247,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "felix",
@@ -1463,7 +1727,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 325.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ferdinando-boninelli",
@@ -1474,7 +1740,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2233.2099999999996,
+      "total_contributions": 14,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "fleurish-quartz",
@@ -1485,7 +1753,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "florian-cornu",
@@ -1496,7 +1766,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2500.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "francine-cabral",
@@ -1507,7 +1779,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "franck-nouyrigat",
@@ -1518,7 +1792,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 23835.0,
+      "total_contributions": 38,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "francois-renet",
@@ -1529,7 +1805,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8671.0,
+      "total_contributions": 28,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "garis-pang",
@@ -1540,7 +1818,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 67653.33,
+      "total_contributions": 139,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "gary-teh",
@@ -1551,7 +1831,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 955998.0666666903,
+      "total_contributions": 3625,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "gautam-mittal",
@@ -1562,7 +1844,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 33450.0,
+      "total_contributions": 37,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "getdata-inc",
@@ -1573,7 +1857,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0.3600000003061723,
+      "total_contributions": 1939,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "gilbert-zhuo",
@@ -1584,7 +1870,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "glenn-kowalsky",
@@ -1595,7 +1883,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "global-dao-alliance",
@@ -1606,7 +1896,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10250.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "gloria-chimelu",
@@ -1617,7 +1909,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "green-gulch-zen-monastery",
@@ -1628,7 +1922,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "guenther-dobrauz",
@@ -1639,7 +1935,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 601.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "gwendolyn-regina",
@@ -1650,7 +1948,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.66,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "h4n5",
@@ -1661,7 +1961,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "hackerdojo",
@@ -1672,7 +1974,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1276.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "hans-martin-heierling",
@@ -1683,7 +1987,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3627.25,
+      "total_contributions": 34,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "hawkenzo1",
@@ -1694,7 +2000,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 250.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "horacio",
@@ -1705,7 +2013,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 125.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "house-of-balance",
@@ -1716,7 +2026,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5425.0,
+      "total_contributions": 9,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "hubert-yee",
@@ -1727,7 +2039,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1780.0,
+      "total_contributions": 19,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "hughiegabriel",
@@ -1738,7 +2052,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ian",
@@ -1749,7 +2065,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 33337.0,
+      "total_contributions": 24,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ida",
@@ -1760,7 +2078,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 500.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ilya-voytov",
@@ -1771,7 +2091,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 6410.0,
+      "total_contributions": 14,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "inza",
@@ -1782,7 +2104,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 125.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "irene-hsu",
@@ -1793,7 +2117,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 216.67000000000002,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "iris-m",
@@ -1804,7 +2130,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1535.0,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "isabela",
@@ -1815,7 +2143,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "itz-eazyboy",
@@ -1826,7 +2156,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1.1368683772161603e-13,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "iwona-fluda",
@@ -1837,7 +2169,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5658.549999999999,
+      "total_contributions": 35,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jacki-roach",
@@ -1848,7 +2182,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1010.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jacob-m-hot-springs-montana-okanonga-barter-faire",
@@ -1859,7 +2195,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 57.08,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jacob-nelan",
@@ -1870,7 +2208,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 60725.99,
+      "total_contributions": 62,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "james-harvey",
@@ -1881,7 +2221,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "james-sheen",
@@ -1892,7 +2234,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "james-sung",
@@ -1903,7 +2247,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 608.3499999999998,
+      "total_contributions": 10,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "janet-hob",
@@ -1914,7 +2260,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jascha-martschenko",
@@ -1925,7 +2273,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 11944.73,
+      "total_contributions": 17,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jayan",
@@ -1936,7 +2286,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jeff",
@@ -1947,7 +2299,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3000.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jen-chan",
@@ -1958,7 +2312,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 25.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jenifer-runnion",
@@ -1969,7 +2325,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 703.3399999999999,
+      "total_contributions": 13,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jeramy-dahl",
@@ -1980,7 +2338,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jeremy-chong",
@@ -1991,7 +2351,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jerry-luk",
@@ -2002,7 +2364,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8822.66,
+      "total_contributions": 21,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jessica-jae-liu",
@@ -2013,7 +2377,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2500.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jim-white",
@@ -2024,7 +2390,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jinn-rajinder-jhol",
@@ -2035,7 +2403,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 375.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "joao-fouad",
@@ -2046,7 +2416,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "john-saadeh",
@@ -2057,7 +2429,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 500.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "john-tan",
@@ -2068,7 +2442,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 9110.0,
+      "total_contributions": 11,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "johnlingardr",
@@ -2079,7 +2455,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 20.840000000000003,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "johnny-browaeys",
@@ -2090,7 +2468,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "johnny-bueler",
@@ -2101,7 +2481,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "johnson-teh",
@@ -2112,7 +2494,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 38665.0,
+      "total_contributions": 44,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jonathan",
@@ -2123,7 +2507,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3015.99,
+      "total_contributions": 16,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "josh-brown",
@@ -2134,7 +2520,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 133.32999999999998,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "joshua-bishop",
@@ -2145,7 +2533,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "joshua-wee",
@@ -2156,7 +2546,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "josue-oscar-rodriguez",
@@ -2167,7 +2559,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "juan-bernabo",
@@ -2178,7 +2572,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 557.7400000000001,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "jules-kenton",
@@ -2189,7 +2585,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "junaid-khalid",
@@ -2200,7 +2598,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 75.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "june-jo",
@@ -2211,7 +2611,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2000.0,
+      "total_contributions": 11,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "justine",
@@ -2222,7 +2624,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 75.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "karin-lanz",
@@ -2233,7 +2637,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3467.3599999999997,
+      "total_contributions": 31,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "karin-lorez",
@@ -2244,7 +2650,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 351.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "karl",
@@ -2255,7 +2663,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kaspar-hidayat",
@@ -2266,7 +2676,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kathryn-gichini",
@@ -2277,7 +2689,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 25.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kelly-choo",
@@ -2288,7 +2702,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kelvin-chew",
@@ -2299,7 +2715,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 58360.0,
+      "total_contributions": 85,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kemartiti-2719",
@@ -2310,7 +2728,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 750.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ken-lee",
@@ -2321,7 +2741,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ken-nim",
@@ -2332,7 +2754,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 9419.220000000001,
+      "total_contributions": 47,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kevin-deval",
@@ -2343,7 +2767,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 11350.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kirsten-ritschel",
@@ -2354,7 +2780,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 18574.049999999996,
+      "total_contributions": 110,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kris-swims-like-fish",
@@ -2365,7 +2793,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "krishanthan-surendran",
@@ -2376,7 +2806,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "kuoloon",
@@ -2387,7 +2819,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10145.0,
+      "total_contributions": 17,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lake",
@@ -2398,7 +2832,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 7050.0,
+      "total_contributions": 32,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lan",
@@ -2409,7 +2845,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 69725.01000000002,
+      "total_contributions": 112,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "laura-hill",
@@ -2420,7 +2858,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "laura-liew",
@@ -2431,7 +2871,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "laura-solner",
@@ -2442,7 +2884,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 30.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lawrence",
@@ -2453,7 +2897,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "leslie-lim",
@@ -2464,7 +2910,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lester-barebottle-brewery",
@@ -2475,7 +2923,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 572.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "levi",
@@ -2486,7 +2936,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 40.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "linda-gorski",
@@ -2497,7 +2949,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "liz-george",
@@ -2508,7 +2962,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lori",
@@ -2519,7 +2975,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2510.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lorna-blount",
@@ -2530,7 +2988,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 800.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lorna-eclectic-india",
@@ -2541,7 +3001,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lucas-root",
@@ -2552,7 +3014,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 125.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "luigi",
@@ -2563,7 +3027,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 75.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lukas-bugla",
@@ -2574,7 +3040,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "lydia-huang",
@@ -2585,7 +3053,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1075.0,
+      "total_contributions": 10,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "maegan-gorbett",
@@ -2596,7 +3066,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 225.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "maggie",
@@ -2607,7 +3079,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 33.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "marcell",
@@ -2618,7 +3092,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 102.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mark-montalban",
@@ -2629,7 +3105,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "marta-lopes",
@@ -2640,7 +3118,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "marta-poltorak",
@@ -2651,7 +3131,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1510.0,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "matheus-reis",
@@ -2662,7 +3144,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 29692.860000000037,
+      "total_contributions": 180,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "matt-baxter",
@@ -2673,7 +3157,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 750.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "matthew-kilkenny",
@@ -2684,7 +3170,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 20.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "matthias-gosser",
@@ -2695,7 +3183,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "maya-frost",
@@ -2706,7 +3196,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mayra-alexandra",
@@ -2717,7 +3209,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 75.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "meir-s-simhi",
@@ -2728,7 +3222,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mercedes",
@@ -2739,7 +3235,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mestre-bico-duro",
@@ -2750,7 +3248,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 333.33,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "michael-flaxman",
@@ -2761,7 +3261,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1250.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "michael-lim",
@@ -2772,7 +3274,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mihai-hodisan",
@@ -2783,7 +3287,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "milena-smith",
@@ -2794,7 +3300,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8555.14,
+      "total_contributions": 42,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mimrah-mahmood",
@@ -2805,7 +3313,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mmaisy-ward",
@@ -2816,7 +3326,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 20.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "momo-yamada",
@@ -2827,7 +3339,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 22383.0,
+      "total_contributions": 18,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mukiri-mwirigi",
@@ -2838,7 +3352,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1010.0,
+      "total_contributions": 10,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "mulan-teh",
@@ -2849,7 +3365,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.67,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "murtaza",
@@ -2860,7 +3378,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2250.0,
+      "total_contributions": 9,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nash",
@@ -2871,7 +3391,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nato",
@@ -2882,7 +3404,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 33.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "navier",
@@ -2893,7 +3417,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "neil-bergert",
@@ -2904,7 +3430,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "neil-berget",
@@ -2915,7 +3443,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 15400.0,
+      "total_contributions": 11,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "neil-maxwell",
@@ -2926,7 +3456,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1218.0,
+      "total_contributions": 10,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nelson",
@@ -2937,7 +3469,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2675.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "neo",
@@ -2948,7 +3482,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10266.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nick",
@@ -2959,7 +3495,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 330.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nicole-keller",
@@ -2970,7 +3508,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 990.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nima-kaz",
@@ -2981,7 +3521,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1528.1600000000003,
+      "total_contributions": 18,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nishanth-sudharsanam",
@@ -2992,7 +3534,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8850.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nixxholas",
@@ -3003,7 +3547,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 375.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "nosonspot",
@@ -3014,7 +3560,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "olaf",
@@ -3025,7 +3573,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 324.25,
+      "total_contributions": 6,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "oliver-scherenberg",
@@ -3036,7 +3586,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "orlantildes",
@@ -3047,7 +3599,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 24.990000000000002,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ozioma-chukwunyere",
@@ -3058,7 +3612,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5278.33,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "paloma",
@@ -3069,7 +3625,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 647.0800000000003,
+      "total_contributions": 19,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "paul-liu",
@@ -3080,7 +3638,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "paulo-hernandez",
@@ -3091,7 +3651,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 225.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "peace-on-fifth",
@@ -3102,7 +3664,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "perry-tam",
@@ -3113,7 +3677,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 300.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "peter-gwee",
@@ -3124,7 +3690,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 3775.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "peter-peng",
@@ -3135,7 +3703,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 7730.0,
+      "total_contributions": 15,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "philip",
@@ -3146,7 +3716,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 18260.0,
+      "total_contributions": 19,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "pooja-yousra-friend",
@@ -3157,7 +3729,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.66,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "priscilla-huang",
@@ -3168,7 +3742,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 58590.0,
+      "total_contributions": 129,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "prithvi",
@@ -3179,7 +3755,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 75.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "rafidah-jalil",
@@ -3190,7 +3768,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "raman",
@@ -3201,7 +3781,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ramona-wong",
@@ -3212,7 +3794,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 155.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ranette-sorenson",
@@ -3223,7 +3807,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ranette-sorenson-raye-works",
@@ -3234,7 +3820,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "raphael-bouzy",
@@ -3245,7 +3833,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 800.0,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ray-wu",
@@ -3256,7 +3846,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 416.67,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "reuben",
@@ -3267,7 +3859,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1850.0,
+      "total_contributions": 17,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "richard-chu",
@@ -3278,7 +3872,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 30243.0,
+      "total_contributions": 25,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "rob-hutter",
@@ -3289,7 +3885,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5000.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "rockey599204723",
@@ -3300,7 +3898,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "rodney-wieck",
@@ -3311,7 +3911,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 158.33,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "royston",
@@ -3322,7 +3924,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.66,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "rusty-bogart-pipevine-chocolate",
@@ -3333,7 +3937,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 375.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ryan-feathermen",
@@ -3344,7 +3950,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2500.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "ryansjjr",
@@ -3355,7 +3963,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 14850.0,
+      "total_contributions": 25,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sacred-earth-farms",
@@ -3366,7 +3976,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 166.67000000000002,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "saemin-ahn",
@@ -3377,7 +3989,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 9000.0,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "saltwater-lunch",
@@ -3388,7 +4002,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "samuel-lambert",
@@ -3399,7 +4015,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sarah-h",
@@ -3410,7 +4028,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2978.58,
+      "total_contributions": 15,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "satheesh-paddolker",
@@ -3421,7 +4041,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 11661.0,
+      "total_contributions": 20,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "scott",
@@ -3432,7 +4054,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "shadi-atamne",
@@ -3443,7 +4067,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5432.66,
+      "total_contributions": 19,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "shane-low",
@@ -3454,7 +4080,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1500.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sharvin-baindur",
@@ -3465,7 +4093,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1200.0,
+      "total_contributions": 9,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "shena-davenport",
@@ -3476,7 +4106,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8659.83,
+      "total_contributions": 19,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sherwin",
@@ -3487,7 +4119,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1600.0,
+      "total_contributions": 9,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "shine-light",
@@ -3498,7 +4132,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 120.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "shino-ling",
@@ -3509,7 +4145,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 11045.0,
+      "total_contributions": 15,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "soniya-ahuja",
@@ -3520,7 +4158,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 941.67,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sonya-gorski",
@@ -3531,7 +4171,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 34.67,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sophia",
@@ -3542,7 +4184,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1250.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sophie-riegert",
@@ -3553,7 +4197,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 25.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "stanley-li",
@@ -3564,7 +4210,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 591.66,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "street-insights-llc",
@@ -3575,7 +4223,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "suhaimi-zainul",
@@ -3586,7 +4236,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5875.0,
+      "total_contributions": 28,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "suheil",
@@ -3597,7 +4249,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 11060.66,
+      "total_contributions": 78,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "sujit-nair",
@@ -3608,7 +4262,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2591.6800000000003,
+      "total_contributions": 6,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "susan-oh",
@@ -3619,7 +4275,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 450.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "suzo",
@@ -3630,7 +4288,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 8.33,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "svet-svitlo",
@@ -3641,7 +4301,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 60.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "teck-chiong-lim",
@@ -3652,7 +4314,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tess-walkowski",
@@ -3663,7 +4327,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2669.8999999999996,
+      "total_contributions": 57,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tessa-rosemary-eckerman",
@@ -3674,7 +4340,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5200.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "the2xld",
@@ -3685,7 +4353,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 2259.9700000000003,
+      "total_contributions": 28,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "theodl",
@@ -3696,7 +4366,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "thomas-gorissen",
@@ -3707,7 +4379,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1850.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "thomas-tang",
@@ -3718,7 +4392,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1100.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tiffany-harnsongkram",
@@ -3729,7 +4405,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 277.67,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tiffine-wang",
@@ -3740,7 +4418,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 14984.67,
+      "total_contributions": 32,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tomas-bernabo",
@@ -3751,7 +4431,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 9819.82,
+      "total_contributions": 31,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tres-garcia",
@@ -3762,7 +4444,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 6285.33,
+      "total_contributions": 39,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "trex-d-designer",
@@ -3773,7 +4457,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 303.33,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tripp",
@@ -3784,7 +4470,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 652.78,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "truetech-inc",
@@ -3795,7 +4483,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 4963.770000000005,
+      "total_contributions": 209,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "tushar-sharma",
@@ -3806,7 +4496,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 608.34,
+      "total_contributions": 9,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "val-lapidus",
@@ -3817,7 +4509,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 62143.00000000001,
+      "total_contributions": 258,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "valentine-stockdale",
@@ -3828,7 +4522,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 250.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vanessa-walach-shaman-better-daze",
@@ -3839,7 +4535,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vanja",
@@ -3850,7 +4548,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 504.0,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "varma-priyatham",
@@ -3861,7 +4561,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 77.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vibhu-mittal",
@@ -3872,7 +4574,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10161.33,
+      "total_contributions": 25,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "victor-munoz",
@@ -3883,7 +4587,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5250.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "victor-pineda",
@@ -3894,7 +4600,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 403.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vina-e-microbio-de-bike",
@@ -3905,7 +4613,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.67,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vincent-song",
@@ -3916,7 +4626,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 316.67,
+      "total_contributions": 8,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vinibitencourt",
@@ -3927,7 +4639,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 218.31999999999996,
+      "total_contributions": 10,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vishvajit",
@@ -3938,7 +4652,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1235.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "vlatko-gigov",
@@ -3949,7 +4665,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50584.08,
+      "total_contributions": 162,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "walter-punsapy",
@@ -3960,7 +4678,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1000.0,
+      "total_contributions": 5,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "will-chen",
@@ -3971,7 +4691,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 175.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "windy-butler-ehry",
@@ -3982,7 +4704,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 16.66,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "won-kim",
@@ -3993,7 +4717,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "xenofon-kontouris",
@@ -4004,7 +4730,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "xiahong-lin",
@@ -4015,7 +4743,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "xjcaa",
@@ -4026,7 +4756,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 200.0,
+      "total_contributions": 2,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "yasmin",
@@ -4037,7 +4769,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 308.34000000000003,
+      "total_contributions": 7,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "youna-kim",
@@ -4048,7 +4782,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1050.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "yousra-saad-kamoona",
@@ -4059,7 +4795,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 198.34000000000003,
+      "total_contributions": 11,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "yuan-luo",
@@ -4070,7 +4808,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5000.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "yukihiro",
@@ -4081,7 +4821,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 1300.0,
+      "total_contributions": 4,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "yuval-wirzberger",
@@ -4092,7 +4834,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 150.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "zach-miltz",
@@ -4103,7 +4847,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "zach-roth",
@@ -4114,7 +4860,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 100.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "zack-franklin",
@@ -4125,7 +4873,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 10.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "zake-zephylia",
@@ -4136,7 +4886,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 50.0,
+      "total_contributions": 1,
+      "last_updated": "2026-05-15T05:27:31Z"
     },
     {
       "slug": "zoran",
@@ -4147,7 +4899,9 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T05:21:51Z"
+      "total_tdg_controlled": 5100.0,
+      "total_contributions": 3,
+      "last_updated": "2026-05-15T05:27:31Z"
     }
   ]
 }

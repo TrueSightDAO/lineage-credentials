@@ -3,7 +3,7 @@
   "display_name": "Jen Chan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:06:14Z",
+  "generated_at": "2026-05-15T05:14:31Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jen Chan",
-      "generated_date": "2026-05-14T22:06:13.477861",
+      "generated_date": "2026-05-14T22:14:30.953010",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 25.0,

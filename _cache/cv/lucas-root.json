@@ -3,7 +3,7 @@
   "display_name": "Lucas Root",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:06:14Z",
+  "generated_at": "2026-05-15T05:14:31Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Lucas Root",
-      "generated_date": "2026-05-14T22:06:13.632982",
+      "generated_date": "2026-05-14T22:14:31.109317",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 87.5,

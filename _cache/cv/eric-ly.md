@@ -1,6 +1,6 @@
 # Eric Ly
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:49:26Z*
 
 Eric Ly made one contribution to the TrueSight DAO on January 13, 2022.
 

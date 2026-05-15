@@ -3,7 +3,7 @@
   "display_name": "Artiom Baloian",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Artiom Baloian",
-      "generated_date": "2026-05-14T22:32:23.892788",
+      "generated_date": "2026-05-14T22:41:00.895822",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -26,6 +26,9 @@
           "earliest": "20220502",
           "latest": "20220502"
         }
+      },
+      "governance": {
+        "is_governor": false
       },
       "analysis": {
         "total_contributions": 1,
@@ -72,6 +75,9 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false
   },
   "_generator": "build_cv_cache"
 }

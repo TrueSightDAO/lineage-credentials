@@ -3,7 +3,7 @@
   "display_name": "Mihai Hodisan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mihai Hodisan",
-      "generated_date": "2026-05-14T22:32:24.774091",
+      "generated_date": "2026-05-14T22:41:01.806014",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 1000.0,
@@ -26,6 +26,13 @@
           "earliest": "20220609",
           "latest": "20220614"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "112",
+        "voting_power_pct": "0.24%",
+        "tdg_controlled": "1,000",
+        "total_voting_power_pct": "0.04%"
       },
       "analysis": {
         "total_contributions": 2,
@@ -96,6 +103,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "112",
+    "voting_power_pct": "0.24%",
+    "tdg_controlled": "1,000",
+    "total_voting_power_pct": "0.04%"
   },
   "_generator": "build_cv_cache"
 }

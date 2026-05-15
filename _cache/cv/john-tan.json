@@ -3,7 +3,7 @@
   "display_name": "John Tan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "John Tan",
-      "generated_date": "2026-05-14T22:32:24.599071",
+      "generated_date": "2026-05-14T22:41:01.605453",
       "summary": {
         "total_contributions": 11,
         "total_tdg_provisioned": 9110.0,
@@ -26,6 +26,13 @@
           "earliest": "20220223",
           "latest": "20220405"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "40",
+        "voting_power_pct": "0.71%",
+        "tdg_controlled": "9,110",
+        "total_voting_power_pct": "0.39%"
       },
       "analysis": {
         "total_contributions": 11,
@@ -312,6 +319,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "40",
+    "voting_power_pct": "0.71%",
+    "tdg_controlled": "9,110",
+    "total_voting_power_pct": "0.39%"
   },
   "_generator": "build_cv_cache"
 }

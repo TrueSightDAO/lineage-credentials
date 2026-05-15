@@ -3,7 +3,7 @@
   "display_name": "Boris Giftge",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Boris Giftge",
-      "generated_date": "2026-05-14T22:32:23.921335",
+      "generated_date": "2026-05-14T22:41:00.932403",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 850.0,
@@ -26,6 +26,13 @@
           "earliest": "20220325",
           "latest": "20220329"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "121",
+        "voting_power_pct": "0.22%",
+        "tdg_controlled": "850",
+        "total_voting_power_pct": "0.04%"
       },
       "analysis": {
         "total_contributions": 6,
@@ -193,6 +200,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "121",
+    "voting_power_pct": "0.22%",
+    "tdg_controlled": "850",
+    "total_voting_power_pct": "0.04%"
   },
   "_generator": "build_cv_cache"
 }

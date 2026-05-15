@@ -3,7 +3,7 @@
   "display_name": "Vina e Microbio De Bike",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vina e Microbio De Bike",
-      "generated_date": "2026-05-14T22:32:25.044188",
+      "generated_date": "2026-05-14T22:41:02.115458",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1.67,
@@ -28,6 +28,13 @@
           "earliest": "20241006",
           "latest": "20241006"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "269",
+        "voting_power_pct": "0.03%",
+        "tdg_controlled": "17",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 1,
@@ -76,6 +83,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "269",
+    "voting_power_pct": "0.03%",
+    "tdg_controlled": "17",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

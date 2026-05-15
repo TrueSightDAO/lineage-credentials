@@ -3,7 +3,7 @@
   "display_name": "Yukihiro",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Yukihiro",
-      "generated_date": "2026-05-14T22:32:25.081510",
+      "generated_date": "2026-05-14T22:41:02.162095",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 1300.0,
@@ -28,6 +28,13 @@
           "earliest": "20230427",
           "latest": "20231110"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "97",
+        "voting_power_pct": "0.27%",
+        "tdg_controlled": "1,300",
+        "total_voting_power_pct": "0.06%"
       },
       "analysis": {
         "total_contributions": 4,
@@ -149,6 +156,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "97",
+    "voting_power_pct": "0.27%",
+    "tdg_controlled": "1,300",
+    "total_voting_power_pct": "0.06%"
   },
   "_generator": "build_cv_cache"
 }

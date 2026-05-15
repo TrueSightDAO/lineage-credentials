@@ -3,7 +3,7 @@
   "display_name": "Richard Chu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Richard Chu",
-      "generated_date": "2026-05-14T22:32:24.886672",
+      "generated_date": "2026-05-14T22:41:01.932944",
       "summary": {
         "total_contributions": 25,
         "total_tdg_provisioned": 51159.0,
@@ -26,6 +26,13 @@
           "earliest": "20210901",
           "latest": "20220605"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "13",
+        "voting_power_pct": "1.30%",
+        "tdg_controlled": "30,243",
+        "total_voting_power_pct": "1.29%"
       },
       "analysis": {
         "total_contributions": 25,
@@ -650,6 +657,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "13",
+    "voting_power_pct": "1.30%",
+    "tdg_controlled": "30,243",
+    "total_voting_power_pct": "1.29%"
   },
   "_generator": "build_cv_cache"
 }

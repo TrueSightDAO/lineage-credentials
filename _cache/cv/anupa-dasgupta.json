@@ -3,7 +3,7 @@
   "display_name": "Anupa Dasgupta",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Anupa Dasgupta",
-      "generated_date": "2026-05-14T22:32:23.871027",
+      "generated_date": "2026-05-14T22:41:00.877706",
       "summary": {
         "total_contributions": 133,
         "total_tdg_provisioned": 21476.41,
@@ -32,6 +32,13 @@
           "earliest": "20221129",
           "latest": "20250313"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "18",
+        "voting_power_pct": "1.05%",
+        "tdg_controlled": "19,976",
+        "total_voting_power_pct": "0.85%"
       },
       "analysis": {
         "total_contributions": 133,
@@ -3277,6 +3284,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "18",
+    "voting_power_pct": "1.05%",
+    "tdg_controlled": "19,976",
+    "total_voting_power_pct": "0.85%"
   },
   "_generator": "build_cv_cache"
 }

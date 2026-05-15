@@ -3,7 +3,7 @@
   "display_name": "@vinibitencourt",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@vinibitencourt",
-      "generated_date": "2026-05-14T22:32:23.756722",
+      "generated_date": "2026-05-14T22:41:00.762479",
       "summary": {
         "total_contributions": 10,
         "total_tdg_provisioned": 157.17999999999998,
@@ -29,6 +29,13 @@
           "earliest": "20240906",
           "latest": "20250306"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "179",
+        "voting_power_pct": "0.11%",
+        "tdg_controlled": "218",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 10,
@@ -294,6 +301,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "179",
+    "voting_power_pct": "0.11%",
+    "tdg_controlled": "218",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

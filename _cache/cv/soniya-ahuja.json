@@ -3,7 +3,7 @@
   "display_name": "Soniya Ahuja",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Soniya Ahuja",
-      "generated_date": "2026-05-14T22:32:24.933907",
+      "generated_date": "2026-05-14T22:41:01.986806",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 941.67,
@@ -29,6 +29,13 @@
           "earliest": "20250306",
           "latest": "20251222"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "120",
+        "voting_power_pct": "0.23%",
+        "tdg_controlled": "942",
+        "total_voting_power_pct": "0.04%"
       },
       "analysis": {
         "total_contributions": 5,
@@ -174,6 +181,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "120",
+    "voting_power_pct": "0.23%",
+    "tdg_controlled": "942",
+    "total_voting_power_pct": "0.04%"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Cliff",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Cliff",
-      "generated_date": "2026-05-14T22:32:23.967422",
+      "generated_date": "2026-05-14T22:41:00.986132",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 0.83,
@@ -28,6 +28,13 @@
           "earliest": "20240623",
           "latest": "20240623"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "297",
+        "voting_power_pct": "0.02%",
+        "tdg_controlled": "8",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 1,
@@ -76,6 +83,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "297",
+    "voting_power_pct": "0.02%",
+    "tdg_controlled": "8",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

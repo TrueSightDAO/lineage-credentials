@@ -3,7 +3,7 @@
   "display_name": "Yuan Luo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Yuan Luo",
-      "generated_date": "2026-05-14T22:32:25.078483",
+      "generated_date": "2026-05-14T22:41:02.159314",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 5000.0,
@@ -26,6 +26,13 @@
           "earliest": "20220105",
           "latest": "20220105"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "64",
+        "voting_power_pct": "0.53%",
+        "tdg_controlled": "5,000",
+        "total_voting_power_pct": "0.21%"
       },
       "analysis": {
         "total_contributions": 1,
@@ -70,6 +77,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "64",
+    "voting_power_pct": "0.53%",
+    "tdg_controlled": "5,000",
+    "total_voting_power_pct": "0.21%"
   },
   "_generator": "build_cv_cache"
 }

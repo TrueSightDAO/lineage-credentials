@@ -3,7 +3,7 @@
   "display_name": "Ferdinando Boninelli",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ferdinando Boninelli",
-      "generated_date": "2026-05-14T22:32:24.222581",
+      "generated_date": "2026-05-14T22:41:01.176762",
       "summary": {
         "total_contributions": 14,
         "total_tdg_provisioned": 2233.2099999999996,
@@ -28,6 +28,13 @@
           "earliest": "20230618",
           "latest": "20230728"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "83",
+        "voting_power_pct": "0.35%",
+        "tdg_controlled": "2,233",
+        "total_voting_power_pct": "0.10%"
       },
       "analysis": {
         "total_contributions": 14,
@@ -391,6 +398,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "83",
+    "voting_power_pct": "0.35%",
+    "tdg_controlled": "2,233",
+    "total_voting_power_pct": "0.10%"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Jenifer Runnion",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jenifer Runnion",
-      "generated_date": "2026-05-14T22:32:24.575852",
+      "generated_date": "2026-05-14T22:41:01.582174",
       "summary": {
         "total_contributions": 13,
         "total_tdg_provisioned": 703.3399999999999,
@@ -31,6 +31,13 @@
           "earliest": "20250527",
           "latest": "20250826"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "126",
+        "voting_power_pct": "0.20%",
+        "tdg_controlled": "703",
+        "total_voting_power_pct": "0.03%"
       },
       "analysis": {
         "total_contributions": 13,
@@ -372,6 +379,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "126",
+    "voting_power_pct": "0.20%",
+    "tdg_controlled": "703",
+    "total_voting_power_pct": "0.03%"
   },
   "_generator": "build_cv_cache"
 }

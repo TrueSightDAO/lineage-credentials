@@ -3,7 +3,7 @@
   "display_name": "Orlantildes",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Orlantildes",
-      "generated_date": "2026-05-14T22:32:24.828709",
+      "generated_date": "2026-05-14T22:41:01.871660",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 24.990000000000002,
@@ -29,6 +29,13 @@
           "earliest": "20250319",
           "latest": "20250501"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "264",
+        "voting_power_pct": "0.04%",
+        "tdg_controlled": "25",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 3,
@@ -126,6 +133,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "264",
+    "voting_power_pct": "0.04%",
+    "tdg_controlled": "25",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

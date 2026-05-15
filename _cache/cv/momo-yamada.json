@@ -3,7 +3,7 @@
   "display_name": "Momo Yamada",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Momo Yamada",
-      "generated_date": "2026-05-14T22:32:24.784193",
+      "generated_date": "2026-05-14T22:41:01.819214",
       "summary": {
         "total_contributions": 18,
         "total_tdg_provisioned": 26382.0,
@@ -26,6 +26,13 @@
           "earliest": "20210102",
           "latest": "20211111"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "17",
+        "voting_power_pct": "1.11%",
+        "tdg_controlled": "22,383",
+        "total_voting_power_pct": "0.96%"
       },
       "analysis": {
         "total_contributions": 18,
@@ -479,6 +486,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "17",
+    "voting_power_pct": "1.11%",
+    "tdg_controlled": "22,383",
+    "total_voting_power_pct": "0.96%"
   },
   "_generator": "build_cv_cache"
 }

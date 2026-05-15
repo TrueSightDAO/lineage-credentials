@@ -3,7 +3,7 @@
   "display_name": "Aléksa Mil",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Aléksa Mil",
-      "generated_date": "2026-05-14T22:32:23.817507",
+      "generated_date": "2026-05-14T22:41:00.820963",
       "summary": {
         "total_contributions": 35,
         "total_tdg_provisioned": 44820.0,
@@ -30,6 +30,13 @@
           "earliest": "20201015",
           "latest": "20231127"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "9",
+        "voting_power_pct": "1.58%",
+        "tdg_controlled": "44,820",
+        "total_voting_power_pct": "1.91%"
       },
       "analysis": {
         "total_contributions": 35,
@@ -912,6 +919,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "9",
+    "voting_power_pct": "1.58%",
+    "tdg_controlled": "44,820",
+    "total_voting_power_pct": "1.91%"
   },
   "_generator": "build_cv_cache"
 }

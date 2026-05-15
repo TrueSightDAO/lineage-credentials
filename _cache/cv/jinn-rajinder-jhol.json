@@ -3,7 +3,7 @@
   "display_name": "Jinn Rajinder Jhol",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jinn Rajinder Jhol",
-      "generated_date": "2026-05-14T22:32:24.593698",
+      "generated_date": "2026-05-14T22:41:01.597162",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 375.0,
@@ -29,6 +29,13 @@
           "earliest": "20240214",
           "latest": "20240215"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "154",
+        "voting_power_pct": "0.14%",
+        "tdg_controlled": "375",
+        "total_voting_power_pct": "0.02%"
       },
       "analysis": {
         "total_contributions": 2,
@@ -102,6 +109,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "154",
+    "voting_power_pct": "0.14%",
+    "tdg_controlled": "375",
+    "total_voting_power_pct": "0.02%"
   },
   "_generator": "build_cv_cache"
 }

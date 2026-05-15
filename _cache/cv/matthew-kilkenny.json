@@ -3,7 +3,7 @@
   "display_name": "Matthew Kilkenny",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Matthew Kilkenny",
-      "generated_date": "2026-05-14T22:32:24.756644",
+      "generated_date": "2026-05-14T22:41:01.785342",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 20.0,
@@ -28,6 +28,13 @@
           "earliest": "20201015",
           "latest": "20201015"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "267",
+        "voting_power_pct": "0.03%",
+        "tdg_controlled": "20",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 2,
@@ -100,6 +107,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "267",
+    "voting_power_pct": "0.03%",
+    "tdg_controlled": "20",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

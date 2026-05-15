@@ -3,7 +3,7 @@
   "display_name": "David Berget",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "David Berget",
-      "generated_date": "2026-05-14T22:32:23.998839",
+      "generated_date": "2026-05-14T22:41:01.017319",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 17700.0,
@@ -26,6 +26,13 @@
           "earliest": "20211224",
           "latest": "20220216"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "49",
+        "voting_power_pct": "0.65%",
+        "tdg_controlled": "7,700",
+        "total_voting_power_pct": "0.33%"
       },
       "analysis": {
         "total_contributions": 7,
@@ -215,6 +222,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "49",
+    "voting_power_pct": "0.65%",
+    "tdg_controlled": "7,700",
+    "total_voting_power_pct": "0.33%"
   },
   "_generator": "build_cv_cache"
 }

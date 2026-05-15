@@ -3,7 +3,7 @@
   "display_name": "Paloma",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Paloma",
-      "generated_date": "2026-05-14T22:32:24.831711",
+      "generated_date": "2026-05-14T22:41:01.875494",
       "summary": {
         "total_contributions": 19,
         "total_tdg_provisioned": 647.0800000000003,
@@ -32,6 +32,13 @@
           "earliest": "20240830",
           "latest": "20250807"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "129",
+        "voting_power_pct": "0.19%",
+        "tdg_controlled": "647",
+        "total_voting_power_pct": "0.03%"
       },
       "analysis": {
         "total_contributions": 19,
@@ -518,6 +525,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "129",
+    "voting_power_pct": "0.19%",
+    "tdg_controlled": "647",
+    "total_voting_power_pct": "0.03%"
   },
   "_generator": "build_cv_cache"
 }

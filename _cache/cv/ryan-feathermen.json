@@ -3,7 +3,7 @@
   "display_name": "Ryan Feathermen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ryan Feathermen",
-      "generated_date": "2026-05-14T22:32:24.899542",
+      "generated_date": "2026-05-14T22:41:01.947765",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 2500.0,
@@ -26,6 +26,9 @@
           "earliest": "20190831",
           "latest": "20190831"
         }
+      },
+      "governance": {
+        "is_governor": false
       },
       "analysis": {
         "total_contributions": 1,
@@ -70,6 +73,9 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false
   },
   "_generator": "build_cv_cache"
 }

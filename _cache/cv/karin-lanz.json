@@ -3,7 +3,7 @@
   "display_name": "Karin Lanz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Karin Lanz",
-      "generated_date": "2026-05-14T22:32:24.634584",
+      "generated_date": "2026-05-14T22:41:01.647652",
       "summary": {
         "total_contributions": 31,
         "total_tdg_provisioned": 5167.36,
@@ -31,6 +31,13 @@
           "earliest": "20201018",
           "latest": "20250429"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "73",
+        "voting_power_pct": "0.44%",
+        "tdg_controlled": "3,467",
+        "total_voting_power_pct": "0.15%"
       },
       "analysis": {
         "total_contributions": 31,
@@ -815,6 +822,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "73",
+    "voting_power_pct": "0.44%",
+    "tdg_controlled": "3,467",
+    "total_voting_power_pct": "0.15%"
   },
   "_generator": "build_cv_cache"
 }

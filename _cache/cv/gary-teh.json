@@ -3,7 +3,7 @@
   "display_name": "Gary Teh",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Gary Teh",
-      "generated_date": "2026-05-14T22:32:24.259124",
+      "generated_date": "2026-05-14T22:41:01.216538",
       "summary": {
         "total_contributions": 3625,
         "total_tdg_provisioned": 452598.5266666999,
@@ -47,6 +47,13 @@
           "earliest": "20171231",
           "latest": "20260430"
         }
+      },
+      "governance": {
+        "is_governor": true,
+        "ownership_rank": "1",
+        "voting_power_pct": "7.28%",
+        "tdg_controlled": "955,459",
+        "total_voting_power_pct": "40.77%"
       },
       "analysis": {
         "total_contributions": 3625,
@@ -87206,6 +87213,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": true,
+    "ownership_rank": "1",
+    "voting_power_pct": "7.28%",
+    "tdg_controlled": "955,459",
+    "total_voting_power_pct": "40.77%"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Ambarish Malpani",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ambarish Malpani",
-      "generated_date": "2026-05-14T22:32:23.820984",
+      "generated_date": "2026-05-14T22:41:00.824666",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 7502.0,
@@ -28,6 +28,13 @@
           "earliest": "20210519",
           "latest": "20231107"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "51",
+        "voting_power_pct": "0.65%",
+        "tdg_controlled": "7,502",
+        "total_voting_power_pct": "0.32%"
       },
       "analysis": {
         "total_contributions": 5,
@@ -173,6 +180,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "51",
+    "voting_power_pct": "0.65%",
+    "tdg_controlled": "7,502",
+    "total_voting_power_pct": "0.32%"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Shadi Atamne",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Shadi Atamne",
-      "generated_date": "2026-05-14T22:32:24.914866",
+      "generated_date": "2026-05-14T22:41:01.969343",
       "summary": {
         "total_contributions": 19,
         "total_tdg_provisioned": 5432.66,
@@ -29,6 +29,13 @@
           "earliest": "20230520",
           "latest": "20231113"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "58",
+        "voting_power_pct": "0.55%",
+        "tdg_controlled": "5,433",
+        "total_voting_power_pct": "0.23%"
       },
       "analysis": {
         "total_contributions": 19,
@@ -516,6 +523,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "58",
+    "voting_power_pct": "0.55%",
+    "tdg_controlled": "5,433",
+    "total_voting_power_pct": "0.23%"
   },
   "_generator": "build_cv_cache"
 }

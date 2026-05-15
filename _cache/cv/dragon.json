@@ -3,7 +3,7 @@
   "display_name": "Dragon",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dragon",
-      "generated_date": "2026-05-14T22:32:24.035340",
+      "generated_date": "2026-05-14T22:41:01.057172",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 1550.0,
@@ -29,6 +29,13 @@
           "earliest": "20230615",
           "latest": "20230710"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "92",
+        "voting_power_pct": "0.29%",
+        "tdg_controlled": "1,550",
+        "total_voting_power_pct": "0.07%"
       },
       "analysis": {
         "total_contributions": 6,
@@ -200,6 +207,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "92",
+    "voting_power_pct": "0.29%",
+    "tdg_controlled": "1,550",
+    "total_voting_power_pct": "0.07%"
   },
   "_generator": "build_cv_cache"
 }

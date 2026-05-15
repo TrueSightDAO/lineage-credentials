@@ -3,7 +3,7 @@
   "display_name": "Franck Nouyrigat",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Franck Nouyrigat",
-      "generated_date": "2026-05-14T22:32:24.230872",
+      "generated_date": "2026-05-14T22:41:01.183937",
       "summary": {
         "total_contributions": 38,
         "total_tdg_provisioned": 24435.0,
@@ -28,6 +28,13 @@
           "earliest": "20220112",
           "latest": "20240228"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "16",
+        "voting_power_pct": "1.15%",
+        "tdg_controlled": "23,835",
+        "total_voting_power_pct": "1.02%"
       },
       "analysis": {
         "total_contributions": 38,
@@ -975,6 +982,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "16",
+    "voting_power_pct": "1.15%",
+    "tdg_controlled": "23,835",
+    "total_voting_power_pct": "1.02%"
   },
   "_generator": "build_cv_cache"
 }

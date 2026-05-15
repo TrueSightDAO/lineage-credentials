@@ -3,7 +3,7 @@
   "display_name": "Shena Davenport",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Shena Davenport",
-      "generated_date": "2026-05-14T22:32:24.921835",
+      "generated_date": "2026-05-14T22:41:01.977141",
       "summary": {
         "total_contributions": 19,
         "total_tdg_provisioned": 8515.279999999999,
@@ -30,6 +30,13 @@
           "earliest": "20240820",
           "latest": "20260320"
         }
+      },
+      "governance": {
+        "is_governor": true,
+        "ownership_rank": "45",
+        "voting_power_pct": "0.69%",
+        "tdg_controlled": "8,660",
+        "total_voting_power_pct": "0.37%"
       },
       "analysis": {
         "total_contributions": 19,
@@ -513,6 +520,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": true,
+    "ownership_rank": "45",
+    "voting_power_pct": "0.69%",
+    "tdg_controlled": "8,660",
+    "total_voting_power_pct": "0.37%"
   },
   "_generator": "build_cv_cache"
 }

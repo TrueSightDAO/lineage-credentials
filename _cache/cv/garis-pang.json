@@ -3,7 +3,7 @@
   "display_name": "Garis Pang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Garis Pang",
-      "generated_date": "2026-05-14T22:32:24.241239",
+      "generated_date": "2026-05-14T22:41:01.190306",
       "summary": {
         "total_contributions": 139,
         "total_tdg_provisioned": 85503.33,
@@ -31,6 +31,13 @@
           "earliest": "20210103",
           "latest": "20251109"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "2",
+        "voting_power_pct": "1.94%",
+        "tdg_controlled": "67,653",
+        "total_voting_power_pct": "2.89%"
       },
       "analysis": {
         "total_contributions": 139,
@@ -3417,6 +3424,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "2",
+    "voting_power_pct": "1.94%",
+    "tdg_controlled": "67,653",
+    "total_voting_power_pct": "2.89%"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Ramona Wong",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ramona Wong",
-      "generated_date": "2026-05-14T22:32:24.870034",
+      "generated_date": "2026-05-14T22:41:01.915956",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 155.0,
@@ -26,6 +26,13 @@
           "earliest": "20220613",
           "latest": "20220613"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "192",
+        "voting_power_pct": "0.09%",
+        "tdg_controlled": "155",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 5,
@@ -171,6 +178,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "192",
+    "voting_power_pct": "0.09%",
+    "tdg_controlled": "155",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

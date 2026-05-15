@@ -3,7 +3,7 @@
   "display_name": "@Lake",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@Lake",
-      "generated_date": "2026-05-14T22:32:23.720014",
+      "generated_date": "2026-05-14T22:41:00.725699",
       "summary": {
         "total_contributions": 32,
         "total_tdg_provisioned": 7050.0,
@@ -26,6 +26,13 @@
           "earliest": "20220219",
           "latest": "20220304"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "53",
+        "voting_power_pct": "0.63%",
+        "tdg_controlled": "7,050",
+        "total_voting_power_pct": "0.30%"
       },
       "analysis": {
         "total_contributions": 32,
@@ -814,6 +821,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "53",
+    "voting_power_pct": "0.63%",
+    "tdg_controlled": "7,050",
+    "total_voting_power_pct": "0.30%"
   },
   "_generator": "build_cv_cache"
 }

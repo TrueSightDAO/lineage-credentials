@@ -3,7 +3,7 @@
   "display_name": "Aga Marecka",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Aga Marecka",
-      "generated_date": "2026-05-14T22:32:23.778187",
+      "generated_date": "2026-05-14T22:41:00.784157",
       "summary": {
         "total_contributions": 60,
         "total_tdg_provisioned": 14004.399999999998,
@@ -35,6 +35,13 @@
           "earliest": "20201015",
           "latest": "20251031"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "24",
+        "voting_power_pct": "0.87%",
+        "tdg_controlled": "13,571",
+        "total_voting_power_pct": "0.58%"
       },
       "analysis": {
         "total_contributions": 60,
@@ -1525,6 +1532,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "24",
+    "voting_power_pct": "0.87%",
+    "tdg_controlled": "13,571",
+    "total_voting_power_pct": "0.58%"
   },
   "_generator": "build_cv_cache"
 }

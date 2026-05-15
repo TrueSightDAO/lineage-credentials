@@ -3,7 +3,7 @@
   "display_name": "Ken Nim",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ken Nim",
-      "generated_date": "2026-05-14T22:32:24.662230",
+      "generated_date": "2026-05-14T22:41:01.678526",
       "summary": {
         "total_contributions": 47,
         "total_tdg_provisioned": 8849.78,
@@ -31,6 +31,13 @@
           "earliest": "20221125",
           "latest": "20251106"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "39",
+        "voting_power_pct": "0.72%",
+        "tdg_controlled": "9,419",
+        "total_voting_power_pct": "0.40%"
       },
       "analysis": {
         "total_contributions": 47,
@@ -1199,6 +1206,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "39",
+    "voting_power_pct": "0.72%",
+    "tdg_controlled": "9,419",
+    "total_voting_power_pct": "0.40%"
   },
   "_generator": "build_cv_cache"
 }

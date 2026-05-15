@@ -3,7 +3,7 @@
   "display_name": "Elinor Janelle",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Elinor Janelle",
-      "generated_date": "2026-05-14T22:32:24.070056",
+      "generated_date": "2026-05-14T22:41:01.093955",
       "summary": {
         "total_contributions": 15,
         "total_tdg_provisioned": 4401.66,
@@ -31,6 +31,13 @@
           "earliest": "20240522",
           "latest": "20250811"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "69",
+        "voting_power_pct": "0.49%",
+        "tdg_controlled": "4,408",
+        "total_voting_power_pct": "0.19%"
       },
       "analysis": {
         "total_contributions": 15,
@@ -419,6 +426,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "69",
+    "voting_power_pct": "0.49%",
+    "tdg_controlled": "4,408",
+    "total_voting_power_pct": "0.19%"
   },
   "_generator": "build_cv_cache"
 }

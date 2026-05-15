@@ -3,7 +3,7 @@
   "display_name": "Andreas Quandt",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Andreas Quandt",
-      "generated_date": "2026-05-14T22:32:23.829036",
+      "generated_date": "2026-05-14T22:41:00.830869",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 283.33,
@@ -28,6 +28,13 @@
           "earliest": "20210801",
           "latest": "20260308"
         }
+      },
+      "governance": {
+        "is_governor": true,
+        "ownership_rank": "170",
+        "voting_power_pct": "0.13%",
+        "tdg_controlled": "283",
+        "total_voting_power_pct": "0.01%"
       },
       "analysis": {
         "total_contributions": 5,
@@ -172,6 +179,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": true,
+    "ownership_rank": "170",
+    "voting_power_pct": "0.13%",
+    "tdg_controlled": "283",
+    "total_voting_power_pct": "0.01%"
   },
   "_generator": "build_cv_cache"
 }

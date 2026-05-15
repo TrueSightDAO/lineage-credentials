@@ -3,7 +3,7 @@
   "display_name": "Sujit Nair",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Sujit Nair",
-      "generated_date": "2026-05-14T22:32:24.957632",
+      "generated_date": "2026-05-14T22:41:02.017202",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 2591.6800000000003,
@@ -29,6 +29,13 @@
           "earliest": "20210621",
           "latest": "20250411"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "80",
+        "voting_power_pct": "0.38%",
+        "tdg_controlled": "2,592",
+        "total_voting_power_pct": "0.11%"
       },
       "analysis": {
         "total_contributions": 6,
@@ -198,6 +205,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "80",
+    "voting_power_pct": "0.38%",
+    "tdg_controlled": "2,592",
+    "total_voting_power_pct": "0.11%"
   },
   "_generator": "build_cv_cache"
 }

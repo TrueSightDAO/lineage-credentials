@@ -3,7 +3,7 @@
   "display_name": "Hubert Yee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Hubert Yee",
-      "generated_date": "2026-05-14T22:32:24.526544",
+      "generated_date": "2026-05-14T22:41:01.524739",
       "summary": {
         "total_contributions": 19,
         "total_tdg_provisioned": 2405.0,
@@ -29,6 +29,13 @@
           "earliest": "20220630",
           "latest": "20220910"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "88",
+        "voting_power_pct": "0.31%",
+        "tdg_controlled": "1,780",
+        "total_voting_power_pct": "0.08%"
       },
       "analysis": {
         "total_contributions": 19,
@@ -521,6 +528,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "88",
+    "voting_power_pct": "0.31%",
+    "tdg_controlled": "1,780",
+    "total_voting_power_pct": "0.08%"
   },
   "_generator": "build_cv_cache"
 }

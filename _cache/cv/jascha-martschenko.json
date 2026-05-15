@@ -3,7 +3,7 @@
   "display_name": "Jascha Martschenko",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jascha Martschenko",
-      "generated_date": "2026-05-14T22:32:24.568555",
+      "generated_date": "2026-05-14T22:41:01.572395",
       "summary": {
         "total_contributions": 17,
         "total_tdg_provisioned": 12194.73,
@@ -28,6 +28,13 @@
           "earliest": "20201025",
           "latest": "20230616"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "26",
+        "voting_power_pct": "0.81%",
+        "tdg_controlled": "11,945",
+        "total_voting_power_pct": "0.51%"
       },
       "analysis": {
         "total_contributions": 17,
@@ -470,6 +477,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "26",
+    "voting_power_pct": "0.81%",
+    "tdg_controlled": "11,945",
+    "total_voting_power_pct": "0.51%"
   },
   "_generator": "build_cv_cache"
 }

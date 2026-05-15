@@ -3,7 +3,7 @@
   "display_name": "Sonya Gorski",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Sonya Gorski",
-      "generated_date": "2026-05-14T22:32:24.936354",
+      "generated_date": "2026-05-14T22:41:01.989126",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 34.5,
@@ -29,6 +29,13 @@
           "earliest": "20230809",
           "latest": "20240728"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "251",
+        "voting_power_pct": "0.04%",
+        "tdg_controlled": "35",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 3,
@@ -127,6 +134,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "251",
+    "voting_power_pct": "0.04%",
+    "tdg_controlled": "35",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

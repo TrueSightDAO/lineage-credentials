@@ -3,7 +3,7 @@
   "display_name": "Meir S. Simhi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Meir S. Simhi",
-      "generated_date": "2026-05-14T22:32:24.763152",
+      "generated_date": "2026-05-14T22:41:01.793679",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 3.0,
@@ -28,6 +28,13 @@
           "earliest": "20230717",
           "latest": "20230717"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "311",
+        "voting_power_pct": "0.01%",
+        "tdg_controlled": "3",
+        "total_voting_power_pct": "0.00%"
       },
       "analysis": {
         "total_contributions": 3,
@@ -124,6 +131,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "311",
+    "voting_power_pct": "0.01%",
+    "tdg_controlled": "3",
+    "total_voting_power_pct": "0.00%"
   },
   "_generator": "build_cv_cache"
 }

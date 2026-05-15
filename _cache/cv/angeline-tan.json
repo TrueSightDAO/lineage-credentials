@@ -3,7 +3,7 @@
   "display_name": "Angeline Tan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:34:57Z",
+  "generated_at": "2026-05-15T05:41:02Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Angeline Tan",
-      "generated_date": "2026-05-14T22:32:23.846250",
+      "generated_date": "2026-05-14T22:41:00.848842",
       "summary": {
         "total_contributions": 12,
         "total_tdg_provisioned": 20858.0,
@@ -30,6 +30,13 @@
           "earliest": "20210731",
           "latest": "20250503"
         }
+      },
+      "governance": {
+        "is_governor": false,
+        "ownership_rank": "52",
+        "voting_power_pct": "0.64%",
+        "tdg_controlled": "7,358",
+        "total_voting_power_pct": "0.31%"
       },
       "analysis": {
         "total_contributions": 12,
@@ -348,6 +355,13 @@
         }
       ]
     }
+  },
+  "governance": {
+    "is_governor": false,
+    "ownership_rank": "52",
+    "voting_power_pct": "0.64%",
+    "tdg_controlled": "7,358",
+    "total_voting_power_pct": "0.31%"
   },
   "_generator": "build_cv_cache"
 }

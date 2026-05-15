@@ -3,24 +3,24 @@
   "display_name": "Ferdinando Boninelli",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 14,
-    "total_tdg_provisioned": 1233.2099999999998,
+    "total_tdg_provisioned": 2233.2099999999996,
     "date_range": {
       "earliest": "20230618",
       "latest": "20230728"
     },
     "source": {
       "contributor_name": "Ferdinando Boninelli",
-      "generated_date": "2026-05-14T22:18:13.778588",
+      "generated_date": "2026-05-14T22:21:50.038618",
       "summary": {
         "total_contributions": 14,
-        "total_tdg_provisioned": 1233.2099999999998,
-        "total_tdg_issued": 1233.2099999999998,
+        "total_tdg_provisioned": 2233.2099999999996,
+        "total_tdg_issued": 2233.2099999999996,
         "projects": [
           "Agroverse"
         ],
@@ -31,8 +31,8 @@
       },
       "analysis": {
         "total_contributions": 14,
-        "total_tdg_provisioned": 1233.2099999999998,
-        "total_tdg_issued": 1233.2099999999998,
+        "total_tdg_provisioned": 2233.2099999999996,
+        "total_tdg_issued": 2233.2099999999996,
         "projects": [
           "Agroverse"
         ],
@@ -64,7 +64,7 @@
           {
             "description": "ECO-57: Drive from Punta Cana to San Francisco De Marios to have meeting with Abel and then back from Conacado Cooperative in Dominican Republic. \n\nStart time: 5.30am\nEnd time: 3.30pm\n\n10 hours",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20230624",
             "status": "Successfully Completed / Full Provision Awarded"
           },

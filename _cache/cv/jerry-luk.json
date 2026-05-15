@@ -3,23 +3,23 @@
   "display_name": "Jerry Luk",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 21,
-    "total_tdg_provisioned": 1317.71,
+    "total_tdg_provisioned": 8817.71,
     "date_range": {
       "earliest": "20220119",
       "latest": "20251101"
     },
     "source": {
       "contributor_name": "Jerry Luk",
-      "generated_date": "2026-05-14T22:18:14.135654",
+      "generated_date": "2026-05-14T22:21:50.386132",
       "summary": {
         "total_contributions": 21,
-        "total_tdg_provisioned": 1317.71,
+        "total_tdg_provisioned": 8817.71,
         "total_tdg_issued": 8822.66,
         "projects": [
           "20250617_beerhall",
@@ -34,7 +34,7 @@
       },
       "analysis": {
         "total_contributions": 21,
-        "total_tdg_provisioned": 1317.71,
+        "total_tdg_provisioned": 8817.71,
         "total_tdg_issued": 8822.66,
         "projects": [
           "20250617_beerhall",
@@ -57,7 +57,7 @@
           {
             "description": "Review product strategy for white paper",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -78,7 +78,7 @@
           {
             "description": "Concept Deck: raised missing components in the deck\nhttps://github.com/TrueSightDAO/TrueSightDAO/blob/main/assets/pitch_deck_contents.png",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           },

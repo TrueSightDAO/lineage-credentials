@@ -1,11 +1,11 @@
 # Matheus Reis
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **180**
-- Total TDG provisioned: **12,893.06**
+- Total TDG provisioned: **21,908.65**
 - Active period: 20230923 – 20260316
 - Source: [_cache/cv/matheus-reis.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/matheus-reis.json)
 

@@ -3,24 +3,24 @@
   "display_name": "GetData Inc",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 1939,
-    "total_tdg_provisioned": 80892.77999999985,
+    "total_tdg_provisioned": 637346.1500000049,
     "date_range": {
       "earliest": "20240317",
       "latest": "20250905"
     },
     "source": {
       "contributor_name": "GetData Inc",
-      "generated_date": "2026-05-14T22:18:13.978940",
+      "generated_date": "2026-05-14T22:21:50.235637",
       "summary": {
         "total_contributions": 1939,
-        "total_tdg_provisioned": 80892.77999999985,
-        "total_tdg_issued": 130112.53000000078,
+        "total_tdg_provisioned": 637346.1500000049,
+        "total_tdg_issued": 0.3600000003061723,
         "projects": [
           "Agroverse",
           "Edgar",
@@ -35,8 +35,8 @@
       },
       "analysis": {
         "total_contributions": 1939,
-        "total_tdg_provisioned": 80892.77999999985,
-        "total_tdg_issued": 130112.53000000078,
+        "total_tdg_provisioned": 637346.1500000049,
+        "total_tdg_issued": 0.3600000003061723,
         "projects": [
           "Agroverse",
           "Edgar",
@@ -60,7 +60,7 @@
           {
             "description": "Transfer of governance tokens to GetData Inc",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 630899.0,
             "date": "",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -977,7 +977,7 @@
           {
             "description": "Me and Elinor spent a total of 30 hours each this past week promoting our Cacao",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 3000.0,
             "date": "20240522",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2825,7 +2825,7 @@
           {
             "description": "Me, @553182509772 and @557391090002 spent 10.5 hours today driving to and from the cacao molasses farm to inspect it for FDA compliance requirements as well as record raw video footages for content marketing purposes",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1050.0,
             "date": "20240801",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3175,7 +3175,7 @@
           {
             "description": "Spent $43.88 on 2 molds",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240605",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3231,7 +3231,7 @@
           {
             "description": "Spent 10 hours yesterday at the booth yesterday from 7am to 5pm",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20240609",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3252,7 +3252,7 @@
           {
             "description": "Spent 1 hour re-crafting the copy for our package design based on recent feedback",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240611",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3287,7 +3287,7 @@
           {
             "description": "Spent $51.04 to get climbing gear for content marketing purposes on Instagram",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240612",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3308,7 +3308,7 @@
           {
             "description": "Spent 30 minutes updating AGL contract template based on learnings during the purchase and sale of AGL2 shipment\n\nhttps://docs.google.com/document/d/1CdFtZ8YoGMsE0RdQ4hGFINUO8CORap7smzbmQXy4Dj4/edit\n\nWill complete the details once @16468233438 provides the freighting information details and Coopercabruca provides details on the cost of cacao.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240612",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3350,7 +3350,7 @@
           {
             "description": "I spent five minutes following up with Anna to request for the package design",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240615",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3427,7 +3427,7 @@
           {
             "description": "Spend $126.85 for four nights in hotel Ilheus",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240619",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3553,7 +3553,7 @@
           {
             "description": "Spent 9.74 on drinks for collaboration discussions with Matheus and Bruno",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240622",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3679,7 +3679,7 @@
           {
             "description": "Spend $22.73 acquiring samples of cacao almonds here",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240624",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3889,7 +3889,7 @@
           {
             "description": "Spent $38.11 mailing the chocolate of 80 g with final package of 134 g to San Francisco",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240628",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3987,21 +3987,21 @@
           {
             "description": "Spent $37.89 testing the shipping or package to New York City.\n\n- 200 g net weight\n- ⁠ 332 g shipping package weight",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Spend $1.82 taking Moto ride to the postal office",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Spend $16.39 on samples at CacaoWay",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4015,7 +4015,7 @@
           {
             "description": "Spend $1.82 getting from Cacao Way office back to the hotel",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4155,7 +4155,7 @@
           {
             "description": "Sometimes spending this research was an hour\n\nIncludes Reading through the entire white paper",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240704",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4267,21 +4267,21 @@
           {
             "description": "Spent 15 minutes reviewing Suchitra work this morning for the upcoming real tomorrow",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240711",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Spent 10 minutes resolving issue with video on Instagram",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240711",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Summary of end to end USA to Brazilian Reis transfer experiment #2 - TransferWise\n\n- Total debited amount from USA account: $105\n- ⁠Total fees charged by TransferWise: $2.20\n- ⁠Actual Amount sent: $102.80\n- ⁠⁠⁠Final amount credited into Brazilian Bank account R$559\n- ⁠⁠⁠Final amount equivalent in USD that we received: $102.46592\n- Total waiting time for money to be transfered from USA bank account to Brazilian Bank account: 3 minutes\n- *⁠⁠⁠USD lost in bank transaction fees: -$2.53408*\n\n*Breakdown of TransferWise Fees*\n- ⁠TransferWise charges: $1.52\n- ⁠IOF tax: $0.39 <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240712",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4295,7 +4295,7 @@
           {
             "description": "Spent US$105 to conduct transferWise experiment <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240712",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4505,7 +4505,7 @@
           {
             "description": "I spent 10 minutes dealing with the payment with Suchitra",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240718",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4533,7 +4533,7 @@
           {
             "description": "Spend 15 minutes following up with Alice fromthe Zen Monastery who wants to buy ceremonial Cacao",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240720",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4624,7 +4624,7 @@
           {
             "description": "Spent five minutes, giving instructions to Suchitra to post our future videos into our telegram channel as well\n\nGoal is to boost cryptocurrency investor confidence, as well as to keep all the cryptocurrency exchange listing managers in our channel and engage <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240723",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4666,7 +4666,7 @@
           {
             "description": "Spent five minutes following up with Robert\n\nHe clarified he is open to receiving Posa Da Mata organic cacao butter",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240724",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4680,7 +4680,7 @@
           {
             "description": "Spent 5 minutes with @16468233438 following up on Shipment to Alice from Green Gulch zen monastery",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240724",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4792,7 +4792,7 @@
           {
             "description": "Spent five minutes responding to Emelin on the content marketing questions that she has",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240726",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5100,7 +5100,7 @@
           {
             "description": "This is the Brazilian taxes for packaging materials sent from China to Brazil. R$4427.34\n\nhttps://ups.mobiup.com.br/recebimento?awb[]=1Z01Y3X76738877750 <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 4427.34,
             "date": "20240731",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5205,7 +5205,7 @@
           {
             "description": "Spent $8.92 for gas to get back to civilization",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240801",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5219,7 +5219,7 @@
           {
             "description": "Spent five minutes reviewing notice receive by UPS \n\nOur package has been released for delivery  🤩🙏",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240802",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5338,7 +5338,7 @@
           {
             "description": "I spent $3.81 getting back to my place from @557391090002 place",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240803",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5359,7 +5359,7 @@
           {
             "description": "Spent $104.82 for flight tickets from Ilios to São Paulo on 15 August to visit Sugar Mill as well as Cacao butter factory for FDA FSVP compliance purposes <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240805",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5583,14 +5583,14 @@
           {
             "description": "Spent 10 minutes responding to @14102184337 and the group that is involved with setting up the visit to the cacao butter facility in Sao Paulo",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240812",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "I spent two minutes following up with @14102184337 about the shops in Durango",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240812",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5709,7 +5709,7 @@
           {
             "description": "I spent $155 for parking of my car at Los Angeles airport for period from July to August.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240814",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6038,7 +6038,7 @@
           {
             "description": "I spent two minutes, suggesting buffer app to @557191035605 for further stream lining of our social media management",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240821",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6066,7 +6066,7 @@
           {
             "description": "I’ve shared with @557191035605 on the prioritization for Brazil operations \n\nHighest priority to lowest priority \n\n- Digital marketing\n- ⁠supplier sourcing\n- ⁠CNPJ setup\n- ⁠Suni indigenous supply\n\n\nTime I spent thinking through the whole process and to end was 10 minutes <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240821",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6101,7 +6101,7 @@
           {
             "description": "I spent 10 minutes explaining to @557191035605 the importance of considering DAO policies as not just for the current case under consideration but as precedent for all future cases that are similar.\n\nIts similar to the passing of laws in Legal systems. When a judge passes a judgement on a case, judges considering future cases of similar nature must then take the current case and its judgement into consideration when judging future cases. This is to ensure the legal system is consistent.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240821",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6185,7 +6185,7 @@
           {
             "description": "Spent two minutes answering Emelin question",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240822",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6248,7 +6248,7 @@
           {
             "description": "I spent two minutes poking Paulo",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240823",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6283,7 +6283,7 @@
           {
             "description": "I spent $78.88 for three nights in balneário Camboriú to pick up the Kraft pouch samples from Barbara <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240823",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6444,7 +6444,7 @@
           {
             "description": "Spent 1 hour voice discussion with @557191035605 to discuss about the information needs we have from the farmers",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240829",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6633,7 +6633,7 @@
           {
             "description": "I spent five minutes linking up at @557191035605 to Francine for Agroverse dot shop Instagram shopping account",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240905",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6668,7 +6668,7 @@
           {
             "description": "I spent five minutes, giving instruction to @557191035605 on what to do regarding Cristiano‘s arrangement",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240906",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6794,7 +6794,7 @@
           {
             "description": "I spent $41.16 for two nights in Ilheus to sort out the shipment issues for Tuesday",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240909",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6871,7 +6871,7 @@
           {
             "description": "Been $4.83 for samples at dengo",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240911",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -7291,7 +7291,7 @@
           {
             "description": "Exchange of Debt with TDG",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 2577.83,
             "date": "20241030",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -7305,14 +7305,14 @@
           {
             "description": "Fund of R$100,000 has successfully transferred into our Brazilian bank account",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 16262.01,
             "date": "20240912",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Fund of R$11,064.97 has successfully transferred to our Brazilian bank account",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1799.39,
             "date": "20240912",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -7333,7 +7333,7 @@
           {
             "description": "*Liquidity loan event for AGL4 (_code name Shena_)*\n\nI transferred $3,696.30 to pay for final batch of 200kg of cacao which we will collect along with the second batch from Oscar’s far\n\nR$20,000\n\nR$100 per kg",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 3696.3,
             "date": "20240925",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -7669,7 +7669,7 @@
           {
             "description": "GetData Inc spent a total of 28 hours ensuring our main ledger was updated for the season\n\nhttps://truesight.me/ledger",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 2800.0,
             "date": "20240925",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -8369,7 +8369,7 @@
           {
             "description": "From VIni USD1518.50 from Salvador Airport to USA, Austin Texas Airport <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1518.5,
             "date": "20240920",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -8495,7 +8495,7 @@
           {
             "description": "Poking him to help check for Brazilian customs broker fees \n\nSpent 3 minutes on that",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240923",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -8509,7 +8509,7 @@
           {
             "description": "I spent 1 hour setting up AGL5 \nhttps://agroverse.shop/agl5",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240923",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -8824,7 +8824,7 @@
           {
             "description": "I spent 1 hour creating a reel to illustrate what I meant \n\nhttps://www.instagram.com/reel/DAgsaWPObV7/?igsh=OWVtZGlrODlmbzV3\n\nCollaborators are Agroverse and inventor chocolate\n\nThis is the original content that I used from invento chocolate \n\nhttps://www.instagram.com/reel/DARhJc8vyYg/?igsh=dWxjcm4zYmx4cHV2",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240929",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -8845,7 +8845,7 @@
           {
             "description": "*AGL5 financing event*\n\nI sent USD242.82 to finance AGL5: the shipment of 30 bottles of cacao molasses to USA San Francisco <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240930",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9013,7 +9013,7 @@
           {
             "description": "Spent another 5 minutes clarifying with Orlantildes if R$90 is in fact the final price for povos da mata cação <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241001",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9048,7 +9048,7 @@
           {
             "description": "I spent 10 minutes updating Shena on her request to ship the 77.7kg over first <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241001",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9146,7 +9146,7 @@
           {
             "description": "I spent 5 minutes making arrangements of 5kg shipment of cacao nibs bulk sale from Brazil direct to @14102184337",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241003",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9272,7 +9272,7 @@
           {
             "description": "I spent five minutes on the phone with @557191035605 🤩🙏",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241004",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9328,21 +9328,21 @@
           {
             "description": "I spent 5 minutes doing fact finding in a private facebook  group",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241005",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "I transferred R$1793.55 to reimburse @557191035605 for shipment yesterday of the 27.56kg of cacao nibs",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241005",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "I reimbursed @557191035605 R$7.31 for the Uber ride she took from her house to the post office",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241005",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9412,7 +9412,7 @@
           {
             "description": "I spent 30 minutes conducting focus group on Chloe for the 6 caramelized cacao almond samples that I have \n\nSo far seems the results are starting to triangulate\n\nhttps://docs.google.com/document/d/1O9S02LtBKOfaqnBHH0-99nDQ7ScEmyjJIaY81vImPGs/edit <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241005",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9461,7 +9461,7 @@
           {
             "description": "I spent 5 minutes verifying that Ewerton’s freighting company does not handle packing",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241007",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9475,7 +9475,7 @@
           {
             "description": "I spent 10 minutes updating the freighters \n\n- Action\n- Ewerton\n- SeaCoast Logistics\n\nThat we are expecting 27 bags of 10Kg with the following dimensions\n\n- 42cm length\n- 38cm cm height\n- 25cm width <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241007",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9489,7 +9489,7 @@
           {
             "description": "I spent 2 minutes grabbing the Telegram link and passing them to Emelin",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241007",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9601,7 +9601,7 @@
           {
             "description": "@557191035605 and @557381610166 if you haven’t already it’s a great time to talk about people dying in the hurricane \n\nhttps://www.cbsnews.com/news/biden-troops-north-carolina-hurricane-helene-federal-response/\n\nI spent 10 minutes finding climate change trends to talk about <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241008",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9664,7 +9664,7 @@
           {
             "description": "I spent $4.477666666666667 on 200grams of granola made from \n\n- cacao\n- ⁠coconut\n- ⁠honey\n\nIngredients are organic and cacao is sourced locally <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241009",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9685,14 +9685,14 @@
           {
             "description": "I transferred $R10,000 from AGL4 ledger to Oscar farmer part 1 payment for 200kg cacao delivered to CIC <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 10000.0,
             "date": "20241009",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "I transferred $R9,975 from AGL4 ledger to Oscar farmer part 2 payment for 200kg cacao delivered to CIC",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 9975.0,
             "date": "20241009",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9762,14 +9762,14 @@
           {
             "description": "I spent 20 minutes updating AGL4 ledger to reflect yesterday’s delivery of 208.16kg of cacao almond to CIC\n\nhttps://agroverse.shop/agl4 <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241010",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "I spent 2 minutes responding to Jediel from CEPOTX cooperative in Para <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241010",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9804,14 +9804,14 @@
           {
             "description": "I spent one minute responding to @557191035605 question 🙂🙏",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241011",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "I spent 10 minutes talking to Jediel to get the dimensions of each bag of 25kg",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241011",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9839,7 +9839,7 @@
           {
             "description": "I spent $5.60 for bus ticket from Itacare to Ilheus with the *following agenda*\n\n- inspect Cacao nibs from Clara’s farm\n- ⁠ Cacao shells from Clara’s farm\n- ⁠ Coco almond from Oscars farm\n- ⁠ generate content, marketing by turning the almonds into bar for Instagram\n- ⁠inspect @557391090002 storage facility in downtown Ilheus <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241011",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9930,7 +9930,7 @@
           {
             "description": "I spent two minutes responding to Activa, the Brazilian customs broker",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241011",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -9965,7 +9965,7 @@
           {
             "description": "I reimbursed Emelin USD13.0676224 for the 5 packing boxes that she bought from Mercado Libre",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241012",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10161,7 +10161,7 @@
           {
             "description": "I spent 3 minutes responding to @557391090002 on the written assurance letter for the cacao mass",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241015",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10196,7 +10196,7 @@
           {
             "description": "I spent 5 minutes following up with the student union leader of San Francisco state university about the 1st Nov student hour presentation\n\n*_I have requested the following*_\n\n- that we speak on Monday around noon time in California \n\n- ⁠have @557191035605 as the speaker during that student hour session in San Francisco state university instead\n\n_PS: the Brazilian rainforest restoration project has more authenticity when the public face is an indigenous as opposed to some random Asian dude from Silicon Valley_\n\n🙂🙏 <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241016",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10245,7 +10245,7 @@
           {
             "description": "I spent 15 minutes, thinking through the physics of the wildfire as well as the hurricane",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241016",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10287,7 +10287,7 @@
           {
             "description": "I spent 5 minutes responding to @557381610166",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241017",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10308,7 +10308,7 @@
           {
             "description": "I spent 5 minutes communicating with both Hans Martin and @557191035605 \n\nDoesn’t seem like the model is working 🙂🙏 <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241017",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10357,7 +10357,7 @@
           {
             "description": "I spent 3 minutes responding to Nicole on serving cacao tea at climate hub",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241019",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10392,7 +10392,7 @@
           {
             "description": "I spent 5 minutes confirming with Evi on @557191035605 attendance to Davos Climate hub",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241020",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10413,7 +10413,7 @@
           {
             "description": "I spent 5 minutes responding to Nicole about the Bag that emelin will be bringing to use to brew cacao tea \n\nhttps://a.co/d/1Z0HwX4",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241020",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10483,7 +10483,7 @@
           {
             "description": "Audio tends to become unsearchable when DAO members attempt to reference historical chat logs for future actions as well as when it comes to voting matters 🙂🙏\n\nRegarding this series of discussions from my perspective the Agroverse guild channel is no longer appropriate as the place for continued discussion as it has less to do with Agroverse day to day operations matters at this point and more to do with DAO values, culture, norms and subsequent policies. \n\nPlease bring this discussion to @120363044542957540@g.us where matters about values, culture and norms with DAO are discussed. \n\nI will be exercising my personal autonomy to no longer be responding to  discussions regarding this topic within the Agroverse guild channel. If it gets brought over to @120363044542957540@g.us I will be open to exercising my personal autonomy to continue correspondence 🙂🙏\n\n_PS: I spent 5 minutes clarifying where specific topics of discussions should be directed within our DAO channels_ <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241022",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10497,7 +10497,7 @@
           {
             "description": "I spent 3 minutes informing @557191035605 to check with Martinus on the unit cost price of cacao husk from their facility",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241023",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10511,7 +10511,7 @@
           {
             "description": "I spent 5 minutes reviewing all the outstanding TODO list within our guild 🙂🙏",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241023",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10574,7 +10574,7 @@
           {
             "description": "I spent 10 minutes, checking the package status as well as updating Shena on it",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241025",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10602,7 +10602,7 @@
           {
             "description": "I spent 10 minutes processing the reimbursement",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241026",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10679,7 +10679,7 @@
           {
             "description": "I paid R$3,138 to Martinus from AGL4 for the 138 bars of 500grams cacao mass",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 3138.0,
             "date": "20241030",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10707,7 +10707,7 @@
           {
             "description": "Emelin spent a total of R$31.36 to consolidate the package that was sent to @557391090002",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241031",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10840,14 +10840,14 @@
           {
             "description": "I spent $112.50 for flight from Ilheus to São Paulo on the 5th of December",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241101",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "I spent $317.94 for flight from São Paulo back to LAX on the 12th Dec",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241101",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -11085,7 +11085,7 @@
           {
             "description": "I injected USD766.56 into AGL6",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241121",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -13318,7 +13318,7 @@
           {
             "description": "GetData Inc spent 37 hours updating the ledgers",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 3700.0,
             "date": "20241230",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -13626,7 +13626,7 @@
           {
             "description": "Transfered to Gary Teh",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": -139390.0,
             "date": "20250905",
             "status": "Successfully Completed / Full Provision Awarded"
           }

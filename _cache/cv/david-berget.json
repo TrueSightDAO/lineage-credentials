@@ -3,23 +3,23 @@
   "display_name": "David Berget",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 7,
-    "total_tdg_provisioned": 200.0,
+    "total_tdg_provisioned": 17700.0,
     "date_range": {
       "earliest": "20211224",
       "latest": "20220216"
     },
     "source": {
       "contributor_name": "David Berget",
-      "generated_date": "2026-05-14T22:18:13.642331",
+      "generated_date": "2026-05-14T22:21:49.905580",
       "summary": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 200.0,
+        "total_tdg_provisioned": 17700.0,
         "total_tdg_issued": 7700.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 200.0,
+        "total_tdg_provisioned": 17700.0,
         "total_tdg_issued": 7700.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,14 +41,14 @@
           {
             "description": "Extending TrueSight.Me to connect with and read from Solana Wallet",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "DAO governance: discovered https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211224",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -62,7 +62,7 @@
           {
             "description": "Implementation of TrueSight double blind protocol set https://www.pivotaltracker.com/story/show/180833732",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -76,14 +76,14 @@
           {
             "description": "Protocol: choice of Anchor Framework for Solana\nhttps://project-serum.github.io/anchor/getting-started/introduction.html",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220216",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "TrueSight Protocol initial stub",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220216",
             "status": "Successfully Completed / Full Provision Awarded"
           }

@@ -3,24 +3,24 @@
   "display_name": "Kirsten Ritschel",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 110,
-    "total_tdg_provisioned": 16139.619999999999,
+    "total_tdg_provisioned": 18339.619999999995,
     "date_range": {
       "earliest": "20250114",
       "latest": "20260214"
     },
     "source": {
       "contributor_name": "Kirsten Ritschel",
-      "generated_date": "2026-05-14T22:18:14.225565",
+      "generated_date": "2026-05-14T22:21:50.466939",
       "summary": {
         "total_contributions": 110,
-        "total_tdg_provisioned": 16139.619999999999,
-        "total_tdg_issued": 16374.05,
+        "total_tdg_provisioned": 18339.619999999995,
+        "total_tdg_issued": 18574.049999999996,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -37,8 +37,8 @@
       },
       "analysis": {
         "total_contributions": 110,
-        "total_tdg_provisioned": 16139.619999999999,
-        "total_tdg_issued": 16374.05,
+        "total_tdg_provisioned": 18339.619999999995,
+        "total_tdg_issued": 18574.049999999996,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -769,14 +769,14 @@
           {
             "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 720\r\n- Description: Ground down 3 batches of 4kg, 4kg, 3.3kg nibs from Santa Ana into ceremonial cacao\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 1200.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: 0U88gQ97Ksmee/rfoBPWhMlV6epkgAOCMI9lApCeA4FWGqHJEGTZcEA8dQQKCUy/f+tn0DA1nJf8a8s13vl7oqdlQcvRCRCeY7ac3OvoXFv6d0QML+WNvyFyoNKBA5sbHRALeoEAHijBtYYffI7K3OnXXulabZnxlz0GzTR1mPKUfBjgajD2iieyQfaBiqQ9AUh6+/ZgBGh+GAk5spZ0w7YFTsnaEsDchUZqYrMNfFuYlH3O80ZM008G4focRa/+7nJqWOxVyVz8w1TkQHFH45BVO9XS9QeXmtNfzYutUseetEsxWXZrqn/WDaLXS8cas6euKbfTbxsgJgOB63nJuw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1200.0,
             "date": "20251228",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 600\r\n- Description: RnD 15hour melange with organic cane sugar each:\r\n  - 81% Oscar farm ~1kg\r\n  - 81% Santa Ana ~ 1kg\r\n  \r\n  Each batch is now ready for tempering and molding.\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 1000.00\r\n- Attached Filename: IMG_8602.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260101222827_kirsten_ritschel_img_8602.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: rkmGdq1qMLmjBOLWVChHuL3b12VkQ++izFgfncrnEErYOaSULVUodpj3Et5GD4z5qGM6hsWE7IYpgh7L722yp+gJ+LGWmV1TqV/LVNFIPreeg5r2i2FyF3wITim1xFOJqy8njbGKhBBsJSNIdP3kTXyayZwu6C76u5e3pgaH3gz3vecCgNhbgge6z1BApF0d852bBe6gEpKEMB4CwjdcJ7g3JUZHokJ34RiEvLy2UseuhxBb+IpoZm46rdR/eAVQyUfgMsmQZR+MuP/NmizmJHtOS4dQIsB7LWX4h18wwjJaCorxD+BOn7ulk4qbHrHu7FroNDi2wzajNoQX/xlJTQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20260101",
             "status": "Successfully Completed / Full Provision Awarded"
           },

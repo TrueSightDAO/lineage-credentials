@@ -3,24 +3,24 @@
   "display_name": "Johnson Teh",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 44,
-    "total_tdg_provisioned": 2665.0,
+    "total_tdg_provisioned": 45415.0,
     "date_range": {
       "earliest": "20180301",
       "latest": "20221202"
     },
     "source": {
       "contributor_name": "Johnson Teh",
-      "generated_date": "2026-05-14T22:18:14.161703",
+      "generated_date": "2026-05-14T22:21:50.408766",
       "summary": {
         "total_contributions": 44,
-        "total_tdg_provisioned": 2665.0,
-        "total_tdg_issued": 16165.0,
+        "total_tdg_provisioned": 45415.0,
+        "total_tdg_issued": 38665.0,
         "projects": [
           "Cypher Defense"
         ],
@@ -31,8 +31,8 @@
       },
       "analysis": {
         "total_contributions": 44,
-        "total_tdg_provisioned": 2665.0,
-        "total_tdg_issued": 16165.0,
+        "total_tdg_provisioned": 45415.0,
+        "total_tdg_issued": 38665.0,
         "projects": [
           "Cypher Defense"
         ],
@@ -56,70 +56,70 @@
           {
             "description": "Contributed key insight on not riding the rebound all the way",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20180301",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Advisory on structuring the WHY, the WHAT and the WHO",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Advisory for using the WHY to find the right WHO to join the DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Advisory to setup a inclusion that curtails abrasiveness between DAO members to prevent churn",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Advisory on defining on the WHY problem and assembling and then leaving the team to figure out the HOW and WHAT",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211230",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Advisory on structuring the product experience to avoid getting into legal complications by leaving enough \"space\" for subscriber autonomy",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211220",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Incorporation process in Dubai",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Tokenomics: USDT/TRUESIGHT exchange rate management airdrop approach",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220117",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Network retention gamification: Squid games",
             "project": "",
-            "tdg": 0,
+            "tdg": 4000.0,
             "date": "20220117",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Start finding key opinion leaders to bring onboard the DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220121",
             "status": "Successfully Completed / Full Provision Awarded"
           },

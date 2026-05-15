@@ -1,11 +1,11 @@
 # Street Insights LLC
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **2**
-- Total TDG provisioned: **100.00**
+- Total TDG provisioned: **5,100.00**
 - Active period: 20211211 – 20211211
 - Source: [_cache/cv/street-insights-llc.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/street-insights-llc.json)
 

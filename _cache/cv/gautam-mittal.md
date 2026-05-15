@@ -1,11 +1,11 @@
 # Gautam Mittal
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **37**
-- Total TDG provisioned: **7,350.00**
+- Total TDG provisioned: **47,350.00**
 - Active period: 20220121 – 20220709
 - Source: [_cache/cv/gautam-mittal.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/gautam-mittal.json)
 

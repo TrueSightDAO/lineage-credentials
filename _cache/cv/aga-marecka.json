@@ -3,24 +3,24 @@
   "display_name": "Aga Marecka",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 60,
-    "total_tdg_provisioned": 6504.4,
+    "total_tdg_provisioned": 14004.399999999998,
     "date_range": {
       "earliest": "20201015",
       "latest": "20251031"
     },
     "source": {
       "contributor_name": "Aga Marecka",
-      "generated_date": "2026-05-14T22:18:13.437476",
+      "generated_date": "2026-05-14T22:21:49.692395",
       "summary": {
         "total_contributions": 60,
-        "total_tdg_provisioned": 6504.4,
-        "total_tdg_issued": 6070.679999999999,
+        "total_tdg_provisioned": 14004.399999999998,
+        "total_tdg_issued": 13570.679999999998,
         "projects": [
           "20250617_beerhall",
           "20250617_townhall",
@@ -38,8 +38,8 @@
       },
       "analysis": {
         "total_contributions": 60,
-        "total_tdg_provisioned": 6504.4,
-        "total_tdg_issued": 6070.679999999999,
+        "total_tdg_provisioned": 14004.399999999998,
+        "total_tdg_issued": 13570.679999999998,
         "projects": [
           "20250617_beerhall",
           "20250617_townhall",
@@ -100,14 +100,14 @@
           {
             "description": "Brought EnergyHood to life",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220918",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Brought Agrihood to life",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220918",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -121,7 +121,7 @@
           {
             "description": "Introduced Aleksa Mill of Waceo",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220929",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -184,7 +184,7 @@
           {
             "description": "Space is a better term than Project and more encompassing\n\nSome spaces should be kept private and only accessible through invite only",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20201106",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -219,7 +219,7 @@
           {
             "description": "Mentioned project during live event session\n\nhttps://www.linkedin.com/video/event/urn:li:ugcPost:7006613553310806016/",
             "project": "Cypher Defense",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20221213",
             "status": "Successfully Completed / Full Provision Awarded"
           },

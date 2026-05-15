@@ -1,11 +1,11 @@
 # Iwona Fluda
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **35**
-- Total TDG provisioned: **3,708.55**
+- Total TDG provisioned: **5,658.55**
 - Active period: 20230203 – 20251127
 - Source: [_cache/cv/iwona-fluda.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/iwona-fluda.json)
 

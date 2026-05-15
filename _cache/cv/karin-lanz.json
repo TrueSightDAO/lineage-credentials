@@ -3,24 +3,24 @@
   "display_name": "Karin Lanz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 31,
-    "total_tdg_provisioned": 2417.3599999999997,
+    "total_tdg_provisioned": 5167.36,
     "date_range": {
       "earliest": "20201018",
       "latest": "20250429"
     },
     "source": {
       "contributor_name": "Karin Lanz",
-      "generated_date": "2026-05-14T22:18:14.187597",
+      "generated_date": "2026-05-14T22:21:50.433342",
       "summary": {
         "total_contributions": 31,
-        "total_tdg_provisioned": 2417.3599999999997,
-        "total_tdg_issued": 2217.3599999999997,
+        "total_tdg_provisioned": 5167.36,
+        "total_tdg_issued": 3467.3599999999997,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -34,8 +34,8 @@
       },
       "analysis": {
         "total_contributions": 31,
-        "total_tdg_provisioned": 2417.3599999999997,
-        "total_tdg_issued": 2217.3599999999997,
+        "total_tdg_provisioned": 5167.36,
+        "total_tdg_issued": 3467.3599999999997,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -65,7 +65,7 @@
           {
             "description": "Governance: Gave the advice create two separate entities. \n    - Switzerland COOP owns and manages:  \n        -  our TSD Tokens and vault\n        - the USDT reserves and other assets\n        - our smart contracts for our DAO's governance\n\n    - Malta / Panama Legal Entity owns and manages:\n        - smart contracts as well as the DApp for the Game of Truth\n        - manager of Betting Pool Wallet\n        - manager of Prize Pool Wallet\n\n    - Caymen Legal Entity owns and manages:\n        - Smart contracts as well as the DApp for God Mode fund of funds model hedge fund structure\n        - holder of custodian license",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220409",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -114,7 +114,7 @@
           {
             "description": "Introduction to Andrew Katumba - major player in Coffee production in South America",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "",
             "status": "Work in Progress"
           },

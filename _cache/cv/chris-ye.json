@@ -3,24 +3,24 @@
   "display_name": "Chris Ye",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 1,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 5000.0,
     "date_range": {
       "earliest": "20220705",
       "latest": "20220705"
     },
     "source": {
       "contributor_name": "Chris Ye",
-      "generated_date": "2026-05-14T22:18:13.608740",
+      "generated_date": "2026-05-14T22:21:49.857689",
       "summary": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
-        "total_tdg_issued": 0,
+        "total_tdg_provisioned": 5000.0,
+        "total_tdg_issued": 5000.0,
         "projects": [],
         "date_range": {
           "earliest": "20220705",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
-        "total_tdg_issued": 0,
+        "total_tdg_provisioned": 5000.0,
+        "total_tdg_issued": 5000.0,
         "projects": [],
         "rubric_categories": {
           "5000 : Build Game - Marketing - Oversaw an entire marketing messaging campaign": 1
@@ -43,7 +43,7 @@
           {
             "description": "Organized entire logistics for Web3Galaxy Conference in Dubai\n\nhttps://www.web3galaxy.world/",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220705",
             "status": "Successfully Completed / Full Provision Awarded"
           }

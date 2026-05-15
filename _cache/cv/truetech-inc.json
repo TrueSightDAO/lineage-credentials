@@ -3,24 +3,24 @@
   "display_name": "TrueTech Inc",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 209,
-    "total_tdg_provisioned": 17461.350000000006,
+    "total_tdg_provisioned": 28766.239999999976,
     "date_range": {
       "earliest": "20220714",
       "latest": "20260128"
     },
     "source": {
       "contributor_name": "TrueTech Inc",
-      "generated_date": "2026-05-14T22:18:14.582614",
+      "generated_date": "2026-05-14T22:21:50.789162",
       "summary": {
         "total_contributions": 209,
-        "total_tdg_provisioned": 17461.350000000006,
-        "total_tdg_issued": 20193.190000000006,
+        "total_tdg_provisioned": 28766.239999999976,
+        "total_tdg_issued": 4963.770000000005,
         "projects": [
           "Agroverse",
           "Sun Mint",
@@ -33,8 +33,8 @@
       },
       "analysis": {
         "total_contributions": 209,
-        "total_tdg_provisioned": 17461.350000000006,
-        "total_tdg_issued": 20193.190000000006,
+        "total_tdg_provisioned": 28766.239999999976,
+        "total_tdg_issued": 4963.770000000005,
         "projects": [
           "Agroverse",
           "Sun Mint",
@@ -62,7 +62,7 @@
           {
             "description": "Phase 2: Setup tech infrastructure to support token minting and issue",
             "project": "",
-            "tdg": 0,
+            "tdg": 10000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -965,7 +965,7 @@
           {
             "description": "*Capital Injection event*\n\nUSD1304.89 has been injection into TrueTech Inc for procurement of 3,000 units of package material from ShenZhen China for shipping to Coopercabruca office in Itabuna, Bahia Brazil.\n\n- capital will sit under the balance sheet of TrueTech Inc \n- ⁠USD1304.89 will be recorded as equity injection by Gary Teh on the balance sheet\n- ⁠3000 units of packaging will be record as asset on the balance sheet\n\nPackage material  will be injected into future AGL contracts and considered as investment into contracts as and when they are deployed for packaging purposes <This message was edited>",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1304.89,
             "date": "20240627",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1014,7 +1014,7 @@
           {
             "description": "Spent $39.95 on fuel getting back to Bay Area to attend the Agroverse panel this Friday <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240602",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1049,14 +1049,14 @@
           {
             "description": "Spend $17.99 on \n\n- 12 oz honey, \n- ⁠52 Fox oat milk \n- ⁠200 count of 3fl oz cups\n\nPS: seems pricier to get stuff from Safeway <This message was edited>",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240611",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Spent $478.87 for my flight from Ilheus,Bahia to Altamira, Para",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240612",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1084,7 +1084,7 @@
           {
             "description": "TrueTech Inc spent 1.5 hours and a half to edit and upload this reel\n\nhttps://www.instagram.com/reel/C9MpqrFvUmp/?igsh=MWJ4ZGo2cTFhbHJubg==",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240715",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1231,7 +1231,7 @@
           {
             "description": "TrueTech Inc spent 10 minutes publishing today's (Aug.23) post on LinkedIn",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240823",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1273,7 +1273,7 @@
           {
             "description": "TrueTech Inc spent 20 minutes Creating 3 highlight images for Instagram page",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240827",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1357,7 +1357,7 @@
           {
             "description": "TrueTech Inc spent 1 hour and 51 minutes creating reels for Instagram and Facebook, published Aug. 30",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1385,7 +1385,7 @@
           {
             "description": "TrueTech Inc spent 3 minutes posting on LinkedIn.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240904",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1413,7 +1413,7 @@
           {
             "description": "I injected $52.72 into TrueTech Inc to finance @557381610166 social media content marketing efforts on behalf of Agroverse",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240907",
             "status": "Successfully Completed / Full Provision Awarded"
           },

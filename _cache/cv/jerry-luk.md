@@ -1,11 +1,11 @@
 # Jerry Luk
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **21**
-- Total TDG provisioned: **1,317.71**
+- Total TDG provisioned: **8,817.71**
 - Active period: 20220119 – 20251101
 - Source: [_cache/cv/jerry-luk.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/jerry-luk.json)
 

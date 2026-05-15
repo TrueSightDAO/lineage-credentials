@@ -1,11 +1,11 @@
 # TrueTech Inc
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **209**
-- Total TDG provisioned: **17,461.35**
+- Total TDG provisioned: **28,766.24**
 - Active period: 20220714 – 20260128
 - Source: [_cache/cv/truetech-inc.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/truetech-inc.json)
 

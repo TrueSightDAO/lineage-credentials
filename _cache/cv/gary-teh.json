@@ -3,24 +3,24 @@
   "display_name": "Gary Teh",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 3625,
-    "total_tdg_provisioned": NaN,
+    "total_tdg_provisioned": 452598.5266666999,
     "date_range": {
       "earliest": "20171231",
       "latest": "20260430"
     },
     "source": {
       "contributor_name": "Gary Teh",
-      "generated_date": "2026-05-14T22:18:13.812008",
+      "generated_date": "2026-05-14T22:21:50.074095",
       "summary": {
         "total_contributions": 3625,
-        "total_tdg_provisioned": NaN,
-        "total_tdg_issued": NaN,
+        "total_tdg_provisioned": 452598.5266666999,
+        "total_tdg_issued": 955998.0666666903,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -50,8 +50,8 @@
       },
       "analysis": {
         "total_contributions": 3625,
-        "total_tdg_provisioned": NaN,
-        "total_tdg_issued": NaN,
+        "total_tdg_provisioned": 452598.5266666999,
+        "total_tdg_issued": 955998.0666666903,
         "projects": [
           "20250617_agroverse",
           "20250617_beerhall",
@@ -194,126 +194,126 @@
           {
             "description": "Discovery key insight that some category of bad news has no permanant impact on company share prices",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20171231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Implemented key insight to associate landing page news headlines with markets and MACD reversion as technical entry point",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20180901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Setup data pipeline and postgresql database",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20180901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Implemented market sell off index and standard deviation based position sizing and profit taking",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20181231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Implement filter based on large cap and mega cap companies that are hard for individual funds to manipulate",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20180101",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Implemented and rolled out Pearson Coefficient at scale",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Model backtesting infrastructure",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20201231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Model live auto-retraining infrastructure",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20201231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Noun and sentiment extraction service",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20201231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "AWS server cost incurred 2018 to gather and store historical news headlines data (USD3048.57)",
             "project": "",
-            "tdg": 0,
+            "tdg": 3048.57,
             "date": "20181231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "AWS server cost incurred 2019 to gather and store historical news headlines data (USD11445.4)",
             "project": "",
-            "tdg": 0,
+            "tdg": 11445.4,
             "date": "20191231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "AWS server cost incurred 2020 to gather and store historical news headlines data (USD8877.7)",
             "project": "",
-            "tdg": 0,
+            "tdg": 8877.7,
             "date": "20201231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Integration with Ameritrade Brokerage",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20201231",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Desktop Research modules",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Elastic Search Infrastructure",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "UI/UX center piece that the dashboard needs to be actionable resulting in the email notification system",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Successfully created a founding story and got it published by the reporters",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210801",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Successfully proved a monetization model",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210821",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -334,7 +334,7 @@
           {
             "description": "Contents for successfully creating a usable sales deck",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210801",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -348,7 +348,7 @@
           {
             "description": "Dashboard engineering implementations - comparisons view",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "20210901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -376,7 +376,7 @@
           {
             "description": "PDT-57 - Explore and implement in company price chart to boost confidance level of person acting upon trading signal",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "On Hold"
           },
@@ -446,28 +446,28 @@
           {
             "description": "Extend infrastructure to start tracking crypto-currencies daily",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20210831",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Backfilled Crypto historical data",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20210831",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Setup to support Oauth2 authentication for Mobile",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20210830",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Define the API end points in our documentation",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20210911",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -530,28 +530,28 @@
           {
             "description": "Draft up terms of service",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Draft privacy policy",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Refactor brokerage interface for cleaner abstraction",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210903",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-64: Integration with Robinhood Brokerage",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210906",
             "status": "Failed / Partial shares issued"
           },
@@ -572,70 +572,70 @@
           {
             "description": "PDT-86: Track email opens and integrate with Totango",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210907",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-84: Paper Trade enhancement",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220127",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-89: System should automatically update cash balance when in Paper Trade mode",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "2021102",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-85: user actions tracking",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20210906",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Display company topic that is trending on specific domain",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Generate crypto-currencies specific sell off index",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210910",
             "status": "Failed / Partial shares issued"
           },
           {
             "description": "Simply large dip cards, holdings cards and watchlist cards",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Drop down filter large dips by type market, exchange, industry",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Not stated"
           },
           {
             "description": "Flow to setup password the first time a user subscribers",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Web browser notifications",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
@@ -649,14 +649,14 @@
           {
             "description": "growth engine priorities\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220319_growth_priorities_1.png\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220319_growth_priorities_2.png",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220319",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Setup user feature request management process",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210915",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -670,49 +670,49 @@
           {
             "description": "PDT-94: Integrate into Coinbase exchange API",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "PDT-96: Integrate into Coinbase PRO exchange API",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211101",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-108: System should support paper trading brokerage",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211020",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Implementation shareable snippets",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210919",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-100: AWS S3 flat file caching for SEO user acquisition strategy",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211028",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-99: Exposed US Treasury yields as a option for comparison",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211005",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-106: clean up covered entities records to remove bad results from search",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211005",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -726,14 +726,14 @@
           {
             "description": "PDT-87:  Allow users the ability to switch between brokerage accounts - Backend",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211023",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-109: configure google analytics and google webmaster tools to support new go to market strategy",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211113",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -754,7 +754,7 @@
           {
             "description": "PDT-101: Generate sitemap for TrueSight.Me",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211031",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -768,7 +768,7 @@
           {
             "description": "PDT-117: Allow users the ability to indicate auto buy by Edgar for watched companies",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211101",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -796,7 +796,7 @@
           {
             "description": "PDT-140: backfill sma 14 for all topics",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "",
             "status": "Aborted"
           },
@@ -810,7 +810,7 @@
           {
             "description": "PDT-142: ability to record user topic watch list in database",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20211104",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -824,7 +824,7 @@
           {
             "description": "PDT-145: send out email notifications whenever there is a spike in media coverage on topic",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20211104",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -838,91 +838,91 @@
           {
             "description": "PDT-148: ABtesting of landing page with sign up flow that does not require users to subscribe to access the system",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211118",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-149: Blogging feature setup",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211113",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-151: Medium style widget on landing page as well as on individual snippets page",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-147: backfill crypto-currency prices",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Not stated"
           },
           {
             "description": "PDT-153: administrators the ability to broadcast a new insight",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211118",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDt-154: Integrate into Polygon.IO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211122",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-155: User profiles",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211123",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-156: Crypto-currency recommendations report",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-157: extend search for users and snippets",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20211201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-128: Users should be able to see which topics a user is watching",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20211201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-127: Users should be able to see which companies a user is watching",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20211201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-129: Users should be able to follow other users",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-158: Better search results for watching crypto-currencies - Implementation",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Aborted"
           },
@@ -936,35 +936,35 @@
           {
             "description": "Phase 3 - Post DAO rules definition discussion",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Aborted"
           },
           {
             "description": "PDT-161: large crypto spike charts",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20211213",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Market Insights: ID range 1-40",
             "project": "",
-            "tdg": 0,
+            "tdg": 4000.0,
             "date": "20211218",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Publishing TRUESIGHT on the Solana MainNet: TaUdunJo5TcdJzt9kyB4cd6HTYUdFXJHCSL2yc3sbg4",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220127",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Creating an address market TRUESIGHT/USDT: DFa5HoR8poD6VqXVeUjQHRF8qjv3VHQ8KDeGswFUfo6N",
             "project": "",
-            "tdg": 0,
+            "tdg": 1750.0,
             "date": "20220127",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -978,14 +978,14 @@
           {
             "description": "PDT-163: get user liquidity from XHashtag",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "On Hold"
           },
           {
             "description": "PDT-164: get cryptocurrenciy liquidity from TokeMak",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "On Hold"
           },
@@ -999,35 +999,35 @@
           {
             "description": "Assemble list of potential investors for TRUESIGHT DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211220",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Fundraising Preparation: Assemble comparisons in the market and establish positioning",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220127",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Migrate White Paper to GitBook.IO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Created survey to gather primary research data for next market pivot - https://docs.google.com/spreadsheets/d/1rchmO-ZLCWZe-YlvknLm7y3SDZMhOuS7drqek7h21OE/edit?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "On Hold"
           },
           {
             "description": "Chanced upon important write up on Blockchain in Journalism: https://www.cjr.org/tow_center_reports/blockchain-in-journalism.php",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211227",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1048,7 +1048,7 @@
           {
             "description": "Journalist organizations partnerships",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
@@ -1069,35 +1069,35 @@
           {
             "description": "Collaboration: Buyer prediction purchase protocol design",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Security as a balance between expected cost of doing something illegal, the likelihood of getting caught doing something illegal , the benefit of doing something illegal",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Protocol Loophole: Establishing NFT accuracy level by creating a prediction for a constant that does not change. Enforce unique key index on the hashes and the holdout date",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Tokenomics: consolidation and crafting",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220314",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Tokenomics: USDT/TRUESIGHT exchange rate management Battle Royale https://www.gate.io/futures/competition",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220117",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1111,28 +1111,28 @@
           {
             "description": "Balsmiq on flow for consumer side",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Pitch deck refinement: insert team",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220122",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Pitch deck refinement: insert roadmap",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220122",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Pitch deck refinement: insert comparisons",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220122",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1188,84 +1188,84 @@
           {
             "description": "Apply to join Raydium Accelerator",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "On Hold"
           },
           {
             "description": "Identified our problem as a class of Zero Knowledge Proof problem",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220126",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Direct purchase of crypto with Fiat: https://www.moonpay.com/",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220202",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Incorporate Fatima's input into pitch deck",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220314",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "A leveled up NFT leveled up is allowed to make more bets per day.",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Setup process with small groups flush things out to solve problems",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220203",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Zoom Sync: Get suitable time to host the zoom sync from DAO members using Doodle",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Zoom Sync: Present updated concept that we are going after",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Execute on Fatima's proposal for concept deck improvements",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Fixed broken API for US Treasury yield",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220212",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Wireframe for Hackathon",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220212",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Beautify slides",
             "project": "",
-            "tdg": 0,
+            "tdg": 1200.0,
             "date": "20220126",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1293,14 +1293,14 @@
           {
             "description": "Help with planning focus group:",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220215",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Updated ReadMe file for TrueSight Protocol repository",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220216",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1321,7 +1321,7 @@
           {
             "description": "Web page for candy machine",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -1335,28 +1335,28 @@
           {
             "description": "Slide Deck for Theia Trading",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220220",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Apply Solana RipTide Hackathon USD30,000 grant for using Pyth",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "On Hold"
           },
           {
             "description": "Gamification: fix PvE daily payout",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "API: expose auth token access creation",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1384,28 +1384,28 @@
           {
             "description": "Partnerships: Storm8 - establish game distribution partnership",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Partnerships: MoneySmart - establish licensing of signaling to create ETF product.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Partnerships: MoneySmart - find CIO to figure out approval from MAS",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Partnerships: MoneySmart - get approval from MAS",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
@@ -1440,14 +1440,14 @@
           {
             "description": "Community: First 50 wallets connecting for the first time per day gets an airdrop of 1 TSD to try playing for free",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Framing our meta-game and our game play with game theory:\nhttps://olympusdao.medium.com/the-game-theory-of-olympus-e4c5f19a77df",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1475,14 +1475,14 @@
           {
             "description": "Liquidity & Gamification: concept Daoism mashup with Buddhist realms for NFT",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220308",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Blueprint on how our game works",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220309",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1552,7 +1552,7 @@
           {
             "description": "TrueSight DAO - overall DAO Growth Model to get to 1 million DAO members\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220319_gary_dao_growth_engine.png",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220317",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1601,21 +1601,21 @@
           {
             "description": "Follow up to pitch CEO of BXH Exchange to support our game development with their Venture Studio",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Gamification: Expose Play to Earn model to benefit Game and Fintech App developers\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220321_gary_play_to_earn_coop.png",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220321",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Governance: Incentive plan for work to earn model\nhttps://docs.google.com/spreadsheets/d/1s4mnUFMhR37AElVBDGQ653pJ5ODp4bcr2N8eMLpMuxw/edit#gid=0",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -1685,14 +1685,14 @@
           {
             "description": "Onboarding PS Vattan",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Governance: Setup Poll for voting\n\nhttps://discord.com/channels/923008087315587072/923008087315587075/956613661504446544",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220325",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1713,21 +1713,21 @@
           {
             "description": "Onboard Bing - CTO of Earn.Games",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Onboard Bing - Frank Fitzgerald",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Engineering: Setup automate.io for poll submissions to Discord",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220326",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1930,7 +1930,7 @@
           {
             "description": "Verfied Trading Strategy: Verified crypto trading strategy with historical data",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220410",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -1958,21 +1958,21 @@
           {
             "description": "Governance: Update white paper to transition our DAO from a benign dictatorship into a holacracy",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220414",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Exercised dictatorship: Finalized scope for current phase to be the following\n\n- Our game will focus on hunters only\n- Our game will allow hunters to make predictions on stocks/cryptos only\n- There will be a leaderboard that shows the performance of hunters based on their prediction",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220420",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Engineering: Documented expected flow of TrueSight Protocol implementation for hand off to KSON of DAOversal group\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220420%20-%20TrueSight%20Protocol%20Flow.pdf\nhttps://docs.google.com/spreadsheets/d/10v8VBVKcD3i7AGXWsYoEVOf7-Lw2CxTU8ziU2s_6rxc/edit?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220420",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2000,7 +2000,7 @@
           {
             "description": "Thinking through various scenarios of collaborating on the MSQ trading to determine the pros and cons of each\n\nhttps://docs.google.com/spreadsheets/d/16_ykRGGdVMYj35IS6mLMPna4lcNDN7WSAqPdWL5KNNw/edit?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220430",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2028,7 +2028,7 @@
           {
             "description": "Slide deck to present during the tomorrow confernece\n\nhttps://TrueSight.Me/tmrw",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220505",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2042,7 +2042,7 @@
           {
             "description": "Governance: Finalized Global DAO alliance details",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220509",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2063,21 +2063,21 @@
           {
             "description": "Onboarded Victor Munoz project leader of Bright NFT",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220509",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Contributed 8,000 EAR to TrueSight DAO Ledger",
             "project": "",
-            "tdg": 0,
+            "tdg": 8000.0,
             "date": "20220415",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Contributed 16,000 EAR to TrueSight DAO Ledger",
             "project": "",
-            "tdg": 0,
+            "tdg": 16000.0,
             "date": "20220515",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2133,28 +2133,28 @@
           {
             "description": "Onboarding Josh the Neo",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Marketing: Created video for Davos",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220516",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Marketing: Gave Key note about TrueSight DAO \n\nhttps://tmrwconf.net/speakers/gary-teh/\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220516_tomorrow_conference_speaker.jpg",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220516",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Marketing: Presented TrueSight DAO in speakers panel\n\nhttps://tmrwconf.net/agenda/\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220516_tomorrow_conference_panel.jpg",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220516",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2182,7 +2182,7 @@
           {
             "description": "Community Management: Defined community management strategy for Inza\n\nEveryday research something interesting related to the following either of the following topics \n- Or anything impactful/insightful that came out from our WhatsApp group or Discord operations channels\n- DAO governance\n- The Future of Work\n- Fake News\n- Financial Market Trends\n- AI\n\nand post to the following:\n- Facebook Page\n- Twitter account\n- Linkedin Page\n- Telegram Group\n- Discord Server General Channel\n\nThereafter engage with any folks who have responded there that are not the top 10 most powerful governors",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220519",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2224,7 +2224,7 @@
           {
             "description": "Drafting SAFT document \n\nhttps://docs.google.com/document/d/1pEZ1zPGVn8Nl9S27janLruxYY_Xfd1-j/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220603",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2245,7 +2245,7 @@
           {
             "description": "Redesigned TrueSight DAO protocol - custodian mode\n\nhttps://docs.google.com/drawings/d/136Gp_RdfvqzaQCdWuXd0y0bcqg9plnZHFilo_z49Zu4/edit\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220604%20-%20Protocol%20Flow%20Custodian%20Managed.jpeg",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220604",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2259,21 +2259,21 @@
           {
             "description": "Engineering: Completed NodeJS service to write prediction records to Solana",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220607",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Engineering: Completed NodeJS service to read prediction records to Solana",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220607",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Engineering: Completed NodeJS service to transfer SPL token to Solana",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220607",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2301,49 +2301,49 @@
           {
             "description": "Gamficiation: Documented entire user experience flow through our site\n\nhttps://docs.google.com/presentation/d/10eLmCt9W324gy4olV-T-1uDEQTEeYWsITHoWWn_4dlA/edit?usp=sharing",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Engineering: adjusted large dips view to support predictions",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Engineering: adjusted companies page view to support predictions",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Engineering: adjusted covered entities page view to support predictions",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Engineering: Extended backend database to support predictions game play",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Engineering: Modified controller to support game play mode",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Engineering: Extended scheduled tasks to validate predictions",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -2490,7 +2490,7 @@
           {
             "description": "House keeping and setup new governance model based on Governors and Contributors to speed up decision making",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220614",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2714,14 +2714,14 @@
           {
             "description": "Engineering: Build out scoring for ON game\n\nhttps://github.com/TrueSightDAO/sentiment_importer/blob/master/app/models/tsd/scorer_on.rb",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220626",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Engineering: Build out scoring for BETWEEN game\n\nhttps://github.com/TrueSightDAO/sentiment_importer/blob/master/app/models/tsd/scorer_between.rb",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220626",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -2896,28 +2896,28 @@
           {
             "description": "Build out component for distributing daily winnings\n\nhttps://github.com/TrueSightDAO/sentiment_importer/pull/819",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220628",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Build out component for distributing monthly winnings\n\nhttps://github.com/TrueSightDAO/sentiment_importer/pull/819",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220628",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Build out ledger transaction subsystem\n\nhttps://github.com/TrueSightDAO/sentiment_importer/pull/819",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220628",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Rolled out early bird signup bonus\n\nhttps://github.com/TrueSightDAO/sentiment_importer/pull/822",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220628",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3022,7 +3022,7 @@
           {
             "description": "Engineering: Build out subsystem to support daily caching of user account balances\n\nhttps://github.com/TrueSightDAO/sentiment_importer/pull/824/files",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220702",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3169,7 +3169,7 @@
           {
             "description": "Engineering: In App referral system",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220705",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3393,7 +3393,7 @@
           {
             "description": "Handle AWS account hack issue in February \n\n1) to clean up AWS account to close of route hacker used to hack account\n2) to recover USD6040.84 of money stolen via account hack.",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -3589,7 +3589,7 @@
           {
             "description": "Prediction submission flows",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220816",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3624,14 +3624,14 @@
           {
             "description": "Exposed ability to connect wallet",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220821",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Implemented simplified company page for submitting predictions\n\nhttps://github.com/TrueSightDAO/sentiment_importer/pull/847",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220821",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3652,7 +3652,7 @@
           {
             "description": "Iterated CTA with Twitter community members for week ended 28th August 2022 (30 hours)",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 3000.0,
             "date": "20220828",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -3967,7 +3967,7 @@
           {
             "description": "Touch base with Jenni who does inbound shipping",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -4072,7 +4072,7 @@
           {
             "description": "Created Chrome extension install base\n    - Base installable Chrome extension to support manifest V3\n    - Read Blacklist JSON and switch color of chrome extension icon as warning\n    - Display blocking modal on blacklisted page",
             "project": "Cypher Defense",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20221115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4107,7 +4107,7 @@
           {
             "description": "Gave 1 hour keynote and panel at the StartPlatz conference",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20221119",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4128,7 +4128,7 @@
           {
             "description": "Upgraded Ubuntu Service instances to 22.04\n\n- rails application server\n- rails sidekiq server\n- rails sidekiq content server\n- rails sidekiq covered entity server\n\nhttps://github.com/TrueSightDAO/sentiment_importer/pull/868",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20221123",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4275,7 +4275,7 @@
           {
             "description": "Truesight and Offchain partnership discussion",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20221211",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4618,7 +4618,7 @@
           {
             "description": "Contents for Social Mining presentation\n\nhttps://docs.google.com/presentation/d/1rkBmMzIwtCgUPv0CZr0nWDoM34c2ni94hcQYxw8RTJg/edit?usp=sharing",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20230308",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -4870,21 +4870,21 @@
           {
             "description": "Drafted noncompete\n\nhttps://truesight.me/dao/ecoverse21/noncompete\n\n13 paragraphs",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1950.0,
             "date": "20230515",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Drafted NDA\n\nhttps://docs.google.com/document/d/12LNyNZlhPw96WUnVyiKWdlzouGt7tMoFGcnsyMsPl6U/edit?usp=share_link\n\n11 paragraphs",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1650.0,
             "date": "20230515",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Drafted Licensing agreement\n\nhttps://docs.google.com/document/d/14qKupsd0iCPb0mjndWOn76OFM6Cio1KYiOrfDheFQSs/edit?usp=share_link\n\n12 paragraphs",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1800.0,
             "date": "20230515",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5171,7 +5171,7 @@
           {
             "description": "attended in real life discussion meetings with CooperCabruca 8am to 7pm (11 hours) on 2nd June 2023",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1100.0,
             "date": "20230602",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5220,7 +5220,7 @@
           {
             "description": "Delivered keynote at Crypto Rockstar conference 2023",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 3000.0,
             "date": "20230615",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -5332,7 +5332,7 @@
           {
             "description": "ECO-57: Drive from Punta Cana to San Francisco De Marios to have meeting with Abel and then back from Conacado Cooperative in Dominican Republic. \n\nStart time: 5.30am\nEnd time: 3.30pm\n\n10 hours",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20230624",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -6501,7 +6501,7 @@
           {
             "description": "Generated technology solutions architecture to support our FDA FSVP process\n\nhttps://docs.google.com/document/d/1b3JiawnqA1QNpA_XZMH6oNQ9ZVJnLRGtOWzM31YLvJs/edit#heading=h.n1zi2ph05oau",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20230905",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -7859,7 +7859,7 @@
           {
             "description": "Compiled marketing video for hero with a thousand faces\n\nhttps://docs.google.com/spreadsheets/d/1wnyE3ZJ_kV_NiUwPqmX0fCeC8xcqhUfoe9OkiCpJMSg/edit#gid=0\n\nhttps://drive.google.com/drive/u/0/folders/11rdjGaglwdEW-XT45eRUP_8IC3O65Hd8\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231024%20-%20marketing%20video.mp4",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20231107",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -7908,7 +7908,7 @@
           {
             "description": "SF events walk about to collect vendors contact information on 20231028\n\nStart time 1130am\nEnd time 0200hrs\n\nTime taken: 14hours",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1400.0,
             "date": "20231107",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -8244,7 +8244,7 @@
           {
             "description": "Night market at sunset in SF\n\nStart time 630am end time 9pm",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1450.0,
             "date": "20231101",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -8923,7 +8923,7 @@
           {
             "description": "Spent a total of 12 hours inspecting 3 sites and sourcing for suppliers \n\nThis includes driving time from my original campsite in QuartzSite\n\nProject: @120363045796860099@g.us\n\nTotal time taken: 12 hours ‎<This message was edited>",
             "project": "Sun Mint",
-            "tdg": 0,
+            "tdg": 1200.0,
             "date": "20240106",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -10554,7 +10554,7 @@
           {
             "description": "Transfer of governance tokens to GetData Inc",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": -630899.0,
             "date": "20240508",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -15594,7 +15594,7 @@
           {
             "description": "I spent 10 hours brewing and sharing the cacao",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20250423",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -18121,14 +18121,14 @@
           {
             "description": "Delisting from Solana $TDG \n\nNet purchases off the open market\n13994.717192379\n\nTotal ever earned via Gary Teh: 697,102\nTotal ever earned via GetData Inc: 139,390\n\nTotal Unissued via Gary Teh: 35,087.35\n\nTotal Expected Holdings in Solana Wallet: 801,404.65: 697,102 + 139,390 - 35,087.35\n\nTotal Holdings Hacked Prior to Solana Wallet hacks\n815,399.367192379 = 154,563.44 + 660,835.927192379\n\nhttps://solscan.io/tx/3NvSDqcPmVLyjrTmAgrYjfBbzoJG2eGdwWj2ppWRWQuLHb76N5gjwvsnzuPCUr5auMwmVbUNVKWNZKb2WFwfZjzV\n154563.44 \n\nhttps://solscan.io/tx/3JT3Y4mpkEwPiWUpDJLaC3UTzTmtkhQSBtpjiFMWcnHcqyzyTe1zEvTnnmm331FTsrY6NTchR9nK1cbJQmfRmtn6 \n660835.927192379\n\nNet purchases from the Open Market: 13,994.717192379",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 13994.72,
             "date": "20250905",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Transfered to Gary Teh",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 139390.0,
             "date": "20250905",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -18268,7 +18268,7 @@
           {
             "description": "After some consideration amongst the three types of currencies below that supporters could choose to invest and help our project move forward, *_network*_ based investment remains the most critical one \n\n- *network* in the form of warm introductions (_hence social proofing_) to distributors in the holistic wellness space\n\n- ⁠*man power* (_for running our community events_)\n\n- ⁠*Fiat* to help pay for expenses (_generally seem to be very minimal given most of the infrastructure is virtual and generally free of charge otherwise provided for free of charge by the USA government via their food banks, free water supply and parking when building out our distribution network across the USA. Additional fiat funds to finance the purchase of more cacao is not helpful at this point unless distribution network volume increases. We have more inventory than we need to fulfill demand at the moment_)\n\nStarted tapping into Offchain for network based investors to increase our cacao distribution network",
             "project": "telegram_chatlog",
-            "tdg": NaN,
+            "tdg": 0.0,
             "date": "20250703",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -20928,7 +20928,7 @@
           {
             "description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 1133.66\r\n- Description: For payment for Vivi’s 150 kilograms of cacao\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 1133.66\r\n- Attached Filename: IMG_1889.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913183409_gary_teh_img_1889.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: upEHjRHjD+OtEzqTqxP3lpfXbrAcjUkhgLO0C+JZr1xMFQMWEwo2m44dOVudG+yCrYz17rG4/nqsUaeHDNgN/BejmvsN3Sw+lJs994b+TY9Io/jp8vLkf7X6y3Rf3vS03gGGgllQ2rIu+H6Y4h1+NRVp8xxgfIc0hXRZBVuytl2lj+pzpVWjUEwC2yl88/oGZUN+NTCiLc/CsFNP+7u8HX40lTYSA1gZHvYc7wfJttwN7q9GKKlhS9mkb7/TfowW7/NWZx4h4zVxjBuXQ1rz/A3iPrdri7/KPiFHDU1jQGvF2w/5KSeOMLj43C1PrT2rODZl3QUbt6dK4O8uMH3HZA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1133.66,
             "date": "20250913",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -21082,7 +21082,7 @@
           {
             "description": "Transferred to AGL13 - line 12\nhttps://agroverse.shop/agl13\n\n[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 1133.66\n- Description: For payment for Vivi’s 150 kilograms of cacao\n- Contributor(s): Gary Teh\n- TDG Issued: 1133.66\n- Attached Filename: IMG_1889.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913183409_gary_teh_img_1889.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: upEHjRHjD+OtEzqTqxP3lpfXbrAcjUkhgLO0C+JZr1xMFQMWEwo2m44dOVudG+yCrYz17rG4/nqsUaeHDNgN/BejmvsN3Sw+lJs994b+TY9Io/jp8vLkf7X6y3Rf3vS03gGGgllQ2rIu+H6Y4h1+NRVp8xxgfIc0hXRZBVuytl2lj+pzpVWjUEwC2yl88/oGZUN+NTCiLc/CsFNP+7u8HX40lTYSA1gZHvYc7wfJttwN7q9GKKlhS9mkb7/TfowW7/NWZx4h4zVxjBuXQ1rz/A3iPrdri7/KPiFHDU1jQGvF2w/5KSeOMLj43C1PrT2rODZl3QUbt6dK4O8uMH3HZA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": -1133.66,
             "date": "20250913",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -25233,7 +25233,7 @@
           {
             "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 750\r\n- Description: Attend full day agenda on 3 March at the natural products expo\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 1250.00\r\n- Attached Filename: IMG_8233.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260304035313_gary_teh_img_8233.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: 0q9La6dwZXEvIKnmUF41KUEBra7pXZbhgCAGPinMX/cNDwtJr04039LKNfxfDxHflGETCTZ8tp6coEGgp/V9jA/5FvkoZk5IQGIFVnhUImuMPKpxt55TR7a6+ktAHbRYsJz9bJmvRJfbYb8u3rtXjwne92X5hebkfX9hgNNTVQ1APvodwl3SurK+nK+MZ6yZmrSFteWTTnob7rSTFzhEEAakTVjGgrhHeIW9pKoK5zQ1ITmtAJPpzyHVfrmRZXwJkwaVIf174gQDMrI7sEc7/T0/j2VJzTJQZfJGeUerhvSRRcFJPH2c0jnxrBGnjpnvC3iIK4d81PTVJ2u/dmfn1Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20260304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -25261,14 +25261,14 @@
           {
             "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 600\r\n- Description: Day, three of the natural products expo this time attending all the talks as well as meeting up with the two chocolate producers\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 1000.00\r\n- Attached Filename: IMG_8300.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260306030812_gary_teh_img_8300.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ds02zq2v3zP8q46AO2Y2tE1XxhZ7fURVt/GZeUSY1EkjPuM1fBhp1ZsYsZx0j5g2DbGj1vdoAH5uWNFm2EBuxXOf6ZnpzowVOTAbxoVEzU1Dc9Uq3l0yTrb17kh7AYNyC0/rGdSRyGxvfwo688Q/bGhh/TS74lyxO/UHFRT6JnygJuxysNLpmDBGPTyTz9+ey8hLyj8M/R1rUUIHe++CsXyZdmU8w0jMKjX+dQF7qvTjuU9HM4sTLQWbb/JpuIBQ1vLHyQRauGqQjTJSO6hwXs1PeaqnVQmpnLCWb5BCcH640xMQPryYWHP6zLMctXFugvWdcEdjUJZeEgGoACzxmg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20260306",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 720\r\n- Description: Look at what’s out there in terms of industry trends and then study the existing supply chain of order brands, premium dark chocolate brands\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 1200.00\r\n- Attached Filename: IMG_8457.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260306030906_gary_teh_img_8457.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: lyHTHyjR+FGdCrg3eJJjorWj0xEX0um6FR/9/hhQNFazYB/6fwqtikP+QdpM0mL6fIWRgQsfB07JSmeyUrFXwfFvP/Akr0la9TB43b19HET6wjihaJ6PCPn0rLJv3ijZeEoyq0tBPjxKaIErsM/oZp1nhmdMkZ7fksjVcgk9H59ONfj3hYgnoDIUjWXO0YAhz/QL/Pb8CUpNVFEYGADKaVBh18EYJ/PtVyikk+Cpwu//KWJXC6hDABekvK458AOOEhyqwViq3BtL3tkDRiIxFpaRWZSoJKcnJYCwBeDQRw7Cr+4ICPslPBnqyCHsJVLqLrIFco40LYRwEwC6qEJhag==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1200.0,
             "date": "20260306",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -25324,7 +25324,7 @@
           {
             "description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 600\r\n- Description: Working today, visiting the various stores in San Diego, as well as on boarding Pilas wellness collective in LA\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 1000.00\r\n- Attached Filename: IMG_8758.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260311001124_gary_teh_img_8758.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: I+G6qmjDaOIlIHhxTOSARH7XvoNewX/tKK2Xpwtka8WwzWX1O10vSibEvMl6Z1gVj1lhRz2dRc7Y7x9Ptza76WJdNLRjl8xOrF3svGjIWar7Mg6Nn6e5fumq0iGOkGAlOrWqb+lokf0pahNfIXR+e7nih9QZIMkvT1e/sFTinW+pP6+Bjd0RJjCHknzz16RwF1x1l4Xs9O7mFAcz7y3phqm3/7P2EvHXXEp3duu1CE9pjvRZx9kwpvIfk5CZXOtTbLFU4/OPCBp9y6LvDevMsRCvVWqDlytQsyIxkcTUyCLfcqdJw4chtEzqK+y+VxjNXghf3NIx518LuJ0+eBtfMw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
             "project": "telegram_chatlog",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20260311",
             "status": "Successfully Completed / Full Provision Awarded"
           },

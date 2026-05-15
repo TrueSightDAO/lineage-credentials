@@ -3,7 +3,7 @@
   "display_name": "Josh Brown",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Josh Brown",
-      "generated_date": "2026-05-14T22:18:14.168180",
+      "generated_date": "2026-05-14T22:21:50.415993",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 133.32999999999998,

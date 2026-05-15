@@ -3,23 +3,23 @@
   "display_name": "Yuan Luo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 1,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 5000.0,
     "date_range": {
       "earliest": "20220105",
       "latest": "20220105"
     },
     "source": {
       "contributor_name": "Yuan Luo",
-      "generated_date": "2026-05-14T22:18:14.670684",
+      "generated_date": "2026-05-14T22:21:50.868088",
       "summary": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 5000.0,
         "total_tdg_issued": 5000.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 5000.0,
         "total_tdg_issued": 5000.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "The double blind algorithm utilized in the TrueSight Protocol to verify the accuracy of the prediction without revealing the actual contents",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220105",
             "status": "Successfully Completed / Full Provision Awarded"
           }

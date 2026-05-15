@@ -3,24 +3,24 @@
   "display_name": "@ryansjjr",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 25,
-    "total_tdg_provisioned": 5600.0,
+    "total_tdg_provisioned": 24100.0,
     "date_range": {
       "earliest": "20220217",
       "latest": "20220403"
     },
     "source": {
       "contributor_name": "@ryansjjr",
-      "generated_date": "2026-05-14T22:18:13.415404",
+      "generated_date": "2026-05-14T22:21:49.668002",
       "summary": {
         "total_contributions": 25,
-        "total_tdg_provisioned": 5600.0,
-        "total_tdg_issued": 9850.0,
+        "total_tdg_provisioned": 24100.0,
+        "total_tdg_issued": 14850.0,
         "projects": [],
         "date_range": {
           "earliest": "20220217",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 25,
-        "total_tdg_provisioned": 5600.0,
-        "total_tdg_issued": 9850.0,
+        "total_tdg_provisioned": 24100.0,
+        "total_tdg_issued": 14850.0,
         "projects": [],
         "rubric_categories": {
           "2500 : Build Game - Marketing - Crafted contents for entire marketing campaign": 1,
@@ -60,14 +60,14 @@
           {
             "description": "Execute on marketing planning to raise liqudity using NFTs",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Detailed marketing plan for NFT fundraising\n\nhttps://docs.google.com/document/d/1l0U4KpRKJ-3vhhUG23YHZmrIdy59mq1q/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -95,7 +95,7 @@
           {
             "description": "People on Solana mainly fall into 3 demographics:\n    - flippers use logic to decide which NFT makes sense\n    - long holders people who buy NFT and hold\n    - degen people who buy NFT just so that they can push up the price. Mentality is very similar to WallStreetBet",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -116,21 +116,21 @@
           {
             "description": "Liquidity: People can mint NFT for 1.5SOL but the amount is airdropped into their wallet everyday for 150 days so that they can get token back in our currency. Similar to a regular IDO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Simplified copy for Player versus Environment",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Liquidity: Defined the 2 phases for NFT campaign minting.\n\nPhase 1: Mint Coin of Truth to raise USD150K\nPhase 2: Allow members to mint Profile Picture (PFT) NFT. Can burn their coin of truth to get better looking PFP NFT\n\nhttps://discord.com/channels/923008087315587072/947427462776766475/951047365475848212",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220309",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -186,7 +186,7 @@
           {
             "description": "NFT liquidity: Crafted up Alien Civilization Minting Page content: https://docs.google.com/document/d/1EgAxw_TdNVgB3WEtv2o2ZAvmKDOF5gJa/edit?usp=sharing&ouid=115975718038592349436&rtpof=true&sd=true  https://discord.com/channels/923008087315587072/947427462776766475/957971207301529610",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220329",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -200,7 +200,7 @@
           {
             "description": "NFT Liquidity: Defined key roles we will need for our NFT minting campaign roll out as well as figured out the gaps in the team\n\nLeaders: \nArt & Branding: \nMarketing: \nCommunity Managers:\nDevelopment:\n\nhttps://discord.com/channels/923008087315587072/947427462776766475/959900635589935114",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220403",
             "status": "Successfully Completed / Full Provision Awarded"
           },

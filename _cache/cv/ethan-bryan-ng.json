@@ -3,24 +3,24 @@
   "display_name": "Ethan Bryan Ng",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 22,
-    "total_tdg_provisioned": 2100.0,
+    "total_tdg_provisioned": 25100.0,
     "date_range": {
       "earliest": "20211230",
       "latest": "20220422"
     },
     "source": {
       "contributor_name": "Ethan Bryan Ng",
-      "generated_date": "2026-05-14T22:18:13.749724",
+      "generated_date": "2026-05-14T22:21:50.014531",
       "summary": {
         "total_contributions": 22,
-        "total_tdg_provisioned": 2100.0,
-        "total_tdg_issued": 12150.0,
+        "total_tdg_provisioned": 25100.0,
+        "total_tdg_issued": 14650.0,
         "projects": [],
         "date_range": {
           "earliest": "20211230",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 22,
-        "total_tdg_provisioned": 2100.0,
-        "total_tdg_issued": 12150.0,
+        "total_tdg_provisioned": 25100.0,
+        "total_tdg_issued": 14650.0,
         "projects": [],
         "rubric_categories": {
           "150 : Build Game - Strategy - Review proposed strategy and suggested against doing something or areas to watch out for": 1
@@ -43,21 +43,21 @@
           {
             "description": "Advise to focus on the three components of the strategy: technology stack, liquidity sources and partners resources",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211230",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Suggested validation system. Validators who will cross check the integrity of the publication as well as quality in exchange for tokens. Emulate RottenTomatos.com's rating system",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20211230",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Suggested validation system. Each new account to have a corresponding NFT. All activities of user associated with NFT to build another layer of trust.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20211230",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -78,42 +78,42 @@
           {
             "description": "Advise on how to vet seed and private sale partners based required resources to execute the strategy and their resonance with the governance",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211230",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Reference for crafting pitch deck: https://docsend.com/view/m5f38k2yhydc2w6x",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211230",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Advisory for crafting pitch deck / white paper",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Share list of partners/investors to approach for resources: https://www.cryptoatlas.io/rankings/venture-capital-firms/?fbclid=IwAR1Ipaw1u7ppNP5ki5fzcxgFx4ti-ujKxdfjs-8UUyccNzpEZ6n9UD1qnt4",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220314",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Making introduction to shortlisted partners/investors for the seed stage",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Bringing in institution and universities for later stage accredition",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Proposed"
           },
@@ -155,14 +155,14 @@
           {
             "description": "Tokenomics: public listing only after seed, private sale and public sale is done and have enough liquidity",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220106",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Tokenomics: illegal to issue tokens in Singapore. Main company is registered in British Virgin Island. Development company is done in Singapore",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220106",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -3,24 +3,24 @@
   "display_name": "Elinor Janelle",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 15,
-    "total_tdg_provisioned": 1401.6599999999999,
+    "total_tdg_provisioned": 4401.66,
     "date_range": {
       "earliest": "20240522",
       "latest": "20250811"
     },
     "source": {
       "contributor_name": "Elinor Janelle",
-      "generated_date": "2026-05-14T22:18:13.713526",
+      "generated_date": "2026-05-14T22:21:49.974426",
       "summary": {
         "total_contributions": 15,
-        "total_tdg_provisioned": 1401.6599999999999,
-        "total_tdg_issued": 1408.3199999999997,
+        "total_tdg_provisioned": 4401.66,
+        "total_tdg_issued": 4408.32,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -34,8 +34,8 @@
       },
       "analysis": {
         "total_contributions": 15,
-        "total_tdg_provisioned": 1401.6599999999999,
-        "total_tdg_issued": 1408.3199999999997,
+        "total_tdg_provisioned": 4401.66,
+        "total_tdg_issued": 4408.32,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -54,7 +54,7 @@
           {
             "description": "Me and Elinor spent a total of 30 hours each this past week promoting our Cacao",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 3000.0,
             "date": "20240522",
             "status": "Successfully Completed / Full Provision Awarded"
           },

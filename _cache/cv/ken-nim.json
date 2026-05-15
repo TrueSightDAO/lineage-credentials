@@ -3,24 +3,24 @@
   "display_name": "Ken Nim",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 47,
-    "total_tdg_provisioned": 5349.78,
+    "total_tdg_provisioned": 8849.78,
     "date_range": {
       "earliest": "20221125",
       "latest": "20251106"
     },
     "source": {
       "contributor_name": "Ken Nim",
-      "generated_date": "2026-05-14T22:18:14.219181",
+      "generated_date": "2026-05-14T22:21:50.456012",
       "summary": {
         "total_contributions": 47,
-        "total_tdg_provisioned": 5349.78,
-        "total_tdg_issued": 5419.22,
+        "total_tdg_provisioned": 8849.78,
+        "total_tdg_issued": 9419.220000000001,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -34,8 +34,8 @@
       },
       "analysis": {
         "total_contributions": 47,
-        "total_tdg_provisioned": 5349.78,
-        "total_tdg_issued": 5419.22,
+        "total_tdg_provisioned": 8849.78,
+        "total_tdg_issued": 9419.220000000001,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -80,14 +80,14 @@
           {
             "description": "Introduced Tomas into Network",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20230307",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Setup online conversion funnel for Buenos Aires offchain event\n\nhttps://www.eventbrite.hk/e/offchain-argentina-tickets-576280770297",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20230307",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -3,23 +3,23 @@
   "display_name": "Edge and Node",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 11,
-    "total_tdg_provisioned": 3192.67,
+    "total_tdg_provisioned": 4442.67,
     "date_range": {
       "earliest": "20230917",
       "latest": "20250221"
     },
     "source": {
       "contributor_name": "Edge and Node",
-      "generated_date": "2026-05-14T22:18:13.692116",
+      "generated_date": "2026-05-14T22:21:49.958381",
       "summary": {
         "total_contributions": 11,
-        "total_tdg_provisioned": 3192.67,
+        "total_tdg_provisioned": 4442.67,
         "total_tdg_issued": 4442.67,
         "projects": [
           "Agroverse",
@@ -32,7 +32,7 @@
       },
       "analysis": {
         "total_contributions": 11,
-        "total_tdg_provisioned": 3192.67,
+        "total_tdg_provisioned": 4442.67,
         "total_tdg_issued": 4442.67,
         "projects": [
           "Agroverse",
@@ -54,7 +54,7 @@
           {
             "description": "Oversaw an entire marketing campaign at Edge and Node on 14th September 2023. \nProvided the venue and recruited all the participants",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230917",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -1,11 +1,11 @@
 # Raphael Bouzy
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **8**
-- Total TDG provisioned: **800.00**
+- Total TDG provisioned: **5,800.00**
 - Active period: 20220126 – 20220126
 - Source: [_cache/cv/raphael-bouzy.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/raphael-bouzy.json)
 

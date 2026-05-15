@@ -1,11 +1,11 @@
 # Jonathan
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **16**
-- Total TDG provisioned: **2,565.96**
+- Total TDG provisioned: **3,565.96**
 - Active period: 20221209 – 20250703
 - Source: [_cache/cv/jonathan.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/jonathan.json)
 

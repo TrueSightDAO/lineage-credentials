@@ -3,24 +3,24 @@
   "display_name": "Francois Renet",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 28,
-    "total_tdg_provisioned": 3671.0,
+    "total_tdg_provisioned": 9921.0,
     "date_range": {
       "earliest": "20220910",
       "latest": "20231109"
     },
     "source": {
       "contributor_name": "Francois Renet",
-      "generated_date": "2026-05-14T22:18:13.789389",
+      "generated_date": "2026-05-14T22:21:50.049119",
       "summary": {
         "total_contributions": 28,
-        "total_tdg_provisioned": 3671.0,
-        "total_tdg_issued": 7421.0,
+        "total_tdg_provisioned": 9921.0,
+        "total_tdg_issued": 8671.0,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -34,8 +34,8 @@
       },
       "analysis": {
         "total_contributions": 28,
-        "total_tdg_provisioned": 3671.0,
-        "total_tdg_issued": 7421.0,
+        "total_tdg_provisioned": 9921.0,
+        "total_tdg_issued": 8671.0,
         "projects": [
           "Agroverse",
           "Cypher Defense",
@@ -75,7 +75,7 @@
           {
             "description": "Proposed tokenomics to encourage connectors to provide more introductions to projects in need",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220918",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -159,14 +159,14 @@
           {
             "description": "Launched marketing campaign to promote Cypher Defence \n\nhttps://www.linkedin.com/posts/francoisrenet_betterworld-dao-blockchain-activity-7002898379307384832-vIQv?utm_source=share&utm_medium=member_desktop",
             "project": "Cypher Defense",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20221129",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Included Cypher Defense QR code in ArtTalkMagazine\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7003384751998783488/",
             "project": "Cypher Defense",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20221129",
             "status": "Successfully Completed / Full Provision Awarded"
           },

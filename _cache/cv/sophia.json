@@ -3,24 +3,24 @@
   "display_name": "Sophia",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 1,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 1250.0,
     "date_range": {
       "earliest": "20231107",
       "latest": "20231107"
     },
     "source": {
       "contributor_name": "Sophia",
-      "generated_date": "2026-05-14T22:18:14.521046",
+      "generated_date": "2026-05-14T22:21:50.732270",
       "summary": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
-        "total_tdg_issued": 0,
+        "total_tdg_provisioned": 1250.0,
+        "total_tdg_issued": 1250.0,
         "projects": [
           "Agroverse"
         ],
@@ -31,8 +31,8 @@
       },
       "analysis": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
-        "total_tdg_issued": 0,
+        "total_tdg_provisioned": 1250.0,
+        "total_tdg_issued": 1250.0,
         "projects": [
           "Agroverse"
         ],
@@ -47,7 +47,7 @@
           {
             "description": "Organized Web3 Holiday food drive\n\nhttps://lu.ma/web3holidaydrive23",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20231107",
             "status": "Successfully Completed / Full Provision Awarded"
           }

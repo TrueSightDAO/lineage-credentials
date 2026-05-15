@@ -3,24 +3,24 @@
   "display_name": "House of Balance",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 9,
-    "total_tdg_provisioned": 425.0,
+    "total_tdg_provisioned": 5425.0,
     "date_range": {
       "earliest": "20220705",
       "latest": "20231010"
     },
     "source": {
       "contributor_name": "House of Balance",
-      "generated_date": "2026-05-14T22:18:14.077798",
+      "generated_date": "2026-05-14T22:21:50.327925",
       "summary": {
         "total_contributions": 9,
-        "total_tdg_provisioned": 425.0,
-        "total_tdg_issued": 425.0,
+        "total_tdg_provisioned": 5425.0,
+        "total_tdg_issued": 5425.0,
         "projects": [
           "Agroverse",
           "Sun Mint"
@@ -32,8 +32,8 @@
       },
       "analysis": {
         "total_contributions": 9,
-        "total_tdg_provisioned": 425.0,
-        "total_tdg_issued": 425.0,
+        "total_tdg_provisioned": 5425.0,
+        "total_tdg_issued": 5425.0,
         "projects": [
           "Agroverse",
           "Sun Mint"
@@ -51,7 +51,7 @@
           {
             "description": "Featured TrueSight DAO at the House of Balance in Davos 2022\n\nhttps://www.thecosmicinternet.com/schedule-sonora",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220705",
             "status": "Successfully Completed / Full Provision Awarded"
           },

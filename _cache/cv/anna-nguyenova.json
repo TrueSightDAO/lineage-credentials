@@ -3,23 +3,23 @@
   "display_name": "Anna Nguyenova",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 2,
-    "total_tdg_provisioned": 100.0,
+    "total_tdg_provisioned": 2600.0,
     "date_range": {
       "earliest": "20220217",
       "latest": "20220217"
     },
     "source": {
       "contributor_name": "Anna Nguyenova",
-      "generated_date": "2026-05-14T22:18:13.509349",
+      "generated_date": "2026-05-14T22:21:49.762654",
       "summary": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 2600.0,
         "total_tdg_issued": 100.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 2600.0,
         "total_tdg_issued": 100.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "PR coverage for TrueSight DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },

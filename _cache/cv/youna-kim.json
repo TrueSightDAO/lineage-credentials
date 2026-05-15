@@ -3,23 +3,23 @@
   "display_name": "Youna Kim",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 4,
-    "total_tdg_provisioned": 1050.0,
+    "total_tdg_provisioned": 6050.0,
     "date_range": {
       "earliest": "20211219",
       "latest": "20231220"
     },
     "source": {
       "contributor_name": "Youna Kim",
-      "generated_date": "2026-05-14T22:18:14.665223",
+      "generated_date": "2026-05-14T22:21:50.863824",
       "summary": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 1050.0,
+        "total_tdg_provisioned": 6050.0,
         "total_tdg_issued": 1050.0,
         "projects": [
           "TrueSight DAO"
@@ -31,7 +31,7 @@
       },
       "analysis": {
         "total_contributions": 4,
-        "total_tdg_provisioned": 1050.0,
+        "total_tdg_provisioned": 6050.0,
         "total_tdg_issued": 1050.0,
         "projects": [
           "TrueSight DAO"
@@ -62,7 +62,7 @@
           {
             "description": "Marketing Advertise game in Korea once it is ready",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },

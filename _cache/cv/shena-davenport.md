@@ -1,11 +1,11 @@
 # Shena Davenport
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **19**
-- Total TDG provisioned: **2,335.28**
+- Total TDG provisioned: **8,515.28**
 - Active period: 20240820 – 20260320
 - Source: [_cache/cv/shena-davenport.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/shena-davenport.json)
 

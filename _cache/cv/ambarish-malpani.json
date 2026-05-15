@@ -3,24 +3,24 @@
   "display_name": "Ambarish Malpani",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 5,
-    "total_tdg_provisioned": 2.0,
+    "total_tdg_provisioned": 7502.0,
     "date_range": {
       "earliest": "20210519",
       "latest": "20231107"
     },
     "source": {
       "contributor_name": "Ambarish Malpani",
-      "generated_date": "2026-05-14T22:18:13.473744",
+      "generated_date": "2026-05-14T22:21:49.728264",
       "summary": {
         "total_contributions": 5,
-        "total_tdg_provisioned": 2.0,
-        "total_tdg_issued": 2.0,
+        "total_tdg_provisioned": 7502.0,
+        "total_tdg_issued": 7502.0,
         "projects": [
           "Agroverse"
         ],
@@ -31,8 +31,8 @@
       },
       "analysis": {
         "total_contributions": 5,
-        "total_tdg_provisioned": 2.0,
-        "total_tdg_issued": 2.0,
+        "total_tdg_provisioned": 7502.0,
+        "total_tdg_issued": 7502.0,
         "projects": [
           "Agroverse"
         ],
@@ -48,21 +48,21 @@
           {
             "description": "Identification of the existence of a news clipping service",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210519",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Suggestion to bootstrap between the sales function and the engineering function intially to gain momentum",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210519",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Review of pitch deck for fund raising",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210626",
             "status": "Successfully Completed / Full Provision Awarded"
           },

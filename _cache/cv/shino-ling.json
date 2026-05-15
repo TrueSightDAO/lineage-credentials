@@ -3,24 +3,24 @@
   "display_name": "Shino Ling",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 15,
-    "total_tdg_provisioned": 1045.0,
+    "total_tdg_provisioned": 15545.0,
     "date_range": {
       "earliest": "20220630",
       "latest": "20220910"
     },
     "source": {
       "contributor_name": "Shino Ling",
-      "generated_date": "2026-05-14T22:18:14.512670",
+      "generated_date": "2026-05-14T22:21:50.724506",
       "summary": {
         "total_contributions": 15,
-        "total_tdg_provisioned": 1045.0,
-        "total_tdg_issued": 1045.0,
+        "total_tdg_provisioned": 15545.0,
+        "total_tdg_issued": 11045.0,
         "projects": [
           "MarketMonocle",
           "TrueSight DAO"
@@ -32,8 +32,8 @@
       },
       "analysis": {
         "total_contributions": 15,
-        "total_tdg_provisioned": 1045.0,
-        "total_tdg_issued": 1045.0,
+        "total_tdg_provisioned": 15545.0,
+        "total_tdg_issued": 11045.0,
         "projects": [
           "MarketMonocle",
           "TrueSight DAO"
@@ -55,7 +55,7 @@
           {
             "description": "Comic strip: Eddie gets introduced",
             "project": "",
-            "tdg": 0,
+            "tdg": 4500.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -104,14 +104,14 @@
           {
             "description": "Experimental Bear illustration\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220828%20-%20Shino%20bear%20illustration.jpeg",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220828",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Experimental Bull illustration\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220828%20-%20Shino%20bull%20illustration.jpeg",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220828",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -1,11 +1,11 @@
 # Victor Munoz
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **4**
-- Total TDG provisioned: **250.00**
+- Total TDG provisioned: **7,750.00**
 - Active period: 20220509 – 20220520
 - Source: [_cache/cv/victor-munoz.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/victor-munoz.json)
 

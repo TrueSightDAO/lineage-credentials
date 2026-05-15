@@ -1,11 +1,11 @@
 # Ózìómà Chúkwúnyéré
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **5**
-- Total TDG provisioned: **278.33**
+- Total TDG provisioned: **5,278.33**
 - Active period: 20201015 – 20250411
 - Source: [_cache/cv/ozioma-chukwunyere.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/ozioma-chukwunyere.json)
 

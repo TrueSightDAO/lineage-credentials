@@ -3,23 +3,23 @@
   "display_name": "Michael Flaxman",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 1,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 1250.0,
     "date_range": {
       "earliest": "20210903",
       "latest": "20210903"
     },
     "source": {
       "contributor_name": "Michael Flaxman",
-      "generated_date": "2026-05-14T22:18:14.346302",
+      "generated_date": "2026-05-14T22:21:50.567187",
       "summary": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 1250.0,
         "total_tdg_issued": 1250.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 1,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 1250.0,
         "total_tdg_issued": 1250.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "Tweet to promoto project to Bitcoin enthusiast: https://twitter.com/mflaxman/status/1433528048025014278?s=21&fbclid=IwAR2aYZj50rna2yrtduLCgsyPBvLJlNyPdFrZvczxpNzluafGkN2CPYt46vw",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20210903",
             "status": "Successfully Completed / Full Provision Awarded"
           }

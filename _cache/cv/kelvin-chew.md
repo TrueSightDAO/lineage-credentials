@@ -1,11 +1,11 @@
 # Kelvin Chew
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **85**
-- Total TDG provisioned: **14,610.00**
+- Total TDG provisioned: **68,360.00**
 - Active period: 20210631 – 20251119
 - Source: [_cache/cv/kelvin-chew.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/kelvin-chew.json)
 

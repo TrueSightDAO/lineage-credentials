@@ -3,23 +3,23 @@
   "display_name": "Dr Anita Lamprecht",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 49,
-    "total_tdg_provisioned": 5142.0,
+    "total_tdg_provisioned": 12642.0,
     "date_range": {
       "earliest": "20221022",
       "latest": "20241002"
     },
     "source": {
       "contributor_name": "Dr Anita Lamprecht",
-      "generated_date": "2026-05-14T22:18:13.668821",
+      "generated_date": "2026-05-14T22:21:49.929111",
       "summary": {
         "total_contributions": 49,
-        "total_tdg_provisioned": 5142.0,
+        "total_tdg_provisioned": 12642.0,
         "total_tdg_issued": 7642.0,
         "projects": [
           "Agroverse",
@@ -33,7 +33,7 @@
       },
       "analysis": {
         "total_contributions": 49,
-        "total_tdg_provisioned": 5142.0,
+        "total_tdg_provisioned": 12642.0,
         "total_tdg_issued": 7642.0,
         "projects": [
           "Agroverse",
@@ -107,7 +107,7 @@
           {
             "description": "Out reach to insurance company\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221109%20-%20Anita%20outreach%20to%20insurance%20companies.jpg",
             "project": "Cypher Defense",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -121,7 +121,7 @@
           {
             "description": "Included Cypher Defense QR code in lecture materials shared with 150 law students\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20221129%20-%20anita%20sharing%20with%20150%20lawyer%20students.jpg",
             "project": "Cypher Defense",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20221129",
             "status": "Successfully Completed / Full Provision Awarded"
           },

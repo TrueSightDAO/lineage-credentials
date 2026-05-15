@@ -1,11 +1,11 @@
 # Bing
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **7**
-- Total TDG provisioned: **895.00**
+- Total TDG provisioned: **8,395.00**
 - Active period: 20220409 – 20220615
 - Source: [_cache/cv/bing.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/bing.json)
 

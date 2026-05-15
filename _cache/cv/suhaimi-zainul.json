@@ -3,23 +3,23 @@
   "display_name": "Suhaimi Zainul",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 28,
-    "total_tdg_provisioned": 4675.0,
+    "total_tdg_provisioned": 5925.0,
     "date_range": {
       "earliest": "20220317",
       "latest": "20230809"
     },
     "source": {
       "contributor_name": "Suhaimi Zainul",
-      "generated_date": "2026-05-14T22:18:14.531620",
+      "generated_date": "2026-05-14T22:21:50.742186",
       "summary": {
         "total_contributions": 28,
-        "total_tdg_provisioned": 4675.0,
+        "total_tdg_provisioned": 5925.0,
         "total_tdg_issued": 5875.0,
         "projects": [
           "Agroverse",
@@ -32,7 +32,7 @@
       },
       "analysis": {
         "total_contributions": 28,
-        "total_tdg_provisioned": 4675.0,
+        "total_tdg_provisioned": 5925.0,
         "total_tdg_issued": 5875.0,
         "projects": [
           "Agroverse",
@@ -127,7 +127,7 @@
           {
             "description": "Project Goals:\nIn my view, this space would benefit from an aim to evolve with some structure, with tangible, practical, RL benefits. \nWhile predictions on an unlimited range of topics may be interesting and entertaining, it may not bring real benefits and may not attract and retain users, or build a community. \nContrast that to a more targeted platform or space for predictions that are actionable and comparable - e.g. spaces where users make and wager predictions on major tradable markets like S&P, BTC, Gold, etc, over specific durations. \nThis creates an ecosystem of actionable insights - consistently good predictors get higher scores, get a following and subscribers. Followers/subscribers can trade based on insights, and profit, and refer new followers to join the community.\nThen from there you can expand into newer/niched areas where predictions are again actionable and profitable, hence creating a growth loop. \nAll the while, there can be avenues for sharing and learning, as the sideshow. But there would be benefits to having main/core pillars which are actionable.\n\nhttps://discord.com/channels/923008087315587072/954218893872889896/958312497142710282",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220329",
             "status": "Successfully Completed / Full Provision Awarded"
           },

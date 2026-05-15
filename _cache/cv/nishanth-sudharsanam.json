@@ -3,23 +3,23 @@
   "display_name": "Nishanth Sudharsanam",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 7,
-    "total_tdg_provisioned": 100.0,
+    "total_tdg_provisioned": 12600.0,
     "date_range": {
       "earliest": "20220110",
       "latest": "20220125"
     },
     "source": {
       "contributor_name": "Nishanth Sudharsanam",
-      "generated_date": "2026-05-14T22:18:14.395565",
+      "generated_date": "2026-05-14T22:21:50.616023",
       "summary": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 12600.0,
         "total_tdg_issued": 8850.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 7,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 12600.0,
         "total_tdg_issued": 8850.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,42 +41,42 @@
           {
             "description": "Coined the term: Verifiable marketing",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220110",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Cross chain compatibility architecture advice: Curve DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220112",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Collaboration: Buyer prediction purchase protocol design",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Identified polymarket protocol as a way to resolve predictions for items not easily quantifiable \nhttps://docs.polymarket.com/faq/resolution",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "The difficulty and process of establishing onchain verifiability: https://assets.1729.com/algorithmic-fact-checking.pdf",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Check up RAI on how to manage volatility",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Work in Progress"
           },

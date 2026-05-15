@@ -3,24 +3,24 @@
   "display_name": "Jacob Nelan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 62,
-    "total_tdg_provisioned": 40542.46,
+    "total_tdg_provisioned": 60725.99,
     "date_range": {
       "earliest": "20210801",
       "latest": "20260430"
     },
     "source": {
       "contributor_name": "Jacob Nelan",
-      "generated_date": "2026-05-14T22:18:14.110305",
+      "generated_date": "2026-05-14T22:21:50.358274",
       "summary": {
         "total_contributions": 62,
-        "total_tdg_provisioned": 40542.46,
-        "total_tdg_issued": 40542.46,
+        "total_tdg_provisioned": 60725.99,
+        "total_tdg_issued": 60725.99,
         "projects": [
           "Edgar",
           "Recurring Tokenizations",
@@ -33,8 +33,8 @@
       },
       "analysis": {
         "total_contributions": 62,
-        "total_tdg_provisioned": 40542.46,
-        "total_tdg_issued": 40542.46,
+        "total_tdg_provisioned": 60725.99,
+        "total_tdg_issued": 60725.99,
         "projects": [
           "Edgar",
           "Recurring Tokenizations",
@@ -126,7 +126,7 @@
           {
             "description": "AWS payment for Feb 2022\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220201%20-%20Jake%20for%20AWS.pdf",
             "project": "",
-            "tdg": 0,
+            "tdg": 7523.11,
             "date": "20220326",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -161,7 +161,7 @@
           {
             "description": "AWS payment for July 2022\n\nhttps://github.com/TrueSightDAO/.github/blob/1a6cff94d289162ce8470adf8614eda5f158116e/assets/20220802%20-%20Jacob%20Nelan%20AWS.pdf",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1095.65,
             "date": "20220802",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -308,21 +308,21 @@
           {
             "description": "AWS payment for Mar 2024\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240403_jacob_aws.pdf",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1004.99,
             "date": "20240403",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "AWS payment for April 2024\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240503_jacob_aws.pdf",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1008.03,
             "date": "20240503",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "AWS payment for May 2024\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240602_jacob_aws.pdf",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1009.15,
             "date": "20240602",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -343,7 +343,7 @@
           {
             "description": "AWS Aug 2024\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240902_jacob_aws.pdf",
             "project": "TrueSight.Me",
-            "tdg": 0,
+            "tdg": 1001.22,
             "date": "20240920",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -371,14 +371,14 @@
           {
             "description": "AWS services for month ended 20250102\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250102_jacob_nelan_aws.pdf",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1012.54,
             "date": "20250405",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "AWS services for month ended 20250202\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250202_jacob_nelan_aws.pdf",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1014.79,
             "date": "20250405",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -392,7 +392,7 @@
           {
             "description": "AWS services for month ended 20250402\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250402_jacob_nelan_aws.pdf",
             "project": "Edgar",
-            "tdg": 0,
+            "tdg": 1085.35,
             "date": "20250405",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -434,14 +434,14 @@
           {
             "description": "Edgar AWS account - garyjob@truesight.me\n\nperiod 20250901 - 20250930",
             "project": "Recurring Tokenizations",
-            "tdg": 0,
+            "tdg": 1108.36,
             "date": "20250930",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Edgar AWS account - garyjob@truesight.me\n\nperiod 20251001 - 20251031",
             "project": "Recurring Tokenizations",
-            "tdg": 0,
+            "tdg": 1059.24,
             "date": "20251031",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -483,7 +483,7 @@
           {
             "description": "Edgar AWS account - garyjob@truesight.me\n\nperiod 20260401 - 20260430",
             "project": "Recurring Tokenizations",
-            "tdg": 0,
+            "tdg": 2261.1,
             "date": "20260430",
             "status": "Successfully Completed / Full Provision Awarded"
           }

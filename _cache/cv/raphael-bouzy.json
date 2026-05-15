@@ -3,23 +3,23 @@
   "display_name": "Raphael Bouzy",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 8,
-    "total_tdg_provisioned": 800.0,
+    "total_tdg_provisioned": 5800.0,
     "date_range": {
       "earliest": "20220126",
       "latest": "20220126"
     },
     "source": {
       "contributor_name": "Raphael Bouzy",
-      "generated_date": "2026-05-14T22:18:14.450210",
+      "generated_date": "2026-05-14T22:21:50.670122",
       "summary": {
         "total_contributions": 8,
-        "total_tdg_provisioned": 800.0,
+        "total_tdg_provisioned": 5800.0,
         "total_tdg_issued": 800.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 8,
-        "total_tdg_provisioned": 800.0,
+        "total_tdg_provisioned": 5800.0,
         "total_tdg_issued": 800.0,
         "projects": [],
         "rubric_categories": {},
@@ -90,7 +90,7 @@
           {
             "description": "Bank and Insurance partnerships: Make necessary introductions to relevant contact in LinkedIn",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "On Hold"
           }

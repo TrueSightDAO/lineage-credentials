@@ -1,11 +1,11 @@
 # Kirsten Ritschel
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **110**
-- Total TDG provisioned: **16,139.62**
+- Total TDG provisioned: **18,339.62**
 - Active period: 20250114 – 20260214
 - Source: [_cache/cv/kirsten-ritschel.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/kirsten-ritschel.json)
 

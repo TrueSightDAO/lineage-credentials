@@ -3,24 +3,24 @@
   "display_name": "Annia Tsiupa",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 39,
-    "total_tdg_provisioned": 5058.33,
+    "total_tdg_provisioned": 8808.33,
     "date_range": {
       "earliest": "20230529",
       "latest": "20250407"
     },
     "source": {
       "contributor_name": "Annia Tsiupa",
-      "generated_date": "2026-05-14T22:18:13.515655",
+      "generated_date": "2026-05-14T22:21:49.769149",
       "summary": {
         "total_contributions": 39,
-        "total_tdg_provisioned": 5058.33,
-        "total_tdg_issued": 5058.33,
+        "total_tdg_provisioned": 8808.33,
+        "total_tdg_issued": 8808.33,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -33,8 +33,8 @@
       },
       "analysis": {
         "total_contributions": 39,
-        "total_tdg_provisioned": 5058.33,
-        "total_tdg_issued": 5058.33,
+        "total_tdg_provisioned": 8808.33,
+        "total_tdg_issued": 8808.33,
         "projects": [
           "20250617_beerhall",
           "Agroverse",
@@ -85,14 +85,14 @@
           {
             "description": "ECO-99 Package design front - base design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230701%20-%20annia%20package%20design%20front%20ecuador.jpeg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230717_annia_ecuador_front.ai",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "ECO-99 Package design back - base design\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230701%20-%20annia%20package%20design%20back%20ecuador.jpeg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230717_annia_ecuador_back.ai",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20230701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -274,7 +274,7 @@
           {
             "description": "T-shirt designs - White \n\nAssets for White Shirt\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%201%20agroverse.shop_whiteTshirt_qr.png\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%202%20back_text_agroverse_white_tshirt.png\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%203%20front_whiteTshirt_option2.png\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%204%20logoAgroverese_round_back.png\n\nAssets for Black Shirt\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%20black%201%20instaagroverse.shop_qr.png\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%20black%202%20logoAgroverese_round_back.png\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%20black%203%20TrueSight_Front.png\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231022%20-%20Annia%20black%204%20back_text_agroverse.png\n\nAssets Shirt Preview\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231015%20-%20annia%20white%20shirt%20-%20front.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231015%20-%20annia%20white%20shirt%20-%20side.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20231015%20-%20annia%20white%20shirt%20-%20back.jpeg",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20231022",
             "status": "Successfully Completed / Full Provision Awarded"
           },

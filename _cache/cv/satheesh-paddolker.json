@@ -3,23 +3,23 @@
   "display_name": "Satheesh Paddolker",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 20,
-    "total_tdg_provisioned": 1661.0,
+    "total_tdg_provisioned": 11661.0,
     "date_range": {
       "earliest": "20210812",
       "latest": "20230809"
     },
     "source": {
       "contributor_name": "Satheesh Paddolker",
-      "generated_date": "2026-05-14T22:18:14.487252",
+      "generated_date": "2026-05-14T22:21:50.701766",
       "summary": {
         "total_contributions": 20,
-        "total_tdg_provisioned": 1661.0,
+        "total_tdg_provisioned": 11661.0,
         "total_tdg_issued": 11661.0,
         "projects": [
           "Agroverse"
@@ -31,7 +31,7 @@
       },
       "analysis": {
         "total_contributions": 20,
-        "total_tdg_provisioned": 1661.0,
+        "total_tdg_provisioned": 11661.0,
         "total_tdg_issued": 11661.0,
         "projects": [
           "Agroverse"
@@ -52,21 +52,21 @@
           {
             "description": "Proposed that Solana to implement our DAO because of low gas fee and high transactions per section",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210812",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Translating our project description into Chinese",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20211219",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Reference https://www.coingecko.com/en/coins/boutspro to get listed on Gate.IO",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20211219",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -87,21 +87,21 @@
           {
             "description": "DAO/Token structure reference: Advise on fund raising via tokens",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20211225",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "DAO/Token structure reference: Advise on token liquidity management",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20211225",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Reference for crafting pitch deck: https://docsend.com/view/m5f38k2yhydc2w6x",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211230",
             "status": "Successfully Completed / Full Provision Awarded"
           },

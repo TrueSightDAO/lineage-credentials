@@ -1,10 +1,11 @@
 # David K K Kwan
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **1**
+- Total TDG provisioned: **2,500.00**
 - Active period: 20221129 – 20221129
 - Source: [_cache/cv/david-k-k-kwan.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/david-k-k-kwan.json)
 

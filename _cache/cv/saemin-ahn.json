@@ -3,23 +3,23 @@
   "display_name": "Saemin Ahn",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 8,
-    "total_tdg_provisioned": 0,
+    "total_tdg_provisioned": 9000.0,
     "date_range": {
       "earliest": "20220120",
       "latest": "20220206"
     },
     "source": {
       "contributor_name": "Saemin Ahn",
-      "generated_date": "2026-05-14T22:18:14.479576",
+      "generated_date": "2026-05-14T22:21:50.694095",
       "summary": {
         "total_contributions": 8,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 9000.0,
         "total_tdg_issued": 9000.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 8,
-        "total_tdg_provisioned": 0,
+        "total_tdg_provisioned": 9000.0,
         "total_tdg_issued": 9000.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,56 +41,56 @@
           {
             "description": "VC concerned about price tank when they need to exit for their LPs",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220120",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "VC concerned about early developers of a chain keeping outsized voting rights/ownership after they have become inactive",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220120",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "VC concerned about developers staking liquidity provided on other coins for interest and then abandoning project - EOS",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220120",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Blockchain auditing firms gain access to protocol and do a backdoor by investing in better projects with this unfair advantage",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220120",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Community: Engineer opportunity cost are way lower than VCs opportunity cost when it comes to crypto currency projects. \nThey are ok vesting a small sum and then leaving the project for another. And the current market encourages this sort of behavior.\nVCs are expecting the team to stay together to grow the product.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Goverance: proposed to vesting to happen at the Epic level as opposed to the story level and tied to hitting some metrics",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Goverance: VCs investing funding a project with crypto liquidity is very different from VCs investing Fiat currencies.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Community: Not seeing very clearly how a DAO can scale. The recent wormhole hack for 250million only had 25 developers looking at the problem instead of teams looking at it in larger companies",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220206",
             "status": "Successfully Completed / Full Provision Awarded"
           }

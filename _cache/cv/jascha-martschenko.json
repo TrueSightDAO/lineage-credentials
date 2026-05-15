@@ -3,24 +3,24 @@
   "display_name": "Jascha Martschenko",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 17,
-    "total_tdg_provisioned": 3150.0,
+    "total_tdg_provisioned": 12194.73,
     "date_range": {
       "earliest": "20201025",
       "latest": "20230616"
     },
     "source": {
       "contributor_name": "Jascha Martschenko",
-      "generated_date": "2026-05-14T22:18:14.121724",
+      "generated_date": "2026-05-14T22:21:50.371864",
       "summary": {
         "total_contributions": 17,
-        "total_tdg_provisioned": 3150.0,
-        "total_tdg_issued": 2900.0,
+        "total_tdg_provisioned": 12194.73,
+        "total_tdg_issued": 11944.73,
         "projects": [
           "TrueSight DAO"
         ],
@@ -31,8 +31,8 @@
       },
       "analysis": {
         "total_contributions": 17,
-        "total_tdg_provisioned": 3150.0,
-        "total_tdg_issued": 2900.0,
+        "total_tdg_provisioned": 12194.73,
+        "total_tdg_issued": 11944.73,
         "projects": [
           "TrueSight DAO"
         ],
@@ -77,7 +77,7 @@
           {
             "description": "Made introduction for Gary to give keynote at the StartPlatz conference",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20221119",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -133,14 +133,14 @@
           {
             "description": "Post to promote TrueSight DAO on Instagram\n\nhttps://www.instagram.com/reel/CqDTp-KIMZs/?igshid=MDJmNzVkMjY=",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20230321",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Post to promote Truesight DAO on LinkedIn\n\nhttps://youtu.be/93wWvTOuJw0",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20230321",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -154,14 +154,14 @@
           {
             "description": "Flight tickets for Gary to attend CryptoRockStart Conference.\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20230406%20-%20Jakob%20flight%20tickets.jpeg",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1044.73,
             "date": "20230515",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Featured TrueSight DAO as keynote speaker in Crypto Rockstar conference 2023",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20230615",
             "status": "Successfully Completed / Full Provision Awarded"
           },

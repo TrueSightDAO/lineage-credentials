@@ -3,24 +3,24 @@
   "display_name": "Tiffine Wang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 32,
-    "total_tdg_provisioned": 6084.65,
+    "total_tdg_provisioned": 20084.65,
     "date_range": {
       "earliest": "20210522",
       "latest": "20250307"
     },
     "source": {
       "contributor_name": "Tiffine Wang",
-      "generated_date": "2026-05-14T22:18:14.570789",
+      "generated_date": "2026-05-14T22:21:50.777941",
       "summary": {
         "total_contributions": 32,
-        "total_tdg_provisioned": 6084.65,
-        "total_tdg_issued": 13484.67,
+        "total_tdg_provisioned": 20084.65,
+        "total_tdg_issued": 14984.67,
         "projects": [
           "Agroverse",
           "TrueSight DAO"
@@ -32,8 +32,8 @@
       },
       "analysis": {
         "total_contributions": 32,
-        "total_tdg_provisioned": 6084.65,
-        "total_tdg_issued": 13484.67,
+        "total_tdg_provisioned": 20084.65,
+        "total_tdg_issued": 14984.67,
         "projects": [
           "Agroverse",
           "TrueSight DAO"
@@ -54,28 +54,28 @@
           {
             "description": "Unlocking of human potential by focusing on high power individuals and importance of Truth and Love",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210522",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Fundraising Advisory: investor outreach",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Fundraising Advisory: pitch deck refinement",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Concept Deck: Decouple NFT from game's critical path",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220217",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -96,7 +96,7 @@
           {
             "description": "Concept Deck: Simple concept to what is preventing average person from becoming a hedge fund manager - DATA",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220217",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -124,7 +124,7 @@
           {
             "description": "Concept Deck: Simplify roadmap to show milestones we will achieve if we bring in the cash - incorporation, product, listing on CEX and marketing. What numbers we will hit",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220217",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -138,7 +138,7 @@
           {
             "description": "Concept Deck: Modify team to separate between acitve members and more passive members",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220217",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -152,7 +152,7 @@
           {
             "description": "Concept Deck: Assume funding is for 12 to 18 months. Explain what investors will get back for putting their money in",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220217",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -201,7 +201,7 @@
           {
             "description": "Introduced and brought on Geoffrey from Poko.fund to help set up the legal structure for DAO projects",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20220801",
             "status": "Successfully Completed / Full Provision Awarded"
           },

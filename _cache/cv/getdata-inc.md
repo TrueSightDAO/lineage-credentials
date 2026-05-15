@@ -1,11 +1,11 @@
 # GetData Inc
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **1939**
-- Total TDG provisioned: **80,892.78**
+- Total TDG provisioned: **637,346.15**
 - Active period: 20240317 – 20250905
 - Source: [_cache/cv/getdata-inc.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/getdata-inc.json)
 

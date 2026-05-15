@@ -1,11 +1,11 @@
 # Vibhu Mittal
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **25**
-- Total TDG provisioned: **1,404.67**
+- Total TDG provisioned: **10,154.67**
 - Active period: 20181030 – 20250816
 - Source: [_cache/cv/vibhu-mittal.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/vibhu-mittal.json)
 

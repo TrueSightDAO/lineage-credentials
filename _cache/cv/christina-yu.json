@@ -3,23 +3,23 @@
   "display_name": "Christina Yu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 2,
-    "total_tdg_provisioned": 100.0,
+    "total_tdg_provisioned": 5100.0,
     "date_range": {
       "earliest": "20211202",
       "latest": "20220107"
     },
     "source": {
       "contributor_name": "Christina Yu",
-      "generated_date": "2026-05-14T22:18:13.610514",
+      "generated_date": "2026-05-14T22:21:49.860468",
       "summary": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 5100.0,
         "total_tdg_issued": 5100.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 2,
-        "total_tdg_provisioned": 100.0,
+        "total_tdg_provisioned": 5100.0,
         "total_tdg_issued": 5100.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,7 +41,7 @@
           {
             "description": "Trading infrastructure advisory",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211202",
             "status": "Successfully Completed / Full Provision Awarded"
           },

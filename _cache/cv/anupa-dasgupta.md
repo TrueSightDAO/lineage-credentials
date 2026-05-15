@@ -1,11 +1,11 @@
 # Anupa Dasgupta
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **133**
-- Total TDG provisioned: **18,976.41**
+- Total TDG provisioned: **21,476.41**
 - Active period: 20221129 – 20250313
 - Source: [_cache/cv/anupa-dasgupta.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/anupa-dasgupta.json)
 

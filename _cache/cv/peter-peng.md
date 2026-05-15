@@ -1,11 +1,11 @@
 # Peter Peng
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:18:14Z*
+*TrueSight DAO Credential Profile · generated 2026-05-15T05:21:51Z*
 
 ## DAO Contributions
 
 - Total contributions: **15**
-- Total TDG provisioned: **2,730.00**
+- Total TDG provisioned: **7,730.00**
 - Active period: 20220910 – 20230314
 - Source: [_cache/cv/peter-peng.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/peter-peng.json)
 

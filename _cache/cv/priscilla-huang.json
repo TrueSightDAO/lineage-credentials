@@ -3,24 +3,24 @@
   "display_name": "Priscilla Huang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 129,
-    "total_tdg_provisioned": 18690.0,
+    "total_tdg_provisioned": 74940.0,
     "date_range": {
       "earliest": "20210631",
       "latest": "20220910"
     },
     "source": {
       "contributor_name": "Priscilla Huang",
-      "generated_date": "2026-05-14T22:18:14.428323",
+      "generated_date": "2026-05-14T22:21:50.646075",
       "summary": {
         "total_contributions": 129,
-        "total_tdg_provisioned": 18690.0,
-        "total_tdg_issued": 41090.0,
+        "total_tdg_provisioned": 74940.0,
+        "total_tdg_issued": 58590.0,
         "projects": [
           "MarketMonocle",
           "TrueSight DAO"
@@ -32,8 +32,8 @@
       },
       "analysis": {
         "total_contributions": 129,
-        "total_tdg_provisioned": 18690.0,
-        "total_tdg_issued": 41090.0,
+        "total_tdg_provisioned": 74940.0,
+        "total_tdg_issued": 58590.0,
         "projects": [
           "MarketMonocle",
           "TrueSight DAO"
@@ -79,14 +79,14 @@
           {
             "description": "Proposed UI/UX center piece that the dashboard needs to be actionable resulting in the email notification system",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210631",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-57 - Proposed indicators in company price chart to boost confidance level of person acting upon trading signal",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "On Hold"
           },
@@ -100,21 +100,21 @@
           {
             "description": "Product Development: User flow for hobbyist quant in PVE mode",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "Product Development: User flow for punters in PVE mode",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "DAO governance: a leader proposes idea and other members volunteer to back the idea with their efforts as well",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220210",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -149,21 +149,21 @@
           {
             "description": "DAO governance: adopt pricing model similar to Snowflake. They charge based on how complex the database query is. Startup can prepurchase credits. This becomes more affordable for smaller startups. Larger enterprises just wants to have a clean billing at the end of the day so they want a fixed subscription. We can them in their tokens",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220210",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Custodian brokerage where brokerage does not make the purchase of the share with the exchange but simply balances the buy and sell request within its network",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220210",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Planning for focus group:\nhttps://docs.google.com/document/d/11kGwFiLsVgPKpUvjklgbdVkHtP-4R2Oz6OLYHbY8Yco/edit#heading=h.ehy9jzel9oxd",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220312",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -198,7 +198,7 @@
           {
             "description": "Product Development: Landing page for hunters and punters\nhttps://miro.com/welcomeonboard/S05ZbWJtbktUZGFKMDVKUHRwckpyTjdVQkNNOG9xVk82OUJ6aTVWWkU1c2J2T2NhM2pNdjhUZnRVWlNTemNyOHwzMDc0NDU3MzQ1ODQ1MjA3NzMw?invite_link_id=875019625633",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220312",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -338,14 +338,14 @@
           {
             "description": "Operations: Start structuring DAO members into subject matter experts so that each can stay in their own lane during the execution phase",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220420",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Operations: Allow subject matter experts to declare themselves as too busy. That way allows them to remove themselves from the operations side and unblock any critical paths they might be on.\n\nWe can then move them to the advisory side of that Subject",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220420",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -373,7 +373,7 @@
           {
             "description": "Version 2 designs for landing page\n\nhttps://miro.com/app/board/uXjVOK4yzAE=/?share_link_id=284390039535",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220425",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -415,21 +415,21 @@
           {
             "description": "Version 3 designs for landing page\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220509_pris_landing_page_design_3.jpeg\n\nhttps://miro.com/app/board/uXjVOK4yzAE=/?share_link_id=284390039535",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220509",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Version 4 designs for landing page - adjusted based on Adrey Nayman's inputs\n\nhttps://miro.com/app/board/uXjVOK4yzAE=/?share_link_id=284390039535\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220514_pris_landing_page_version_4.jpeg",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220514",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Game App design 1\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220513_pris_game_app_ux_design.jpeg",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220514",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -471,7 +471,7 @@
           {
             "description": "Raised a concern about the barter trade agreement with Global DAO Alliance",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220603",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -520,7 +520,7 @@
           {
             "description": "Game App design 2\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220607%20-%20Pris%20UX%20for%20prediction%20submission.jpeg",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220607",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -534,21 +534,21 @@
           {
             "description": "Design for Dashboard\n\nhttps://miro.com/app/board/uXjVOK4yzAE=/?share_link_id=498293955934",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220617",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Finalized feature list for Phase 1, 2 & 3\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220619%20-%20Pris%20Feature%20list%20legend.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220619%20-%20Pris%20Feature%20list.jpeg",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220619",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Dashboard V1 UX\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20220619%20-%20Pris%20Dashboard%20UX.jpeg",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220619",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -625,7 +625,7 @@
           {
             "description": "Found brand expert to help with UI (Kuoloon)",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220621",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -674,7 +674,7 @@
           {
             "description": "Branding UI moodboard\n\nhttps://www.figma.com/file/szjivVvzVyHG1enAqU440c/TrueSight-UI-(Copy)?node-id=369-29621&t=kznOqEBg13k0Ao6S-0",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -758,7 +758,7 @@
           {
             "description": "Defined operating structure for design efforts within our DAO\n\n1. Shino will come in on art direction, graphic illustration for landing page\n2. @Kuo Loon will handle UI for dashboard and setup design lib for future work\n3. when #1 is done Kuoloon will step in with UI for landing page",
             "project": "",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20220701",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -814,7 +814,7 @@
           {
             "description": "Supervision inputs for dashboard design",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220710",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -828,7 +828,7 @@
           {
             "description": "Raised concern about Key man risk within our governance token allocation mechanism right now. \n\nSuggest the best way to rectify it is for all governors to submit their own team's ledger updates in our Governor's channel every week as well as categorize these contributions based on rubric",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220710",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -842,7 +842,7 @@
           {
             "description": "Creating the frontend foundational design system for UI",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },

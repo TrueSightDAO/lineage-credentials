@@ -3,23 +3,23 @@
   "display_name": "Philip",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 19,
-    "total_tdg_provisioned": 3260.0,
+    "total_tdg_provisioned": 18760.0,
     "date_range": {
       "earliest": "20220304",
       "latest": "20220325"
     },
     "source": {
       "contributor_name": "Philip",
-      "generated_date": "2026-05-14T22:18:14.423918",
+      "generated_date": "2026-05-14T22:21:50.641860",
       "summary": {
         "total_contributions": 19,
-        "total_tdg_provisioned": 3260.0,
+        "total_tdg_provisioned": 18760.0,
         "total_tdg_issued": 18260.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 19,
-        "total_tdg_provisioned": 3260.0,
+        "total_tdg_provisioned": 18760.0,
         "total_tdg_issued": 18260.0,
         "projects": [],
         "rubric_categories": {
@@ -43,14 +43,14 @@
           {
             "description": "Governance: Having a DAO too early sends a negative signal to the community since that is usually when founders have already made enough money and want to cash out and do something else. Best to maintain a centralized until later on.",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Community: Most quants don't last long. Their strategies will fail within a 5 year horizon unless they can update their models across multiple regime changes",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -78,7 +78,7 @@
           {
             "description": "Strategy: Unless you are already picking a space that is very crowded in crypto like attempting to build an exchange there is still a lot of space in the crypto space. \n\nPick one or two players whose concept you like and then out execute them. Since the market size is still exanding rapidly, if you can grow faster than then you will still become market leader",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -99,7 +99,7 @@
           {
             "description": "Tokenomics: Figure out how to have transparent odds generated. Gambling bookie space is ripe for disruption since their odds are usually not very transparent",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -113,21 +113,21 @@
           {
             "description": "UX: Have drop down that allows punters to filter by 1 day, 1 week, 1 month and all time win rate",
             "project": "",
-            "tdg": 0,
+            "tdg": 1000.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Gamification: think of what kind of behavior you want to encourage quants, some maximize ranking for short period or longer period",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Engineering: https://twitter.com/dabit3",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220304",
             "status": "Successfully Completed / Full Provision Awarded"
           },

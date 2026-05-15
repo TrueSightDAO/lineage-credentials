@@ -3,23 +3,23 @@
   "display_name": "Neil Berget",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 11,
-    "total_tdg_provisioned": 400.0,
+    "total_tdg_provisioned": 19150.0,
     "date_range": {
       "earliest": "20211207",
       "latest": "20220115"
     },
     "source": {
       "contributor_name": "Neil Berget",
-      "generated_date": "2026-05-14T22:18:14.378912",
+      "generated_date": "2026-05-14T22:21:50.594934",
       "summary": {
         "total_contributions": 11,
-        "total_tdg_provisioned": 400.0,
+        "total_tdg_provisioned": 19150.0,
         "total_tdg_issued": 15400.0,
         "projects": [],
         "date_range": {
@@ -29,7 +29,7 @@
       },
       "analysis": {
         "total_contributions": 11,
-        "total_tdg_provisioned": 400.0,
+        "total_tdg_provisioned": 19150.0,
         "total_tdg_issued": 15400.0,
         "projects": [],
         "rubric_categories": {},
@@ -41,21 +41,21 @@
           {
             "description": "Proposal of the DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211207",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Proposal of Solana as the base for TRUE DAO",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211207",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Phase 3 - Post DAO rules definition discussion",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Aborted"
           },
@@ -69,7 +69,7 @@
           {
             "description": "DAO/Token structure implementation: SQUAD\nhttps://devnet.sqds.io/squad/5MecX55aS55NA7d97bQBzTn7WoNhdEWrg7brWd6yEyWc/info",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211214",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -83,7 +83,7 @@
           {
             "description": "DAO/Token structure implementation: Build Smart contract framework using Serum instead of directly on Rust",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20211216",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -97,7 +97,7 @@
           {
             "description": "Dockerization of TrueSight https://www.pivotaltracker.com/story/show/180833731",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "",
             "status": "Aborted"
           },
@@ -111,7 +111,7 @@
           {
             "description": "Protocol Loophole: Creating multiple NFts, betting on both sides, thereafter discarding the NFTs with the wrong outcome. Eventually creating an NFT with 100% accuracy level",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220115",
             "status": "Successfully Completed / Full Provision Awarded"
           }

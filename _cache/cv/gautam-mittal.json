@@ -3,24 +3,24 @@
   "display_name": "Gautam Mittal",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 37,
-    "total_tdg_provisioned": 7350.0,
+    "total_tdg_provisioned": 47350.0,
     "date_range": {
       "earliest": "20220121",
       "latest": "20220709"
     },
     "source": {
       "contributor_name": "Gautam Mittal",
-      "generated_date": "2026-05-14T22:18:13.971285",
+      "generated_date": "2026-05-14T22:21:50.228273",
       "summary": {
         "total_contributions": 37,
-        "total_tdg_provisioned": 7350.0,
-        "total_tdg_issued": 28450.0,
+        "total_tdg_provisioned": 47350.0,
+        "total_tdg_issued": 33450.0,
         "projects": [],
         "date_range": {
           "earliest": "20220121",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 37,
-        "total_tdg_provisioned": 7350.0,
-        "total_tdg_issued": 28450.0,
+        "total_tdg_provisioned": 47350.0,
+        "total_tdg_issued": 33450.0,
         "projects": [],
         "rubric_categories": {
           "500 : Bring Builders - brought on a active contributor": 7,
@@ -65,21 +65,21 @@
           {
             "description": "Study Numer.ai incentive structure",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220314",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Insight into how Gen Z worldview: Twitter as primary channel, Slack, Reddit, Zoom, Twitch and LinkedIn",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220121",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "How Zebra IQ is used for market testing purposes",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220121",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -107,14 +107,14 @@
           {
             "description": "Google Transformer: Just feeding more data to the model  will result in a very very strong model as compared to coming up with better algorithms",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220121",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Figure out how to secure the model when the NFT is auction and sold",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Aborted"
           },
@@ -149,7 +149,7 @@
           {
             "description": "Discovered Acquisition channel to university students on Reddit",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220126",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -163,14 +163,14 @@
           {
             "description": "Numer.ai not only can bot owners make predictions, they can bet on it and get paid in exchange for making the right bets",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "End consumer don't really care much about the technology at the end of the day, they just care about the experience.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220201",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -205,7 +205,7 @@
           {
             "description": "Design protocol on how AI model transfer would work when the corresponding NFT is auctioned off to another wallet",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -226,7 +226,7 @@
           {
             "description": "Product Development: Build an MVP where the storage is partially in the database and web3.storage",
             "project": "",
-            "tdg": 0,
+            "tdg": 1250.0,
             "date": "20220222",
             "status": "Successfully Completed / Full Provision Awarded"
           },

@@ -3,23 +3,23 @@
   "display_name": "Lori",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 3,
-    "total_tdg_provisioned": 110.0,
+    "total_tdg_provisioned": 2610.0,
     "date_range": {
       "earliest": "20201015",
       "latest": "20220305"
     },
     "source": {
       "contributor_name": "Lori",
-      "generated_date": "2026-05-14T22:18:14.269764",
+      "generated_date": "2026-05-14T22:21:50.508919",
       "summary": {
         "total_contributions": 3,
-        "total_tdg_provisioned": 110.0,
+        "total_tdg_provisioned": 2610.0,
         "total_tdg_issued": 2510.0,
         "projects": [
           "Agroverse",
@@ -32,7 +32,7 @@
       },
       "analysis": {
         "total_contributions": 3,
-        "total_tdg_provisioned": 110.0,
+        "total_tdg_provisioned": 2610.0,
         "total_tdg_issued": 2510.0,
         "projects": [
           "Agroverse",
@@ -50,7 +50,7 @@
           {
             "description": "Governance: Quadratic voting. If DAO member abstains from current poll, his voting weightage is automatically stored up and then applied next time. Powered up voting weightage should come with an expiry. This could be managed using inflation",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20220305",
             "status": "Successfully Completed / Full Provision Awarded"
           },

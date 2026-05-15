@@ -3,24 +3,24 @@
   "display_name": "Richard Chu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 25,
-    "total_tdg_provisioned": 2160.0,
+    "total_tdg_provisioned": 51159.0,
     "date_range": {
       "earliest": "20210901",
       "latest": "20220605"
     },
     "source": {
       "contributor_name": "Richard Chu",
-      "generated_date": "2026-05-14T22:18:14.460351",
+      "generated_date": "2026-05-14T22:21:50.678182",
       "summary": {
         "total_contributions": 25,
-        "total_tdg_provisioned": 2160.0,
-        "total_tdg_issued": 27743.0,
+        "total_tdg_provisioned": 51159.0,
+        "total_tdg_issued": 30243.0,
         "projects": [],
         "date_range": {
           "earliest": "20210901",
@@ -29,8 +29,8 @@
       },
       "analysis": {
         "total_contributions": 25,
-        "total_tdg_provisioned": 2160.0,
-        "total_tdg_issued": 27743.0,
+        "total_tdg_provisioned": 51159.0,
+        "total_tdg_issued": 30243.0,
         "projects": [],
         "rubric_categories": {
           "10 : Build Game - Strategy - Participated in voting on an online Poll": 1
@@ -43,14 +43,14 @@
           {
             "description": "Contributed key insight on just focusing on large cap and mega cap companies that are hard for individual funds to manipulate",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "20210901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Landing page code implementation",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "20210901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -64,42 +64,42 @@
           {
             "description": "Implementation of ReactJs frontend foundations",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20210901",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-112 Sell off dashboard mobile listing view - Implementation",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211229",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Migrate NavBar over to ReatJS",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20211229",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "PDT-90: Dashboard engineering implementations - sell off dashboard",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20211229",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Dashboard engineering implementations - holdings dashboard",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "Dashboard engineering implementations - topic view",
             "project": "",
-            "tdg": 0,
+            "tdg": 1333.0,
             "date": "",
             "status": "Proposed"
           },
@@ -120,42 +120,42 @@
           {
             "description": "PDT-56 - Legal disclaimer prompt when user visits the large dip sell off page",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "20210906",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "In product onboarding UX prompts for user tutorial - V1",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Proposed"
           },
           {
             "description": "PDT-104:  Allow users the ability to save API key, API secret and pass phrase to their account",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "PDT-95:  Allow users to link their account to more than one brokerage account",
             "project": "",
-            "tdg": 0,
+            "tdg": 2500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "PDT-87:  Allow users the ability to switch between brokerage accounts - Frontend",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "",
             "status": "Work in Progress"
           },
           {
             "description": "PDT-88: Allow users to set the cash balance when in paper trading mode",
             "project": "",
-            "tdg": 0,
+            "tdg": 1500.0,
             "date": "",
             "status": "Work in Progress"
           },
@@ -176,7 +176,7 @@
           {
             "description": "WHY NOW: Why does this product need to exist? Why purpose does it serve? Why would someone use this? And why is it the right time to build it now?",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220115",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -197,14 +197,14 @@
           {
             "description": "Gamification: start with PvE. Quest and level up for tokens. Thereafter establish leader board and start implementing PvP.",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20220128",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Landing page integration",
             "project": "",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "",
             "status": "Work in Progress"
           },

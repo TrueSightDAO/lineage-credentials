@@ -3,23 +3,23 @@
   "display_name": "Matheus Reis",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:18:14Z",
+  "generated_at": "2026-05-15T05:21:51Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
   "dao_contributions": {
     "total_contributions": 180,
-    "total_tdg_provisioned": 12893.06,
+    "total_tdg_provisioned": 21908.650000000038,
     "date_range": {
       "earliest": "20230923",
       "latest": "20260316"
     },
     "source": {
       "contributor_name": "Matheus Reis",
-      "generated_date": "2026-05-14T22:18:14.317668",
+      "generated_date": "2026-05-14T22:21:50.537975",
       "summary": {
         "total_contributions": 180,
-        "total_tdg_provisioned": 12893.06,
+        "total_tdg_provisioned": 21908.650000000038,
         "total_tdg_issued": 29692.860000000037,
         "projects": [
           "20250617_agroverse",
@@ -38,7 +38,7 @@
       },
       "analysis": {
         "total_contributions": 180,
-        "total_tdg_provisioned": 12893.06,
+        "total_tdg_provisioned": 21908.650000000038,
         "total_tdg_issued": 29692.860000000037,
         "projects": [
           "20250617_agroverse",
@@ -203,7 +203,7 @@
           {
             "description": "I spent R$2.302,09 hosting Robert's crew during the Chocolat Festival's week seeking for Cocoa butter",
             "project": "TrueSight DAO",
-            "tdg": 0,
+            "tdg": 2302.09,
             "date": "20240911",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -231,7 +231,7 @@
           {
             "description": "Spent about 45 minutes between April 24th and April 27th on e-mail communications with Robert Sikes.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240724",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -259,14 +259,14 @@
           {
             "description": "I spent $1,713.50 US dollars on my roadtrip plane ticket to Brazil to take Robert to meet the cooperative operations.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 1713.5,
             "date": "20240724",
             "status": "Successfully Completed / Full Provision Awarded"
           },
           {
             "description": "Spent 50 hours total (averaging 5 working hours per day) on a 10 day trip to Ilhéus to take Robert and his marketing employee Chip to meet the local cacao industry and the possibility of sourcing butter from Brazil. I left the United Stated on July 13th 2024 and landed back on July 22nd 2024.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 5000.0,
             "date": "20240724",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -322,7 +322,7 @@
           {
             "description": "Spent 10 minutes creating a WhatsApp group and introducing Mitale to Gary for tax legal services in Brazil and supplier for the sugar demand.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240726",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -343,7 +343,7 @@
           {
             "description": "I spent five minutes talking to CIC guys",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240730",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -399,7 +399,7 @@
           {
             "description": "I spent 15 minutes signing the assurance letter",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20240911",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -588,7 +588,7 @@
           {
             "description": "This week, I spent two hours going to the SAC to obtain documentation from the Federal Revenue to enable my registration in SISCOMEX. I also spent a total of 3 hours visiting the accountant on Monday, Tuesday, and Thursday to gather all the necessary documents required for the registration process on the SISCOMEX website.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241013",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -644,7 +644,7 @@
           {
             "description": "just payed R$35 to CIC for extra termic boxes. Isopropyl",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241025",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -658,7 +658,7 @@
           {
             "description": "I spent five minutes talking to CIC guys and scheduling the packages picking up.",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241025",
             "status": "Successfully Completed / Full Provision Awarded"
           },
@@ -728,7 +728,7 @@
           {
             "description": "The second shipment cost R$967,05",
             "project": "Agroverse",
-            "tdg": 0,
+            "tdg": 0.0,
             "date": "20241106",
             "status": "Successfully Completed / Full Provision Awarded"
           },

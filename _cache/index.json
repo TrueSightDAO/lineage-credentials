@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T04:06:22Z",
+  "generated_at": "2026-05-15T04:23:25Z",
   "count": 2,
   "members": [
     {
@@ -11,7 +11,7 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T04:06:22Z"
+      "last_updated": "2026-05-15T04:23:24Z"
     },
     {
       "slug": "fatima-toledo",
@@ -22,7 +22,7 @@
       "primary_program": null,
       "has_dao_contributions": true,
       "has_elective_records": false,
-      "last_updated": "2026-05-15T04:06:22Z"
+      "last_updated": "2026-05-15T04:23:24Z"
     }
   ]
 }

@@ -1,6 +1,10 @@
 # @vinibitencourt
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+@vinibitencourt contributed 10 hours of human effort to Agroverse and TrueSight DAO between September 2024 and March 2025, earning recognition through the 100TDG For every 1 hour of human effort rubric. Their work focused exclusively on this category across both projects.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

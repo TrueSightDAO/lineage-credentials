@@ -3,7 +3,7 @@
   "display_name": "Doris Wang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Doris Wang",
-      "generated_date": "2026-05-14T22:41:01.040928",
+      "generated_date": "2026-05-14T23:32:56.810131",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 6100.0,
@@ -161,5 +161,12 @@
     "tdg_controlled": "6,100",
     "total_voting_power_pct": "0.26%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Doris Wang made four contributions to the TrueSight DAO in April 2022. She brought on an active contributor through the Bring Builders initiative (500 category, two instances), secured a successful tie-up with a channel partner in Partnerships / Business Development (5000 category), and brought on a passive observer (100 category).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "460592802b57347e7450b674a3047771fa0bb1a82faed5bc3a4987da65f9f2df",
+    "cached": false
+  }
 }

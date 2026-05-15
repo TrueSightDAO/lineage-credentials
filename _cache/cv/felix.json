@@ -3,7 +3,7 @@
   "display_name": "Felix",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Felix",
-      "generated_date": "2026-05-14T22:41:01.174468",
+      "generated_date": "2026-05-14T23:32:56.947246",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 325.0,
@@ -170,5 +170,12 @@
     "tdg_controlled": "325",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Felix contributed to TrueSight DAO across four activities from June 2022 to August 2025, including projects 20250917_beerhall, Edgar, and TrueSight DAO itself. His efforts centered on Build Game participation, with one suggestion for user experience improvements, one hour of human effort rewarded at 100 TDG, and attendance at a FaceTime strategy meeting for 30 minutes.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "638e14615f4519391ea04d3242d94f62401490566e1258ce6b47ac7220b40057",
+    "cached": false
+  }
 }

@@ -1,6 +1,10 @@
 # @itz_eazyboy
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+@itz_eazyboy contributed to TrueSight DAO with 8 entries from August 2024 to September 2025, primarily through the 100TDG For every 1 hour of human effort category (7 contributions) and one instance of -1TDG For every 1USDT sent.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

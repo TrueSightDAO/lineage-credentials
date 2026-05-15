@@ -1,6 +1,10 @@
 # Neil Maxwell
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Neil Maxwell contributed to Agroverse, Cypher Defense, Rotten Radish, and TrueSight DAO from August 2022 to March 2024. His efforts centered on recruitment and human input, with four instances of bringing on active contributors and three hours of effort qualifying for 100 TDG each. He also engaged in Build Game strategy work, including one idea suggestion without implementation details, one review with a clear specific improvement, and participation in an online poll vote.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

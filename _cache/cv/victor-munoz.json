@@ -3,7 +3,7 @@
   "display_name": "Victor Munoz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Victor Munoz",
-      "generated_date": "2026-05-14T22:41:02.109908",
+      "generated_date": "2026-05-14T23:32:57.960370",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 7750.0,
@@ -162,5 +162,12 @@
     "tdg_controlled": "5,250",
     "total_voting_power_pct": "0.22%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Victor Munoz contributed to the DAO in May 2022 with four activities. He brought on two resource owners through the Bring Builders category. In Build Game, he reviewed a proposed strategy and suggested a clear and specific improvement, and crafted content for an entire marketing campaign.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "45c177739bfc4fcc8df3b27d6667bfdc61ac61bc3bcfdff608ecfe696291d502",
+    "cached": false
+  }
 }

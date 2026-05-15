@@ -3,7 +3,7 @@
   "display_name": "Nelson",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Nelson",
-      "generated_date": "2026-05-14T22:41:01.842108",
+      "generated_date": "2026-05-14T23:32:57.656056",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 2675.0,
@@ -240,5 +240,12 @@
     "tdg_controlled": "2,675",
     "total_voting_power_pct": "0.11%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Nelson contributed to Cypher Defense and TrueSight DAO from September 2022 to December 2022, with contributions primarily in Build Game user experience through UI design for single features or components (four instances), alongside validating user behaviors (one instance). He also participated in governance by raising a concern about an existing minor issue (one instance) and reviewed a proposed strategy in Build Game, suggesting areas to watch out for (one instance).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "59a96c0fa51dd12efe734bdf56c5d562ad4f7e62c8116e1cb89349df564c4b42",
+    "cached": false
+  }
 }

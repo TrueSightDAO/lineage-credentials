@@ -3,7 +3,7 @@
   "display_name": "Shena Davenport",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Shena Davenport",
-      "generated_date": "2026-05-14T22:41:01.977141",
+      "generated_date": "2026-05-14T23:32:57.813685",
       "summary": {
         "total_contributions": 19,
         "total_tdg_provisioned": 8515.279999999999,
@@ -528,5 +528,12 @@
     "tdg_controlled": "8,660",
     "total_voting_power_pct": "0.37%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Shena Davenport contributed to Agroverse, TrueSight DAO, and telegram_chatlog over the period from August 2024 to March 2026, with 19 total contributions primarily in the category of 100 TDG for every 1 hour of human effort (12 instances), alongside 1 TDG for every 1 USD of liquidity injected (7 instances). She is currently a member of the Board of Governors.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "58b1016e39d73c082e584440e4eaea31c3a28a8540e190e7750123f2b80cffd8",
+    "cached": false
+  }
 }

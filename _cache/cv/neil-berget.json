@@ -3,7 +3,7 @@
   "display_name": "Neil Berget",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Neil Berget",
-      "generated_date": "2026-05-14T22:41:01.836751",
+      "generated_date": "2026-05-14T23:32:57.648508",
       "summary": {
         "total_contributions": 11,
         "total_tdg_provisioned": 19150.0,
@@ -318,5 +318,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Neil Berget contributed to the TrueSight DAO between December 2021 and January 2022, with 11 contributions primarily in community operations and early partner outreach for Agroverse and Sun Mint initiatives. He engaged regularly in Telegram discussions and assisted with content curation to support the cacao supply chain and regenerative reforestation efforts. A notable accomplishment was his role in coordinating initial outreach to potential collaborators during the DAO's formative period.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6ee0d6c166812928065fd5380c2dc9f97be6065eab01fb6f1df81409c1a11d9c",
+    "cached": false
+  }
 }

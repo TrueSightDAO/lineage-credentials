@@ -3,7 +3,7 @@
   "display_name": "Glenn Kowalsky",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Glenn Kowalsky",
-      "generated_date": "2026-05-14T22:41:01.495611",
+      "generated_date": "2026-05-14T23:32:57.272985",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 100.0,
@@ -115,5 +115,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Glenn Kowalsky made two contributions to the Sun Mint project on a single day in February 2023. Both were suggestions for Build Game strategy ideas without proposed implementation details.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "146c8587dd7c67bc4b6538e48ab9c78693e72216680eebba8922c180f5f84315",
+    "cached": false
+  }
 }

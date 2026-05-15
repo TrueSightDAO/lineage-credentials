@@ -3,7 +3,7 @@
   "display_name": "Sacred Earth Farms",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Sacred Earth Farms",
-      "generated_date": "2026-05-14T22:41:01.950606",
+      "generated_date": "2026-05-14T23:32:57.777738",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 166.67000000000002,
@@ -115,5 +115,12 @@
     "tdg_controlled": "167",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Sacred Earth Farms made two contributions to the DAO, both in the telegram_chatlog project under the category of 100TDG for every 1 hour of human effort, spanning August 28 to September 4, 2025.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "3f40fe7e7ff86b9427fad8812dd49923cf799549a4554d580c6ae5c313f41948",
+    "cached": false
+  }
 }

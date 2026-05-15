@@ -3,7 +3,7 @@
   "display_name": "Franck Nouyrigat",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Franck Nouyrigat",
-      "generated_date": "2026-05-14T22:41:01.183937",
+      "generated_date": "2026-05-14T23:32:56.961372",
       "summary": {
         "total_contributions": 38,
         "total_tdg_provisioned": 24435.0,
@@ -990,5 +990,12 @@
     "tdg_controlled": "23,835",
     "total_voting_power_pct": "1.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Franck Nouyrigat contributed 38 times to TrueSight DAO from January 2022 to February 2024, primarily in the Build Game strategy category through reference material contributions, strategy reviews with improvements or cautions, and poll participation. He brought on passive observers and a key opinion leader, and suggested fundraising approaches for liquidity. Notable accomplishments include onboarding a key opinion leader and providing strategic extensions to reference materials.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7c9af249d53d19312536bdf05274d6fb35eb4ed3ff3ff7cc0cc00597e877550c",
+    "cached": false
+  }
 }

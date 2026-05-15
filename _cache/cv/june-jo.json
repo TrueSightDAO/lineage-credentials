@@ -3,7 +3,7 @@
   "display_name": "June Jo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "June Jo",
-      "generated_date": "2026-05-14T22:41:01.641128",
+      "generated_date": "2026-05-14T23:32:57.438261",
       "summary": {
         "total_contributions": 11,
         "total_tdg_provisioned": 2000.0,
@@ -333,5 +333,12 @@
     "tdg_controlled": "2,000",
     "total_voting_power_pct": "0.09%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "June Jo contributed 11 hours of human effort to TrueSight DAO and telegram_chatlog, earning recognition through the 100TDG For every 1 hour of human effort rubric across her active period from January 13, 2025, to August 19, 2025.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e265d2e005e0bc68bc4a154d78337141599ac754ccc1fd843f09e20af3012ce9",
+    "cached": false
+  }
 }

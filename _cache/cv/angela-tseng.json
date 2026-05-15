@@ -3,7 +3,7 @@
   "display_name": "Angela Tseng",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Angela Tseng",
-      "generated_date": "2026-05-14T22:41:00.844879",
+      "generated_date": "2026-05-14T23:32:56.603669",
       "summary": {
         "total_contributions": 11,
         "total_tdg_provisioned": 1075.01,
@@ -332,5 +332,12 @@
     "tdg_controlled": "1,117",
     "total_voting_power_pct": "0.05%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Angela Tseng contributed to the TrueSight DAO over 11 instances primarily through the '100TDG For every 1 hour of human effort' category, logging 10 hours of effort in telegram_chatlog activities from April 12 to April 23, 2025. Her work focused on chat-based engagement during this short active period.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6c1a874a7356d753b909b2a55d5f22ab2895152d1871b8cec516c10f3240f7be",
+    "cached": false
+  }
 }

@@ -1,6 +1,10 @@
 # Sujit Nair
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Sujit Nair made six contributions to TrueSight DAO and the 20250617_beerhall project from June 2021 to April 2025, with all efforts falling under the 100TDG For every 1 hour of human effort category. He completed five such contributions, logging a total of five hours of human effort.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

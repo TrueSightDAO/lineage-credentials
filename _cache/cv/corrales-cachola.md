@@ -1,6 +1,10 @@
 # Corrales Cachola
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Corrales Cachola made one contribution to the TrueSight DAO in October 2020 by resharing a short media text post for the Cypher Defense project under the Build Game - Marketing category.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

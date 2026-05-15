@@ -3,7 +3,7 @@
   "display_name": "Peace on fifth",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Peace on fifth",
-      "generated_date": "2026-05-14T22:41:01.881785",
+      "generated_date": "2026-05-14T23:32:57.698225",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 8.33,
@@ -91,5 +91,12 @@
     "tdg_controlled": "8",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Peace on fifth made one contribution to TrueSight DAO on February 20, 2025, in the category of 100TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6cebb0821d08b92ce38f8ac9787795881ada29246435fc5f6a47a9a8f203de47",
+    "cached": false
+  }
 }

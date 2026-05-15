@@ -3,7 +3,7 @@
   "display_name": "Paul Liu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Paul Liu",
-      "generated_date": "2026-05-14T22:41:01.877958",
+      "generated_date": "2026-05-14T23:32:57.691754",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Paul Liu made one contribution to the DAO in August 2022 by attending a FaceTime meeting for the MoonShot project's Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8ea44afdb882bc29ff604f942b02fd570154776af888a9478856a1f467052d76",
+    "cached": false
+  }
 }

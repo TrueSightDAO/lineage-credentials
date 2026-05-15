@@ -1,6 +1,10 @@
 # Ken Nim
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Ken Nim contributed 47 times to TrueSight DAO projects including 20250617_beerhall, Agroverse, TrueSight DAO, and telegram_chatlog from November 2022 to November 2025. His contributions primarily consist of time-based efforts logged under '100TDG For every 1 hour of human effort' (26 instances), supplemented by strategic inputs such as suggesting standalone insights for game strategy (7) and reviewing proposals with cautions (1). He also handled practical tasks like paying USD expenses for the DAO (2), creating social media blasts for events (1), setting up a full online conversion funnel for an event (1), and bringing on a resource owner (1).
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

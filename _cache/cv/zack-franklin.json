@@ -3,7 +3,7 @@
   "display_name": "Zack Franklin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Zack Franklin",
-      "generated_date": "2026-05-14T22:41:02.174710",
+      "generated_date": "2026-05-14T23:32:58.035141",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Zack Franklin contributed once to the Agroverse project on September 28, 2023. His contribution was in the Build Game category, where he reviewed a proposed strategy and suggested a clear and specific actionable step.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ec6c0543fff6fe7cdab65c19335efbc69cfa1298627bf04c304ddc9be590d0c4",
+    "cached": false
+  }
 }

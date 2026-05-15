@@ -3,7 +3,7 @@
   "display_name": "Josue (Oscar) Rodriguez",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Josue (Oscar) Rodriguez",
-      "generated_date": "2026-05-14T22:41:01.632612",
+      "generated_date": "2026-05-14T23:32:57.428881",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "1",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Josue (Oscar) Rodriguez made one contribution to TrueSight DAO on November 7, 2023, in the Build Game - Strategy category by providing a hyperlink to a specific concept as reference material.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b82c54aa38ccb7af7e4f28a4711271cf8c2ae7d3db4e5dc6068afc068eb51962",
+    "cached": false
+  }
 }

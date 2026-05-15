@@ -3,7 +3,7 @@
   "display_name": "Vishvajit",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vishvajit",
-      "generated_date": "2026-05-14T22:41:02.121746",
+      "generated_date": "2026-05-14T23:32:57.971900",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 1235.0,
@@ -165,5 +165,12 @@
     "tdg_controlled": "1,235",
     "total_voting_power_pct": "0.05%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Vishvajit contributed to the DAO with four entries focused on the MarketMonocle project from October 2021 to July 2022. He attended FaceTime meetings for Build Game - Strategy every 30 minutes on one occasion and reviewed proposed strategies, suggesting against certain actions or areas to watch out for on another.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "071095930d9b3ea6566358fd580d462a0bcf7b4e65714bc2c3f67861927164a6",
+    "cached": false
+  }
 }

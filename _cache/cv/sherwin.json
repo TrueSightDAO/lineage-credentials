@@ -3,7 +3,7 @@
   "display_name": "Sherwin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Sherwin",
-      "generated_date": "2026-05-14T22:41:01.980088",
+      "generated_date": "2026-05-14T23:32:57.817151",
       "summary": {
         "total_contributions": 9,
         "total_tdg_provisioned": 2100.0,
@@ -277,5 +277,12 @@
     "tdg_controlled": "1,600",
     "total_voting_power_pct": "0.07%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Sherwin made 9 contributions to the TrueSight DAO on a single day in February 2022. Activity occurred entirely within a one-day active period from 20220224 to 20220224.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1a1ee77f37617df7cb9aa2b014daa65c502742105d3c947af22a82a3e0ade25d",
+    "cached": false
+  }
 }

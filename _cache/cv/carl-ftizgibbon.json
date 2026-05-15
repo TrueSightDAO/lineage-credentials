@@ -3,7 +3,7 @@
   "display_name": "Carl Ftizgibbon",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Carl Ftizgibbon",
-      "generated_date": "2026-05-14T22:41:00.959282",
+      "generated_date": "2026-05-14T23:32:56.718144",
       "summary": {
         "total_contributions": 22,
         "total_tdg_provisioned": 1557.0,
@@ -605,5 +605,12 @@
     "tdg_controlled": "1,557",
     "total_voting_power_pct": "0.07%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Carl Ftizgibbon contributed to Agroverse and TrueSight DAO from January 2021 to February 2024, with contributions primarily in commerce operations including vendor quotations, sourcing, and assessments. He provided six quotations from vendors, sourced items for vendors on four occasions, and supplied details for two SKUs while assessing and qualifying one vendor. Carl also participated in Build Game strategy through three Facetime meetings, two vendor calls, one online poll vote, and one strategy review where he suggested areas to watch out for.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ce1f62c69936cc51f68a66fd44837f91ae944792407556e1d61c72ee0552782c",
+    "cached": false
+  }
 }

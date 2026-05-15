@@ -3,7 +3,7 @@
   "display_name": "Ramona Wong",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ramona Wong",
-      "generated_date": "2026-05-14T22:41:01.915956",
+      "generated_date": "2026-05-14T23:32:57.733799",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 155.0,
@@ -186,5 +186,12 @@
     "tdg_controlled": "155",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ramona Wong contributed to the DAO in June 2022 with five entries primarily in Build Game - Strategy, including two instances of contributing reference material via hyperlinks to online resources, one review where she suggested against a proposed strategy or highlighted areas to watch, and one independent reiteration of a pending decision signal. She also raised a concern in Governance about a potential future issue in the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4094c3e8f532d0176a7bfff61934101427aaf0e40c7d33d15c337687a4020be8",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Nato",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Nato",
-      "generated_date": "2026-05-14T22:41:01.830380",
+      "generated_date": "2026-05-14T23:32:57.640099",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 33.33,
@@ -91,5 +91,12 @@
     "tdg_controlled": "33",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Nato made one contribution to TrueSight DAO on December 26, 2024, earning 100 TDG for one hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6b8fc4b7f918a08c51a0c45187ef25fba6b7d268b33b7dd00bc72fa2130e9535",
+    "cached": false
+  }
 }

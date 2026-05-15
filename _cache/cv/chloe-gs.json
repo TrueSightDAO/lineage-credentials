@@ -3,7 +3,7 @@
   "display_name": "Chloé GS",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Chloé GS",
-      "generated_date": "2026-05-14T22:41:00.974630",
+      "generated_date": "2026-05-14T23:32:56.731844",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 51.67,
@@ -115,5 +115,12 @@
     "tdg_controlled": "58",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Chloé GS made two contributions to TrueSight DAO on October 6, 2024, both under the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b37bd6b258dd664700b8cb49c94371599cf7ea9a116a63d2816076f1fba8ea51",
+    "cached": false
+  }
 }

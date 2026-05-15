@@ -3,7 +3,7 @@
   "display_name": "Matthias Gösser",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Matthias Gösser",
-      "generated_date": "2026-05-14T22:41:01.787111",
+      "generated_date": "2026-05-14T23:32:57.587690",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 250.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "0",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Matthias Gösser contributed to the Agroverse project by bringing on an active contributor through the Bring Builders category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f8a8366092de4120d4eb81e251e48f917e522287b6be4ad16938f4ac2fded88f",
+    "cached": false
+  }
 }

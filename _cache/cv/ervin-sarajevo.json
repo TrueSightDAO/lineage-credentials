@@ -3,7 +3,7 @@
   "display_name": "Ervin Sarajevo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ervin Sarajevo",
-      "generated_date": "2026-05-14T22:41:01.134654",
+      "generated_date": "2026-05-14T23:32:56.911499",
       "summary": {
         "total_contributions": 8,
         "total_tdg_provisioned": 1180.0,
@@ -259,5 +259,12 @@
     "tdg_controlled": "1,180",
     "total_voting_power_pct": "0.05%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ervin Sarajevo contributed to the DAO's Build Game in May 2022, with contributions primarily in strategy. He independently reiterated a signal associated with a pending decision three times, reviewed proposed strategies and suggested against certain actions or areas to watch out for twice, contributed reference material via a link once, and reviewed a proposed strategy with a clear and specific improvement once. He also validated the existence of a user behavior in the User Experience category once.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "5bccb3f34e44563dda0affa9c71b86e0f3949cded071e3486573e2d27150f9f5",
+    "cached": false
+  }
 }

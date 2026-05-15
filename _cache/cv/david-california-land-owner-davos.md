@@ -1,6 +1,10 @@
 # David - California Land Owner Davos
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+David - California Land Owner Davos contributed three hours of human effort to the Sun Mint project on February 6, 2024, qualifying under the 100TDG For every 1 hour of human effort category.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

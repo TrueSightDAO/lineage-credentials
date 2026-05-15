@@ -3,7 +3,7 @@
   "display_name": "Richard Chu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Richard Chu",
-      "generated_date": "2026-05-14T22:41:01.932944",
+      "generated_date": "2026-05-14T23:32:57.755300",
       "summary": {
         "total_contributions": 25,
         "total_tdg_provisioned": 51159.0,
@@ -665,5 +665,12 @@
     "tdg_controlled": "30,243",
     "total_voting_power_pct": "1.29%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Richard Chu contributed to the DAO from September 2021 to June 2022, with 25 total contributions. His top category was Build Game - Strategy, where he participated in voting on an online poll.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f9d63283de64f26264ccb2bf6072fe21a46c88217336f0e546ca4722d48f81f0",
+    "cached": false
+  }
 }

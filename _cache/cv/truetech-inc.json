@@ -3,7 +3,7 @@
   "display_name": "TrueTech Inc",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "TrueTech Inc",
-      "generated_date": "2026-05-14T22:41:02.064712",
+      "generated_date": "2026-05-14T23:32:57.916871",
       "summary": {
         "total_contributions": 209,
         "total_tdg_provisioned": 28766.239999999976,
@@ -5092,5 +5092,12 @@
     "tdg_controlled": "4,964",
     "total_voting_power_pct": "0.21%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "TrueTech Inc has made 209 contributions to the TrueSight DAO ecosystem across Agroverse, Sun Mint, and TrueSight DAO projects from July 2022 to January 2026. Their work primarily involves bringing liquidity by paying DAO expenses in USD (74 contributions), injecting liquidity at 1 TDG per 1 USD (70), and providing human effort valued at 100 TDG per hour (57), along with receiving USDT (5) and minor outflows (-3). A notable accomplishment is sustaining DAO operations through consistent USD funding and effort over three and a half years.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "bacf937f263618edf90b13bce21f718b810045c024504facaed6c31c5aa9d80d",
+    "cached": false
+  }
 }

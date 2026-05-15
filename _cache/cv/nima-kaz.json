@@ -3,7 +3,7 @@
   "display_name": "Nima Kaz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Nima Kaz",
-      "generated_date": "2026-05-14T22:41:01.855576",
+      "generated_date": "2026-05-14T23:32:57.669087",
       "summary": {
         "total_contributions": 18,
         "total_tdg_provisioned": 1527.6600000000003,
@@ -507,5 +507,12 @@
     "tdg_controlled": "1,528",
     "total_voting_power_pct": "0.07%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Nima Kaz contributed to multiple TrueSight DAO projects including 20250617_beerhall, Agroverse, Recurring Tokenizations, and the DAO itself over the period from August 30, 2024, to September 7, 2025. His efforts primarily focused on human labor tracked via the '100TDG For every 1 hour of human effort' category with 10 instances, alongside providing liquidity through '1TDG For every 1 USD of liquidity injected' with 7 instances. A notable accomplishment includes a singular high-effort contribution in the human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "476b5b86deb30845b4405b972692ed8712c278a8fca1746e825589a267154edf",
+    "cached": false
+  }
 }

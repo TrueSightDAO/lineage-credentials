@@ -1,6 +1,10 @@
 # @the2xld
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+@the2xld contributed 28 times to Agroverse and TrueSight DAO from August 2024 to December 2024, with contributions primarily in the category of 100 TDG for every 1 hour of human effort. Their work focused on logging hours of effort across these projects, totaling 27 instances in the main category and one additional matching contribution.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

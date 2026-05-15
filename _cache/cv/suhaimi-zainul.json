@@ -3,7 +3,7 @@
   "display_name": "Suhaimi Zainul",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Suhaimi Zainul",
-      "generated_date": "2026-05-14T22:41:02.005020",
+      "generated_date": "2026-05-14T23:32:57.845137",
       "summary": {
         "total_contributions": 28,
         "total_tdg_provisioned": 5925.0,
@@ -749,5 +749,12 @@
     "tdg_controlled": "5,875",
     "total_voting_power_pct": "0.25%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Suhaimi Zainul contributed to Agroverse and Cypher Defense projects from March 2022 to August 2023, with contributions primarily in the Build Game Strategy category. He reviewed proposed strategies and suggested clear, specific improvements on four occasions, provided reference material links three times, and offered cautions against certain actions or areas to watch three times. Suhaimi contributed strategy extensions with reference materials twice, participated in one online poll vote, and delivered a full-scale strategy with rollout action plan to grow the DAO once. His work focused on strategic review, reference provision, and planning.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8f80c3daa43f94bd0568828c9d51d5950658dfdec6c85fe0886adfec47c057ff",
+    "cached": false
+  }
 }

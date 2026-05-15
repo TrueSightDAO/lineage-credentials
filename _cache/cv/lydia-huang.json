@@ -3,7 +3,7 @@
   "display_name": "Lydia Huang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Lydia Huang",
-      "generated_date": "2026-05-14T22:41:01.754421",
+      "generated_date": "2026-05-14T23:32:57.552370",
       "summary": {
         "total_contributions": 10,
         "total_tdg_provisioned": 4825.0,
@@ -305,5 +305,12 @@
     "tdg_controlled": "1,075",
     "total_voting_power_pct": "0.05%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Lydia Huang contributed to the TrueSight DAO from January 2022 to June 2022, with a total of 10 contributions primarily in the Build Game category. She reviewed proposed strategies, suggesting against certain actions or highlighting areas to watch out for. Her single recorded instance in this category involved providing such strategic feedback.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "97177c637c76a096e2c7cabd27f844e274fe204e0ede4e67072b2ddfb3607d74",
+    "cached": false
+  }
 }

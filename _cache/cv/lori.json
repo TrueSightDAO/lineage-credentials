@@ -3,7 +3,7 @@
   "display_name": "Lori",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Lori",
-      "generated_date": "2026-05-14T22:41:01.736958",
+      "generated_date": "2026-05-14T23:32:57.537127",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 2610.0,
@@ -143,5 +143,12 @@
     "tdg_controlled": "0",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Lori contributed to the DAO across Agroverse and Cypher Defense projects from October 2020 to March 2022. Her contributions include participating in voting on an online poll for Build Game - Strategy and making a simple introduction with potential channel buyer or distributor for Partnerships / Business Development.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f7d8dba6e1ff113bb02df43b29e9477e418869c832e93b888790201aeaafe93f",
+    "cached": false
+  }
 }

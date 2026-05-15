@@ -3,7 +3,7 @@
   "display_name": "Karin Lanz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Karin Lanz",
-      "generated_date": "2026-05-14T22:41:01.647652",
+      "generated_date": "2026-05-14T23:32:57.444035",
       "summary": {
         "total_contributions": 31,
         "total_tdg_provisioned": 5167.36,
@@ -830,5 +830,12 @@
     "tdg_controlled": "3,467",
     "total_voting_power_pct": "0.15%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Karin Lanz contributed to TrueSight DAO projects including 20250617_beerhall, Agroverse, MoNYtyze L1 Protocol, and Build Game - Strategy, with primary focus on the 100TDG For every 1 hour of human effort rubric (11 contributions). She participated in Facetime meetings (4), provided reference materials via hyperlinks (3), voted in online polls (2), reviewed and suggested improvements to proposed strategies (2), cautioned against certain actions (2), and contributed a full-scale strategy with rollout action plan (1). Her activity spanned from October 2020 to April 2025.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "11ff5e8785b52730e9add9c42018b05dea4e0cf8acbf7542512b93461fe8dfa5",
+    "cached": false
+  }
 }

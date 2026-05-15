@@ -3,7 +3,7 @@
   "display_name": "Walter Punsapy",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Walter Punsapy",
-      "generated_date": "2026-05-14T22:41:02.133848",
+      "generated_date": "2026-05-14T23:32:57.987081",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 1000.0,
@@ -184,5 +184,12 @@
     "tdg_controlled": "1,000",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Walter Punsapy made five contributions to the TrueSight DAO in March 2022. His work focused on the Build Game strategy category, where he reviewed a proposed strategy and suggested against pursuing certain actions or areas to watch out for, and provided a clear and specific improvement to another proposed strategy.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "a7cdad6a600800c3f459d09b734b4062892fcc75922b5b3dcf5b43e51aa4b4f1",
+    "cached": false
+  }
 }

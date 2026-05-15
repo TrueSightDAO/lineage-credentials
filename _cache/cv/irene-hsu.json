@@ -3,7 +3,7 @@
   "display_name": "Irene Hsu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Irene Hsu",
-      "generated_date": "2026-05-14T22:41:01.535629",
+      "generated_date": "2026-05-14T23:32:57.323866",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 216.67000000000002,
@@ -117,5 +117,12 @@
     "tdg_controlled": "217",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Irene Hsu made two contributions to the DAO, both qualifying under the 100 TDG for every 1 hour of human effort category. These included work on the 20250917_beerhall project and telegram_chatlog.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "11d32eb4ddd93f3ba621d6f4a306b70951c193ab408a8416f1fdbd39010871d3",
+    "cached": false
+  }
 }

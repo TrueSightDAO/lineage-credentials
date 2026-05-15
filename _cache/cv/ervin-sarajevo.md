@@ -1,6 +1,10 @@
 # Ervin Sarajevo
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Ervin Sarajevo contributed to the DAO's Build Game in May 2022, with contributions primarily in strategy. He independently reiterated a signal associated with a pending decision three times, reviewed proposed strategies and suggested against certain actions or areas to watch out for twice, contributed reference material via a link once, and reviewed a proposed strategy with a clear and specific improvement once. He also validated the existence of a user behavior in the User Experience category once.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

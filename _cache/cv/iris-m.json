@@ -3,7 +3,7 @@
   "display_name": "Iris M",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Iris M",
-      "generated_date": "2026-05-14T22:41:01.537768",
+      "generated_date": "2026-05-14T23:32:57.326232",
       "summary": {
         "total_contributions": 8,
         "total_tdg_provisioned": 1535.0,
@@ -266,5 +266,12 @@
     "tdg_controlled": "1,535",
     "total_voting_power_pct": "0.07%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Iris M contributed to Agroverse and TrueSight DAO from July 2022 to September 2023, with contributions primarily in the Build Game - Strategy category. She attended FaceTime meetings every 30 minutes on two occasions, reviewed proposed strategies to suggest clear and specific improvements twice, and suggested against certain actions or areas to watch out for once. Additionally, Iris contributed reference material with ideas for strategy extensions, independently reiterated a pending decision signal, and provided a full-scale strategy along with a rollout action plan to grow the DAO, including overview and system logic.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "a3b422690e1228c844742b6f178b4a3b18f008399bf4b653ba182b668233000e",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Yuan Luo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Yuan Luo",
-      "generated_date": "2026-05-14T22:41:02.159314",
+      "generated_date": "2026-05-14T23:32:58.018592",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 5000.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "5,000",
     "total_voting_power_pct": "0.21%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Yuan Luo made one contribution to the DAO on January 5, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4724bdc95a8ef5a136e3439846f6e59fea8422f47055d074bb5e42423488603d",
+    "cached": false
+  }
 }

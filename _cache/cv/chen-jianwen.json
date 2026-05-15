@@ -3,7 +3,7 @@
   "display_name": "Chen JianWen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Chen JianWen",
-      "generated_date": "2026-05-14T22:41:00.972147",
+      "generated_date": "2026-05-14T23:32:56.729455",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 501.0,
@@ -115,5 +115,12 @@
     "tdg_controlled": "501",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Chen JianWen contributed to the Agroverse project with two entries from January 2022 to May 2023. His primary category was Build Game - Strategy, where he suggested a snippet of standalone insight associated with the project's work.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "df69c9281a9089b853129f5ae30fa31190e4f75cbc4cf38e122177f99f536205",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "@the2xld",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@the2xld",
-      "generated_date": "2026-05-14T22:41:00.758982",
+      "generated_date": "2026-05-14T23:32:56.508934",
       "summary": {
         "total_contributions": 28,
         "total_tdg_provisioned": 2259.9700000000003,
@@ -734,5 +734,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@the2xld contributed 28 times to Agroverse and TrueSight DAO from August 2024 to December 2024, with contributions primarily in the category of 100 TDG for every 1 hour of human effort. Their work focused on logging hours of effort across these projects, totaling 27 instances in the main category and one additional matching contribution.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "0ed1fc4c20d85d8fad0e2be996ef9a2148a4ac5cf36b7f4869f0c21aaa03cd1d",
+    "cached": false
+  }
 }

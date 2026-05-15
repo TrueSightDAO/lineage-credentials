@@ -3,7 +3,7 @@
   "display_name": "Zoran",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Zoran",
-      "generated_date": "2026-05-14T22:41:02.178379",
+      "generated_date": "2026-05-14T23:32:58.042874",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 6350.0,
@@ -138,5 +138,12 @@
     "tdg_controlled": "5,100",
     "total_voting_power_pct": "0.22%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Zoran contributed to the TrueSight DAO's Build Game across three categories from April 2022 to July 2022. He provided a full-scale strategy and rollout action plan to grow the DAO, offered suggestions for user experience improvements, and oversaw an entire marketing messaging campaign.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b2b75dd26bee516b5d25b1e5564cae92d878d9ff84ffa10ac891af7024f75d01",
+    "cached": false
+  }
 }

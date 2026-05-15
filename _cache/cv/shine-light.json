@@ -3,7 +3,7 @@
   "display_name": "Shine Light",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Shine Light",
-      "generated_date": "2026-05-14T22:41:01.982178",
+      "generated_date": "2026-05-14T23:32:57.819885",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 120.0,
@@ -116,5 +116,12 @@
     "tdg_controlled": "120",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Shine Light made two contributions to the DAO in June 2025, both tied to the 20250617_beerhall project. These included injecting liquidity, earning 1 TDG per USD provided, and one hour of human effort, earning 100 TDG per hour.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b2fd380846b8939080fd7c8541911d9ab80fc5dadf8e1c7e4e6a3546f8ef0409",
+    "cached": false
+  }
 }

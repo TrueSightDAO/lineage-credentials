@@ -3,7 +3,7 @@
   "display_name": "Dr Anita Lamprecht",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dr Anita Lamprecht",
-      "generated_date": "2026-05-14T22:41:01.044244",
+      "generated_date": "2026-05-14T23:32:56.812824",
       "summary": {
         "total_contributions": 49,
         "total_tdg_provisioned": 12642.0,
@@ -1269,5 +1269,12 @@
     "tdg_controlled": "7,642",
     "total_voting_power_pct": "0.33%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dr Anita Lamprecht contributed to Agroverse, Cypher Defense, and TrueSight DAO over two years, from October 2022 to October 2024. Her work centered on the Build Game - Strategy category, where she attended Facetime meetings every 30 minutes (8 contributions), provided hyperlink reference materials (7), participated in online polls (5), suggested ideas (3), contributed reference materials with strategy extension ideas (3), reviewed strategies with specific improvements (3), reiterated pending decision signals (3), and flagged areas to watch out for (3). Notable accomplishments include her reviews of proposed strategies with clear improvements and extensions grounded in referenced materials.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "0fc1bf24c7caa4995b501609a0c6f7b39a39efdeb7b4fc6af3303dd7ab90b420",
+    "cached": false
+  }
 }

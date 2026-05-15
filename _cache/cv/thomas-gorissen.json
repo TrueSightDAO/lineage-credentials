@@ -3,7 +3,7 @@
   "display_name": "Thomas Gorissen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Thomas Gorissen",
-      "generated_date": "2026-05-14T22:41:02.035300",
+      "generated_date": "2026-05-14T23:32:57.880062",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 1850.0,
@@ -229,5 +229,12 @@
     "tdg_controlled": "1,850",
     "total_voting_power_pct": "0.08%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Thomas Gorissen made 7 contributions to the TrueSight DAO between December 2021 and March 2022. His work focused on early community operations and outreach during the DAO's initial phase.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d570d248b47c846cff6d185632d190aaa888be9ccc23dbbc7f465182f8f2c28c",
+    "cached": false
+  }
 }

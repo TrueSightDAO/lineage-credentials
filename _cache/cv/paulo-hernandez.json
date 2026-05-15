@@ -3,7 +3,7 @@
   "display_name": "Paulo Hernandez",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Paulo Hernandez",
-      "generated_date": "2026-05-14T22:41:01.879751",
+      "generated_date": "2026-05-14T23:32:57.694444",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 225.0,
@@ -141,5 +141,12 @@
     "tdg_controlled": "225",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Paulo Hernandez made three contributions to TrueSight DAO, all categorized under 100 TDG for every 1 hour of human effort, spanning from July 2024 to September 2025. His work involved projects including TrueSight DAO and telegram_chatlog.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8aa212d2960cc22634f971637bf6abe49362960f4ae40e6f141e0c206bafdeb9",
+    "cached": false
+  }
 }

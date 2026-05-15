@@ -3,7 +3,7 @@
   "display_name": "Aléksa Mil",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Aléksa Mil",
-      "generated_date": "2026-05-14T22:41:00.820963",
+      "generated_date": "2026-05-14T23:32:56.573697",
       "summary": {
         "total_contributions": 35,
         "total_tdg_provisioned": 44820.0,
@@ -927,5 +927,12 @@
     "tdg_controlled": "44,820",
     "total_voting_power_pct": "1.91%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Aléksa Mil contributed to Agroverse, Cypher Defense, and TrueSight DAO from October 2020 to November 2023, with contributions primarily in strategy development and legal work. Aléksa provided a full-scale strategy and rollout action plan for DAO growth, including overview and system logic, and contributed reference materials with ideas for strategy extensions. Legal efforts focused on defining sections, paragraphs, and bullet points within legal documents. Aléksa also raised concerns about moderate issues in governance, reviewed proposed strategies with suggestions on risks, and reiterated pending decision signals.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ee0de40c0a8ea33e2499588462fda09938fd3bf83b8abcb70d74644986e98657",
+    "cached": false
+  }
 }

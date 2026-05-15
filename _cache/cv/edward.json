@@ -3,7 +3,7 @@
   "display_name": "Edward",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Edward",
-      "generated_date": "2026-05-14T22:41:01.084447",
+      "generated_date": "2026-05-14T23:32:56.859071",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 1350.0,
@@ -113,5 +113,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Edward contributed to the DAO in April 2022 with two entries in the Build Game - Strategy category. He submitted a full-scale strategy along with a rollout action plan to grow the DAO, and provided reference material via a link.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "798b0fd6996b69a470124ecf4ca7e5968e0a90f842f4ddef6088da2a73288d8c",
+    "cached": false
+  }
 }

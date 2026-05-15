@@ -3,7 +3,7 @@
   "display_name": "Elinor Janelle",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Elinor Janelle",
-      "generated_date": "2026-05-14T22:41:01.093955",
+      "generated_date": "2026-05-14T23:32:56.868473",
       "summary": {
         "total_contributions": 15,
         "total_tdg_provisioned": 4401.66,
@@ -434,5 +434,12 @@
     "tdg_controlled": "4,408",
     "total_voting_power_pct": "0.19%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Elinor Janelle contributed 15 times to TrueSight DAO projects including 20250617_beerhall, Agroverse, TrueSight DAO, and telegram_chatlog from May 2024 to August 2025. Her work primarily consisted of time-based efforts under the '100TDG For every 1 hour of human effort' category, totaling 15 hours across these initiatives. She logged 13 contributions in this category with a focus on Agroverse and DAO activities, alongside 2 additional hours in the same vein.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "49e9de543d3fc23d8f1ed82df48691f6a6a62b0267b9eec9561dd28ac804ed64",
+    "cached": false
+  }
 }

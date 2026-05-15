@@ -3,7 +3,7 @@
   "display_name": "Justine",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Justine",
-      "generated_date": "2026-05-14T22:41:01.644463",
+      "generated_date": "2026-05-14T23:32:57.441788",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 75.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "75",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Justine made one contribution to TrueSight DAO on January 3, 2025, earning 100 TDG for one hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d6a133c0e9f83dbcf69f693f06f22b95be1cd37488ac5be3e7430061c34c53c9",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Bruno Bethonico",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Bruno Bethonico",
-      "generated_date": "2026-05-14T22:41:00.949546",
+      "generated_date": "2026-05-14T23:32:56.707490",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 716.58,
@@ -165,5 +165,12 @@
     "tdg_controlled": "717",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Bruno Bethonico contributed four hours of human effort to TrueSight DAO projects, including 20250617_beerhall. His contributions fall entirely within the category of 100TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "3061a23cc473e928228fc73a6427a6e812a7ddb3aa6288f30af035219a5c68eb",
+    "cached": false
+  }
 }

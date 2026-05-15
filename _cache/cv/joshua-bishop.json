@@ -3,7 +3,7 @@
   "display_name": "Joshua Bishop",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Joshua Bishop",
-      "generated_date": "2026-05-14T22:41:01.628303",
+      "generated_date": "2026-05-14T23:32:57.423310",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1000.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "1,000",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Joshua Bishop made one contribution to the TrueSight DAO on September 20, 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e3b4c07425bd376731ada41dc779509e059f3d76d7a71e19a472128b6b566277",
+    "cached": false
+  }
 }

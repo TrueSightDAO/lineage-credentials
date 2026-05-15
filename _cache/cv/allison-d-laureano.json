@@ -3,7 +3,7 @@
   "display_name": "Allison D. Laureano",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Allison D. Laureano",
-      "generated_date": "2026-05-14T22:41:00.814772",
+      "generated_date": "2026-05-14T23:32:56.568140",
       "summary": {
         "total_contributions": 9,
         "total_tdg_provisioned": 306.1700000000001,
@@ -293,5 +293,12 @@
     "tdg_controlled": "319",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Allison D. Laureano contributed to the 20250617_beerhall, Agroverse, Sun Mint, and TrueSight DAO projects from August 2023 to May 2025. Her efforts primarily consisted of human effort tracked under the 100TDG per hour category, with four full-hour contributions and two additional shorter ones. She also provided one standalone insight for the Build Game strategy rubric and one offline commerce task lasting 30 minutes, along with reiterating a pending decision signal in the strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7aa75c6bccd5f5101fb9d89bee811d5602aa7a75d24f1745ae14068844894e18",
+    "cached": false
+  }
 }

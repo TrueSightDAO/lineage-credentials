@@ -1,6 +1,10 @@
 # Anne Charboneau
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Anne Charboneau contributed to the DAO's Build Game from September 2021 to April 2022, focusing on strategy and marketing elements. She provided reference material with ideas for strategy extensions, reviewed proposed strategies with clear improvements, participated in online polls, and created marketing messages using provided content. Her efforts centered on these targeted Build Game activities across four contributions.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

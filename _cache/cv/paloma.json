@@ -3,7 +3,7 @@
   "display_name": "Paloma",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Paloma",
-      "generated_date": "2026-05-14T22:41:01.875494",
+      "generated_date": "2026-05-14T23:32:57.687779",
       "summary": {
         "total_contributions": 19,
         "total_tdg_provisioned": 647.0800000000003,
@@ -533,5 +533,12 @@
     "tdg_controlled": "647",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Paloma contributed to multiple projects in the TrueSight DAO ecosystem, including 20250617_agroverse, 20250617_beerhall, Agroverse, TrueSight DAO, and telegram_chatlog, from August 30, 2024, to August 7, 2025. Her work primarily consisted of 17 instances of human effort logged under the 100 TDG per hour category, alongside single contributions of liquidity injection and one additional hour of effort. These efforts represent her involvement in the DAO's Agroverse and related initiatives.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "56fdd13732b5338f89c5d7763d1d2ea6df11fc9b048ee7f5d7aff1bd7ff2368e",
+    "cached": false
+  }
 }

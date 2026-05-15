@@ -3,7 +3,7 @@
   "display_name": "Orlantildes",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Orlantildes",
-      "generated_date": "2026-05-14T22:41:01.871660",
+      "generated_date": "2026-05-14T23:32:57.685322",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 24.990000000000002,
@@ -141,5 +141,12 @@
     "tdg_controlled": "25",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Orlantildes made three contributions to the DAO between March 19 and May 1, 2025, all under the 100 TDG for every 1 hour of human effort category. These efforts supported the 20250617_agroverse and 20250617_beerhall projects.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2d55b920789495b80aa67711eed56e495d26c21569f4845bcd7c4658f38b7332",
+    "cached": false
+  }
 }

@@ -1,6 +1,10 @@
 # Victor Munoz
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Victor Munoz contributed to the DAO in May 2022 with four activities. He brought on two resource owners through the Bring Builders category. In Build Game, he reviewed a proposed strategy and suggested a clear and specific improvement, and crafted content for an entire marketing campaign.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

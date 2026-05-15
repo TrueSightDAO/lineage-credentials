@@ -3,7 +3,7 @@
   "display_name": "Lan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Lan",
-      "generated_date": "2026-05-14T22:41:01.705418",
+      "generated_date": "2026-05-14T23:32:57.505813",
       "summary": {
         "total_contributions": 112,
         "total_tdg_provisioned": 71674.84000000004,
@@ -2790,5 +2790,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Lan has contributed to multiple TrueSight DAO projects including Agroverse, Sun Mint, Cypher Defense, Edgar, MoNYtyze L1 Protocol, Recurring Tokenizations, and TrueSight.Me, with activity spanning from October 2020 to April 2026. Their contributions primarily consist of injecting liquidity (33 instances), paying DAO expenses in USD (25 instances), and providing human effort (19 hours). Lan also brought on active contributors (8 instances), participated in strategy-building through FaceTime meetings (5 instances), online polls (4 instances), strategy reviews with improvements (4 instances), and reference materials (3 instances).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "56bfa55a1966e9654ab1ce35974c2392058b7fd48af9e369dbd5e4140c20be42",
+    "cached": false
+  }
 }

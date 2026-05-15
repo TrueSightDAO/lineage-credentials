@@ -1,6 +1,10 @@
 # Karin Lorez
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Karin Lorez contributed to Agroverse and TrueSight DAO with three entries in the Build Game - Strategy category. She attended Facetime meetings every 30 minutes, provided reference material with specific instructions for strategy extensions, and suggested a snippet of standalone insight related to ongoing work. Her activity spanned from May 30, 2023, to September 26, 2023.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -3,7 +3,7 @@
   "display_name": "Daniel Prime",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Daniel Prime",
-      "generated_date": "2026-05-14T22:41:01.003870",
+      "generated_date": "2026-05-14T23:32:56.765977",
       "summary": {
         "total_contributions": 16,
         "total_tdg_provisioned": 164.16,
@@ -452,5 +452,12 @@
     "tdg_controlled": "187",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Daniel Prime contributed 16 times to the DAO between April 14 and May 30, 2025, primarily through the telegram_chatlog project. His efforts focused on the '100TDG For every 1 hour of human effort' category, with 11 instances in the top rank and 5 additional contributions. He logged consistent hours of human effort during this active period.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2268a7c76e1f049b54fd644198732f70c472e5b73c96988d4239a5bcef0bb3b5",
+    "cached": false
+  }
 }

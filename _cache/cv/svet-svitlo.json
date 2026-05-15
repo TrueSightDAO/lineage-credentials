@@ -3,7 +3,7 @@
   "display_name": "Svet Svitlo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Svet Svitlo",
-      "generated_date": "2026-05-14T22:41:02.026374",
+      "generated_date": "2026-05-14T23:32:57.864470",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 60.0,
@@ -83,5 +83,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Svet Svitlo contributed once to TrueSight DAO on November 7, 2023, reviewing a proposed strategy in the Build Game and suggesting a clear, specific actionable step.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6793a454cf208aa8fa96ea147afb42bb1623598abc22df72e1bef0a83eccd617",
+    "cached": false
+  }
 }

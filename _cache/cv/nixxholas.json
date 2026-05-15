@@ -3,7 +3,7 @@
   "display_name": "@nixxholas",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@nixxholas",
-      "generated_date": "2026-05-14T22:41:00.749100",
+      "generated_date": "2026-05-14T23:32:56.500570",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 375.0,
@@ -112,5 +112,12 @@
     "tdg_controlled": "375",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@nixxholas contributed to the DAO in March 2022 with two engineering efforts on the Build Game project: advising on how to get around a bug and identifying a bug.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8c3121e365a85e58b09d53a0959173e909f8112256f780fb86111b585c891eeb",
+    "cached": false
+  }
 }

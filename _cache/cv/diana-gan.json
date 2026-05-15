@@ -3,7 +3,7 @@
   "display_name": "Diana Gan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Diana Gan",
-      "generated_date": "2026-05-14T22:41:01.033439",
+      "generated_date": "2026-05-14T23:32:56.802081",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Diana Gan made one contribution to the TrueSight DAO on March 2, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "cf884fd723b1bbf475a73337de360d0ca620b57eacf436ee9671d2c3062f41be",
+    "cached": false
+  }
 }

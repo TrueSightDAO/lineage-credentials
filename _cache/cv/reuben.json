@@ -3,7 +3,7 @@
   "display_name": "Reuben",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:24:50Z",
+  "generated_at": "2026-05-15T05:32:25Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Reuben",
-      "generated_date": "2026-05-14T22:21:50.675796",
+      "generated_date": "2026-05-14T22:32:24.883646",
       "summary": {
         "total_contributions": 17,
         "total_tdg_provisioned": 4300.0,

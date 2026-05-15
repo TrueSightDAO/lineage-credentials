@@ -3,7 +3,7 @@
   "display_name": "Street Insights LLC",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:24:50Z",
+  "generated_at": "2026-05-15T05:32:25Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Street Insights LLC",
-      "generated_date": "2026-05-14T22:21:50.740170",
+      "generated_date": "2026-05-14T22:32:24.947096",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 5100.0,

@@ -3,7 +3,7 @@
   "display_name": "Iwona Fluda",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Iwona Fluda",
-      "generated_date": "2026-05-14T22:41:01.544173",
+      "generated_date": "2026-05-14T23:32:57.332193",
       "summary": {
         "total_contributions": 35,
         "total_tdg_provisioned": 5658.549999999999,
@@ -928,5 +928,12 @@
     "tdg_controlled": "5,659",
     "total_voting_power_pct": "0.24%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Iwona Fluda contributed 35 times to TrueSight DAO projects including 20250617_beerhall, Agroverse, Sun Mint, and telegram_chatlog from February 2023 to November 2025. Her work primarily consisted of human effort hours rewarded at 100 TDG per hour, alongside attendance at seven Facetime meetings for Build Game strategy sessions. She also suggested one strategy idea, wrote and posted a short social media text on an account with at least 10,000 followers, contributed to legal document reviews by paragraph and bullet point, authored one official DAO social media post, and handled a single operations task for Build Game.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2a9e026a966e671136d56fdcea565bcbe56940e2424e61e8ff3af4d893046838",
+    "cached": false
+  }
 }

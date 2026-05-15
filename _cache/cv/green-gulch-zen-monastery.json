@@ -3,7 +3,7 @@
   "display_name": "Green Gulch Zen Monastery",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Green Gulch Zen Monastery",
-      "generated_date": "2026-05-14T22:41:01.503180",
+      "generated_date": "2026-05-14T23:32:57.282139",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 200.0,
@@ -117,5 +117,12 @@
     "tdg_controlled": "200",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Green Gulch Zen Monastery contributed two hours of human effort to Agroverse and TrueSight DAO in late November 2023, earning recognition under the 100 TDG for every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6f168f1998c346c8955bed920320e91f07e016c671c2837cf440cf5f76355ca1",
+    "cached": false
+  }
 }

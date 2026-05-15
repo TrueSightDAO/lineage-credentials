@@ -3,7 +3,7 @@
   "display_name": "@Rockey599204723",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@Rockey599204723",
-      "generated_date": "2026-05-14T22:41:00.728197",
+      "generated_date": "2026-05-14T23:32:56.472692",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -87,5 +87,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@Rockey599204723 made one contribution to the DAO on March 30, 2022, resharing a short media text post for Build Game - Marketing on Facebook, IG, or Twitter.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "34a8b9d40e2c327298068db2a2838f71cb766e53a85343c358939a5335c578f0",
+    "cached": false
+  }
 }

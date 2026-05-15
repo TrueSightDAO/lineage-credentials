@@ -1,6 +1,10 @@
 # Kuoloon
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Kuoloon contributed to the MarketMonocle project from March 2022 to September 2022, with contributions primarily in Build Game strategy and user experience categories. They attended FaceTime meetings, suggested ideas, reviewed strategies with specific improvements, designed systems, created UI designs for single surfaces, participated in online polls, and offered UX suggestions. Notable accomplishments include two design system contributions and two UI designs for screen templates.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

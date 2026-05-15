@@ -3,7 +3,7 @@
   "display_name": "Reuben",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Reuben",
-      "generated_date": "2026-05-14T22:41:01.930490",
+      "generated_date": "2026-05-14T23:32:57.750636",
       "summary": {
         "total_contributions": 17,
         "total_tdg_provisioned": 4300.0,
@@ -475,5 +475,12 @@
     "tdg_controlled": "1,850",
     "total_voting_power_pct": "0.08%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Reuben contributed to the DAO's Build Game in the Strategy category during March 2022, with 17 total contributions focused on providing reference materials accompanied by ideas for strategy extensions (2), reviewing a proposed strategy and suggesting against it (1), linking reference materials (1), and reviewing a proposed strategy with a clear and specific improvement (1). His work centered on enhancing strategic elements through targeted feedback and resources.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e80401b9337669abb94251b3cebaec182844173a1fccfce64c1cc5f39020b478",
+    "cached": false
+  }
 }

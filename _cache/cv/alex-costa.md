@@ -1,6 +1,10 @@
 # Alex Costa
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Alex Costa made three contributions to TrueSight DAO between June 12 and 15, 2024, all under the 100TDG For every 1 hour of human effort category.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

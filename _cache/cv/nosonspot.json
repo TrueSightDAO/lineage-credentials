@@ -3,7 +3,7 @@
   "display_name": "Nosonspot",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Nosonspot",
-      "generated_date": "2026-05-14T22:41:01.862443",
+      "generated_date": "2026-05-14T23:32:57.677017",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Nosonspot made one contribution to TrueSight DAO on January 23, 2025, in the category of 100 TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1bab0a4c23a61b8238d0f0af658d35039d721fb33c43d4ef494ff77360f5a46d",
+    "cached": false
+  }
 }

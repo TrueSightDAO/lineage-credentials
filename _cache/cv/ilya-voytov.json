@@ -3,7 +3,7 @@
   "display_name": "Ilya Voytov",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ilya Voytov",
-      "generated_date": "2026-05-14T22:41:01.531597",
+      "generated_date": "2026-05-14T23:32:57.318260",
       "summary": {
         "total_contributions": 14,
         "total_tdg_provisioned": 6410.0,
@@ -394,5 +394,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ilya Voytov contributed to the TrueSight DAO from late 2018 through mid-2022, with 14 contributions primarily in the Build Game - Strategy category. He focused on submitting reference material and links (8 contributions), reviewing proposed strategies with specific improvements (1), suggesting cautions or areas to watch out for (1), and independently reiterating pending decision signals (1). His work supported strategic development in the DAO's initiatives around Agroverse, Sun Mint, and related ventures.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "eefd8b2dbc34470ac40899179d7f4e88f8a356fac95b3d9a2ef567d35a11b483",
+    "cached": false
+  }
 }

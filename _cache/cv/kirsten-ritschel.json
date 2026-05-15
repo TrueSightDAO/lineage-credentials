@@ -3,7 +3,7 @@
   "display_name": "Kirsten Ritschel",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kirsten Ritschel",
-      "generated_date": "2026-05-14T22:41:01.687231",
+      "generated_date": "2026-05-14T23:32:57.485561",
       "summary": {
         "total_contributions": 110,
         "total_tdg_provisioned": 18339.619999999995,
@@ -2722,5 +2722,12 @@
     "tdg_controlled": "18,574",
     "total_voting_power_pct": "0.79%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Kirsten Ritschel contributed to multiple TrueSight DAO projects including Agroverse, 20250617_agroverse, 20250617_beerhall, 20250617_townhall, Recurring Tokenizations, and telegram_chatlog, with a primary focus on human effort tracked under the 100TDG for every 1 hour category, totaling 83 instances, alongside liquidity injections totaling 10 instances. Active from January 14, 2025, to February 14, 2026, she participated in townhall and beerhall events. Kirsten is currently a member of the Board of Governors.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "638e7bdbf56284471a850be60817807c214dff5733971d3496992500d6959b65",
+    "cached": false
+  }
 }

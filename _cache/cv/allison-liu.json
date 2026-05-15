@@ -3,7 +3,7 @@
   "display_name": "Allison Liu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Allison Liu",
-      "generated_date": "2026-05-14T22:41:00.818034",
+      "generated_date": "2026-05-14T23:32:56.571306",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 7600.0,
@@ -126,5 +126,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Allison Liu made three contributions to the DAO between September 2018 and August 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "913d41d3adb4b80e3bba68a09f697c4b3765bcded4e146aad09cb167c4b8963b",
+    "cached": false
+  }
 }

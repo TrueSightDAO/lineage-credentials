@@ -3,7 +3,7 @@
   "display_name": "Edmund Wuu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Edmund Wuu",
-      "generated_date": "2026-05-14T22:41:01.082425",
+      "generated_date": "2026-05-14T23:32:56.856297",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 400.0,
@@ -157,5 +157,12 @@
     "tdg_controlled": "400",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Edmund Wuu made 4 contributions to the TrueSight DAO on a single day in March 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "a2460f7c140a9617e84d76e616c3daf44e17dd1d34f35a492cef13e96768773d",
+    "cached": false
+  }
 }

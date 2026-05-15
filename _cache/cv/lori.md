@@ -1,6 +1,10 @@
 # Lori
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Lori contributed to the DAO across Agroverse and Cypher Defense projects from October 2020 to March 2022. Her contributions include participating in voting on an online poll for Build Game - Strategy and making a simple introduction with potential channel buyer or distributor for Partnerships / Business Development.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -3,7 +3,7 @@
   "display_name": "Maya Frost",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Maya Frost",
-      "generated_date": "2026-05-14T22:41:01.789032",
+      "generated_date": "2026-05-14T23:32:57.589871",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Maya Frost participated in one contribution to the DAO in October 2020 by voting in an online poll for the Cypher Defense project under the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "00319a1719598260f55c0963b583184f6c720eb522e31580ba47f95a38384569",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Aga Marecka",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Aga Marecka",
-      "generated_date": "2026-05-14T22:41:00.784157",
+      "generated_date": "2026-05-14T23:32:56.537711",
       "summary": {
         "total_contributions": 60,
         "total_tdg_provisioned": 14004.399999999998,
@@ -1540,5 +1540,12 @@
     "tdg_controlled": "13,571",
     "total_voting_power_pct": "0.58%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Aga Marecka has made 60 contributions to TrueSight DAO since October 2020, with primary focus on human effort bounties, liquidity provision, and strategic game-building activities. She participated in projects including 20250617_beerhall, 20250617_townhall, Agroverse, Cypher Defense, Recurring Tokenizations, Trinity, TrueSight DAO, and telegram_chatlog. Her dominant categories encompass 18 instances of 100TDG for every hour of human effort, 7 for 1TDG per USD of liquidity injected, and 5 for bringing on active contributors. In Build Game - Strategy, she attended Facetime meetings (5), voted in online polls (4), reviewed and suggested cautions on proposals (3), and contributed to two full-scale strategies adopted by the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b288f9b7bc9c3ec4667062891b2663fbfe3b710991f3d5e9f27948e8df782593",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Aravind Gandavadi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Aravind Gandavadi",
-      "generated_date": "2026-05-14T22:41:00.887500",
+      "generated_date": "2026-05-14T23:32:56.648680",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 300.0,
@@ -113,5 +113,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Aravind Gandavadi made two contributions to the DAO on July 17, 2022, both in the Build Game category. He completed a minor engineering function and attended a FaceTime strategy meeting.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2bbfac4bec43fb274e4dfaca6f2b4073527b03fd81e3e06d62b2af15e87c5a98",
+    "cached": false
+  }
 }

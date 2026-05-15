@@ -3,7 +3,7 @@
   "display_name": "Soniya Ahuja",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Soniya Ahuja",
-      "generated_date": "2026-05-14T22:41:01.986806",
+      "generated_date": "2026-05-14T23:32:57.827096",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 941.67,
@@ -189,5 +189,12 @@
     "tdg_controlled": "942",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Soniya Ahuja made five contributions to TrueSight DAO, all under the 100TDG For every 1 hour of human effort category, spanning telegram_chatlog activities from March 6, 2025, to December 22, 2025.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d227a0b6febccc18d609ce1088673ac61066198042fb98e06f3f5513df2f06aa",
+    "cached": false
+  }
 }

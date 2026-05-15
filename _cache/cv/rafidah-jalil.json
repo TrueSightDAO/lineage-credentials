@@ -3,7 +3,7 @@
   "display_name": "Rafidah Jalil",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Rafidah Jalil",
-      "generated_date": "2026-05-14T22:41:01.910233",
+      "generated_date": "2026-05-14T23:32:57.729206",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 200.0,
@@ -101,5 +101,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Rafidah Jalil made two contributions to the TrueSight DAO between January 2022 and February 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d71d1e07f1675f11964846a936bff9fb6da40035c6571098850d7450f0fe23ba",
+    "cached": false
+  }
 }

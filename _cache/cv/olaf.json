@@ -3,7 +3,7 @@
   "display_name": "Olaf",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Olaf",
-      "generated_date": "2026-05-14T22:41:01.865375",
+      "generated_date": "2026-05-14T23:32:57.679302",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 511.75,
@@ -216,5 +216,12 @@
     "tdg_controlled": "324",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Olaf contributed to the TrueSight DAO across projects including 20250617_beerhall, Agroverse, and TrueSight DAO from January 2024 to June 2025, with six total contributions. His efforts primarily fell under the 100TDG for every 1 hour of human effort category, accounting for five contributions, alongside one instance of providing 1TDG for every 1 USD of liquidity injected.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "fea5aeeafabb8d2d39fdc601f4c0949c84f7a688b111a21bd8737c6e1c11aed5",
+    "cached": false
+  }
 }

@@ -1,6 +1,10 @@
 # Guenther Dobrauz
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Guenther Dobrauz contributed to TrueSight DAO's Build Game - Strategy efforts from February 2023 to May 2023, with five contributions focused on strategy review and input. He reviewed proposed strategies twice, suggesting against certain actions or highlighting areas to watch. In one instance, he reviewed a proposed strategy and suggested a clear and specific improvement. Guenther also attended a FaceTime meeting and provided a snippet of standalone insight associated with the DAO's work.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

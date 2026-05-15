@@ -3,7 +3,7 @@
   "display_name": "Maggie",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Maggie",
-      "generated_date": "2026-05-14T22:41:01.760498",
+      "generated_date": "2026-05-14T23:32:57.557505",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 33.33,
@@ -91,5 +91,12 @@
     "tdg_controlled": "33",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Maggie made one contribution to TrueSight DAO on February 6, 2025, earning 100 TDG for one hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "20d9fddc8423a0b3a7ad4cfa8250357199bd5062cce3b573c4c2fbb0f2ac1ec4",
+    "cached": false
+  }
 }

@@ -1,6 +1,10 @@
 # Tiffine Wang
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Tiffine Wang contributed to Agroverse and TrueSight DAO from May 2021 to March 2025, with contributions spanning 32 activities. Her work primarily focused on human effort tracked at 100 TDG per hour, logging 7 such instances, alongside operations using the office or kitchen facility for 2 hours. She also provided reference material links for strategy in the Build Game, brought on a passive observer, and introduced a very critical resource owner. Additional contributions included offline commerce tasks for 30 minutes.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

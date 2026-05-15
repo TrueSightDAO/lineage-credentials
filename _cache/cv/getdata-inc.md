@@ -1,6 +1,10 @@
 # GetData Inc
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+GetData Inc contributed extensively to multiple projects in the DAO ecosystem, including Agroverse, Edgar, Sun Mint, TrueSight DAO, and TrueSight.Me, from March 2024 to September 2025. Their efforts dominated in the 100TDG for every 1 hour of human effort category with 1706 instances, alongside substantial liquidity provision totaling 208 instances of 1TDG for every 1 USD injected. They also recorded smaller contributions in related categories such as 100TDG for every 1 hour of human effort and 1TDG for every 1 USD of liquidity injected, with minor USDT receipt and send activities.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

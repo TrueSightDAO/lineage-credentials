@@ -3,7 +3,7 @@
   "display_name": "Jonathan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jonathan",
-      "generated_date": "2026-05-14T22:41:01.621752",
+      "generated_date": "2026-05-14T23:32:57.416203",
       "summary": {
         "total_contributions": 16,
         "total_tdg_provisioned": 3565.96,
@@ -465,5 +465,12 @@
     "tdg_controlled": "3,016",
     "total_voting_power_pct": "0.13%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jonathan contributed to 20250917_beerhall, Agroverse, and TrueSight DAO over the period from December 2022 to July 2025. His efforts primarily focused on the 100TDG For every 1 hour of human effort rubric with four instances, alongside bringing in active contributors through three 250TDG bounties and introducing potential investors via two 50TDG bounties. He also secured a 1000TDG bounty for bringing on a resource owner, earned 625TDG for contributing a full-scale strategy and rollout action plan for DAO growth, and received 750TDG for events planning by creating a social media blast. Additional contributions included reference material hyperlinks and reiterating decision signals in the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4b71f5c3568f4a47f97e805d86d6b93f8ea881c7125f5dff906f232d32aaef8a",
+    "cached": false
+  }
 }

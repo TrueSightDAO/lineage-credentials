@@ -3,7 +3,7 @@
   "display_name": "Windy Butler-Ehry",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Windy Butler-Ehry",
-      "generated_date": "2026-05-14T22:41:02.137729",
+      "generated_date": "2026-05-14T23:32:57.993201",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 16.66,
@@ -116,5 +116,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Windy Butler-Ehry made two contributions to the DAO, both recognized under the '100TDG For every 1 hour of human effort' category during the active period from May 31 to June 1, 2025. These efforts were directed toward the 20250617_beerhall project.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "9f3be77424f2215656e837949c768e7a381ce0428244b56480a9e961f5b4d25d",
+    "cached": false
+  }
 }

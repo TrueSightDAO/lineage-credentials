@@ -3,7 +3,7 @@
   "display_name": "Alex",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Alex",
-      "generated_date": "2026-05-14T22:41:00.800042",
+      "generated_date": "2026-05-14T23:32:56.554898",
       "summary": {
         "total_contributions": 13,
         "total_tdg_provisioned": 1376.25,
@@ -386,5 +386,12 @@
     "tdg_controlled": "600",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Alex contributed to the TrueSight DAO across Agroverse, TrueSight DAO, and telegram_chatlog projects from April 2022 to September 2025, with efforts primarily in the 100TDG For every 1 hour of human effort category, logging 8 such contributions. Alex also participated in Build Game - Strategy tasks, including reviewing proposed strategies and suggesting clear and specific improvements on 2 occasions, contributing reference material via a link once, and attending Facetime meetings for 30 minutes once. A notable accomplishment was Alex's repeated involvement in strategy review sessions for the Build Game.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "529d2c1d5828504d94d94fa1b45e85cd3ef77cecfdf9c9b2aa8d599d4cab9b75",
+    "cached": false
+  }
 }

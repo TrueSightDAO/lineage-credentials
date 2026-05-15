@@ -3,7 +3,7 @@
   "display_name": "Christina Yu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Christina Yu",
-      "generated_date": "2026-05-14T22:41:00.980320",
+      "generated_date": "2026-05-14T23:32:56.738601",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 5100.0,
@@ -101,5 +101,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Christina Yu made two contributions to the DAO between December 2021 and January 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1ce8c628c26f371c8c94c49795018bab6cc565b0e9a72d032452368b76556666",
+    "cached": false
+  }
 }

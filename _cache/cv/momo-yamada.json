@@ -3,7 +3,7 @@
   "display_name": "Momo Yamada",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Momo Yamada",
-      "generated_date": "2026-05-14T22:41:01.819214",
+      "generated_date": "2026-05-14T23:32:57.621311",
       "summary": {
         "total_contributions": 18,
         "total_tdg_provisioned": 26382.0,
@@ -494,5 +494,12 @@
     "tdg_controlled": "22,383",
     "total_voting_power_pct": "0.96%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Momo Yamada contributed to the TrueSight DAO from January 2021 to November 2021, with 18 contributions spanning multiple areas. Their work primarily focused on community operations and partner outreach for Agroverse, the cacao supply chain initiative, alongside regular Telegram engagement and content curation. Momo also participated in Sun Mint regenerative reforestation efforts and supported related social ventures through event coordination.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6975ebd028f41f818e489879e7ea695774456baa8ac25612ca34049e96484931",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "JohnLingardR",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "JohnLingardR",
-      "generated_date": "2026-05-14T22:41:01.608045",
+      "generated_date": "2026-05-14T23:32:57.399985",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 20.840000000000003,
@@ -116,5 +116,12 @@
     "tdg_controlled": "21",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "JohnLingardR made two contributions to the TrueSight DAO on May 21, 2025, both categorized under '100TDG For every 1 hour of human effort' in the telegram_chatlog project.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ac631953114aafd5e6e1a854fdb08757fd1cb784818148b65ffaa692376b3a67",
+    "cached": false
+  }
 }

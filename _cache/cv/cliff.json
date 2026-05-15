@@ -3,7 +3,7 @@
   "display_name": "Cliff",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Cliff",
-      "generated_date": "2026-05-14T22:41:00.986132",
+      "generated_date": "2026-05-14T23:32:56.745269",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 0.83,
@@ -91,5 +91,12 @@
     "tdg_controlled": "8",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Cliff made one contribution to TrueSight DAO on June 23, 2024, earning 100 TDG under the '100TDG For every 1 hour of human effort' category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f24ac48ae2f2f9a39aab09ed81fae4056c6a46c67ca0d5e3546b376940e5687b",
+    "cached": false
+  }
 }

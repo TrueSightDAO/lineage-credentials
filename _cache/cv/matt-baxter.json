@@ -3,7 +3,7 @@
   "display_name": "Matt Baxter",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Matt Baxter",
-      "generated_date": "2026-05-14T22:41:01.783508",
+      "generated_date": "2026-05-14T23:32:57.583205",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 750.0,
@@ -125,5 +125,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Matt Baxter made three contributions to the TrueSight DAO on March 20, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "31bcbe46457805c171dc460a90ac85f4dc84922dbf0a4757111e745cc3797849",
+    "cached": false
+  }
 }

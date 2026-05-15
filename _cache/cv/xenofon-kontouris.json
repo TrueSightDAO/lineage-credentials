@@ -3,7 +3,7 @@
   "display_name": "Xenofon Kontouris",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Xenofon Kontouris",
-      "generated_date": "2026-05-14T22:41:02.142683",
+      "generated_date": "2026-05-14T23:32:57.999658",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 1000.0,
@@ -101,5 +101,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Xenofon Kontouris made two contributions to the TrueSight DAO on a single day in February 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4fbd492cf3555e4dc093f429c4ea0fee82ac31c4088e7a291b052582270f36bc",
+    "cached": false
+  }
 }

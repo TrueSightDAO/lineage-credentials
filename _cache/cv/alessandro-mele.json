@@ -3,7 +3,7 @@
   "display_name": "Alessandro Mele",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Alessandro Mele",
-      "generated_date": "2026-05-14T22:41:00.796486",
+      "generated_date": "2026-05-14T23:32:56.552055",
       "summary": {
         "total_contributions": 13,
         "total_tdg_provisioned": 956.6600000000001,
@@ -395,5 +395,12 @@
     "tdg_controlled": "957",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Alessandro Mele contributed to TrueSight DAO, Agroverse, Sun Mint, and the 20250617_beerhall project over the period from February 2023 to June 2025. His efforts spanned Build Game strategy through reference materials, reviews with actionable steps, and idea suggestions; marketing via resharing media posts; and commerce by sourcing for a producer. He also logged hours of human effort and notably brought on a key opinion leader and a resource owner. Alessandro's work reflects engagement across strategy, outreach, and builder recruitment.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "295adc8c8bd4d22de15e7637615ac630fcc8c759e542e30622763bec8941f426",
+    "cached": false
+  }
 }

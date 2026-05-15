@@ -3,7 +3,7 @@
   "display_name": "Shino Ling",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Shino Ling",
-      "generated_date": "2026-05-14T22:41:01.984400",
+      "generated_date": "2026-05-14T23:32:57.822809",
       "summary": {
         "total_contributions": 15,
         "total_tdg_provisioned": 15545.0,
@@ -437,5 +437,12 @@
     "tdg_controlled": "11,045",
     "total_voting_power_pct": "0.47%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Shino Ling contributed to TrueSight DAO and MarketMonocle across 15 activities from June 2022 to September 2022, primarily in Build Game strategy with suggestions for ideas, reviews with specific improvements or cautions, poll voting, and Facetime meeting attendance. Shino also generated base layers for two generative NFTs in the NFT Art category and raised a concern about a minor DAO issue in Governance. Notable accomplishments include providing clear strategy reviews and producing foundational NFT art assets.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "71c564acd1cde592b2341319a75b68971f5f3fe79ded50e65f06e68981dae7e0",
+    "cached": false
+  }
 }

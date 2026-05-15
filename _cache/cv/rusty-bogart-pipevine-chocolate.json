@@ -3,7 +3,7 @@
   "display_name": "Rusty Bogart - PipeVine Chocolate",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Rusty Bogart - PipeVine Chocolate",
-      "generated_date": "2026-05-14T22:41:01.944640",
+      "generated_date": "2026-05-14T23:32:57.769538",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 375.0,
@@ -140,5 +140,12 @@
     "tdg_controlled": "375",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Rusty Bogart - PipeVine Chocolate made three contributions to the DAO between October 20 and October 31, 2025, all in the telegram_chatlog project. These consisted of two instances under the '100TDG For every 1 hour of human effort' category and one additional in the same category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "51139e91edd4fc186dab22351787cef417803614aa295c8743f13dc871289460",
+    "cached": false
+  }
 }

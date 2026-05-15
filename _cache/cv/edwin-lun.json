@@ -3,7 +3,7 @@
   "display_name": "Edwin Lun",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Edwin Lun",
-      "generated_date": "2026-05-14T22:41:01.091245",
+      "generated_date": "2026-05-14T23:32:56.866296",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 600.0,
@@ -112,5 +112,12 @@
     "tdg_controlled": "600",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Edwin Lun made two contributions to the TrueSight DAO in April 2022. He brought on a passive observer through the Bring Builders category. He also contributed reference material accompanied by an idea on how to apply it as a strategy extension in the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e4d44a7c4dad6ab757e6069e43726bb06d1439c9c034e0cbba236c224844e8ad",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Francois Renet",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Francois Renet",
-      "generated_date": "2026-05-14T22:41:01.186712",
+      "generated_date": "2026-05-14T23:32:56.965486",
       "summary": {
         "total_contributions": 28,
         "total_tdg_provisioned": 9921.0,
@@ -761,5 +761,12 @@
     "tdg_controlled": "8,671",
     "total_voting_power_pct": "0.37%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Francois Renet contributed to Agroverse, Cypher Defense, The ArtTalk Magazine, and TrueSight DAO from September 2022 to November 2023, with contributions primarily in the Build Game's strategy and marketing categories. He reviewed proposed strategies and suggested areas to watch out for on five occasions, offered five ideas without implementation details, attended two Facetime meetings, and brought on two active contributors. Notable accomplishments include crafting content for two entire marketing campaigns and authoring one official DAO long social media or blog post that received a full-scale strategy vote for adoption.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7859e53379a803a1dafe2b401d9d188fc1bfda7fd72dd7ab921d0ffe3cd9697b",
+    "cached": false
+  }
 }

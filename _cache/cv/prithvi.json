@@ -3,7 +3,7 @@
   "display_name": "Prithvi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Prithvi",
-      "generated_date": "2026-05-14T22:41:01.907601",
+      "generated_date": "2026-05-14T23:32:57.726894",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 75.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "75",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Prithvi made one contribution to TrueSight DAO on February 19, 2025, in the category of 100 TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e3375fd67c93a9eff73136c2046e8268441f9204976be6beaec0686357cadef4",
+    "cached": false
+  }
 }

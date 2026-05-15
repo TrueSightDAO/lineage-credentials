@@ -3,7 +3,7 @@
   "display_name": "Evi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Evi",
-      "generated_date": "2026-05-14T22:41:01.143035",
+      "generated_date": "2026-05-14T23:32:56.920064",
       "summary": {
         "total_contributions": 12,
         "total_tdg_provisioned": 12015.0,
@@ -365,5 +365,12 @@
     "tdg_controlled": "250",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Evi contributed to multiple TrueSight DAO projects including the 20250617_beerhall event, Agroverse, and telegram_chatlog, with primary efforts in human labor tracked via the 100TDG per hour mechanism (6 instances total), alongside commerce quotations from vendors (2). Evi also provided a 50TDG commerce quotation, injected liquidity equivalent to 1TDG, and completed a 1250TDG UI design for a single surface in the Build Game project. Active from December 2021 to October 2025, Evi's work grounded operations across events, supply chain, and community chat documentation.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "30845e00d102ab27d5d47ea9e0f270173362746428e21b67e95414d582492077",
+    "cached": false
+  }
 }

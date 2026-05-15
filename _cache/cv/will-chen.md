@@ -1,6 +1,10 @@
 # Will Chen
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Will Chen made three contributions to the DAO, all under the '100TDG For every 1 hour of human effort' category, spanning from June 22, 2025, to October 21, 2025. These included work on the 20250917_beerhall project and telegram_chatlog.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

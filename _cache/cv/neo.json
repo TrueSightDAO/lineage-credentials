@@ -3,7 +3,7 @@
   "display_name": "Neo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Neo",
-      "generated_date": "2026-05-14T22:41:01.845369",
+      "generated_date": "2026-05-14T23:32:57.659133",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 10266.0,
@@ -185,5 +185,12 @@
     "tdg_controlled": "10,266",
     "total_voting_power_pct": "0.44%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Neo contributed to the DAO from April 2022 to July 2022 with five contributions across strategy and liquidity categories. They provided two reviews of proposed strategies for the Build Game with clear and specific improvements, paid for two DAO expenses in USD on behalf of the organization under Bring Liquidity, and shared one reference link as strategy material.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "58d60bf6dc121e9ff8d395d013130395610230ce9cd27951d79383d79736fcef",
+    "cached": false
+  }
 }

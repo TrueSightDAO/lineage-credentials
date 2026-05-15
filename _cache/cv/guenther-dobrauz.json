@@ -3,7 +3,7 @@
   "display_name": "Guenther Dobrauz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Guenther Dobrauz",
-      "generated_date": "2026-05-14T22:41:01.506112",
+      "generated_date": "2026-05-14T23:32:57.285141",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 601.0,
@@ -190,5 +190,12 @@
     "tdg_controlled": "601",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Guenther Dobrauz contributed to TrueSight DAO's Build Game - Strategy efforts from February 2023 to May 2023, with five contributions focused on strategy review and input. He reviewed proposed strategies twice, suggesting against certain actions or highlighting areas to watch. In one instance, he reviewed a proposed strategy and suggested a clear and specific improvement. Guenther also attended a FaceTime meeting and provided a snippet of standalone insight associated with the DAO's work.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "faf6a1c94991f8ad118a844228a7cd2ce589401701f25b7e93d7f805cd5982a7",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Dirk Watkins",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dirk Watkins",
-      "generated_date": "2026-05-14T22:41:01.035423",
+      "generated_date": "2026-05-14T23:32:56.804688",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 2000.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "2,000",
     "total_voting_power_pct": "0.09%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dirk Watkins made one contribution to the TrueSight DAO on December 22, 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "bb4f7e619ddd5a3c9c53872322464e53890211843b748dc55787af16a6a12394",
+    "cached": false
+  }
 }

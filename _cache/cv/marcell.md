@@ -1,6 +1,10 @@
 # Marcell
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Marcell contributed to Agroverse and TrueSight DAO from November 2022 to October 2023. He suggested two ideas without proposed implementation details in the Build Game - Strategy category and raised a concern about an existing minor issue in the Governance category.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -3,7 +3,7 @@
   "display_name": "Dr. Denis",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dr. Denis",
-      "generated_date": "2026-05-14T22:41:01.051969",
+      "generated_date": "2026-05-14T23:32:56.821101",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 150.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dr. Denis made one contribution to TrueSight DAO on July 8, 2024, in the category of 100 TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "3d910cbf37816fb832890d47bec1d50b7197783ff02f8c6987e19b86f67c0cd4",
+    "cached": false
+  }
 }

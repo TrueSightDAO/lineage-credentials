@@ -3,7 +3,7 @@
   "display_name": "Cindy Cohen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Cindy Cohen",
-      "generated_date": "2026-05-14T22:41:00.982208",
+      "generated_date": "2026-05-14T23:32:56.740751",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 525.0,
@@ -186,5 +186,12 @@
     "tdg_controlled": "525",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Cindy Cohen contributed to the Build Game - Strategy category with five contributions in July 2022. These included reviewing proposed strategies and suggesting against certain actions or areas to watch out for (twice), attending a FaceTime meeting (one hour), reviewing a proposed strategy and suggesting a clear and specific improvement, and contributing reference material via a hyperlink to online resources.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ae9e3b2eee3d7b6d88d12ced924e92232fcbcbf04270f0c36c1f91cb2d247a29",
+    "cached": false
+  }
 }

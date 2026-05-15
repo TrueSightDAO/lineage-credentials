@@ -1,6 +1,10 @@
 # Vishvajit
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Vishvajit contributed to the DAO with four entries focused on the MarketMonocle project from October 2021 to July 2022. He attended FaceTime meetings for Build Game - Strategy every 30 minutes on one occasion and reviewed proposed strategies, suggesting against certain actions or areas to watch out for on another.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

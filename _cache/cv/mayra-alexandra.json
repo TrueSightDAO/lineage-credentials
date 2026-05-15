@@ -3,7 +3,7 @@
   "display_name": "Mayra Alexandra",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mayra Alexandra",
-      "generated_date": "2026-05-14T22:41:01.791398",
+      "generated_date": "2026-05-14T23:32:57.592172",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1.5,
@@ -91,5 +91,12 @@
     "tdg_controlled": "75",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Mayra Alexandra contributed one hour of human effort to the Agroverse project on October 21, 2024.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ed773846df9fc455a22e966c2ad9cbce49c999da37c7fa1c18c3b811fedcac5f",
+    "cached": false
+  }
 }

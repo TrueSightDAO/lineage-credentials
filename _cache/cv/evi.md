@@ -1,6 +1,10 @@
 # Evi
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Evi contributed to multiple TrueSight DAO projects including the 20250617_beerhall event, Agroverse, and telegram_chatlog, with primary efforts in human labor tracked via the 100TDG per hour mechanism (6 instances total), alongside commerce quotations from vendors (2). Evi also provided a 50TDG commerce quotation, injected liquidity equivalent to 1TDG, and completed a 1250TDG UI design for a single surface in the Build Game project. Active from December 2021 to October 2025, Evi's work grounded operations across events, supply chain, and community chat documentation.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

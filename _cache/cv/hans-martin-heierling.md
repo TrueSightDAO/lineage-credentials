@@ -1,6 +1,10 @@
 # Hans Martin Heierling
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Hans Martin Heierling serves as a current member of the Board of Governors for TrueSight DAO. His 34 contributions span projects including 20250617_beerhall, Agroverse, Recurring Tokenizations, Sun Mint, TrueSight DAO, and telegram_chatlog, with the dominant category being 100TDG for every 1 hour of human effort (26 instances), followed by 1TDG for every 1 USD of liquidity injected (7 instances). He has been active from November 15, 2023, to February 5, 2026.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

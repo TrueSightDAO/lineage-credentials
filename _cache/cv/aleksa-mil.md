@@ -1,6 +1,10 @@
 # Aléksa Mil
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Aléksa Mil contributed to Agroverse, Cypher Defense, and TrueSight DAO from October 2020 to November 2023, with contributions primarily in strategy development and legal work. Aléksa provided a full-scale strategy and rollout action plan for DAO growth, including overview and system logic, and contributed reference materials with ideas for strategy extensions. Legal efforts focused on defining sections, paragraphs, and bullet points within legal documents. Aléksa also raised concerns about moderate issues in governance, reviewed proposed strategies with suggestions on risks, and reiterated pending decision signals.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -3,7 +3,7 @@
   "display_name": "Jacki Roach",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jacki Roach",
-      "generated_date": "2026-05-14T22:41:01.548669",
+      "generated_date": "2026-05-14T23:32:57.336907",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 1010.0,
@@ -168,5 +168,12 @@
     "tdg_controlled": "1,010",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jacki Roach contributed to Cypher Defense and TrueSight DAO with four contributions spanning October 2020 to November 2022. These included bringing on an active contributor, validating a user behavior for the Build Game's user experience, participating in a strategy poll vote, and writing an official DAO social media post for marketing.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "3c0218dff5edae5307600345ed488b3ecbb5f892605cd9e1b156bc96f82b9b54",
+    "cached": false
+  }
 }

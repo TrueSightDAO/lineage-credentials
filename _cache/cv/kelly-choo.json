@@ -3,7 +3,7 @@
   "display_name": "Kelly Choo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kelly Choo",
-      "generated_date": "2026-05-14T22:41:01.664619",
+      "generated_date": "2026-05-14T23:32:57.460693",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -77,5 +77,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Kelly Choo made one contribution to the TrueSight DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b022e342f0beb4b1532dd7bcc110ddd432a49a25fe02f77b8b9b34ed2f2c90dd",
+    "cached": false
+  }
 }

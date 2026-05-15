@@ -1,6 +1,10 @@
 # Nima Kaz
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Nima Kaz contributed to multiple TrueSight DAO projects including 20250617_beerhall, Agroverse, Recurring Tokenizations, and the DAO itself over the period from August 30, 2024, to September 7, 2025. His efforts primarily focused on human labor tracked via the '100TDG For every 1 hour of human effort' category with 10 instances, alongside providing liquidity through '1TDG For every 1 USD of liquidity injected' with 7 instances. A notable accomplishment includes a singular high-effort contribution in the human effort category.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

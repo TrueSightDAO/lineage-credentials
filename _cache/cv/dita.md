@@ -1,6 +1,10 @@
 # Dita
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Dita contributed to the TrueSight DAO from April to May 2022, with a primary focus on Bring Builders activities, including bringing on eight active contributors and one passive observer. She also engaged in Build Game efforts, submitting two UX suggestions and one specific strategy improvement for a proposed plan. Her work supported community growth and game development during this early active period.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -1,6 +1,10 @@
 # James Sung
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+James Sung contributed to Agroverse and TrueSight DAO from April 2022 to March 2025, with efforts primarily in the 100TDG For every 1 hour of human effort category across five instances. He participated in two Build Game - Strategy Facetime meetings, each credited every 30 minutes, provided one reference material link for Build Game - Strategy, and brought on active contributors twice—once under the 250TDG tier and once under the 25TDG tier. A notable accomplishment was onboarding an active contributor recognized at the higher 250TDG level.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -3,7 +3,7 @@
   "display_name": "Royston",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Royston",
-      "generated_date": "2026-05-14T22:41:01.941906",
+      "generated_date": "2026-05-14T23:32:57.766815",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 16.66,
@@ -115,5 +115,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Royston contributed two hours of human effort to TrueSight DAO in January 2025, earning recognition through the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "036f84f45b559873a958ed97cd8b3489323f6a8f85c2b782486c34fd17c36df4",
+    "cached": false
+  }
 }

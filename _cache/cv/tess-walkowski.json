@@ -3,7 +3,7 @@
   "display_name": "Tess Walkowski",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tess Walkowski",
-      "generated_date": "2026-05-14T22:41:02.030123",
+      "generated_date": "2026-05-14T23:32:57.871018",
       "summary": {
         "total_contributions": 57,
         "total_tdg_provisioned": 2585.4300000000003,
@@ -1449,5 +1449,12 @@
     "tdg_controlled": "2,670",
     "total_voting_power_pct": "0.11%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Tess Walkowski contributed to 20250617_beerhall, Agroverse, and TrueSight DAO over two years from April 2023 to May 2025, with primary focus on human effort tracked hourly, totaling 35 such contributions. She engaged in the Build Game strategy process, reviewing proposed strategies with actionable steps (6 times), suggesting cautions or areas to watch (4 times), and providing standalone insights (3 times). Tess attended Facetime meetings (2 sessions), sourced a vendor for commerce (1 instance), and contributed reference material with a strategy extension idea (1). Her work emphasized strategic review and direct effort in DAO projects.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "10913b5c18df4a1edc9ac7a8d34d513e8ca1dcf695fede8c6e76dae31c73e01f",
+    "cached": false
+  }
 }

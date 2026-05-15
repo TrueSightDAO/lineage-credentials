@@ -3,7 +3,7 @@
   "display_name": "Artiom Baloian",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Artiom Baloian",
-      "generated_date": "2026-05-14T22:41:00.895822",
+      "generated_date": "2026-05-14T23:32:56.656588",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -79,5 +79,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Artiom Baloian contributed to the DAO once in May 2022 by providing a reference material link in the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "700c011aee3fdaf60656ec00344dd990e81064fb18ce65ce612e2b2d637e9180",
+    "cached": false
+  }
 }

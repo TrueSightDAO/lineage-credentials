@@ -3,7 +3,7 @@
   "display_name": "Bradley Hsu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Bradley Hsu",
-      "generated_date": "2026-05-14T22:41:00.935113",
+      "generated_date": "2026-05-14T23:32:56.694142",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -87,5 +87,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Bradley Hsu made one contribution to the TrueSight DAO on June 13, 2022, in the Build Game - Strategy category, where he independently reiterated a signal associated with a still-pending decision.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7a7c7fc412f53fc890f9eee1477b177ef22aa446154d36444916bf9b3f310591",
+    "cached": false
+  }
 }

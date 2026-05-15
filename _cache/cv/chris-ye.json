@@ -3,7 +3,7 @@
   "display_name": "Chris Ye",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Chris Ye",
-      "generated_date": "2026-05-14T22:41:00.978482",
+      "generated_date": "2026-05-14T23:32:56.736522",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 5000.0,
@@ -87,5 +87,12 @@
     "tdg_controlled": "5,000",
     "total_voting_power_pct": "0.21%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Chris Ye contributed to the DAO with one effort in the Build Game category. He oversaw an entire marketing messaging campaign in July 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "0ccae173bcf42bf3ffafefd7814fb671a8faf471c6c4554498e1a636cfd65b51",
+    "cached": false
+  }
 }

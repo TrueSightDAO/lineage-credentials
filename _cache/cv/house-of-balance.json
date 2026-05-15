@@ -3,7 +3,7 @@
   "display_name": "House of Balance",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "House of Balance",
-      "generated_date": "2026-05-14T22:41:01.520721",
+      "generated_date": "2026-05-14T23:32:57.303175",
       "summary": {
         "total_contributions": 9,
         "total_tdg_provisioned": 5425.0,
@@ -287,5 +287,12 @@
     "tdg_controlled": "5,425",
     "total_voting_power_pct": "0.23%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "House of Balance contributed to Agroverse and Sun Mint projects from July 2022 to October 2023, with contributions primarily in bringing on active contributors. They brought on active contributors seven times under the Bring Builders category and once more in a related effort. House of Balance also oversaw an entire marketing messaging campaign under the Build Game - Marketing category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "c611b9bf59856d78de6bd1d55f0b5d05ac681a9ee7dc1f87e38c03e1213a14ac",
+    "cached": false
+  }
 }

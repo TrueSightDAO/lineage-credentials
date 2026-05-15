@@ -1,6 +1,10 @@
 # Chen JianWen
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Chen JianWen contributed to the Agroverse project with two entries from January 2022 to May 2023. His primary category was Build Game - Strategy, where he suggested a snippet of standalone insight associated with the project's work.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

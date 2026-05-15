@@ -3,7 +3,7 @@
   "display_name": "Luigi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Luigi",
-      "generated_date": "2026-05-14T22:41:01.748354",
+      "generated_date": "2026-05-14T23:32:57.547187",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 75.0,
@@ -160,5 +160,12 @@
     "tdg_controlled": "75",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Luigi contributed four times to the DAO in June 2022, all in the Build Game - Strategy category by providing reference material with hyperlinks to online resources. His contributions were concentrated on a single day.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "10551285f3955c4f0c420cf1628a71fbc80f42512a0a2b1d134385e3c6d0fe24",
+    "cached": false
+  }
 }

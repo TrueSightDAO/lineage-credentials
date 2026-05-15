@@ -3,7 +3,7 @@
   "display_name": "Edge and Node",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Edge and Node",
-      "generated_date": "2026-05-14T22:41:01.077524",
+      "generated_date": "2026-05-14T23:32:56.850034",
       "summary": {
         "total_contributions": 11,
         "total_tdg_provisioned": 4442.67,
@@ -338,5 +338,12 @@
     "tdg_controlled": "4,443",
     "total_voting_power_pct": "0.19%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Edge and Node contributed 11 times to TrueSight DAO and Agroverse projects from September 2023 to February 2025, with contributions primarily in the 100TDG for every 1 hour of human effort category (6 instances total). They brought on passive observers to the DAO twice via the 'Bring Builders' rubric. Edge and Node also supported events planning by providing a booth to showcase products and services at an event once and creating a social media blast advertisement per channel once. Additionally, they provided office and kitchen facility use for one hour under Build Game operations.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "919b521d204fd2cbcb00b1b1982a2c31ccaae62573752e0077d1e93bda1faa62",
+    "cached": false
+  }
 }

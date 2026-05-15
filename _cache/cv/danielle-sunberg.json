@@ -3,7 +3,7 @@
   "display_name": "Danielle Sunberg",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Danielle Sunberg",
-      "generated_date": "2026-05-14T22:41:01.008934",
+      "generated_date": "2026-05-14T23:32:56.772804",
       "summary": {
         "total_contributions": 12,
         "total_tdg_provisioned": 618.0,
@@ -363,5 +363,12 @@
     "tdg_controlled": "368",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Danielle Sunberg contributed to Agroverse and TrueSight DAO from August 2023 to October 2023, with contributions primarily in the Build Game - Strategy category. She suggested seven snippets of standalone insights associated with ongoing work, attended one Facetime meeting, brought on an active contributor, provided reference material with specific instructions for a strategy extension, independently reiterated a pending decision signal, and reviewed a proposed strategy with a clear actionable step. Her efforts focused on strategic input across these projects.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f0a2d4d32eec52118ea8b2c3e693ca2f5e197633425cf1219917ea5c5ca49f36",
+    "cached": false
+  }
 }

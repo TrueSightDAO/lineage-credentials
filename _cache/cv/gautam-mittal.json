@@ -3,7 +3,7 @@
   "display_name": "Gautam Mittal",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Gautam Mittal",
-      "generated_date": "2026-05-14T22:41:01.399788",
+      "generated_date": "2026-05-14T23:32:57.177815",
       "summary": {
         "total_contributions": 37,
         "total_tdg_provisioned": 47350.0,
@@ -954,5 +954,12 @@
     "tdg_controlled": "33,450",
     "total_voting_power_pct": "1.43%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Gautam Mittal contributed to the TrueSight DAO from January 2022 to July 2022, primarily through the 'Bring Builders' category where he brought on seven active contributors. He also participated in 'Build Game - Strategy' by contributing two reference materials with hyperlinks to online resources. His efforts focused on expanding the community by onboarding new participants during this period.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "66cefea70525923c4979682f867e06a58a3c86ad8fc99d120cfc24856c4e97d4",
+    "cached": false
+  }
 }

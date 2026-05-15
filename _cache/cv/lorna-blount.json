@@ -3,7 +3,7 @@
   "display_name": "Lorna Blount",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Lorna Blount",
-      "generated_date": "2026-05-14T22:41:01.741933",
+      "generated_date": "2026-05-14T23:32:57.541679",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 2050.0,
@@ -243,5 +243,12 @@
     "tdg_controlled": "800",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Lorna Blount contributed to the 20250917_beerhall and Agroverse projects through strategic planning efforts. Her primary category of contribution was Build Game - Strategy, including providing reference material with links (2 contributions), delivering a full-scale strategy and rollout action plan to grow the DAO (1), reviewing a proposed strategy with a clear improvement suggestion (1), attending Facetime meetings (1), and contributing reference material with specific application instructions as a strategy extension (1). She also logged one hour of human effort. Notable among these was her comprehensive growth strategy and action plan for the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2aa855b5109173beeeb54363aa71749b3d650d09d0d60ee8dff0ac55883be33f",
+    "cached": false
+  }
 }

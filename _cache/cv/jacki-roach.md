@@ -1,6 +1,10 @@
 # Jacki Roach
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Jacki Roach contributed to Cypher Defense and TrueSight DAO with four contributions spanning October 2020 to November 2022. These included bringing on an active contributor, validating a user behavior for the Build Game's user experience, participating in a strategy poll vote, and writing an official DAO social media post for marketing.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

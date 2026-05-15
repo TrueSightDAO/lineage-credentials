@@ -3,7 +3,7 @@
   "display_name": "Adi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Adi",
-      "generated_date": "2026-05-14T22:41:00.778168",
+      "generated_date": "2026-05-14T23:32:56.530191",
       "summary": {
         "total_contributions": 43,
         "total_tdg_provisioned": 9750.939999999999,
@@ -1118,5 +1118,12 @@
     "tdg_controlled": "33",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Adi contributed to TrueSight DAO, Agroverse, the 20250617_beerhall project, and telegram_chatlog over the period from July 2022 to December 2025. Their work primarily focused on human effort rewarded at 100 TDG per hour, with 20 such contributions, alongside attending 8 Facetime meetings for Build Game strategy every 30 minutes. Adi also completed 3 major standalone components and 2 minor functions in Build Game engineering, paid USD expenses for liquidity twice, brought on one active contributor, and sourced a buyer for commerce. A notable accomplishment was independently reiterating a strategic signal tied to a pending decision.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "a36ba7d4f55253cb61d88b9c683392ab49cc53280f7288af6bbcc9a96f5f2b56",
+    "cached": false
+  }
 }

@@ -1,6 +1,10 @@
 # Juan Bernabo
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Juan Bernabo contributed to TrueSight DAO, 20250617_beerhall, and 20250917_beerhall projects over the period from April 2023 to June 2025. His efforts primarily consisted of human effort hours rewarded at 100 TDG per hour, totaling four such contributions, alongside two instances of attending FaceTime meetings for the Build Game - Strategy category every 30 minutes, and one liquidity provision by paying DAO expenses in USD. These activities represent his seven total contributions to the DAO.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -3,7 +3,7 @@
   "display_name": "@ryansjjr",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@ryansjjr",
-      "generated_date": "2026-05-14T22:41:00.751939",
+      "generated_date": "2026-05-14T23:32:56.502855",
       "summary": {
         "total_contributions": 25,
         "total_tdg_provisioned": 24100.0,
@@ -667,5 +667,12 @@
     "tdg_controlled": "14,850",
     "total_voting_power_pct": "0.63%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@ryansjjr contributed to the DAO from February 2022 to April 2022, with efforts primarily in builder recruitment and game-building strategy. He brought on active contributors through two Bring Builders efforts worth 500 points each. In Build Game - Marketing, he crafted content for an entire marketing campaign, earning 2500 points. He also contributed reference material with application ideas in one Build Game - Strategy task for 500 points, and delivered a full-scale strategy plus rollout action plan to grow the DAO in another for 1250 points.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "db038698799aa74df4fc5550e99229c9de5344a757ebecccaf1e0f9d577cce88",
+    "cached": false
+  }
 }

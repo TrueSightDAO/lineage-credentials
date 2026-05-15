@@ -1,6 +1,10 @@
 # Vanja
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Vanja contributed to Agroverse, Sun Mint, and TrueSight DAO from May 2023 to November 2023, with contributions spanning seven activities. Their work primarily focused on marketing through resharing and upvoting short media text posts on platforms including Facebook, LinkedIn, Instagram, Twitter, and Reddit (four instances), alongside bringing on active contributors (three instances). A notable accomplishment was successfully onboarding new active contributors to the DAO.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

@@ -3,7 +3,7 @@
   "display_name": "Vanja",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vanja",
-      "generated_date": "2026-05-14T22:41:02.098126",
+      "generated_date": "2026-05-14T23:32:57.950527",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 754.0,
@@ -241,5 +241,12 @@
     "tdg_controlled": "504",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Vanja contributed to Agroverse, Sun Mint, and TrueSight DAO from May 2023 to November 2023, with contributions spanning seven activities. Their work primarily focused on marketing through resharing and upvoting short media text posts on platforms including Facebook, LinkedIn, Instagram, Twitter, and Reddit (four instances), alongside bringing on active contributors (three instances). A notable accomplishment was successfully onboarding new active contributors to the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "9f841e2de28f588e4eca8a5031dab51d319207cf43c57828c7c4f6530bc01412",
+    "cached": false
+  }
 }

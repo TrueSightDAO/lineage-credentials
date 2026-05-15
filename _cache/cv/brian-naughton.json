@@ -3,7 +3,7 @@
   "display_name": "Brian Naughton",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Brian Naughton",
-      "generated_date": "2026-05-14T22:41:00.941374",
+      "generated_date": "2026-05-14T23:32:56.700560",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Brian Naughton participated in one contribution to the DAO in October 2020. He engaged in voting on an online poll for the Cypher Defense project in the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "84f0a926b638872528f14038a655bda287f4408071b39acfee1d3e554a05cf5e",
+    "cached": false
+  }
 }

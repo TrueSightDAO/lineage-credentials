@@ -3,7 +3,7 @@
   "display_name": "Mercedes",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mercedes",
-      "generated_date": "2026-05-14T22:41:01.796450",
+      "generated_date": "2026-05-14T23:32:57.597521",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Mercedes contributed once to TrueSight DAO on March 13, 2023, suggesting an idea without proposed implementation details in the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "deb6355aeb31146fd7252444b32e3e3b8e2dcb47696cf215277f08c52a7b9677",
+    "cached": false
+  }
 }

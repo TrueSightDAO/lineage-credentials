@@ -3,7 +3,7 @@
   "display_name": "Vincent Song",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vincent Song",
-      "generated_date": "2026-05-14T22:41:02.118408",
+      "generated_date": "2026-05-14T23:32:57.968034",
       "summary": {
         "total_contributions": 8,
         "total_tdg_provisioned": 3416.67,
@@ -270,5 +270,12 @@
     "tdg_controlled": "317",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Vincent Song contributed to Agroverse, FORK, MoonShot, and TrueSight DAO from October 2020 to February 2025, with contributions primarily in Build Game strategy through attending FaceTime meetings, including multiple every-30-minutes sessions and per-hour sessions. He also crafted content for an entire marketing campaign in the Build Game marketing category, introduced a potential investor under Bring Builders, and logged an hour of human effort. His work focused on strategic meetings and promotional efforts across these projects.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "a9cff54751109330ca96c310ea23d99b87b69520b0f3b0c8855468361a1bbe33",
+    "cached": false
+  }
 }

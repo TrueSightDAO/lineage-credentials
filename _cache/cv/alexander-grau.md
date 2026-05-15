@@ -1,6 +1,10 @@
 # Alexander Grau
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Alexander Grau contributed to TrueSight DAO with one entry in the Build Game - Strategy category, attending Facetime meetings every 30 minutes on June 16, 2023.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

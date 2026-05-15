@@ -3,7 +3,7 @@
   "display_name": "Ken Lee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ken Lee",
-      "generated_date": "2026-05-14T22:41:01.676420",
+      "generated_date": "2026-05-14T23:32:57.474669",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ken Lee made one contribution to the TrueSight DAO in December 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f9393a9df7995cf5aa207e8e147d5591977e75084b405e05f06c94a015313646",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Sophie Riegert",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Sophie Riegert",
-      "generated_date": "2026-05-14T22:41:01.995277",
+      "generated_date": "2026-05-14T23:32:57.837461",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 25.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "25",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Sophie Riegert made one contribution to the DAO on February 18, 2026, in the telegram_chatlog project, categorized under 100TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4c533733ded6ad64ab33021b39758c3096b27f470369070ce2b182b183e2b332",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Ambarish Malpani",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ambarish Malpani",
-      "generated_date": "2026-05-14T22:41:00.824666",
+      "generated_date": "2026-05-14T23:32:56.578226",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 7502.0,
@@ -188,5 +188,12 @@
     "tdg_controlled": "7,502",
     "total_voting_power_pct": "0.32%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ambarish Malpani contributed to the Agroverse project with two entries in the Build Game - Strategy category. He suggested a snippet of standalone insight associated with the DAO's work and contributed reference material by hyperlinking to a specific concept. These contributions occurred between May 2021 and November 2023.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "94a06df4767c401e998066e74596937485559a54fd6284cbb3db9865458c1948",
+    "cached": false
+  }
 }

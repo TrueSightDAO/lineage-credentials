@@ -1,6 +1,10 @@
 # Isabela
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Isabela made one contribution to TrueSight DAO on November 21, 2024, earning 100 TDG for one hour of human effort.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

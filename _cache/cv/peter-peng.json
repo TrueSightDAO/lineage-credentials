@@ -3,7 +3,7 @@
   "display_name": "Peter Peng",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Peter Peng",
-      "generated_date": "2026-05-14T22:41:01.887429",
+      "generated_date": "2026-05-14T23:32:57.706613",
       "summary": {
         "total_contributions": 15,
         "total_tdg_provisioned": 7730.0,
@@ -437,5 +437,12 @@
     "tdg_controlled": "7,730",
     "total_voting_power_pct": "0.33%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Peter Peng contributed to Cypher Defense and TrueSight DAO from September 2022 to March 2023, with contributions primarily in the Build Game strategy category, including reviewing proposed strategies with clear improvements (3), raising concerns about minor DAO issues (2), suggesting ideas (2), voting in polls (2), and suggesting areas to watch out for (2). He also participated in governance by independently reiterating a pending decision signal (1) and handled marketing by writing a short social media post from an account with at least 10,000 followers (1). His most notable accomplishment was securing a successful tie-up with a channel partner in partnerships and business development (1).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e9cf89c928c02f58f93d1d48ccf66522d8e1d4971ac65eae3c1c3f91209d4de3",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Varma Priyatham",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Varma Priyatham",
-      "generated_date": "2026-05-14T22:41:02.101380",
+      "generated_date": "2026-05-14T23:32:57.952974",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 77.0,
@@ -140,5 +140,12 @@
     "tdg_controlled": "77",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Varma Priyatham contributed to the Agroverse project with three contributions on September 8, 2023, primarily providing reference material via hyperlinks to specific concepts for the Build Game - Strategy (two contributions) and attending a Facetime meeting (one contribution).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8bfb4cb6c271358cab9e0ab25d9e287d997e59de5a9d8807bd2cc795a15a1787",
+    "cached": false
+  }
 }

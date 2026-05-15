@@ -3,7 +3,7 @@
   "display_name": "HackerDojo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "HackerDojo",
-      "generated_date": "2026-05-14T22:41:01.511366",
+      "generated_date": "2026-05-14T23:32:57.289732",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 1276.0,
@@ -141,5 +141,12 @@
     "tdg_controlled": "1,276",
     "total_voting_power_pct": "0.05%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "HackerDojo contributed to the Agroverse project in November 2023 with three activities: bringing on an active contributor, providing a booth to showcase products and services at an event, and contributing reference material with a hyperlink to a specific strategy concept for game building.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b53b8b8c7907a561fecbe15526fe884b1f6ed0821526a28936e902b14afe69e5",
+    "cached": false
+  }
 }

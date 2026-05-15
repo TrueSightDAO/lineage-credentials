@@ -3,7 +3,7 @@
   "display_name": "Jascha Martschenko",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jascha Martschenko",
-      "generated_date": "2026-05-14T22:41:01.572395",
+      "generated_date": "2026-05-14T23:32:57.358209",
       "summary": {
         "total_contributions": 17,
         "total_tdg_provisioned": 12194.73,
@@ -485,5 +485,12 @@
     "tdg_controlled": "11,945",
     "total_voting_power_pct": "0.51%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jascha Martschenko contributed to TrueSight DAO from October 2020 to June 2023, with primary focus on bringing in builders, including three active contributors, two key opinion leaders, and one resource owner. He created and posted three marketing videos to YouTube or TikTok, provided two sets of reference materials via hyperlinks, and offered two UX suggestions for the Build Game. Additionally, Jascha raised a concern about a minor DAO issue and suggested one strategic idea without implementation details.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e81ba02c01e9297ecde8a210753242db8762b0dd7b99f6b84e553fbbd56ebbfb",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Dragon",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dragon",
-      "generated_date": "2026-05-14T22:41:01.057172",
+      "generated_date": "2026-05-14T23:32:56.826362",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 1550.0,
@@ -215,5 +215,12 @@
     "tdg_controlled": "1,550",
     "total_voting_power_pct": "0.07%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dragon contributed to Agroverse and TrueSight DAO over June and July 2023, with contributions primarily in commerce through four 30-minute Facetime phone calls with vendors. Dragon also supported partnerships and business development by successfully scheduling a channel partner meeting, and participated in one Build Game strategy session via a Facetime meeting.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1e7de660ff211b532059e5a11a19e7ea8ea1da6e4461a6db805d8641b71d81d9",
+    "cached": false
+  }
 }

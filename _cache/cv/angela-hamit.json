@@ -3,7 +3,7 @@
   "display_name": "Angela Hamit",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Angela Hamit",
-      "generated_date": "2026-05-14T22:41:00.841969",
+      "generated_date": "2026-05-14T23:32:56.600408",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -83,5 +83,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Angela Hamit contributed one hour of human effort to the Agroverse project on March 15, 2024, qualifying under the 100 TDG for every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "23b9f5ad857367b434a2e3e5c447cbe6d2bf5785bb39f4dd2f5b3d87be16f23b",
+    "cached": false
+  }
 }

@@ -1,6 +1,10 @@
 # Elinor Janelle
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Elinor Janelle contributed 15 times to TrueSight DAO projects including 20250617_beerhall, Agroverse, TrueSight DAO, and telegram_chatlog from May 2024 to August 2025. Her work primarily consisted of time-based efforts under the '100TDG For every 1 hour of human effort' category, totaling 15 hours across these initiatives. She logged 13 contributions in this category with a focus on Agroverse and DAO activities, alongside 2 additional hours in the same vein.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

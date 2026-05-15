@@ -3,7 +3,7 @@
   "display_name": "@elvisyong",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@elvisyong",
-      "generated_date": "2026-05-14T22:41:00.739353",
+      "generated_date": "2026-05-14T23:32:56.492388",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 750.0,
@@ -135,5 +135,12 @@
     "tdg_controlled": "750",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@elvisyong contributed to the DAO in March 2022 with three instances of advising on how to get around a bug in the Build Game - Engineering category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f0375a8b3ef66f80db7d3be10d16dac9bb68b8c9e2ae801738f4f0ecfbc19d61",
+    "cached": false
+  }
 }

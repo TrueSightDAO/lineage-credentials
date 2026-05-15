@@ -3,7 +3,7 @@
   "display_name": "Anna Nguyenova",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Anna Nguyenova",
-      "generated_date": "2026-05-14T22:41:00.861963",
+      "generated_date": "2026-05-14T23:32:56.619797",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 2600.0,
@@ -110,5 +110,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Anna Nguyenova made two contributions to the TrueSight DAO on a single day in February 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "c9fb60af9b25650c85e871559df64e827e7cd7d398d77030e15b01da2b4e026e",
+    "cached": false
+  }
 }

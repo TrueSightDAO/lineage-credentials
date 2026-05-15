@@ -3,7 +3,7 @@
   "display_name": "Edwin - Fireworkz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Edwin - Fireworkz",
-      "generated_date": "2026-05-14T22:41:01.088576",
+      "generated_date": "2026-05-14T23:32:56.864123",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 8.33,
@@ -91,5 +91,12 @@
     "tdg_controlled": "8",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Edwin - Fireworkz made one contribution to the DAO on April 25, 2025, earning 100 TDG for one hour of human effort in the 20250617_beerhall project.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8a57dcf476e09ea54ed34c2d2fcf0ca4f1b56e7ab17afb6beff07941c280a48c",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Juan Bernabo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:56:44Z",
+  "generated_at": "2026-05-15T06:32:58Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Juan Bernabo",
-      "generated_date": "2026-05-14T22:41:01.634442",
+      "generated_date": "2026-05-14T23:32:57.431004",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 557.7400000000001,
@@ -241,5 +241,12 @@
     "tdg_controlled": "558",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Juan Bernabo contributed to TrueSight DAO, 20250617_beerhall, and 20250917_beerhall projects over the period from April 2023 to June 2025. His efforts primarily consisted of human effort hours rewarded at 100 TDG per hour, totaling four such contributions, alongside two instances of attending FaceTime meetings for the Build Game - Strategy category every 30 minutes, and one liquidity provision by paying DAO expenses in USD. These activities represent his seven total contributions to the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "fb7733d4cab0b53077f2c8f8b2772b8ddeb726141883a1d62c185617b73d305f",
+    "cached": false
+  }
 }

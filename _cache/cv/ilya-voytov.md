@@ -1,6 +1,10 @@
 # Ilya Voytov
 
-*TrueSight DAO Credential Profile · generated 2026-05-15T05:56:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-15T06:32:58Z*
+
+Ilya Voytov contributed to the TrueSight DAO from late 2018 through mid-2022, with 14 contributions primarily in the Build Game - Strategy category. He focused on submitting reference material and links (8 contributions), reviewing proposed strategies with specific improvements (1), suggesting cautions or areas to watch out for (1), and independently reiterating pending decision signals (1). His work supported strategic development in the DAO's initiatives around Agroverse, Sun Mint, and related ventures.
+
+*AI-generated summary from ledger data and practice events. Model: grok-4-1-fast-non-reasoning.*
 
 ## DAO Contributions
 

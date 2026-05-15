@@ -3,7 +3,7 @@
   "display_name": "Tripp",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tripp",
-      "generated_date": "2026-05-14T22:41:02.060328",
+      "generated_date": "2026-05-14T23:06:12.263631",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 652.78,
@@ -142,5 +142,12 @@
     "tdg_controlled": "653",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Tripp made three contributions to TrueSight DAO between February and July 2025, primarily through the 100TDG For every 1 hour of human effort category, with two in telegram_chatlog and one additional effort-based contribution.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ff38b35956e3d176acd2c93744182f1ad09d9b832cb977f594a247259f1ac21c",
+    "cached": false
+  }
 }

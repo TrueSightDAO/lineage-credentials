@@ -3,7 +3,7 @@
   "display_name": "Bing",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Bing",
-      "generated_date": "2026-05-14T22:41:00.925305",
+      "generated_date": "2026-05-14T23:06:10.744733",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 8395.0,
@@ -235,5 +235,12 @@
     "tdg_controlled": "635",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Bing contributed to the DAO across seven activities from April 2022 to June 2022, primarily in Build Game strategy with full-scale strategies and rollout action plans to grow the DAO, including two such contributions and two independent reiterations of pending decision signals. Bing also suggested a way to fundraise for liquidity, and secured a successful tie-up with a channel partner in partnerships and business development.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d4ecf4b0f65fa8eb24a798ebfe7ff6097f19e87e4f8b65de1cc450f537d40292",
+    "cached": false
+  }
 }

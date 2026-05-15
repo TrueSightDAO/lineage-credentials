@@ -3,7 +3,7 @@
   "display_name": "Susan Oh",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Susan Oh",
-      "generated_date": "2026-05-14T22:41:02.020439",
+      "generated_date": "2026-05-14T23:06:12.226641",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 450.0,
@@ -137,5 +137,12 @@
     "tdg_controlled": "450",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Susan Oh contributed to the DAO's Build Game in May 2022 with three targeted inputs: reviewing a proposed strategy and suggesting a clear and specific improvement, contributing reference material via a link, and providing suggestions for user experience.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "5c3485f6cd5666d7f237ed20e153c17f156cc74137f543c82826eca36d659c31",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "David - Ghost Drive",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "David - Ghost Drive",
-      "generated_date": "2026-05-14T22:41:01.014431",
+      "generated_date": "2026-05-14T23:06:10.858739",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 2750.0,
@@ -104,5 +104,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "David - Ghost Drive contributed to the DAO in two areas. He brought on a resource owner through the Bring Builders category. He also figured out a theoretical way to do something in the Build Game - Engineering category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1af4c580d7f988148d1bc189088b7e8b9f800ff45c7b118c90e54120f691fda2",
+    "cached": false
+  }
 }

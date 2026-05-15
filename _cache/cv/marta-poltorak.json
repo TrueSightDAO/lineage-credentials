@@ -3,7 +3,7 @@
   "display_name": "Marta Poltorak",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Marta Poltorak",
-      "generated_date": "2026-05-14T22:41:01.771914",
+      "generated_date": "2026-05-14T23:06:11.949181",
       "summary": {
         "total_contributions": 8,
         "total_tdg_provisioned": 1510.0,
@@ -266,5 +266,12 @@
     "tdg_controlled": "1,510",
     "total_voting_power_pct": "0.06%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Marta Poltorak contributed to Cypher Defense and TrueSight DAO from October 2020 to December 2022, with contributions primarily in the Build Game across marketing and strategy categories. She attended three FaceTime meetings for Build Game strategy every 30 minutes, wrote and posted one official DAO long social media text post or blog post, raised a governance concern about a minor existing issue in the DAO, handled a single line item operations task, reshared or upvoted a short media text post on social platforms, and wrote and posted a short social media text post from an account with at least 10,000 followers.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2c7e14c07c8d5bee88e7b033c55b9053729f74487b9fa1c56c96f57e6a382bc0",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Mulan Teh",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mulan Teh",
-      "generated_date": "2026-05-14T22:41:01.824480",
+      "generated_date": "2026-05-14T23:06:12.024837",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 16.5,
@@ -91,5 +91,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Mulan Teh made one contribution to TrueSight DAO on July 28, 2024, earning 100 TDG for one hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8f8159ed250987069a1c367037b5218d856c7cbf2738eb789cf0a121117ca47d",
+    "cached": false
+  }
 }

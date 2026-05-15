@@ -3,7 +3,7 @@
   "display_name": "Vanessa Walach - Shaman Better Daze",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vanessa Walach - Shaman Better Daze",
-      "generated_date": "2026-05-14T22:41:02.094882",
+      "generated_date": "2026-05-14T23:06:12.300642",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Vanessa Walach - Shaman Better Daze made one contribution to the DAO in the telegram_chatlog project, categorized under 100TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "3f82b37f1c7d3de10792d4e6a1ef575da43038d361c1e6bb1ec3a83460d91f14",
+    "cached": false
+  }
 }

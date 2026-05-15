@@ -3,7 +3,7 @@
   "display_name": "Elora - Eugene Oregon",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Elora - Eugene Oregon",
-      "generated_date": "2026-05-14T22:41:01.102842",
+      "generated_date": "2026-05-14T23:06:10.981443",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 100.0,
@@ -139,5 +139,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Elora - Eugene Oregon made three contributions to the DAO between August 1 and August 6, 2025, all in the telegram_chatlog project. These were categorized under 100TDG for every 1 hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2ec94ea9b3cb096c1a8d1f062afd767e0c222b563807793e548893a9db11ba19",
+    "cached": false
+  }
 }

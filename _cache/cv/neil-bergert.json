@@ -3,7 +3,7 @@
   "display_name": "Neil Bergert",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Neil Bergert",
-      "generated_date": "2026-05-14T22:41:01.834880",
+      "generated_date": "2026-05-14T23:06:12.038844",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 100.0,
@@ -115,5 +115,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Neil Bergert made two contributions to TrueSight DAO in August 2022, both in the Build Game - Strategy category. He suggested an idea without proposed implementation details.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6a13f545ce2c0854a3af2dcbb6f2013b3b371da995b942f16a5b9a33cadd2d87",
+    "cached": false
+  }
 }

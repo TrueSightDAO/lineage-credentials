@@ -3,7 +3,7 @@
   "display_name": "James Sung",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "James Sung",
-      "generated_date": "2026-05-14T22:41:01.566274",
+      "generated_date": "2026-05-14T23:06:11.686257",
       "summary": {
         "total_contributions": 10,
         "total_tdg_provisioned": 608.3499999999998,
@@ -313,5 +313,12 @@
     "tdg_controlled": "608",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "James Sung contributed to Agroverse and TrueSight DAO from April 2022 to March 2025, with contributions primarily in the 100TDG For every 1 hour of human effort category, logging five such efforts. He participated in two Build Game - Strategy Facetime meetings, each credited every 30 minutes, provided one reference material link for Build Game - Strategy, and brought on active contributors twice—once under the 250TDG tier and once under the 25TDG tier.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "693ab7a246dbcd409988c97f3849f75aca1fdf2e26f0af3dd8a30d2c796ffcd1",
+    "cached": false
+  }
 }

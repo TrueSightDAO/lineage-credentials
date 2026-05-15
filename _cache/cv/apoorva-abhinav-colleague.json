@@ -3,7 +3,7 @@
   "display_name": "Apoorva - Abhinav Colleague",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Apoorva - Abhinav Colleague",
-      "generated_date": "2026-05-14T22:41:00.885379",
+      "generated_date": "2026-05-14T23:06:10.687082",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 191.66,
@@ -164,5 +164,12 @@
     "tdg_controlled": "267",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Apoorva - Abhinav Colleague contributed four times to the DAO, with all efforts in the 20250617_beerhall project during May 6-7, 2025. Their contributions fell under the '100TDG For every 1 hour of human effort' category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b02c318fedcad286e65311d10eff7870bc99caac240de28c00340b0bc3d3e795",
+    "cached": false
+  }
 }

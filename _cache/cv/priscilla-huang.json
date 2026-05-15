@@ -3,7 +3,7 @@
   "display_name": "Priscilla Huang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Priscilla Huang",
-      "generated_date": "2026-05-14T22:41:01.897731",
+      "generated_date": "2026-05-14T23:06:12.108263",
       "summary": {
         "total_contributions": 129,
         "total_tdg_provisioned": 74940.0,
@@ -3197,5 +3197,12 @@
     "tdg_controlled": "58,590",
     "total_voting_power_pct": "2.50%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Priscilla Huang contributed to TrueSight DAO and MarketMonocle from June 2021 to September 2022, with primary focus on Build Game activities. She reviewed proposed strategies, suggesting clear improvements (12 contributions) and areas to watch out for (9), handled single line item operations tasks (8), and designed UI for single screen templates (8). Priscilla also contributed reference materials with strategy extensions (7), attended FaceTime meetings (7), participated in online polls (5), and reviewed strategies further (5). Her work emphasized strategy review, operations, user experience design, and collaborative planning.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "83731c267ae66fcb7d7a0f5e9532e708650fab4d7a1f706c59d7f87667193f8a",
+    "cached": false
+  }
 }

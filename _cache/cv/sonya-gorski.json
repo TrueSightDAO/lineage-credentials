@@ -3,7 +3,7 @@
   "display_name": "Sonya Gorski",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Sonya Gorski",
-      "generated_date": "2026-05-14T22:41:01.989126",
+      "generated_date": "2026-05-14T23:06:12.196335",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 34.5,
@@ -142,5 +142,12 @@
     "tdg_controlled": "35",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Sonya Gorski made three contributions to TrueSight DAO and Agroverse between August 2023 and July 2024. She completed two instances of the 100 TDG for every 1 hour of human effort rubric and one contribution in the Build Game strategy category by reviewing a proposed strategy and suggesting a clear, specific actionable step.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7e31217cd678e2f786aadbc833090ed581b33935c0b87aedd1ec31d2c47b8d6e",
+    "cached": false
+  }
 }

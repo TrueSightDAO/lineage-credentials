@@ -3,7 +3,7 @@
   "display_name": "Billy Estoque",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Billy Estoque",
-      "generated_date": "2026-05-14T22:41:00.922959",
+      "generated_date": "2026-05-14T23:06:10.737521",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 30.0,
@@ -139,5 +139,12 @@
     "tdg_controlled": "30",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Billy Estoque contributed to TrueSight DAO in July 2022 with three instances of independently reiterating a signal associated with a pending decision in the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "401106c91fc3f5e6dcf57cc9e7d2286b3a8a2902574bd90876011c5bfc1a1386",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Anne Charboneau",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Anne Charboneau",
-      "generated_date": "2026-05-14T22:41:00.864922",
+      "generated_date": "2026-05-14T23:06:10.636572",
       "summary": {
         "total_contributions": 18,
         "total_tdg_provisioned": 14410.0,
@@ -499,5 +499,12 @@
     "tdg_controlled": "8,410",
     "total_voting_power_pct": "0.36%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Anne Charboneau contributed to the DAO's Build Game from September 2021 to April 2022, focusing on strategy and marketing tasks. She provided reference material with ideas for strategy extensions, reviewed proposed strategies with clear improvements, participated in online polls, and created marketing messages using provided content. Her efforts represent four contributions across these categories.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d8bda7afaa10e256d2985faf6282025f08276e6c99356f5c64a8234d44df6ca8",
+    "cached": false
+  }
 }

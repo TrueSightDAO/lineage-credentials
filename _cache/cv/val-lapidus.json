@@ -3,7 +3,7 @@
   "display_name": "Val Lapidus",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Val Lapidus",
-      "generated_date": "2026-05-14T22:41:02.080467",
+      "generated_date": "2026-05-14T23:06:12.284145",
       "summary": {
         "total_contributions": 258,
         "total_tdg_provisioned": 88561.53,
@@ -6311,5 +6311,12 @@
     "tdg_controlled": "62,143",
     "total_voting_power_pct": "2.65%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Val Lapidus has made 258 contributions to TrueSight DAO and related projects including Agroverse, FORK, MarketMonocle, MoonShot, Recurring Tokenizations, 20250617_beerhall, and telegram_chatlog, spanning from August 2021 to January 2026. His work primarily spans human effort bounties, offline commerce tasks, liquidity provision, and Build Game operations such as office and kitchen facility use, alongside strategy sessions via Facetime meetings and social media posts on platforms like Facebook, Instagram, Twitter, and Reddit. Notable accomplishments include reviewing proposed strategies with clear, specific improvements 11 times and posting 8 short social media updates for Build Game marketing.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f88fe596f7c6c4e128abfc62009d7bb89cbec12a1a5e970d1252153b063bc5ec",
+    "cached": false
+  }
 }

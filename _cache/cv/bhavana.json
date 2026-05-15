@@ -3,7 +3,7 @@
   "display_name": "Bhavana",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Bhavana",
-      "generated_date": "2026-05-14T22:41:00.914518",
+      "generated_date": "2026-05-14T23:06:10.725799",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 425.0,
@@ -163,5 +163,12 @@
     "tdg_controlled": "425",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Bhavana contributed 4 hours of human effort to TrueSight DAO between January 14 and 20, 2024, earning 100 TDG per hour under the standard rubric.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "c44db40032eee0636b1ff0ba9795f5fc8775b75c82e4d3ba0ef21547b1f4cfdc",
+    "cached": false
+  }
 }

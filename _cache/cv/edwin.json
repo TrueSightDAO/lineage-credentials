@@ -3,7 +3,7 @@
   "display_name": "Edwin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Edwin",
-      "generated_date": "2026-05-14T22:41:01.086326",
+      "generated_date": "2026-05-14T23:06:10.949065",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 708.33,
@@ -160,5 +160,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Edwin contributed to the DAO across four activities from April 2022 to April 2025, primarily in the 20250617_beerhall and Agroverse projects. His efforts included bringing on a passive observer, providing reference material with a strategy extension idea for game building, completing a 30-minute offline commerce task, and one hour of human effort. These span categories such as builder recruitment, strategy contributions, and offline tasks.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "95f5426d4c82d76887ef098287641af3682d928017cde0ea28ba3eceb4d3a051",
+    "cached": false
+  }
 }

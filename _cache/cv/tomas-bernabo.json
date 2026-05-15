@@ -3,7 +3,7 @@
   "display_name": "Tomas Bernabo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tomas Bernabo",
-      "generated_date": "2026-05-14T22:41:02.049438",
+      "generated_date": "2026-05-14T23:06:12.253412",
       "summary": {
         "total_contributions": 31,
         "total_tdg_provisioned": 9819.66,
@@ -829,5 +829,12 @@
     "tdg_controlled": "9,820",
     "total_voting_power_pct": "0.42%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Tomas Bernabo contributed to multiple TrueSight DAO projects including 20250617_beerhall, Agroverse, Edgar, and TrueSight DAO itself over the period from March 2023 to April 2025. His efforts primarily focused on Build Game - Strategy through attending FaceTime meetings every 30 minutes (9 contributions) and providing one hour of human effort each time (7 contributions), alongside submitting reference materials with strategy extensions (2), sourcing SKUs with details for commerce (2), bringing on active contributors (2), injecting liquidity (2), and events planning such as venue sourcing and setup (1) plus rectifying a copywriting error (1). A notable accomplishment was bringing on active contributors to the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "a7d98e6f8d765404065f2a72cb6da65722a3b3834231b531cd72c30c72846a9d",
+    "cached": false
+  }
 }

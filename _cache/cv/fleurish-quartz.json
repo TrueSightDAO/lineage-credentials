@@ -3,7 +3,7 @@
   "display_name": "Fleurish Quartz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Fleurish Quartz",
-      "generated_date": "2026-05-14T22:41:01.178914",
+      "generated_date": "2026-05-14T23:06:11.094464",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Fleurish Quartz made one contribution to the TrueSight DAO on July 13, 2025, in the telegram_chatlog project, earning 100 TDG for one hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "931c59881c753de7357bf6ec58f543383d7cc3a910fc78a3ba497080b3ff158c",
+    "cached": false
+  }
 }

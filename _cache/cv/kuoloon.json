@@ -3,7 +3,7 @@
   "display_name": "Kuoloon",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kuoloon",
-      "generated_date": "2026-05-14T22:41:01.701182",
+      "generated_date": "2026-05-14T23:06:11.866399",
       "summary": {
         "total_contributions": 17,
         "total_tdg_provisioned": 20145.0,
@@ -484,5 +484,12 @@
     "tdg_controlled": "10,145",
     "total_voting_power_pct": "0.43%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Kuoloon contributed to the MarketMonocle project from March 2022 to September 2022, with contributions primarily in Build Game strategy and user experience categories. They attended FaceTime meetings, suggested ideas, reviewed and improved proposed strategies, designed systems, created UI designs for single screen templates, and participated in online polls. Notable accomplishments include two design system contributions and two UI designs for screen templates.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8077bd1676a042b46325f697541e66276b9b17196f010670b49df01ab9243348",
+    "cached": false
+  }
 }

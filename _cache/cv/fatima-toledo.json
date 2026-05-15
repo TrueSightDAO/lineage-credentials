@@ -3,7 +3,7 @@
   "display_name": "Fatima Toledo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Fatima Toledo",
-      "generated_date": "2026-05-14T22:41:01.160282",
+      "generated_date": "2026-05-14T23:06:11.058814",
       "summary": {
         "total_contributions": 247,
         "total_tdg_provisioned": 71881.16,
@@ -6058,5 +6058,12 @@
     "tdg_controlled": "65,853",
     "total_voting_power_pct": "2.81%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Fatima Toledo serves as a current member of the Board of Governors for TrueSight DAO. She has contributed extensively across projects including Agroverse, Beerhall, FORK, MarketMonocle, MoonShot, Recurring Tokenizations, and telegram_chatlog, with activity spanning from 2021 to 2026. Her work primarily focuses on human effort hours and Build Game - Strategy efforts, such as attending Facetime meetings, reviewing proposed strategies with specific improvements or cautions, and contributing reference materials with strategy extensions. Notable accomplishments include injecting liquidity into DAO mechanisms and participating in recurring Agroverse and Beerhall sessions.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2990c09075adfe8589483e4a624ff378076796f09dad4080102a0e59f90e8922",
+    "cached": false
+  }
 }

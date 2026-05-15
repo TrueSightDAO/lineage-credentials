@@ -3,7 +3,7 @@
   "display_name": "Suheil",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Suheil",
-      "generated_date": "2026-05-14T22:41:02.009523",
+      "generated_date": "2026-05-14T23:06:12.216477",
       "summary": {
         "total_contributions": 78,
         "total_tdg_provisioned": 10982.08,
@@ -1964,5 +1964,12 @@
     "tdg_controlled": "11,061",
     "total_voting_power_pct": "0.47%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Suheil contributed to multiple TrueSight DAO projects including 20250617_beerhall, Agroverse, Real Estate on Chains, and TrueSight DAO itself over the period from May 2023 to June 2025. His work primarily focused on Build Game strategy through attending Facetime meetings every 30 minutes (18 contributions) and dedicating one hour of human effort each worth 100 TDG (17 contributions), alongside offline commerce tasks (6), handling single line item operations tasks (5), and bringing on active contributors (4 at 250 points, 3 at 25 points). He also reviewed proposed strategies with suggestions against certain actions (3) and reshared short media posts for marketing (3). A notable accomplishment was recruiting active contributors to the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ba8c9564a42bedcb5cd921d815f6f1576c37c079f47d0d2b636f8f577c54d8ae",
+    "cached": false
+  }
 }

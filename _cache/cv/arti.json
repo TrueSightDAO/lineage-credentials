@@ -3,7 +3,7 @@
   "display_name": "Arti",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Arti",
-      "generated_date": "2026-05-14T22:41:00.890527",
+      "generated_date": "2026-05-14T23:06:10.694990",
       "summary": {
         "total_contributions": 39,
         "total_tdg_provisioned": 4695.75,
@@ -1020,5 +1020,12 @@
     "tdg_controlled": "34",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Arti contributed to multiple TrueSight DAO projects including 20250617_beerhall, Agroverse, Edgar, Recurring Tokenizations, Sun Mint, and telegram_chatlog over the period from March 2022 to February 2026. Their work primarily consisted of human effort tracked at 100TDG per hour, totaling 27 instances, alongside providing liquidity injections equivalent to 7 USD-denominated contributions. Arti also engaged in Build Game engineering by advising on bug workarounds in two cases, theorizing a solution once, and contributing a strategy reference link.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f30bba7b0c0c7acacd5a5cfa2a0d4b181de20f40c0c20a8ea7b6d4e9653f2be6",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Eric - FounderHaus",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Eric - FounderHaus",
-      "generated_date": "2026-05-14T22:41:01.129021",
+      "generated_date": "2026-05-14T23:06:11.018458",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 16.67,
@@ -91,5 +91,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Eric - FounderHaus made one contribution to the DAO through the 20250617_beerhall project, logging one hour of human effort under the '100TDG For every 1 hour of human effort' category on 20250415.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ab6a274d441f86bfabaa2ed33146126d1dd4e7fcf8bf6faded0154e8b4de4aa7",
+    "cached": false
+  }
 }

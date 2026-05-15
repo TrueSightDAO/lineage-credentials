@@ -3,7 +3,7 @@
   "display_name": "Shadi Atamne",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Shadi Atamne",
-      "generated_date": "2026-05-14T22:41:01.969343",
+      "generated_date": "2026-05-14T23:06:12.178581",
       "summary": {
         "total_contributions": 19,
         "total_tdg_provisioned": 5432.66,
@@ -531,5 +531,12 @@
     "tdg_controlled": "5,433",
     "total_voting_power_pct": "0.23%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Shadi Atamne contributed to Agroverse and TrueSight DAO from May 2023 to November 2023, with primary focus on Build Game efforts including strategy via frequent FaceTime meetings and engineering tasks. Shadi attended six sessions of 30-minute FaceTime meetings for strategy, logged six hours of human effort, completed three major standalone components, one minor standalone component, and one minor function. Additional contributions included one offline commerce task and paying USD expenses for liquidity on behalf of the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "0f3ef1a65af1318c38709ccd6ce8b21d09ab6743e84e316f982b880649d69c41",
+    "cached": false
+  }
 }

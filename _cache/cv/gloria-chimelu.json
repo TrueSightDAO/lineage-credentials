@@ -3,7 +3,7 @@
   "display_name": "Gloria Chimelu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Gloria Chimelu",
-      "generated_date": "2026-05-14T22:41:01.500830",
+      "generated_date": "2026-05-14T23:06:11.589242",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Gloria Chimelu participated in one contribution to the DAO in the Cypher Defense project on October 15, 2020, by voting in an online poll under the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "702462e3f80c9484a94f415a0cb4d2eefaef98b4ee2b82277fa511b4b8450097",
+    "cached": false
+  }
 }

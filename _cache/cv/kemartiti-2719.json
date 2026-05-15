@@ -3,7 +3,7 @@
   "display_name": "KemarTiti 🔮#2719",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "KemarTiti 🔮#2719",
-      "generated_date": "2026-05-14T22:41:01.674259",
+      "generated_date": "2026-05-14T23:06:11.828144",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 750.0,
@@ -136,5 +136,12 @@
     "tdg_controlled": "750",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "KemarTiti 🔮#2719 made three contributions to the DAO in March 2022, all in the Build Game - Engineering category. They advised on how to get around a bug in two instances and figured out a theoretical way to do something in one instance.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "73bacc51d7c9bde4a5ff02187423d0cfdddaf01bb1ff1a1c06b4d2ee78afeb72",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Tessa Rosemary Eckerman",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tessa Rosemary Eckerman",
-      "generated_date": "2026-05-14T22:41:02.033573",
+      "generated_date": "2026-05-14T23:06:12.238659",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 5200.0,
@@ -133,5 +133,12 @@
     "tdg_controlled": "5,200",
     "total_voting_power_pct": "0.22%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Tessa Rosemary Eckerman made three contributions to the TrueSight DAO between December 2021 and late December 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "fae1045723acab458453ad4cdfe1fd9be26096f623ea8e4b19512b38fc41cc34",
+    "cached": false
+  }
 }

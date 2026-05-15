@@ -3,7 +3,7 @@
   "display_name": "Global DAO Alliance",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Global DAO Alliance",
-      "generated_date": "2026-05-14T22:41:01.497805",
+      "generated_date": "2026-05-14T23:06:11.586174",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 10250.0,
@@ -159,5 +159,12 @@
     "tdg_controlled": "10,250",
     "total_voting_power_pct": "0.44%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Global DAO Alliance made four contributions to TrueSight DAO between May and June 2022, all in the Bring Liquidity category by paying for expenses in USD on behalf of the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e20126825ef2b83fc3b23917685a2dd75b4a3dbb0e81c529a58395a99662f769",
+    "cached": false
+  }
 }

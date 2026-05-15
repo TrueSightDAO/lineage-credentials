@@ -3,7 +3,7 @@
   "display_name": "Anika Giftge",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Anika Giftge",
-      "generated_date": "2026-05-14T22:41:00.852717",
+      "generated_date": "2026-05-14T23:06:10.614814",
       "summary": {
         "total_contributions": 70,
         "total_tdg_provisioned": 55710.0,
@@ -1751,5 +1751,12 @@
     "tdg_controlled": "37,560",
     "total_voting_power_pct": "1.60%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Anika Giftge contributed to the DAO's Build Game efforts from March 2022 to April 2022, primarily through strategy work including reference material accompanied by application ideas (2), reviewing proposed strategies with suggestions against actions or areas to watch (1), clear specific improvements (1), and UX suggestions (1). She also brought on passive observers (2) and a key opinion leader (1), along with independent signal reiterations (1) and reference links (1). Notable among these was onboarding a key opinion leader.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7b03ac34c53692448680a3d5e17b895a05f65b4d7fdf7d8df489940636dab780",
+    "cached": false
+  }
 }

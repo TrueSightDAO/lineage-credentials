@@ -3,7 +3,7 @@
   "display_name": "@Trex_d_designer",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@Trex_d_designer",
-      "generated_date": "2026-05-14T22:41:00.732314",
+      "generated_date": "2026-05-14T23:06:10.421484",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 303.33,
@@ -115,5 +115,12 @@
     "tdg_controlled": "303",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@Trex_d_designer contributed two hours of human effort to TrueSight DAO in August 2024, earning recognition through the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "dad5cea3b95929dee61aac43558cf7c6feabb7be30d4cedb4a291a1183fbeebd",
+    "cached": false
+  }
 }

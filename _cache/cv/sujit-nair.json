@@ -3,7 +3,7 @@
   "display_name": "Sujit Nair",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Sujit Nair",
-      "generated_date": "2026-05-14T22:41:02.017202",
+      "generated_date": "2026-05-14T23:06:12.223905",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 2591.6800000000003,
@@ -213,5 +213,12 @@
     "tdg_controlled": "2,592",
     "total_voting_power_pct": "0.11%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Sujit Nair made six contributions to TrueSight DAO and the 20250617_beerhall project from June 2021 to April 2025. His efforts centered on the '100TDG For every 1 hour of human effort' category, accounting for five contributions.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1701206493ef20915fa9a9d6668ad0accf07e79aa4baf953f2ef8c95da888913",
+    "cached": false
+  }
 }

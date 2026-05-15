@@ -3,7 +3,7 @@
   "display_name": "Evan Sui",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Evan Sui",
-      "generated_date": "2026-05-14T22:41:01.139580",
+      "generated_date": "2026-05-14T23:06:11.036257",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 8.34,
@@ -91,5 +91,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Evan Sui made one contribution to the DAO on April 24, 2025, earning 100 TDG for one hour of human effort in the 20250617_beerhall project.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ac24213558d44a3b8dfae0927de50a81d1dafdf906667891cf954e09add130a4",
+    "cached": false
+  }
 }

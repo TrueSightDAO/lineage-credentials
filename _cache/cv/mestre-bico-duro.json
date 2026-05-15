@@ -3,7 +3,7 @@
   "display_name": "Mestre Bico Duro",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mestre Bico Duro",
-      "generated_date": "2026-05-14T22:41:01.798566",
+      "generated_date": "2026-05-14T23:06:11.991245",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 333.33,
@@ -163,5 +163,12 @@
     "tdg_controlled": "333",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Mestre Bico Duro contributed 4 hours of human effort to TrueSight DAO between November 9 and 23, 2024, earning recognition through the 100TDG For every 1 hour of human effort rubric.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6a9651a56d3f4ea924de765dba1cd81f7e85109ae7a5e97ac9e90bbff8be382f",
+    "cached": false
+  }
 }

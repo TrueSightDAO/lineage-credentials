@@ -3,7 +3,7 @@
   "display_name": "@hawkenzo1",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@hawkenzo1",
-      "generated_date": "2026-05-14T22:41:00.742428",
+      "generated_date": "2026-05-14T23:06:10.440234",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 250.0,
@@ -87,5 +87,12 @@
     "tdg_controlled": "250",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@hawkenzo1 contributed to the DAO with one entry in Build Game - Engineering, where they figured out a theoretical way to do something.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "58fc862f8ba0bcf3c71c9c14a9857bb352bbaaebe168e5097d8e938c4e4bda29",
+    "cached": false
+  }
 }

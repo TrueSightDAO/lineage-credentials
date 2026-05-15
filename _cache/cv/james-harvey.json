@@ -3,7 +3,7 @@
   "display_name": "James Harvey",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "James Harvey",
-      "generated_date": "2026-05-14T22:41:01.560217",
+      "generated_date": "2026-05-14T23:06:11.681407",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1000.0,
@@ -77,5 +77,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "James Harvey made one contribution to the TrueSight DAO on December 18, 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "982aad711043d58094298b3a7e2c18ea54c3c93b31612dc0f1c540a8e4a0064c",
+    "cached": false
+  }
 }

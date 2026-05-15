@@ -1,0 +1,7 @@
+{
+  "narrative": "Nelson contributed to Cypher Defense and TrueSight DAO from September 2022 to December 2022, with contributions primarily in Build Game user experience work. He completed UI design for a single feature (component) on four occasions, validated the existence of a user behavior once, raised a concern about an existing minor issue in DAO governance once, and reviewed a proposed strategy while suggesting areas to watch out for once.",
+  "model": "grok-4-1-fast-non-reasoning",
+  "prompt_version": "2026-05-14-v1",
+  "cached": false,
+  "source_hash": "59a96c0fa51dd12efe734bdf56c5d562ad4f7e62c8116e1cb89349df564c4b42"
+}

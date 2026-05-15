@@ -3,7 +3,7 @@
   "display_name": "Nicole Keller",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Nicole Keller",
-      "generated_date": "2026-05-14T22:41:01.851923",
+      "generated_date": "2026-05-14T23:06:12.061066",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 990.0,
@@ -239,5 +239,12 @@
     "tdg_controlled": "990",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Nicole Keller made seven contributions to TrueSight DAO between January 2024 and April 2025, all qualifying under the 100 TDG for every 1 hour of human effort rubric. She participated in the 20250617_beerhall event, Agroverse cacao supply chain project, and TrueSight DAO activities.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f6beab482535ee1a91ef9175aa0099bf4fe84988af0e6db7b83eb7e4d5bf9e4d",
+    "cached": false
+  }
 }

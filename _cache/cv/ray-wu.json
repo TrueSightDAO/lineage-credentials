@@ -3,7 +3,7 @@
   "display_name": "Ray Wu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ray Wu",
-      "generated_date": "2026-05-14T22:41:01.927672",
+      "generated_date": "2026-05-14T23:06:12.134726",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 416.67,
@@ -189,5 +189,12 @@
     "tdg_controlled": "417",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ray Wu made five contributions to Agroverse and TrueSight DAO between November 2023 and January 2025, all under the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f0a527422959e043f1dc1df31dd15ffb66dd08acc26619fdfed8000b3b0ea428",
+    "cached": false
+  }
 }

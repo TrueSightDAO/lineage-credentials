@@ -3,7 +3,7 @@
   "display_name": "Zake Zephylia",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Zake Zephylia",
-      "generated_date": "2026-05-14T22:41:02.176594",
+      "generated_date": "2026-05-14T23:06:12.377006",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Zake Zephylia made one contribution to the DAO on May 27, 2025, in the telegram_chatlog project, qualifying under the '100TDG For every 1 hour of human effort' category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "74c6e7c8c9999cfda7e710f07b148d9e9218a3de506cc572db9bd1dcea2c06fe",
+    "cached": false
+  }
 }

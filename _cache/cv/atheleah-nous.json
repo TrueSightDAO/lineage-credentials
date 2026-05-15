@@ -3,7 +3,7 @@
   "display_name": "ATheLeah Nous",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "ATheLeah Nous",
-      "generated_date": "2026-05-14T22:41:00.775698",
+      "generated_date": "2026-05-14T23:06:10.482287",
       "summary": {
         "total_contributions": 9,
         "total_tdg_provisioned": 662.5,
@@ -286,5 +286,12 @@
     "tdg_controlled": "675",
     "total_voting_power_pct": "0.03%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "ATheLeah Nous contributed 9 times to the DAO between May 20, 2025, and June 10, 2025, primarily through the '100TDG For every 1 hour of human effort' category with 8 efforts logged, alongside single contributions in the same category. Leah participated in the 20250617_beerhall project and telegram_chatlog activities.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f35aab1042001ad32b1bfd6ca95ee665aa357861ec64d09dbab548c412d08e3e",
+    "cached": false
+  }
 }

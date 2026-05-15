@@ -3,7 +3,7 @@
   "display_name": "Rob Hutter",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Rob Hutter",
-      "generated_date": "2026-05-14T22:41:01.936018",
+      "generated_date": "2026-05-14T23:06:12.141788",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 10000.0,
@@ -110,5 +110,12 @@
     "tdg_controlled": "5,000",
     "total_voting_power_pct": "0.21%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Rob Hutter made two contributions to the DAO in April 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d87e5967b95935bad76cc317d6c111bf0bf05a2d1e8cd3ea2a28ca53196bec53",
+    "cached": false
+  }
 }

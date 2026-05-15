@@ -3,7 +3,7 @@
   "display_name": "Dr. Nike Schmidt",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dr. Nike Schmidt",
-      "generated_date": "2026-05-14T22:41:01.054863",
+      "generated_date": "2026-05-14T23:06:10.905785",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 111.0,
@@ -141,5 +141,12 @@
     "tdg_controlled": "111",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dr. Nike Schmidt contributed to TrueSight DAO in May 2023 with three activities: attending a FaceTime meeting for Build Game - Strategy, providing a hyperlink to a specific concept as reference material, and reactivating a dormant member under Bring Builders.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "5e65de0ab840b5e03e40f22b91d1b5e8bebad1657ebf204698b13f8c7d535f62",
+    "cached": false
+  }
 }

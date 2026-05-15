@@ -3,7 +3,7 @@
   "display_name": "Gwendolyn Regina",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Gwendolyn Regina",
-      "generated_date": "2026-05-14T22:41:01.508771",
+      "generated_date": "2026-05-14T23:06:11.599897",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 0.9099999999999999,
@@ -115,5 +115,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Gwendolyn Regina made two contributions to TrueSight DAO on September 20, 2024, both under the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "956bd0d0bb7df8a785d1530118778831f2b1c6e0b452eb05290b2d74e5895587",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Andrey Nayman",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Andrey Nayman",
-      "generated_date": "2026-05-14T22:41:00.835407",
+      "generated_date": "2026-05-14T23:06:10.590866",
       "summary": {
         "total_contributions": 18,
         "total_tdg_provisioned": 1890.0,
@@ -507,5 +507,12 @@
     "tdg_controlled": "1,650",
     "total_voting_power_pct": "0.07%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Andrey Nayman contributed to Agroverse and TrueSight DAO over two years, from April 2022 to February 2024, with 18 entries primarily in Build Game - Strategy rubrics. He provided reference materials and links five times, reviewed proposed strategies with clear improvements three times, and reiterated pending decision signals independently three times. Andrey also suggested against certain actions or areas to watch twice, contributed educational reference materials twice, logged two hours of human effort, and offered one actionable step in a strategy review. His work focused on strategic input without dominating in community ops or other categories.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "fc479dbe4d53cd07892badee676949187301bab9b570a7bf549aaf48bc413969",
+    "cached": false
+  }
 }

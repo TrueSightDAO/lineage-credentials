@@ -3,7 +3,7 @@
   "display_name": "Boris Giftge",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Boris Giftge",
-      "generated_date": "2026-05-14T22:41:00.932403",
+      "generated_date": "2026-05-14T23:06:10.755073",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 850.0,
@@ -208,5 +208,12 @@
     "tdg_controlled": "850",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Boris Giftge contributed to the DAO in March 2022 with six activities, primarily in the Build Game - Strategy category where he reviewed proposed strategies and suggested against certain actions or areas to watch out for in five instances. He also brought on a passive observer in one contribution under Bring Builders. His involvement was concentrated over five days from March 25 to 29.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2862a3e20426bf46beb9a43ad2041d7615f52e6e88c75a8e96e482d00b29c55c",
+    "cached": false
+  }
 }

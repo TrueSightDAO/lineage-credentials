@@ -3,7 +3,7 @@
   "display_name": "Deric Walintukan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Deric Walintukan",
-      "generated_date": "2026-05-14T22:41:01.028066",
+      "generated_date": "2026-05-14T23:06:10.876925",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 250.0,
@@ -87,5 +87,12 @@
     "tdg_controlled": "250",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Deric Walintukan made one contribution to the TrueSight DAO in June 2022, in the Build Game category under Engineering, where he figured out a theoretical way to do something.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "9121481b10b0d421d9eab88391cf698c161a0cb0c4c6324c83456ac307de40a2",
+    "cached": false
+  }
 }

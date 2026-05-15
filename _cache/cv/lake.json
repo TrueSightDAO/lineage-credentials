@@ -3,7 +3,7 @@
   "display_name": "@Lake",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@Lake",
-      "generated_date": "2026-05-14T22:41:00.725699",
+      "generated_date": "2026-05-14T23:06:10.402238",
       "summary": {
         "total_contributions": 32,
         "total_tdg_provisioned": 7050.0,
@@ -829,5 +829,12 @@
     "tdg_controlled": "7,050",
     "total_voting_power_pct": "0.30%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@Lake contributed to the DAO from February 2022 to March 2022, with 32 contributions primarily in community ops and partner outreach for Agroverse and Sun Mint projects. They handled regular Telegram engagement, content curation, and coordination for cacao supply chain initiatives and regenerative reforestation efforts. A notable accomplishment was facilitating key partner introductions that advanced early social venture discussions.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "da12a9a69fd6f81a280add818c0ae0b341cee0fcaacfc084fcc07fe69f04111d",
+    "cached": false
+  }
 }

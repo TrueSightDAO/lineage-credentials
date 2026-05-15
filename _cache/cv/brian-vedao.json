@@ -3,7 +3,7 @@
   "display_name": "Brian VeDAO",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Brian VeDAO",
-      "generated_date": "2026-05-14T22:41:00.944044",
+      "generated_date": "2026-05-14T23:06:10.772280",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1.0,
@@ -83,5 +83,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Brian VeDAO contributed to the Agroverse project by bringing on a passive observer to the DAO in November 2023.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f75ec5f7c38c0c84a919b98d9366587c3ebf8367973c83b67ebf8e1f12c4017f",
+    "cached": false
+  }
 }

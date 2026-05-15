@@ -3,7 +3,7 @@
   "display_name": "Liz (George)",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Liz (George)",
-      "generated_date": "2026-05-14T22:41:01.735187",
+      "generated_date": "2026-05-14T23:06:11.907612",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 2.0,
@@ -115,5 +115,12 @@
     "tdg_controlled": "2",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Liz (George) made two contributions to the Agroverse project on August 23, 2023. Both were suggestions for Build Game strategy ideas without proposed implementation details.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e8f0862f11ecc2128047e71f212da36cf905af38d4d1ef9556b7886032b89f23",
+    "cached": false
+  }
 }

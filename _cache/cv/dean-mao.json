@@ -3,7 +3,7 @@
   "display_name": "Dean Mao",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dean Mao",
-      "generated_date": "2026-05-14T22:41:01.026193",
+      "generated_date": "2026-05-14T23:06:10.872972",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 541.0,
@@ -192,5 +192,12 @@
     "tdg_controlled": "541",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dean Mao contributed to Agroverse and TrueSight DAO from August 2023 to November 2023, with five logged efforts primarily under the 100 TDG for every 1 hour of human effort category (twice). Additional contributions include one offline commerce task (30 minutes), one manual outreach for Build Game marketing growth hacking (30 minutes), and one reference material hyperlink for Build Game strategy.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d4dc6b8b5c1e585f787684acdb8c8f86e067168937ad8355657b82d75b9143db",
+    "cached": false
+  }
 }

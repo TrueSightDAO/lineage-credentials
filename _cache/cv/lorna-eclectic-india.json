@@ -3,7 +3,7 @@
   "display_name": "Lorna - Eclectic India",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Lorna - Eclectic India",
-      "generated_date": "2026-05-14T22:41:01.739125",
+      "generated_date": "2026-05-14T23:06:11.914741",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "1",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Lorna - Eclectic India made one contribution to the TrueSight DAO by injecting liquidity into the telegram_chatlog project, earning 1 TDG under the category of 1 TDG for every 1 USD of liquidity injected.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f724c7eb070ea9a896385948484326c4d27b1e3d36d12a8d2ede2d50ce38de36",
+    "cached": false
+  }
 }

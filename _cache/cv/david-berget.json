@@ -3,7 +3,7 @@
   "display_name": "David Berget",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "David Berget",
-      "generated_date": "2026-05-14T22:41:01.017319",
+      "generated_date": "2026-05-14T23:06:10.861909",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 17700.0,
@@ -230,5 +230,12 @@
     "tdg_controlled": "7,700",
     "total_voting_power_pct": "0.33%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "David Berget contributed to the TrueSight DAO over the period from December 2021 to February 2022, with a total of seven contributions. His involvement was primarily in community operations and early partner outreach for Agroverse and Sun Mint initiatives.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ec5bba5bc8e02b970e49e2d266a5996b8f016e7700a7045578e375890af4a711",
+    "cached": false
+  }
 }

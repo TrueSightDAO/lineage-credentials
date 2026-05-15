@@ -3,7 +3,7 @@
   "display_name": "Leslie Lim",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Leslie Lim",
-      "generated_date": "2026-05-14T22:41:01.726604",
+      "generated_date": "2026-05-14T23:06:11.893999",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 1000.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "1,000",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Leslie Lim made one contribution to the TrueSight DAO on February 15, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "35a6e90e6f2ccf85f6a347228ffee3a17013c0a8cecd0f7cdeb08cd7cfe62efd",
+    "cached": false
+  }
 }

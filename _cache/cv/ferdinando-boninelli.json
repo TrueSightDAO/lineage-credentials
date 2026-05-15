@@ -3,7 +3,7 @@
   "display_name": "Ferdinando Boninelli",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ferdinando Boninelli",
-      "generated_date": "2026-05-14T22:41:01.176762",
+      "generated_date": "2026-05-14T23:06:11.090715",
       "summary": {
         "total_contributions": 14,
         "total_tdg_provisioned": 2233.2099999999996,
@@ -406,5 +406,12 @@
     "tdg_controlled": "2,233",
     "total_voting_power_pct": "0.10%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ferdinando Boninelli contributed to the Agroverse project from June to July 2023, with contributions primarily in bringing liquidity by paying for DAO expenses in USD on eight occasions. He also engaged in commerce through three 30-minute Facetime calls with vendors and supported game strategy via two Facetime meetings and one review where he suggested a clear actionable step. A notable accomplishment was his consistent funding of expenses during this active period.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d142ea398eb079b3254c8e15c284e32f2d6a87d3fd241d20b0393106cdac5da2",
+    "cached": false
+  }
 }

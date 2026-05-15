@@ -3,7 +3,7 @@
   "display_name": "Anna Love",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Anna Love",
-      "generated_date": "2026-05-14T22:41:00.858779",
+      "generated_date": "2026-05-14T23:06:10.625155",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 30.0,
@@ -140,5 +140,12 @@
     "tdg_controlled": "30",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Anna Love contributed to the Agroverse project with three strategy reviews in Build Game sessions during July 2023. She reviewed proposed strategies twice, suggesting clear and specific actionable steps each time, and once suggested against pursuing something while highlighting areas to watch out for.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6c8aa74c1c5faabe9e9ff28797e2fe9e9fd31f6569d2a0396be27bca8abcc455",
+    "cached": false
+  }
 }

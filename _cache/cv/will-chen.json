@@ -3,7 +3,7 @@
   "display_name": "Will Chen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Will Chen",
-      "generated_date": "2026-05-14T22:41:02.135872",
+      "generated_date": "2026-05-14T23:06:12.338231",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 175.0,
@@ -141,5 +141,12 @@
     "tdg_controlled": "175",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Will Chen made three contributions to the DAO, all under the '100TDG For every 1 hour of human effort' category, spanning from June 22, 2025, to October 21, 2025. These included work on the 20250917_beerhall project and telegram_chatlog.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "9fb007ba6739a9ccc5b3d252538d2449de4d78f3eaf9744cc569f729f70135bb",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Derrek",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Derrek",
-      "generated_date": "2026-05-14T22:41:01.029799",
+      "generated_date": "2026-05-14T23:06:10.878899",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 75.0,
@@ -83,5 +83,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Derrek contributed to TrueSight DAO with one activity in September 2023, attending a FaceTime meeting for the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e0964afc0ba871bfd4347cabc8b35a0e1bd5fc0cd7a235b0fb9da5dc568bfd03",
+    "cached": false
+  }
 }

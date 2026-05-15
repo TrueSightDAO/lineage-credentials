@@ -3,7 +3,7 @@
   "display_name": "Peter Gwee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Peter Gwee",
-      "generated_date": "2026-05-14T22:41:01.885272",
+      "generated_date": "2026-05-14T23:06:12.093923",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 3762.5,
@@ -235,5 +235,12 @@
     "tdg_controlled": "3,775",
     "total_voting_power_pct": "0.16%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Peter Gwee made 7 contributions to the TrueSight DAO from January 2022 to March 2025, primarily through the 100TDG For every 1 hour of human effort rubric. He participated in the 20250617_edgar project.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "73a25ff36e4504bd5c0a69e3cd1dee33a2f7556a3f052b208535ebb4e4b14a3a",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Nishanth Sudharsanam",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Nishanth Sudharsanam",
-      "generated_date": "2026-05-14T22:41:01.859115",
+      "generated_date": "2026-05-14T23:06:12.070048",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 12600.0,
@@ -230,5 +230,12 @@
     "tdg_controlled": "8,850",
     "total_voting_power_pct": "0.38%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Nishanth Sudharsanam made 7 contributions to the TrueSight DAO between January 10 and 25, 2022. His activity was concentrated in the initial phase of community building for Agroverse and Sun Mint projects.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "58d5dbe130fe0200ff7f261cd47db013199f552a218e93d8cec70203bc9eeb91",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Jim White",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jim White",
-      "generated_date": "2026-05-14T22:41:01.594386",
+      "generated_date": "2026-05-14T23:06:11.722514",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jim White contributed once to the Agroverse project on 2023-11-07. He reviewed a proposed strategy and suggested a clear and specific actionable step in the Build Game category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4b34dd6d1792fa8b0f6f9867d4e160a9d687e9a955e221dd256ac2dc1509a000",
+    "cached": false
+  }
 }

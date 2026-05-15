@@ -3,7 +3,7 @@
   "display_name": "Jen Chan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jen Chan",
-      "generated_date": "2026-05-14T22:41:01.579672",
+      "generated_date": "2026-05-14T23:06:11.701459",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 25.0,
@@ -115,5 +115,12 @@
     "tdg_controlled": "25",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jen Chan made two contributions to TrueSight DAO on January 8, 2025, both under the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "19bf3e4b683ad98a44c111dbd68c82a9d127716edd62f16d27a5c67c9a2c14fe",
+    "cached": false
+  }
 }

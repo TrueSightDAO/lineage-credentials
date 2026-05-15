@@ -3,7 +3,7 @@
   "display_name": "Johnny Browaeys",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Johnny Browaeys",
-      "generated_date": "2026-05-14T22:41:01.610512",
+      "generated_date": "2026-05-14T23:06:11.743385",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 510.0,
@@ -141,5 +141,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Johnny Browaeys contributed to TrueSight DAO in June 2023 with three activities. He focused primarily on bringing builders, successfully onboarding two active contributors. He also reviewed a proposed strategy in the Build Game and suggested a clear, specific actionable step.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "daa04f81eb1b9b456e3f2f54e8db43d1fcbb7e9af969232495a132d786eff77b",
+    "cached": false
+  }
 }

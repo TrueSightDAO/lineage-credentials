@@ -3,7 +3,7 @@
   "display_name": "Valentine Stockdale",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Valentine Stockdale",
-      "generated_date": "2026-05-14T22:41:02.092795",
+      "generated_date": "2026-05-14T23:06:12.297528",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 250.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "250",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Valentine Stockdale contributed to the Agroverse project with one activity in commerce, sourcing for a producer.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f60d99a07be1f13e3073686d5f21476241983bed49a35d4d14cd059e1137ddf0",
+    "cached": false
+  }
 }

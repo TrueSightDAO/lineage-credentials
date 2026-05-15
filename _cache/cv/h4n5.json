@@ -3,7 +3,7 @@
   "display_name": "@_H4N5",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@_H4N5",
-      "generated_date": "2026-05-14T22:41:00.733930",
+      "generated_date": "2026-05-14T23:06:10.424547",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -87,5 +87,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@_H4N5 made one contribution to the DAO on March 30, 2022, in the Build Game - Marketing category by resharing a short media text post on social media.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "96859cf3f6bc538e5cdb7b2bedc5f4bcc1c6968bbe4c75a088d353d42b4dd610",
+    "cached": false
+  }
 }

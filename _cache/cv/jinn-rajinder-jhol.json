@@ -3,7 +3,7 @@
   "display_name": "Jinn Rajinder Jhol",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jinn Rajinder Jhol",
-      "generated_date": "2026-05-14T22:41:01.597162",
+      "generated_date": "2026-05-14T23:06:11.725523",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 375.0,
@@ -117,5 +117,12 @@
     "tdg_controlled": "375",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jinn Rajinder Jhol made two contributions to the TrueSight DAO ecosystem, both qualifying under the 100TDG for every 1 hour of human effort rubric. These efforts supported Agroverse and TrueSight DAO projects during a brief active period from February 14 to 15, 2024.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ef64f070c8da7607d76e3d233dba5ceb49de06561b254f94aab93314e3a36af7",
+    "cached": false
+  }
 }

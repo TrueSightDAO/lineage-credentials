@@ -3,7 +3,7 @@
   "display_name": "Vlatko Gigov",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Vlatko Gigov",
-      "generated_date": "2026-05-14T22:41:02.125510",
+      "generated_date": "2026-05-14T23:06:12.329514",
       "summary": {
         "total_contributions": 162,
         "total_tdg_provisioned": 81945.1,
@@ -4003,5 +4003,12 @@
     "tdg_controlled": "50,584",
     "total_voting_power_pct": "2.16%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Vlatko Gigov contributed to multiple projects in the TrueSight DAO ecosystem, including Agroverse, Cypher Defense, Edgar, MarketMonocle, Sun Mint, TrueChain, and telegram_chatlog, with primary focus on the Build Game through strategy reviews, reference material contributions, and UX suggestions, alongside bringing in builders ranging from passive observers to resource owners. His efforts spanned from October 2020 to March 2026, totaling 162 contributions dominated by hourly human effort recognitions. A notable accomplishment was onboarding four resource owners, active contributors, and passive observers to bolster the community's building capacity.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8e7ff663461c70f96c518e5f69bbf9734dc8c53d8f69ab43940e1a9ef5138c68",
+    "cached": false
+  }
 }

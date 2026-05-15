@@ -3,7 +3,7 @@
   "display_name": "Gilbert Zhuo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Gilbert Zhuo",
-      "generated_date": "2026-05-14T22:41:01.493322",
+      "generated_date": "2026-05-14T23:06:11.579810",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -77,5 +77,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Gilbert Zhuo made one contribution to the TrueSight DAO on March 15, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "16694cceae3144891935fddabc887b117f2b7c71db33e8a91a70fd5b56b6e36f",
+    "cached": false
+  }
 }

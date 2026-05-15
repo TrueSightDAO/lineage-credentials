@@ -3,7 +3,7 @@
   "display_name": "Edi Hsu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Edi Hsu",
-      "generated_date": "2026-05-14T22:41:01.079928",
+      "generated_date": "2026-05-14T23:06:10.936471",
       "summary": {
         "total_contributions": 20,
         "total_tdg_provisioned": 14805.0,
@@ -558,5 +558,12 @@
     "tdg_controlled": "9,805",
     "total_voting_power_pct": "0.42%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Edi Hsu contributed to Agroverse and MarketMonocle projects from April 2022 to August 2023, with contributions primarily in the Build Game category focused on strategy and user experience. Edi suggested ideas without implementation details (6 times), contributed full-scale strategies with rollout action plans (3 times), and designed systems for user experience (2 times). Additional contributions included reviewing strategies with specific improvements (2 times), providing reference hyperlinks (2 times), participating in polls (2 times), attending a FaceTime meeting (1 time), and suggesting cautions on proposals (1 time). A notable accomplishment was delivering comprehensive growth strategies for the DAO.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "475e19b6cfa9f5f2cd6c2b60195bc766ae655ab8aac51652422d16d58d7ef586",
+    "cached": false
+  }
 }

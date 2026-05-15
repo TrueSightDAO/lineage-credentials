@@ -3,7 +3,7 @@
   "display_name": "Perry Tam",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Perry Tam",
-      "generated_date": "2026-05-14T22:41:01.883550",
+      "generated_date": "2026-05-14T23:06:12.092107",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 300.0,
@@ -125,5 +125,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Perry Tam made three contributions to the DAO on December 16, 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7a55a92184eb2f29bc5d642f5cb1b2775e5309a7c893488cb152733abf870a1c",
+    "cached": false
+  }
 }

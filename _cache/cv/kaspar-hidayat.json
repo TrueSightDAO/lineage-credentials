@@ -3,7 +3,7 @@
   "display_name": "Kaspar Hidayat",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kaspar Hidayat",
-      "generated_date": "2026-05-14T22:41:01.658918",
+      "generated_date": "2026-05-14T23:06:11.808094",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 200.0,
@@ -109,5 +109,12 @@
     "tdg_controlled": "200",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Kaspar Hidayat made two contributions to the TrueSight DAO on a single day in February 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ea0756b2b9c28976164265341c5a380d7b57f2036dcfd3e00b299c4d38749cd1",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Dan Cordie",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dan Cordie",
-      "generated_date": "2026-05-14T22:41:01.001827",
+      "generated_date": "2026-05-14T23:06:10.841772",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 487.14,
@@ -242,5 +242,12 @@
     "tdg_controlled": "498",
     "total_voting_power_pct": "0.02%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dan Cordie contributed to TrueSight DAO, Agroverse, and the 20250617_beerhall project across four categories from August 2023 to May 2025. His efforts primarily involved human labor tracked at 100 TDG per hour for four contributions, alongside events planning where he caught and rectified a copywriting error, strategy review for the Build Game by suggesting a clear actionable step, and a 30-minute offline commerce task. With seven contributions total, Dan focused on practical support across DAO initiatives.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f47b73920dc0e610c36c2b7b850ea18c81d36c3e1ed4d5fe2b210368ab376b41",
+    "cached": false
+  }
 }

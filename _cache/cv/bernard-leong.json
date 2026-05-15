@@ -3,7 +3,7 @@
   "display_name": "Bernard Leong",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Bernard Leong",
-      "generated_date": "2026-05-14T22:41:00.905040",
+      "generated_date": "2026-05-14T23:06:10.714069",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 2155.0,
@@ -221,5 +221,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Bernard Leong made 7 contributions to the TrueSight DAO between January 29 and February 1, 2022. His activity was concentrated in the early period of the DAO's formation.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e2082f67fee1e90d69eb709c7406337ff5ed68a40591f9f41eac7ff0682b5830",
+    "cached": false
+  }
 }

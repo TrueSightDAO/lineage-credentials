@@ -3,7 +3,7 @@
   "display_name": "Kris swims like fish",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kris swims like fish",
-      "generated_date": "2026-05-14T22:41:01.695504",
+      "generated_date": "2026-05-14T23:06:11.857609",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Kris swims like fish made one contribution to the TrueSight DAO on February 27, 2026, in the telegram_chatlog project. This effort earned recognition under the '100TDG For every 1 hour of human effort' category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4b805f3e547bbcc4629e92c36fda68afdcf9bc91fbbea6c66aa08babfa9a9907",
+    "cached": false
+  }
 }

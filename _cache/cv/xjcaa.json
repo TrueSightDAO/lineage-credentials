@@ -3,7 +3,7 @@
   "display_name": "@xjcaa",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@xjcaa",
-      "generated_date": "2026-05-14T22:41:00.765986",
+      "generated_date": "2026-05-14T23:06:10.471340",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 200.0,
@@ -109,5 +109,12 @@
     "tdg_controlled": "200",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@xjcaa made two contributions to the DAO on February 17, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "92333078c7b834e63b2c98e40d3340364f010165e67fbaef16924a51106bfad4",
+    "cached": false
+  }
 }

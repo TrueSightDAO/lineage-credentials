@@ -3,7 +3,7 @@
   "display_name": "Tiffine Wang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tiffine Wang",
-      "generated_date": "2026-05-14T22:41:02.044716",
+      "generated_date": "2026-05-14T23:06:12.248398",
       "summary": {
         "total_contributions": 32,
         "total_tdg_provisioned": 20084.65,
@@ -843,5 +843,12 @@
     "tdg_controlled": "14,985",
     "total_voting_power_pct": "0.64%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Tiffine Wang contributed 32 times to Agroverse and TrueSight DAO from May 2021 to March 2025, with contributions primarily in the 100 TDG for every 1 hour of human effort category (7 instances). She also supported Build Game operations by using the office/kitchen facility (2 hours), provided a strategy reference link, brought on a passive observer, and recruited a very critical resource owner. Additional work included offline commerce tasks for 30 minutes.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "6fecf2c8eddbe74219b0a89fa03cb10a185b6354d7e20baf6c4a82c6eba48c6a",
+    "cached": false
+  }
 }

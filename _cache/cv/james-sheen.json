@@ -3,7 +3,7 @@
   "display_name": "James Sheen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "James Sheen",
-      "generated_date": "2026-05-14T22:41:01.563500",
+      "generated_date": "2026-05-14T23:06:11.684138",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 8.33,
@@ -91,5 +91,12 @@
     "tdg_controlled": "8",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "James Sheen contributed one hour of human effort to the 20250617_beerhall project on April 19, 2025, qualifying under the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "2c9f40a6cbbaaeb1aeb6c3a633d12ded1e0017e04a4a2e3edafe9b15383d0262",
+    "cached": false
+  }
 }

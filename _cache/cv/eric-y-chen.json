@@ -3,7 +3,7 @@
   "display_name": "Eric Y Chen",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Eric Y Chen",
-      "generated_date": "2026-05-14T22:41:01.132595",
+      "generated_date": "2026-05-14T23:06:11.025387",
       "summary": {
         "total_contributions": 6,
         "total_tdg_provisioned": 100.0,
@@ -213,5 +213,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Eric Y Chen contributed to the Agroverse project with six entries focused on Build Game strategy. He reviewed proposed strategies and suggested clear, specific actionable steps in three instances, suggested against certain actions or highlighted areas to watch out for in two instances, and attended a Facetime meeting for 30 minutes in one instance. All contributions occurred on a single day in August 2023.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "9c8673f8758223d0060d095ba1391f16cdd8179941a8f8549b6a604ade4e0024",
+    "cached": false
+  }
 }

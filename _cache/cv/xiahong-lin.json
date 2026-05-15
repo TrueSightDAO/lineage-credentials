@@ -3,7 +3,7 @@
   "display_name": "XiaHong Lin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "XiaHong Lin",
-      "generated_date": "2026-05-14T22:41:02.145542",
+      "generated_date": "2026-05-14T23:06:12.346918",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -77,5 +77,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "XiaHong Lin made one contribution to the TrueSight DAO on August 31, 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e750fded15d4ec4630b55afd1bb02840010c4811550715805b82b505fb02a3dc",
+    "cached": false
+  }
 }

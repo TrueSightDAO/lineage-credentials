@@ -3,7 +3,7 @@
   "display_name": "Josh Brown",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Josh Brown",
-      "generated_date": "2026-05-14T22:41:01.625746",
+      "generated_date": "2026-05-14T23:06:11.761595",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 133.32999999999998,
@@ -140,5 +140,12 @@
     "tdg_controlled": "133",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Josh Brown made three contributions to the DAO between March 25, 2025, and May 20, 2025, all categorized as compensation for human effort at 100 TDG per hour of work. Two contributions fell under this category in the 20250617_beerhall project, with the third also aligned to the same rubric.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1d160049ce7810bc52eed19e526f326f26875ce9de82868b5a8d0e887ee25dde",
+    "cached": false
+  }
 }

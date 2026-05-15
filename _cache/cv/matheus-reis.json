@@ -3,7 +3,7 @@
   "display_name": "Matheus Reis",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Matheus Reis",
-      "generated_date": "2026-05-14T22:41:01.775661",
+      "generated_date": "2026-05-14T23:06:11.954106",
       "summary": {
         "total_contributions": 180,
         "total_tdg_provisioned": 21908.650000000038,
@@ -4410,5 +4410,12 @@
     "tdg_controlled": "29,693",
     "total_voting_power_pct": "1.27%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Matheus Reis contributed 180 times to TrueSight DAO projects including Agroverse, Recurring Tokenizations, 20250617_agroverse, 20250617_beerhall, and 20250617_do_nothing from September 2023 to March 2026. His work primarily focused on the 100TDG For every 1 hour of human effort category with 138 instances, alongside injecting liquidity (22 instances), attending Facetime meetings for Build Game - Strategy (4 instances), offline Commerce tasks (3 instances), and smaller efforts like paying expenses in USD, sourcing vendors, and consolidating meeting materials. He also participated in telegram_chatlog activities.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "b205526218bd82373c34fc7331d5e5462c0d0da1c7f2e94fac65fe41c0e7c290",
+    "cached": false
+  }
 }

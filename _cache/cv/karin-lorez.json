@@ -3,7 +3,7 @@
   "display_name": "Karin Lorez",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Karin Lorez",
-      "generated_date": "2026-05-14T22:41:01.652852",
+      "generated_date": "2026-05-14T23:06:11.801041",
       "summary": {
         "total_contributions": 3,
         "total_tdg_provisioned": 351.0,
@@ -143,5 +143,12 @@
     "tdg_controlled": "351",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Karin Lorez contributed to Agroverse and TrueSight DAO with three contributions in the Build Game - Strategy category from May 2023 to September 2023. She attended Facetime meetings every 30 minutes, provided reference material with specific instructions for strategy extensions, and suggested a snippet of standalone insight related to ongoing work.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "583dfc307a6931cd32b1672c07a45a9df7865be5ba2d7aa513c6b6faf48909b7",
+    "cached": false
+  }
 }

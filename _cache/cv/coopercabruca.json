@@ -3,7 +3,7 @@
   "display_name": "Coopercabruca",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Coopercabruca",
-      "generated_date": "2026-05-14T22:41:00.990489",
+      "generated_date": "2026-05-14T23:06:10.831746",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 1132.8899999999999,
@@ -193,5 +193,12 @@
     "tdg_controlled": "1,133",
     "total_voting_power_pct": "0.05%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Coopercabruca contributed to Agroverse and TrueSight DAO with five entries spanning June 2023 to February 2025. Their work centered on commerce and liquidity tasks, including sourcing for a vendor, completing 30 minutes of offline tasks, paying DAO expenses in USD, injecting liquidity at a 1:1 USD-to-TDG ratio, and logging one hour of human effort.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7e56b376437bc6ae9227236e6ae36e0d1a2ae703123b56a0704d49e8348c9552",
+    "cached": false
+  }
 }

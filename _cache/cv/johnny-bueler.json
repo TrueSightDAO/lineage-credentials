@@ -3,7 +3,7 @@
   "display_name": "Johnny Bueler",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Johnny Bueler",
-      "generated_date": "2026-05-14T22:41:01.613470",
+      "generated_date": "2026-05-14T23:06:11.746655",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 50.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Johnny Bueler contributed once to the Sun Mint project on February 9, 2023, by suggesting an idea without proposed implementation details in the Build Game - Strategy category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "aa06a1f7cca7f2f4c1c502a243f0365043bb403bcfcd6652143506607f0b09b4",
+    "cached": false
+  }
 }

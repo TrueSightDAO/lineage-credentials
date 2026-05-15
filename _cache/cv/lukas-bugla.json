@@ -3,7 +3,7 @@
   "display_name": "Lukas Bugla",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Lukas Bugla",
-      "generated_date": "2026-05-14T22:41:01.751489",
+      "generated_date": "2026-05-14T23:06:11.928579",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 2.08,
@@ -91,5 +91,12 @@
     "tdg_controlled": "8",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Lukas Bugla contributed one hour of human effort to the 20250617_beerhall project on April 25, 2025.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8291da210ee7598f1d9d3da8dfefcdd69b2ae0727f232c7a92661d366704387d",
+    "cached": false
+  }
 }

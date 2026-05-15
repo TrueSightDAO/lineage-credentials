@@ -3,7 +3,7 @@
   "display_name": "Annia Tsiupa",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Annia Tsiupa",
-      "generated_date": "2026-05-14T22:41:00.871623",
+      "generated_date": "2026-05-14T23:06:10.643971",
       "summary": {
         "total_contributions": 39,
         "total_tdg_provisioned": 8808.33,
@@ -1013,5 +1013,12 @@
     "tdg_controlled": "8,808",
     "total_voting_power_pct": "0.38%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Annia Tsiupa contributed to the 20250617_beerhall, Agroverse, and TrueSight DAO projects from May 2023 to April 2025, with contributions primarily in Build Game user experience through 25 high-quality illustrations including icons, logos, anime characters, and paintings, alongside UI designs for single screen templates and real-life artifacts. She also logged six hours of human effort, attended FaceTime meetings, and handled marketing by writing and posting short social media content on platforms like Facebook, Instagram, Twitter, Reddit, and TikTok, including one post from an account with at least 10,000 followers.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7acb51168eb93b16b6a0ea9c400dde086b9ea4e2b8c910e69928e8026585c0e6",
+    "cached": false
+  }
 }

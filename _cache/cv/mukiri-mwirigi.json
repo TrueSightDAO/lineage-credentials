@@ -3,7 +3,7 @@
   "display_name": "Mukiri Mwirigi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mukiri Mwirigi",
-      "generated_date": "2026-05-14T22:41:01.821981",
+      "generated_date": "2026-05-14T23:06:12.020667",
       "summary": {
         "total_contributions": 10,
         "total_tdg_provisioned": 1010.0,
@@ -314,5 +314,12 @@
     "tdg_controlled": "1,010",
     "total_voting_power_pct": "0.04%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Mukiri Mwirigi contributed to Agroverse and TrueSight DAO from February 2023 to December 2024, with efforts primarily in Build Game strategy and Commerce sourcing. Mukiri attended three Facetime meetings every 30 minutes for strategy discussions, sourced two SKUs with full details provided, and logged two hours of human effort. Additional contributions included reviewing and suggesting against proposed strategies, rectifying a copywriting error in events planning, and another in Build Game marketing.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "02cfa419b0512a90f3d934c1f871af954fb202d86f081ce6c7baca26dd6c1f5d",
+    "cached": false
+  }
 }

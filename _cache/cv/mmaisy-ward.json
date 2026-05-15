@@ -3,7 +3,7 @@
   "display_name": "Mmaisy Ward",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Mmaisy Ward",
-      "generated_date": "2026-05-14T22:41:01.816350",
+      "generated_date": "2026-05-14T23:06:12.013959",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 20.0,
@@ -91,5 +91,12 @@
     "tdg_controlled": "20",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Mmaisy Ward contributed to the Agroverse project by injecting liquidity, earning 1 TDG under the '1TDG For every 1 USD of liquidity injected' category on May 15, 2024.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "816946163231c536c3132be6bb462ae71f6349c5f65b158899151d082170bba4",
+    "cached": false
+  }
 }

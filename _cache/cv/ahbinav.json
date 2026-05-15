@@ -3,7 +3,7 @@
   "display_name": "Ahbinav",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ahbinav",
-      "generated_date": "2026-05-14T22:41:00.788523",
+      "generated_date": "2026-05-14T23:06:10.508640",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 216.65,
@@ -237,5 +237,12 @@
     "tdg_controlled": "292",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ahbinav contributed to the TrueSight DAO and the 20250617_beerhall project with seven instances of human effort, each qualifying for 100 TDG per hour. All contributions fell under this single category, spanning from March 3, 2025, to May 6, 2025.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "f7c2a12a69f88a344a88d79a98447f37ae21bd48da3a2247697745ae8ecff48d",
+    "cached": false
+  }
 }

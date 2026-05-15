@@ -3,7 +3,7 @@
   "display_name": "Biljana Sanev",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Biljana Sanev",
-      "generated_date": "2026-05-14T22:41:00.920295",
+      "generated_date": "2026-05-14T23:06:10.734493",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 10.0,
@@ -87,5 +87,12 @@
     "tdg_controlled": "10",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Biljana Sanev independently reiterated a signal associated with a pending decision in the Build Game - Strategy category in May 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e672a3511e290fd14a90e0ac8d724550cce1a89d71e7e1852fbdeee6ef43485e",
+    "cached": false
+  }
 }

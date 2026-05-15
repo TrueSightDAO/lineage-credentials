@@ -3,7 +3,7 @@
   "display_name": "Yasmin",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Yasmin",
-      "generated_date": "2026-05-14T22:41:02.149134",
+      "generated_date": "2026-05-14T23:06:12.349457",
       "summary": {
         "total_contributions": 7,
         "total_tdg_provisioned": 265.28999999999996,
@@ -238,5 +238,12 @@
     "tdg_controlled": "308",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Yasmin contributed to the DAO over seven efforts from April 25 to May 11, 2025, primarily through the '100TDG For every 1 hour of human effort' category with six logged hours in projects including 20250617_beerhall and telegram_chatlog. Her work focused on direct human effort tracking in these community initiatives.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "336df90a7b1978cc03b8b5a7d27bebf1844f8bc993d1f5d0a63a5451bf85da81",
+    "cached": false
+  }
 }

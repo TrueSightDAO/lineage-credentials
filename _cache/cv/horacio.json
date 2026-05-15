@@ -3,7 +3,7 @@
   "display_name": "Horacio",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Horacio",
-      "generated_date": "2026-05-14T22:41:01.518401",
+      "generated_date": "2026-05-14T23:06:11.614282",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 125.0,
@@ -115,5 +115,12 @@
     "tdg_controlled": "125",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Horacio made two contributions to TrueSight DAO in early November 2024, both under the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d4f110b36fadb45eb902266d251d6631c3576889473d2884b7d887d8a542fcf4",
+    "cached": false
+  }
 }

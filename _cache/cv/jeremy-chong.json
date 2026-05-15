@@ -3,7 +3,7 @@
   "display_name": "Jeremy Chong",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jeremy Chong",
-      "generated_date": "2026-05-14T22:41:01.586108",
+      "generated_date": "2026-05-14T23:06:11.711098",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jeremy Chong made one contribution to the TrueSight DAO on March 16, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8c0084067bb7756e85da7db4437e9bbfad127a2adc09540b022a0a1e61b01ee8",
+    "cached": false
+  }
 }

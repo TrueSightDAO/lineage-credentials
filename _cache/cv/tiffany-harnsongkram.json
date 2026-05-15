@@ -3,7 +3,7 @@
   "display_name": "Tiffany Harnsongkram",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tiffany Harnsongkram",
-      "generated_date": "2026-05-14T22:41:02.041761",
+      "generated_date": "2026-05-14T23:06:12.244603",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 777.67,
@@ -196,5 +196,12 @@
     "tdg_controlled": "278",
     "total_voting_power_pct": "0.01%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Tiffany Harnsongkram contributed to Agroverse, Cypher Defense, and TrueSight DAO with five contributions spanning October 2020 to February 2025. Her efforts centered on Build Game strategy tasks, including participating in an online poll vote, submitting a full-scale strategy with rollout action plan for DAO growth, providing a hyperlink to reference material, and one hour of human effort. She also brought on an active contributor.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ba198c7bbd32ec17f32e4a75846bfb9d700cd7a79a578dc53304f20a9a97a6dd",
+    "cached": false
+  }
 }

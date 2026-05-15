@@ -9,13 +9,16 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
     "capoeira-tribo-mirim": {
       "display_name": "Capoeira — Tribo Bahia Mirim",
       "lineage_root": "Bico Duro",
+      "source_pages": [
+        "https://capoeira.agroverse.shop/practice.html"
+      ],
       "practice_count": 3,
       "total_practice_minutes": 40,
       "recent_events": [
@@ -124,7 +127,7 @@
     },
     "source": {
       "contributor_name": "Gary Teh",
-      "generated_date": "2026-05-14T22:41:01.216538",
+      "generated_date": "2026-05-14T23:06:11.149137",
       "summary": {
         "total_contributions": 3625,
         "total_tdg_provisioned": 452598.5266666999,
@@ -87329,5 +87332,12 @@
     "tdg_controlled": "955,459",
     "total_voting_power_pct": "40.77%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Gary Teh serves as a current member of the Board of Governors for TrueSight DAO. His contributions span projects including Agroverse, Sun Mint, AID framework, Cypher Defense, Edgar, FORK, MarketMonocle, MoNYtyze L1 Protocol, MoonShot, Real Estate on Chains, Recurring Tokenizations, Rotten Radish, The ArtTalk Magazine, Trinity, TrueSight DAO, and TrueSight.Me, with primary focus on human effort hours, liquidity provision, offline commerce tasks, and build game operations such as attending FaceTime meetings and consolidating materials from discussions. Active from December 2017 to April 2026, Gary participated in three sessions (40 minutes total) of the TrueSight Capoeira program under the Tribo Bahia Mirim lineage, root Bico Duro.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "64307e771adc28dead07ddf18253b5a346ab74fc9e2e647518de863d90939e99",
+    "cached": false
+  }
 }

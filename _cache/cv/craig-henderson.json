@@ -3,7 +3,7 @@
   "display_name": "Craig Henderson",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Craig Henderson",
-      "generated_date": "2026-05-14T22:41:00.996278",
+      "generated_date": "2026-05-14T23:06:10.836548",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 16.58,
@@ -166,5 +166,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Craig Henderson contributed to TrueSight DAO and the 20250617_beerhall project with four contributions from June 2024 to April 2025. His efforts focused on providing liquidity, earning 1 TDG for every 1 USD injected in three instances, alongside one contribution of human effort valued at 100 TDG per hour.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ebda048a98f57f3750f0ad24e11c179bb927866bd2b8849544b6a6bc960eb171",
+    "cached": false
+  }
 }

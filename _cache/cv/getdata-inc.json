@@ -3,7 +3,7 @@
   "display_name": "GetData Inc",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "GetData Inc",
-      "generated_date": "2026-05-14T22:41:01.412010",
+      "generated_date": "2026-05-14T23:06:11.388210",
       "summary": {
         "total_contributions": 1939,
         "total_tdg_provisioned": 637346.1500000049,
@@ -46616,5 +46616,12 @@
     "tdg_controlled": "0",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "GetData Inc contributed across multiple DAO projects including Agroverse, Edgar, Sun Mint, TrueSight DAO, and TrueSight.Me from March 2024 to September 2025. Their contributions primarily consisted of human effort tracked via the 100TDG for every 1 hour of human effort rubric (1706 instances), supplemented by liquidity injections under the 1TDG for every 1 USD of liquidity injected category (208 instances). Additional efforts included smaller volumes in related rubrics such as 100TDG for every 1 hour of human effort (16), 1TDG for every 1 USD of liquidity injected (7), 1TDG for every 1USDT received (1), and -1TDG for every 1USDT sent (1). A notable accomplishment was providing substantial human effort totaling over 1,700 tracked hours across these initiatives.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "fdede51d4f6549ca5340d89ab17c791a3481870fb8122764a3932e2187f0f79c",
+    "cached": false
+  }
 }

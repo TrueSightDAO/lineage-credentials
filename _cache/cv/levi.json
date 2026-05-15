@@ -3,7 +3,7 @@
   "display_name": "Levi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Levi",
-      "generated_date": "2026-05-14T22:41:01.730972",
+      "generated_date": "2026-05-14T23:06:11.900668",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 40.0,
@@ -116,5 +116,12 @@
     "tdg_controlled": "40",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Levi contributed to the DAO over the period from May 17, 2025, to June 14, 2025, with two activities in the 20250617_beerhall project. These included injecting liquidity, earning 1 TDG per 1 USD provided, and one hour of human effort, earning 100 TDG per hour.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "3438334b20ba34a9d66773216024f56333526f128b5495df2454009ef8425380",
+    "cached": false
+  }
 }

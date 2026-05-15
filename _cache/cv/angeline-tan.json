@@ -3,7 +3,7 @@
   "display_name": "Angeline Tan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Angeline Tan",
-      "generated_date": "2026-05-14T22:41:00.848842",
+      "generated_date": "2026-05-14T23:06:10.608029",
       "summary": {
         "total_contributions": 12,
         "total_tdg_provisioned": 20858.0,
@@ -363,5 +363,12 @@
     "tdg_controlled": "7,358",
     "total_voting_power_pct": "0.31%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Angeline Tan contributed to TrueSight DAO, Agroverse, and the 20250617_beerhall project from July 2021 to May 2025. Her efforts centered on time-based work, logging multiple hours under the 100 TDG per hour of human effort category. She wrote and posted a short social media update for the Build Game - Marketing initiative using an account with at least 10,000 followers. Additionally, Angeline provided a booth to showcase products and services at an event, earning recognition in events planning.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "0848a8ae500f87d50b1b19ed15e2ad797c8039f1689dcd9c4043756535456b46",
+    "cached": false
+  }
 }

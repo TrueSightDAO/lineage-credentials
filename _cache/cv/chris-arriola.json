@@ -3,7 +3,7 @@
   "display_name": "Chris Arriola",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Chris Arriola",
-      "generated_date": "2026-05-14T22:41:00.976531",
+      "generated_date": "2026-05-14T23:06:10.805715",
       "summary": {
         "total_contributions": 1,
         "total_tdg_provisioned": 100.0,
@@ -85,5 +85,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Chris Arriola made one contribution to the TrueSight DAO on December 14, 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "70783e4c0266a4a651b8e74316548a29b77e0aab77627a81e7ee052b081f63d9",
+    "cached": false
+  }
 }

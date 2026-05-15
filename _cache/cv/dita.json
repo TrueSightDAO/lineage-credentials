@@ -3,7 +3,7 @@
   "display_name": "Dita",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Dita",
-      "generated_date": "2026-05-14T22:41:01.037366",
+      "generated_date": "2026-05-14T23:06:10.887319",
       "summary": {
         "total_contributions": 13,
         "total_tdg_provisioned": 4550.0,
@@ -379,5 +379,12 @@
     "tdg_controlled": "3,550",
     "total_voting_power_pct": "0.15%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Dita contributed to the TrueSight DAO from April to May 2022, with a primary focus on Bring Builders activities, including bringing on eight active contributors and one passive observer. She also engaged in Build Game efforts, submitting two UX suggestions and one strategic review with a specific improvement. Her work supported community growth during this early period.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e027fda2a3fd2349e543685d0dc0ad06908ce40490cfd577ec9b3e50e6f8aee1",
+    "cached": false
+  }
 }

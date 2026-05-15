@@ -3,7 +3,7 @@
   "display_name": "Ilya Voytov",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ilya Voytov",
-      "generated_date": "2026-05-14T22:41:01.531597",
+      "generated_date": "2026-05-14T23:06:11.634364",
       "summary": {
         "total_contributions": 14,
         "total_tdg_provisioned": 6410.0,
@@ -394,5 +394,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ilya Voytov contributed to the TrueSight DAO primarily through the Build Game - Strategy category, submitting 8 reference materials and links. He also reviewed proposed strategies once each by suggesting a clear and specific improvement and by advising against certain actions or highlighting areas to watch out for. Additionally, Ilya independently reiterated a signal associated with a pending decision. His activity spanned from December 31, 2018, to June 2, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "eefd8b2dbc34470ac40899179d7f4e88f8a356fac95b3d9a2ef567d35a11b483",
+    "cached": false
+  }
 }

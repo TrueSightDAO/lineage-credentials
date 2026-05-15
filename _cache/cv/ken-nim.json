@@ -3,7 +3,7 @@
   "display_name": "Ken Nim",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ken Nim",
-      "generated_date": "2026-05-14T22:41:01.678526",
+      "generated_date": "2026-05-14T23:06:11.836482",
       "summary": {
         "total_contributions": 47,
         "total_tdg_provisioned": 8849.78,
@@ -1214,5 +1214,12 @@
     "tdg_controlled": "9,419",
     "total_voting_power_pct": "0.40%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ken Nim contributed 47 times to TrueSight DAO projects including 20250617_beerhall, Agroverse, and telegram_chatlog from November 2022 to November 2025, with contributions primarily in the 100TDG For every 1 hour of human effort category (26 instances). He also engaged in Build Game - Strategy by suggesting standalone insights (7) and reviewing proposals with cautions (1), while bringing liquidity by paying USD expenses for the DAO (2). Other efforts included events planning such as creating social media blasts (1), setting up a full online conversion funnel for an event (1), and bringing on a resource owner (1).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "e1cfad1b1a3023387853f403672af51118411be2ed8794febdfdce48037609a6",
+    "cached": false
+  }
 }

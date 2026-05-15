@@ -3,7 +3,7 @@
   "display_name": "Jacob Nelan",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Jacob Nelan",
-      "generated_date": "2026-05-14T22:41:01.554990",
+      "generated_date": "2026-05-14T23:06:11.675263",
       "summary": {
         "total_contributions": 62,
         "total_tdg_provisioned": 60725.99,
@@ -1564,5 +1564,12 @@
     "tdg_controlled": "60,726",
     "total_voting_power_pct": "2.59%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Jacob Nelan has contributed to the TrueSight DAO across multiple projects including Edgar, Recurring Tokenizations, and TrueSight.Me, with contributions spanning from August 2021 to April 2026. His work primarily focuses on liquidity provision, having injected significant USD liquidity (32 instances) and covered DAO expenses in USD on behalf of the organization (25 instances). Jacob also engaged in strategic development for the Build Game, including reviewing proposed strategies with specific improvements (2 instances), participating in online poll voting (1 instance), attending Facetime meetings (1 instance), and suggesting UX improvements (1 instance). He is currently a member of the Board of Governors.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "ef43f15db05cf044062e6486e1644aa96ae8563607ce6b8bce9a1f34e704067c",
+    "cached": false
+  }
 }

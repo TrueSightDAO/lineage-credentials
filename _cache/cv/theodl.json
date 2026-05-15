@@ -3,7 +3,7 @@
   "display_name": "@TheoDL",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "@TheoDL",
-      "generated_date": "2026-05-14T22:41:00.730424",
+      "generated_date": "2026-05-14T23:06:10.415856",
       "summary": {
         "total_contributions": 4,
         "total_tdg_provisioned": 5000.0,
@@ -164,5 +164,12 @@
     "tdg_controlled": "0",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "@TheoDL contributed to TrueSight DAO with four contributions from March 2022 to September 2025. Their top category was earning 1 TDG for every 1 USDT sent, with one instance in that category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "7b59b6fe999832fb9ed7127fc892254d1cd5633690bad04be49960513a1c5de6",
+    "cached": false
+  }
 }

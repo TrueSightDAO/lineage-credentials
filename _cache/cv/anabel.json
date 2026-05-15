@@ -3,7 +3,7 @@
   "display_name": "Anabel",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Anabel",
-      "generated_date": "2026-05-14T22:41:00.826871",
+      "generated_date": "2026-05-14T23:06:10.564201",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 16.5,
@@ -115,5 +115,12 @@
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Anabel made two contributions to the Edgar project in July 2024, both under the 100TDG For every 1 hour of human effort category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "5c86f4d2da873848b8034c2d2d930bd7e775a61d9e5c070a32b981b82f4f26d0",
+    "cached": false
+  }
 }

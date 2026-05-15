@@ -3,7 +3,7 @@
   "display_name": "Tres Garcia",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Tres Garcia",
-      "generated_date": "2026-05-14T22:41:02.054079",
+      "generated_date": "2026-05-14T23:06:12.258527",
       "summary": {
         "total_contributions": 39,
         "total_tdg_provisioned": 6285.33,
@@ -1029,5 +1029,12 @@
     "tdg_controlled": "6,285",
     "total_voting_power_pct": "0.27%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Tres Garcia contributed 39 times to TrueSight DAO projects including Agroverse, Cypher Defense, Edgar, and telegram_chatlog from September 2022 to December 2025. Tres's work centered on Build Game - Strategy, with activities such as reviewing proposed strategies and suggesting clear improvements (5 contributions), attending Facetime meetings every 30 minutes (5), suggesting ideas without implementation details (4), participating in online polls (4), and logging human effort hours (3). Tres also provided two full-scale strategies with rollout action plans consisting of overviews and system logic, and contributed reference materials with strategy extensions (2) and hyperlinks (2).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "8e38d16f3b0be6f0bb66696609f924f84d19f1155794eaef8c61cbbd47f35f0c",
+    "cached": false
+  }
 }

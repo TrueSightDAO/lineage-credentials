@@ -3,7 +3,7 @@
   "display_name": "Garis Pang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Garis Pang",
-      "generated_date": "2026-05-14T22:41:01.190306",
+      "generated_date": "2026-05-14T23:06:11.120373",
       "summary": {
         "total_contributions": 139,
         "total_tdg_provisioned": 85503.33,
@@ -3432,5 +3432,12 @@
     "tdg_controlled": "67,653",
     "total_voting_power_pct": "2.89%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Garis Pang has made 139 contributions to TrueSight DAO, MoonShot, Sun Mint, and telegram_chatlog from January 2021 to November 2025. His work centers on Build Game strategy and user experience, including reviewing proposed strategies with clear improvements (7 contributions), validating user behaviors (4), and suggesting UX enhancements (4). He also focused on bringing builders by introducing potential investors (6) and contributed reference materials with strategy extensions (3). Notable accomplishments include delivering a full-scale strategy with rollout action plan to grow the DAO (2) and contributing high-value strategy reviews and cautions (4 each).",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "0d8ad81d824a4b3cb3e62ebfca9d79a214045bc296a0230733c9e6834985ecfe",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Kelvin Chew",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kelvin Chew",
-      "generated_date": "2026-05-14T22:41:01.667890",
+      "generated_date": "2026-05-14T23:06:11.818882",
       "summary": {
         "total_contributions": 85,
         "total_tdg_provisioned": 68360.0,
@@ -2140,5 +2140,12 @@
     "tdg_controlled": "58,360",
     "total_voting_power_pct": "2.49%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Kelvin Chew has made 85 contributions to TrueSight DAO, Agroverse, MarketMonocle, and telegram_chatlog since June 2021. His work centers on the Build Game, where he primarily reviewed proposed strategies, suggesting clear improvements (13 times), cautioning against certain actions or highlighting risks (17 times across categories), reiterated pending decision signals (6 times), contributed reference materials with strategy extensions (5 times), validated user behaviors for UX (4 times), and participated in online polls (4 times). He also designed elements for the Build Game's design system (5 contributions). Kelvin remains active as of November 2025.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "450408a07d9d13c583914c4d31660232ce3d21a47e8a432c18bf0d4dfb3f04da",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Brian Wee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Brian Wee",
-      "generated_date": "2026-05-14T22:41:00.946736",
+      "generated_date": "2026-05-14T23:06:10.775707",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 2500.0,
@@ -101,5 +101,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Brian Wee made two contributions to the TrueSight DAO on March 4, 2022.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "1688227262a6d2559501dfee571604b80eddcf50e741117bda330faeb445a2b5",
+    "cached": false
+  }
 }

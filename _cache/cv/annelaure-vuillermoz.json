@@ -3,7 +3,7 @@
   "display_name": "Annelaure Vuillermoz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Annelaure Vuillermoz",
-      "generated_date": "2026-05-14T22:41:00.868358",
+      "generated_date": "2026-05-14T23:06:10.639969",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 200.0,
@@ -101,5 +101,12 @@
   "governance": {
     "is_governor": false
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Annelaure Vuillermoz made two contributions to the TrueSight DAO on December 8, 2021.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "138dbdc8edbe73255cc59e5fefdd18643797813146d5f82b3eff0e89b060ab62",
+    "cached": false
+  }
 }

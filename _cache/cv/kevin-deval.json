@@ -3,7 +3,7 @@
   "display_name": "Kevin Deval",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Kevin Deval",
-      "generated_date": "2026-05-14T22:41:01.685040",
+      "generated_date": "2026-05-14T23:06:11.840664",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 11350.0,
@@ -188,5 +188,12 @@
     "tdg_controlled": "11,350",
     "total_voting_power_pct": "0.48%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Kevin Deval contributed to the Agroverse project with five contributions from December 2021 to October 2023, primarily in commerce and UI design. He provided two quotations from vendors and designed the user experience UI for a single surface, including a real-life artifact.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d0f72106f62b6db32f21554e19e23c58506297d2d8fb305b3777aea4c367af14",
+    "cached": false
+  }
 }

@@ -3,7 +3,7 @@
   "display_name": "Ida",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ida",
-      "generated_date": "2026-05-14T22:41:01.529638",
+      "generated_date": "2026-05-14T23:06:11.630642",
       "summary": {
         "total_contributions": 5,
         "total_tdg_provisioned": 500.0,
@@ -187,5 +187,12 @@
     "tdg_controlled": "100",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ida contributed to TrueSight DAO with five efforts between January 2022 and February 2025, primarily through one hour of human effort that earned 100 TDG under the '100TDG For every 1 hour of human effort' category.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "4412643884386d204493c87eb2afd7c67f6c93eb313d37697f935acb92fa1a7f",
+    "cached": false
+  }
 }

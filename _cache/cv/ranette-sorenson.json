@@ -3,7 +3,7 @@
   "display_name": "Ranette Sorenson",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:54:07Z",
+  "generated_at": "2026-05-15T06:06:12Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Ranette Sorenson",
-      "generated_date": "2026-05-14T22:41:01.920289",
+      "generated_date": "2026-05-14T23:06:12.128484",
       "summary": {
         "total_contributions": 2,
         "total_tdg_provisioned": 100.0,
@@ -117,5 +117,12 @@
     "tdg_controlled": "50",
     "total_voting_power_pct": "0.00%"
   },
-  "_generator": "build_cv_cache"
+  "_generator": "build_cv_cache",
+  "narrative": {
+    "text": "Ranette Sorenson made two contributions to the DAO, both under the '100TDG For every 1 hour of human effort' category. These included work on the 20250617_beerhall project and telegram_chatlog.",
+    "model": "grok-4-1-fast-non-reasoning",
+    "prompt_version": "2026-05-14-v1",
+    "source_hash": "d14fb095ed5bcaf221dfff29e24ba338d305283a7895bd218c2d6f90457e8cde",
+    "cached": false
+  }
 }

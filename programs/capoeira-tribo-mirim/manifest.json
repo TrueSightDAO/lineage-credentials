@@ -1,0 +1,22 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "display_name": "Capoeira — Tribo Bahia Mirim",
+  "lineage_root": "Bico Duro",
+  "lineage_root_public_key": null,
+  "authorized_attestors": [],
+  "practice_types": {
+    "training-session": {
+      "payload_schema": "schemas/practice/training-session.json"
+    }
+  },
+  "attestation_types": {
+    "corda-promotion": {
+      "payload_schema": "schemas/attestations/corda-promotion.json",
+      "co_signer_optional": true
+    }
+  },
+  "source_pages": [
+    "https://capoeira.agroverse.shop/practice.html"
+  ],
+  "notes": "Lineage root + authorized attestors are placeholders. The MVP captures self-signed [PRACTICE EVENT] only. The qualification + attestation chain is unwired until v2 (institution-onboarding) per the design doc."
+}

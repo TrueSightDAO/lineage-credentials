@@ -3,7 +3,7 @@
   "display_name": "Andrey Nayman",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:07:41Z",
+  "generated_at": "2026-05-15T05:18:14Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Andrey Nayman",
-      "generated_date": "2026-05-14T22:06:12.873351",
+      "generated_date": "2026-05-14T22:18:13.484921",
       "summary": {
         "total_contributions": 18,
         "total_tdg_provisioned": 1890.0,

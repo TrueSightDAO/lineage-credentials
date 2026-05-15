@@ -3,7 +3,7 @@
   "display_name": "Priscilla Huang",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-15T05:07:41Z",
+  "generated_at": "2026-05-15T05:18:14Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -16,7 +16,7 @@
     },
     "source": {
       "contributor_name": "Priscilla Huang",
-      "generated_date": "2026-05-14T22:06:13.765855",
+      "generated_date": "2026-05-14T22:18:14.428323",
       "summary": {
         "total_contributions": 129,
         "total_tdg_provisioned": 18690.0,

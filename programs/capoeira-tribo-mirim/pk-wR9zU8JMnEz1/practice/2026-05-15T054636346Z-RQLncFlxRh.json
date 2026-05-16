@@ -6,13 +6,50 @@
   "slug": "pk-wR9zU8JMnEz1",
   "captured_at": "2026-05-15T05:46:36.346Z",
   "source_url": "https://capoeira.agroverse.shop/practice.html",
-  "payload": null,
-  "raw_payload_json": "",
+  "payload": {
+    "theme": "Defense",
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "role_cocorinha",
+        "name_pt": "Cocorinha com rol?",
+        "duration_seconds": 540
+      },
+      {
+        "id": "role_defesa",
+        "name_pt": "Defesa com rol?",
+        "duration_seconds": 480
+      },
+      {
+        "id": "role_esquiva_martelo",
+        "name_pt": "Esquiva para martelo com rol?",
+        "duration_seconds": 480
+      },
+      {
+        "id": "role_esquiva_para_tras",
+        "name_pt": "Esquiva para tr?s com rol?",
+        "duration_seconds": 480
+      }
+    ],
+    "music_played": [
+      "007",
+      "011",
+      "001",
+      "002"
+    ],
+    "total_practice_minutes": 39
+  },
+  "raw_payload_json": "{\r\n  \"theme\": \"Defense\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"role_cocorinha\",\r\n      \"name_pt\": \"Cocorinha com rol?\",\r\n      \"duration_seconds\": 540\r\n    },\r\n    {\r\n      \"id\": \"role_defesa\",\r\n      \"name_pt\": \"Defesa com rol?\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"role_esquiva_martelo\",\r\n      \"name_pt\": \"Esquiva para martelo com rol?\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"role_esquiva_para_tras\",\r\n      \"name_pt\": \"Esquiva para tr?s com rol?\",\r\n      \"duration_seconds\": 480\r\n    }\r\n  ],\r\n  \"music_played\": [\r\n    \"007\",\r\n    \"011\",\r\n    \"001\",\r\n    \"002\"\r\n  ],\r\n  \"total_practice_minutes\": 39\r\n}",
   "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
   "request_transaction_id": "RQLncFlxRhigpzvpUpkGvWrrOjiTR06wsNy1T3aBOvIi8ihx/xKkyztYd8noq632vzJcbzJTWrRVWulXZFK86ZRwWGiA/8TpnfJL6zazxYM3u1kLETFk+nDD1qouzeu8Xwc79rpih4kMisyOohB7oha2G81a29flAISfCZ67jcwGuIbf5M6VA5s/Qf1P8bRWDRb3IypMBoiBxLWGIl3DSMWW5lxvOHOEGICAKDp1cGVg+HGp3CHFFoy1wdp6gfa7tfix4lLsX69ntjiVM58tJy3sFn8Nkx5MJSvZWNbbe/jSrR8F/E/K5H7+kHmzJy87CqFTSQ7ZtaNnPz90YV8DAQ==",
   "intake": {
     "telegram_update_id": "Edgar_20260515054636_081",
     "telegram_message_id": "Edgar_20260515054636_082",
-    "processed_at": "2026-05-15T05:53:21.075Z"
+    "processed_at": "2026-05-16T21:32:59.244Z",
+    "reprocessed": true
   }
 }

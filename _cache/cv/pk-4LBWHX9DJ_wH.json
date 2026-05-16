@@ -3,7 +3,7 @@
   "display_name": "pk-4LBWHX9DJ_wH",
   "pk_hash": "pk-4LBWHX9DJ_wH",
   "identity": {},
-  "generated_at": "2026-05-16T20:37:45Z",
+  "generated_at": "2026-05-16T20:40:36Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -13,9 +13,28 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 1,
+      "practice_count": 2,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApteuX0BSHSvFKWuR5PcCzH6/R/dWmHmU4BfiSE9IZHxFu82xMktHHxdFytbIfLyQ6LsZ/rMFlm5xaVtNuBODaoX7NEHvy/GJDNAELmF6EsFTGE0wGOZIaDEVKZkLRaKe4aSFumE+Qyot3XavSXv0fY9kuwWApLmKNK/JHrLDPVOHXQFeBQzKjnhT6Bl5AO9cnhw79n8PqhM3fZsQmOwzPpyPxT99WjuCsvMVtvPFn/lURTMJAkZPTtnCqlXTILfuIxMj7MUwxc1zBa8WDqVKKNxS+pVXKIP/vAZ9fAaU1ZyFUUzMJkU/1m/aOmPaxbFTFhKuXdx8xyGlwvbCHV5NbwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-4LBWHX9DJ_wH",
+          "captured_at": "2026-05-16T20:34:06.563Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": null,
+          "raw_payload_json": "",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApteuX0BSHSvFKWuR5PcCzH6/R/dWmHmU4BfiSE9IZHxFu82xMktHHxdFytbIfLyQ6LsZ/rMFlm5xaVtNuBODaoX7NEHvy/GJDNAELmF6EsFTGE0wGOZIaDEVKZkLRaKe4aSFumE+Qyot3XavSXv0fY9kuwWApLmKNK/JHrLDPVOHXQFeBQzKjnhT6Bl5AO9cnhw79n8PqhM3fZsQmOwzPpyPxT99WjuCsvMVtvPFn/lURTMJAkZPTtnCqlXTILfuIxMj7MUwxc1zBa8WDqVKKNxS+pVXKIP/vAZ9fAaU1ZyFUUzMJkU/1m/aOmPaxbFTFhKuXdx8xyGlwvbCHV5NbwIDAQAB",
+          "request_transaction_id": "ehg8HAZSNWuPLswqPbqkC0dY+ck3ST8U1FR3YZOsrNB2v+7kYeCrUuzIYtVCIlvL9fzmyhDLWwf2y8RX+w6emLgvI/k1E8zvm6A0Q/g7K7g8MJdOzOx61YhCKCbvktYJ3KVUrHDDv2ATG0hdusMP5ghM1dBEleVmuaEtCNmq+Jth6+uoV50ClYDDCfcBmWcASiGSbAdDTxXECqWVdkyvMTOBAhL01IpRaEpY9ePK2UWsadtSZUuTnwVl3HrBvOV52S0suvEitOmvfO89/YlWvL60DojAzo/HixvAaqHPBwyTZHFchPL8B1Ppv8h5NLn2L2FGbNIcUIx2nik7vpdavA==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260516203407_127",
+            "telegram_message_id": "Edgar_20260516203407_128",
+            "processed_at": "2026-05-16T20:40:02.131Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T203406563Z-ehg8HAZSNW.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",

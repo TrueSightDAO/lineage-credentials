@@ -1,14 +1,15 @@
 # pk-4LBWHX9DJ_wH
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-05-16T20:37:45Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-05-16T20:40:36Z*
 
 ## Capoeira — Tribo Bahia Mirim
 
-- Practice sessions logged: **1**
+- Practice sessions logged: **2**
 - Total practice time: **0 minutes**
 - Lineage root: Bico Duro
 
 ### Recent sessions
+- **2026-05-16T20:34:06.563Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T203406563Z-ehg8HAZSNW.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T203406563Z-ehg8HAZSNW.json)
 - **2026-05-16T20:29:04.389Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T202904389Z-CwspQhA53I.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T202904389Z-CwspQhA53I.json)
 
 ---

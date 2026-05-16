@@ -3,7 +3,7 @@
   "display_name": "Marta Poltorak",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -265,6 +265,10 @@
     "voting_power_pct": "0.29%",
     "tdg_controlled": "1,510",
     "total_voting_power_pct": "0.06%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/marta-poltorak.qr.png",
+    "target_url": "https://truesight.me/credentials/#marta-poltorak"
   },
   "_generator": "build_cv_cache",
   "narrative": {

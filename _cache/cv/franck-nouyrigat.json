@@ -3,7 +3,7 @@
   "display_name": "Franck Nouyrigat",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -989,6 +989,10 @@
     "voting_power_pct": "1.15%",
     "tdg_controlled": "23,835",
     "total_voting_power_pct": "1.02%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/franck-nouyrigat.qr.png",
+    "target_url": "https://truesight.me/credentials/#franck-nouyrigat"
   },
   "_generator": "build_cv_cache",
   "narrative": {

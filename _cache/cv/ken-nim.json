@@ -3,7 +3,7 @@
   "display_name": "Ken Nim",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -1213,6 +1213,10 @@
     "voting_power_pct": "0.72%",
     "tdg_controlled": "9,419",
     "total_voting_power_pct": "0.40%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/ken-nim.qr.png",
+    "target_url": "https://truesight.me/credentials/#ken-nim"
   },
   "_generator": "build_cv_cache",
   "narrative": {

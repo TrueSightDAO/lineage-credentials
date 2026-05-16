@@ -3,7 +3,7 @@
   "display_name": "@ryansjjr",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -666,6 +666,10 @@
     "voting_power_pct": "0.91%",
     "tdg_controlled": "14,850",
     "total_voting_power_pct": "0.63%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/ryansjjr.qr.png",
+    "target_url": "https://truesight.me/credentials/#ryansjjr"
   },
   "_generator": "build_cv_cache",
   "narrative": {

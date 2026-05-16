@@ -3,7 +3,7 @@
   "display_name": "Hans Martin Heierling",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -894,6 +894,10 @@
     "voting_power_pct": "0.45%",
     "tdg_controlled": "3,627",
     "total_voting_power_pct": "0.15%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/hans-martin-heierling.qr.png",
+    "target_url": "https://truesight.me/credentials/#hans-martin-heierling"
   },
   "_generator": "build_cv_cache",
   "narrative": {

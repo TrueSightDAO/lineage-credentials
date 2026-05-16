@@ -3,7 +3,7 @@
   "display_name": "Craig Henderson",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -165,6 +165,10 @@
     "voting_power_pct": "0.03%",
     "tdg_controlled": "17",
     "total_voting_power_pct": "0.00%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/craig-henderson.qr.png",
+    "target_url": "https://truesight.me/credentials/#craig-henderson"
   },
   "_generator": "build_cv_cache",
   "narrative": {

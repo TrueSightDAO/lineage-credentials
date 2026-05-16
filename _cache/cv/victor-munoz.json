@@ -3,7 +3,7 @@
   "display_name": "Victor Munoz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -161,6 +161,10 @@
     "voting_power_pct": "0.54%",
     "tdg_controlled": "5,250",
     "total_voting_power_pct": "0.22%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/victor-munoz.qr.png",
+    "target_url": "https://truesight.me/credentials/#victor-munoz"
   },
   "_generator": "build_cv_cache",
   "narrative": {

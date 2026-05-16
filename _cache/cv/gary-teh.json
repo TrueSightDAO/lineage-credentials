@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -87350,6 +87350,10 @@
     "voting_power_pct": "7.28%",
     "tdg_controlled": "955,459",
     "total_voting_power_pct": "40.77%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/gary-teh.qr.png",
+    "target_url": "https://truesight.me/credentials/#gary-teh"
   },
   "_generator": "build_cv_cache",
   "narrative": {

@@ -3,7 +3,7 @@
   "display_name": "AGL15",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -402,6 +402,10 @@
     "voting_power_pct": "0.25%",
     "tdg_controlled": "1,127",
     "total_voting_power_pct": "0.05%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/agl15.qr.png",
+    "target_url": "https://truesight.me/credentials/#agl15"
   },
   "_generator": "build_cv_cache",
   "narrative": {

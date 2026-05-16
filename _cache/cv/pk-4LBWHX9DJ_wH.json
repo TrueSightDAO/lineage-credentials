@@ -3,7 +3,7 @@
   "display_name": "pk-4LBWHX9DJ_wH",
   "pk_hash": "pk-4LBWHX9DJ_wH",
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -37,6 +37,10 @@
         }
       ]
     }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-4LBWHX9DJ_wH.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-4LBWHX9DJ_wH"
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Andrea Catalina Falcon Rios De Pabst",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -482,6 +482,10 @@
     "voting_power_pct": "0.28%",
     "tdg_controlled": "1,398",
     "total_voting_power_pct": "0.06%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/andrea-catalina-falcon-rios-de-pabst.qr.png",
+    "target_url": "https://truesight.me/credentials/#andrea-catalina-falcon-rios-de-pabst"
   },
   "_generator": "build_cv_cache",
   "narrative": {

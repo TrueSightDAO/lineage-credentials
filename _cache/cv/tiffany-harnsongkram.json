@@ -3,7 +3,7 @@
   "display_name": "Tiffany Harnsongkram",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -195,6 +195,10 @@
     "voting_power_pct": "0.12%",
     "tdg_controlled": "278",
     "total_voting_power_pct": "0.01%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/tiffany-harnsongkram.qr.png",
+    "target_url": "https://truesight.me/credentials/#tiffany-harnsongkram"
   },
   "_generator": "build_cv_cache",
   "narrative": {

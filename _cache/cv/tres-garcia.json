@@ -3,7 +3,7 @@
   "display_name": "Tres Garcia",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-16T20:30:28Z",
+  "generated_at": "2026-05-16T20:37:45Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -1028,6 +1028,10 @@
     "voting_power_pct": "0.59%",
     "tdg_controlled": "6,285",
     "total_voting_power_pct": "0.27%"
+  },
+  "qr_code": {
+    "path": "_cache/cv/tres-garcia.qr.png",
+    "target_url": "https://truesight.me/credentials/#tres-garcia"
   },
   "_generator": "build_cv_cache",
   "narrative": {

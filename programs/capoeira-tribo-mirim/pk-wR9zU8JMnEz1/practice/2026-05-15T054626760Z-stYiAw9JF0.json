@@ -49,6 +49,7 @@
   "intake": {
     "telegram_update_id": "Edgar_20260515054627_079",
     "telegram_message_id": "Edgar_20260515054627_080",
-    "processed_at": "2026-05-15T05:53:18.873Z"
+    "processed_at": "2026-05-16T21:32:57.259Z",
+    "reprocessed": true
   }
 }

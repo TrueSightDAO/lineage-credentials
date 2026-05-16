@@ -1,18 +1,18 @@
 # pk-4LBWHX9DJ_wH
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-05-16T20:52:17Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-05-16T21:35:09Z*
 
 ## Capoeira — Tribo Bahia Mirim
 
 - Practice sessions logged: **4**
-- Total practice time: **0 minutes**
+- Total practice time: **124 minutes**
 - Lineage root: Bico Duro
 
 ### Recent sessions
-- **2026-05-16T20:49:15.598Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204915598Z-bdHyAz1Dm9.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204915598Z-bdHyAz1Dm9.json)
-- **2026-05-16T20:41:17.201Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204117201Z-NTeRo3Fn4X.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204117201Z-NTeRo3Fn4X.json)
-- **2026-05-16T20:34:06.563Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T203406563Z-ehg8HAZSNW.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T203406563Z-ehg8HAZSNW.json)
-- **2026-05-16T20:29:04.389Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T202904389Z-CwspQhA53I.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T202904389Z-CwspQhA53I.json)
+- **2026-05-16T20:49:15.598Z** — Defense (2 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204915598Z-bdHyAz1Dm9.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204915598Z-bdHyAz1Dm9.json)
+- **2026-05-16T20:41:17.201Z** — Attacks (40 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204117201Z-NTeRo3Fn4X.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T204117201Z-NTeRo3Fn4X.json)
+- **2026-05-16T20:34:06.563Z** — Defense (42 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T203406563Z-ehg8HAZSNW.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T203406563Z-ehg8HAZSNW.json)
+- **2026-05-16T20:29:04.389Z** — Attacks (40 min) — [programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T202904389Z-CwspQhA53I.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-4LBWHX9DJ_wH/practice/2026-05-16T202904389Z-CwspQhA53I.json)
 
 ---
 

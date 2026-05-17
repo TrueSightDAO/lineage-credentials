@@ -1,6 +1,6 @@
 # Gary Teh
 
-*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-05-17T03:02:14Z*
+*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-05-17T23:50:44Z*
 
 Gary Teh serves as a current member of the Board of Governors for TrueSight DAO. His contributions span projects including Agroverse, Sun Mint, AID framework, Cypher Defense, Edgar, FORK, MarketMonocle, MoNYtyze L1 Protocol, MoonShot, Real Estate on Chains, Recurring Tokenizations, Rotten Radish, The ArtTalk Magazine, Trinity, TrueSight DAO, and TrueSight.Me, with primary focus on human effort hours, liquidity provision, offline commerce tasks, and build game operations such as attending FaceTime meetings and consolidating materials from discussions. Active from 20171231 to 20260430, Gary has participated in three sessions (40 minutes total) of the TrueSight Capoeira program under the Tribo Bahia Mirim lineage, rooted in Bico Duro.
 
@@ -15,11 +15,12 @@ Gary Teh serves as a current member of the Board of Governors for TrueSight DAO.
 
 ## Capoeira — Tribo Bahia Mirim
 
-- Practice sessions logged: **6**
+- Practice sessions logged: **7**
 - Total practice time: **154 minutes**
 - Lineage root: Bico Duro
 
 ### Recent sessions
+- **2026-05-17T23:49:28.751Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T234928751Z-dEyufmbpyv.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T234928751Z-dEyufmbpyv.json)
 - **2026-05-17T02:51:49.742Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025149742Z-M8oSuEG8Kx.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025149742Z-M8oSuEG8Kx.json)
 - **2026-05-17T02:51:32.003Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025132003Z-ESG9b3l4YP.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025132003Z-ESG9b3l4YP.json)
 - **2026-05-15T07:17:59.666Z** — Defense (39 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T071759666Z-CBHOG2m0o0.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T071759666Z-CBHOG2m0o0.json)

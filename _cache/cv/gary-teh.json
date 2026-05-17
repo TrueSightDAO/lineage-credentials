@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-05-17T03:02:14Z",
+  "generated_at": "2026-05-17T23:50:44Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -19,9 +19,28 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 6,
+      "practice_count": 7,
       "total_practice_minutes": 154,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-05-17T23:49:28.751Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": null,
+          "raw_payload_json": "",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "dE+yufmbpyvh5LFypoBltlgUyj0Vil6Q7UVDD1P57TYggPPD67jWsuNKLePKmNd8k12QmL0QWVopB2xdEmdGLnTR5oV7Z2daeRZY8pHITnvc1RGTmH6PSXycXleRsYQ/A86YMt11HfBdenq0KrY2G99+LYNAgJuWbEQbFk3OAY3grYkrbERGq6e46VKstYJgZWsKR8+U2gRhzcswIp0ZpmovjGTmFDfNoPciTup7zPdrdGaXWBHrWOgpuG6HFBbonCF2FYCQNWwW/OZ8sJiqCTSGDTIGrYxa6C5SuyDV6RfguXJzFQoKwtX3M2fWtX1US9b0Zn/d+ool6LUxXHT2yg==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260517234929_173",
+            "telegram_message_id": "Edgar_20260517234929_174",
+            "processed_at": "2026-05-17T23:50:05.022Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T234928751Z-dEyufmbpyv.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",

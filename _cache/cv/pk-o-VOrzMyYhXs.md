@@ -1,14 +1,15 @@
 # pk-o-VOrzMyYhXs
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-05-18T20:47:46Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-05-18T20:50:33Z*
 
 ## Capoeira — Tribo Bahia Mirim
 
-- Practice sessions logged: **1**
+- Practice sessions logged: **2**
 - Total practice time: **0 minutes**
 - Lineage root: Bico Duro
 
 ### Recent sessions
+- **2026-05-18T20:41:22.576Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-o-VOrzMyYhXs/practice/2026-05-18T204122576Z-ANK88912Iy.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-o-VOrzMyYhXs/practice/2026-05-18T204122576Z-ANK88912Iy.json)
 - **2026-05-18T20:32:15.478Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-o-VOrzMyYhXs/practice/2026-05-18T203215478Z-Svf6iO1mvU.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-o-VOrzMyYhXs/practice/2026-05-18T203215478Z-Svf6iO1mvU.json)
 
 ---

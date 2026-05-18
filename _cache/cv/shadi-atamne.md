@@ -1,6 +1,6 @@
 # Shadi Atamne
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-18T21:17:19Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-18T22:18:46Z*
 
 Shadi Atamne contributed to Agroverse and TrueSight DAO from May 2023 to November 2023, with primary focus on Build Game strategy through attending FaceTime meetings every 30 minutes (6 contributions) and 100 TDG per hour of human effort (6 contributions). Shadi also completed engineering tasks, including three major standalone components, one minor standalone component, and one minor function. Additional contributions included one offline commerce task and one USD expense payment for liquidity on behalf of the DAO.
 

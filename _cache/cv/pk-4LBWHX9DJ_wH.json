@@ -3,7 +3,7 @@
   "display_name": "pk-4LBWHX9DJ_wH",
   "pk_hash": "pk-4LBWHX9DJ_wH",
   "identity": {},
-  "generated_at": "2026-05-18T21:17:19Z",
+  "generated_at": "2026-05-18T22:18:46Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -261,6 +261,12 @@
   "qr_code": {
     "path": "_cache/cv/pk-4LBWHX9DJ_wH.qr.png",
     "target_url": "https://truesight.me/credentials/#pk-4LBWHX9DJ_wH"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
   },
   "_generator": "build_cv_cache"
 }

@@ -3,7 +3,7 @@
   "display_name": "Tomas Bernabo",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T21:17:19Z",
+  "generated_at": "2026-05-18T22:18:46Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -832,6 +832,12 @@
   "qr_code": {
     "path": "_cache/cv/tomas-bernabo.qr.png",
     "target_url": "https://truesight.me/credentials/#tomas-bernabo"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

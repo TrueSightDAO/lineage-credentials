@@ -1,0 +1,24 @@
+{
+  "program": "butterfly-effect",
+  "practice_type": "module-completion",
+  "practitioner_public_key": "",
+  "practitioner_name": "Bilal",
+  "slug": "pk-DEMO-BILAL-LEAD",
+  "captured_at": "2026-05-18T12:00:00.000Z",
+  "source_url": "https://era-professionals.com/butterfly-effect/",
+  "payload": {
+    "module": "Program Lead — Butterfly Effect, ERA Professionals",
+    "duration_minutes": 0,
+    "notes": "Demo seed entry. Bilal is the program lead (not a learner). Surfaced in the cohort listing so the Butterfly Effect partner page reflects both roles — program lead and participants — until real cohort members onboard. Replace with real attestation event once Bilal registers a DAO identity (dao_client auth.py login)."
+  },
+  "raw_payload_json": "",
+  "digital_signature": "",
+  "request_transaction_id": "demo-butterfly-effect-2026-05-18-program-lead",
+  "intake": {
+    "telegram_update_id": "demo-bcc-2026-05-18-lead",
+    "telegram_message_id": "demo-bcc-2026-05-18-lead",
+    "processed_at": "2026-05-18T12:00:00.000Z",
+    "reprocessed": false,
+    "_demo_seed": true
+  }
+}

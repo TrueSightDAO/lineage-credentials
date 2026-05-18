@@ -1,0 +1,22 @@
+{
+  "program": "butterfly-effect",
+  "display_name": "Butterfly Effect",
+  "lineage_root": "Butterfly Effect",
+  "lineage_root_public_key": null,
+  "authorized_attestors": [],
+  "practice_types": {
+    "module-completion": {
+      "payload_schema": null
+    }
+  },
+  "attestation_types": {
+    "program-completion": {
+      "payload_schema": null,
+      "co_signer_optional": true
+    }
+  },
+  "source_pages": [
+    "https://era-professionals.com/butterfly-effect/"
+  ],
+  "notes": "Butterfly Effect is ERA Professionals' youth experiential-learning program (program lead: Bilal; first deployment at Narowal Public School & College, BEC Club Program 2025-2026, signatory Shereen Abdullah). v1 captures self-signed [PRACTICE EVENT] / module-completion records. Authorized attestor chain (Shereen as signing officer) is not yet wired — practice events stand on their own for now. Co-issuer co-brand chrome and printed certificate live in truesight_me/programs/butterfly-effect/ + lineage-engine/scripts/program_assets/butterfly-effect/."
+}

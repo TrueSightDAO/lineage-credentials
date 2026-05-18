@@ -1,6 +1,6 @@
 # Johnny Browaeys
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-17T23:50:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-18T03:10:34Z*
 
 Johnny Browaeys contributed to TrueSight DAO in June 2023 with three activities. He focused on bringing builders, onboarding two active contributors. He also reviewed a proposed strategy under Build Game and suggested a clear, specific actionable step.
 

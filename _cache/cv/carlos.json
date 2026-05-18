@@ -3,7 +3,7 @@
   "display_name": "Carlos",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -99,7 +99,78 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Carlos",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 10 minutes sharing with Carlos where and when our cacao circle will be happening during WEF",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250116",
+        "existing": "TRUE",
+        "reporter": "Carlos",
+        "scoring_hash": "FhfLpqS2xWw1ido6PiBP",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Carlos",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 10 minutes sharing with Carlos where and when our cacao circle will be happening during WEF",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250116",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "yxZiFEjy3fvtSi1mJMUx",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Carlos",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 5 minutes onboarding Carlos and Laurence on to our DAO",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250103",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "pcsuJbrG4KHCdtWZ3cWM",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Carlos",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "I spent 5 minutes Following up with Carlos introduced by @14152032783",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20241226",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "HlHMQ9FlkKICE54aV6mo",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Carlos",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "I spent 5 minutes doing a follow up for a lunch discussion with Carlos",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20241226",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "0Qs8HRVK1dvvuS+gfCjB",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

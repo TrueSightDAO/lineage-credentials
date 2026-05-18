@@ -3,7 +3,7 @@
   "display_name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -200,7 +200,22 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 5 minutes responding to Jakob from Frontier regarding Monday’s cacao circle",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "4.17",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250430",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "uqsqKmNJsYJ72fzC/OJc",
+        "reviewer_email": "ksuchi2003@gmail.com"
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

@@ -3,7 +3,7 @@
   "display_name": "James Sung",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -321,7 +321,22 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "James Sung",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "nah we’re pretty tame nowadays",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250204",
+        "existing": "TRUE",
+        "reporter": "James Sung",
+        "scoring_hash": "LV8T7f4fKbWs75KrEubb",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

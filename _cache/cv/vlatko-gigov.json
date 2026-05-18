@@ -3,7 +3,7 @@
   "display_name": "Vlatko Gigov",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -4011,7 +4011,50 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Vlatko Gigov",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Feed back on updates fidelity in the Beer Hall.\r\n- Contributor(s): Vlatko Gigov\r\n- TDG Issued: 8.33\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260419221807_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: RvGD8zpm/fzoJSkFOu6B2vaQ85em5UT83EdLhdGIjKhL9nkgMH0+fCqrbIrizSdxcX+KK03EW/CBxoCALf+IXHykN5EQwUImOWU2y3kxgaSqEZSYfrsESsVGGMeX3Kr0du2meD4qQRV8N05ps6tVgHGuaLy5FYtemKSI+s0jTzGlv2OxhjwFqy+rkzkML7ZVN8kKOvgAwICokpL2gFlJJCaPj4BNuobtbkqxn7Z7/E1t2P54/bW/xHgSMFDeX47C5/CuOuIMUqWfq7iZLf31Q+tjBCvl+ZyWwePMrokN31cc+ddLWANGMhgkN5NcgUbxWIiZ+2gsA/qtYcDs6+Cahw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "8.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260419",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "SV2bwkD6mYe4Nf3LZ0w0",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Vlatko Gigov",
+        "project_name": "20250617_beerhall",
+        "contribution": "Atelier spent 15 minutes surfacing the same signal as @41799155602",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "12.5",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250531",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "58xfp82fS8dovgy/PHdO",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Vlatko Gigov",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 15 minutes framing the problem of WhatsApp imposing of user’s phone number as Primary Key for all chatlog data and surfacing it to @41799155602 so that he has the opportunity reimagine and implement a viable solution to work around the use of Phone Numbers as primary keys when tabulating contributions reported and surfaced on the WhatsApp community channels ‎<This message was edited>",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250408",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "53tAA5df5u0ONi9jOwO4",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

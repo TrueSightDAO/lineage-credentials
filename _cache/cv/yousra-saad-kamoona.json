@@ -3,7 +3,7 @@
   "display_name": "Yousra Saad Kamoona",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -347,7 +347,22 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Yousra Saad Kamoona",
+        "project_name": "20250617_beerhall",
+        "contribution": "Lukas Bulgar spent 5 minutes giving a clean and simple feedback yesterday evening at the gathering organized by @14158669401 where Jerry and @12609010260 were",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "2.08",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250425",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "3WronvXHSs7KdaIU+vd5",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

@@ -3,7 +3,7 @@
   "display_name": "Coopercabruca",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -201,7 +201,36 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Coopercabruca",
+        "project_name": "telegram_chatlog",
+        "contribution": "Coopercabruca contributed $766.56 for the replacement of the lost AGL6 shipment",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250228",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "FKuTV3yBpzLYMoxE1hpa",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Coopercabruca",
+        "project_name": "20250317_agroverse_chat",
+        "contribution": "I spent 10 minutes speaking with Coopercabruca and CEPOTx to get their organic certificates for my forthcoming discussion with Good Earth natural foods",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20241223",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "F+5JKNtKtyQtKFk978w+",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

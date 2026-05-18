@@ -3,7 +3,7 @@
   "display_name": "Milena Smith",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -1091,7 +1091,50 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Milena Smith",
+        "project_name": "20250617_agroverse",
+        "contribution": "I spent 5 minutes conveying our needs to Milena ‎<This message was edited>",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "8.33",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250603",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "d5PW3O/eHmFVvoBN/0+Q",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Milena Smith",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 15 minutes linking up Milena and Horacio from Itacare",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "12.5",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250430",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "hFgomDSnwxDHORJzjPO8",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Milena Smith",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 5 minutes responding to Milena’s question about investing in a relatively large cacao farm in Brazil.",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "8.33",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250407",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "5VlRS/k1vHkhhHyKkU0Z",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

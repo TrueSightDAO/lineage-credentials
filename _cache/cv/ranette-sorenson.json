@@ -3,7 +3,7 @@
   "display_name": "Ranette Sorenson",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -125,7 +125,22 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Ranette Sorenson",
+        "project_name": "20250617_townhall",
+        "contribution": "Sold 7 bags of cacao nibs to Ray for a total of USD100",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "100",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250521",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "g90XL/3aWff1nN/s2Njb",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

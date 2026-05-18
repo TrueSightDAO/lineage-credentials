@@ -3,7 +3,7 @@
   "display_name": "Ahbinav",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-05-18T22:18:46Z",
+  "generated_at": "2026-05-18T22:28:41Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -245,7 +245,78 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Ahbinav",
+        "project_name": "20250617_beerhall",
+        "contribution": "this model reminds me of the model that @16506464893 pioneered in his previous startup OurHealthMate",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250504",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "pLjp62TGBQyMqNdTE8Gb",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Ahbinav",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 2 minutes following up with @16506464893 about setting an appointment with his CEO about automating the double entry for our DAO’s inventory management ‎<This message was edited>",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "3.33",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250430",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "QRYbchGcywVt9fJHgWWB",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Ahbinav",
+        "project_name": "20250617_beerhall",
+        "contribution": "Just refactored our GitHub code repository to expose our full codified Tokenomics with the exception of the portion that @16506464893 is attempting to undertake via double entry updates of our physical asset transactions",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250419",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "Gt4yCSiHTlYWiOqBaTJN",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Ahbinav",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 1 hour and 13 minutes FaceTime with Laura Liew whom I got to know from back in JFDI (_joyful frog digital incubator_) in 2013 during which @16506464893 and Ray Wu (_who introduced @12068495127_) spent time together",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "35",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250328",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "8ImFFifeUh5g8BvoQCNX",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Ahbinav",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 5 minutes onboarding Ahbinav into Agroverse interview process",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250225",
+        "existing": "FALSE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "CwfMGULcweWN74ugODpr",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

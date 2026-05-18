@@ -1,0 +1,18 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "practice_type": "training-session",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk3F3H+5sAFC9BJKUsU8uWmqblYNAXvR2jtJPGi2ihgIA3xwflOA3LbkxbO30toDnZ2hstgt1HxldfGd3Gy455E7/BIzvUazWEhUKHW+8+RA9eFxdk2iInJd8Q0VSGePdHL4M9QuGCLz0V/ZSAb+pAPTU0P05yWz6uXWfeNgqp9Q6bSOrps0tumxDk4EbipNN1GgH4m+Yktk4ZupgzeohV5QRIsTM+dE6ga+cJUsN+djSRFrBk3L+pRpsTwLnIlNpuC6jK9O4ha9uKcetrnzenejHUgsPdHENR174fX7Hk98f1f/02GEPEWUfuq+a6VE8ss2Fgh+VOmYPM6HcUTylQwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-o-VOrzMyYhXs",
+  "captured_at": "2026-05-18T20:32:15.478Z",
+  "source_url": "http://localhost:8080/practice.html",
+  "payload": null,
+  "raw_payload_json": "",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk3F3H+5sAFC9BJKUsU8uWmqblYNAXvR2jtJPGi2ihgIA3xwflOA3LbkxbO30toDnZ2hstgt1HxldfGd3Gy455E7/BIzvUazWEhUKHW+8+RA9eFxdk2iInJd8Q0VSGePdHL4M9QuGCLz0V/ZSAb+pAPTU0P05yWz6uXWfeNgqp9Q6bSOrps0tumxDk4EbipNN1GgH4m+Yktk4ZupgzeohV5QRIsTM+dE6ga+cJUsN+djSRFrBk3L+pRpsTwLnIlNpuC6jK9O4ha9uKcetrnzenejHUgsPdHENR174fX7Hk98f1f/02GEPEWUfuq+a6VE8ss2Fgh+VOmYPM6HcUTylQwIDAQAB",
+  "request_transaction_id": "Svf6iO1mvUkLSNuYoPIz7dw/8lTRXAfVvbf4vYym5IMiHN4P1qhKoCQxDMqwkV5pRoccvD5Q5ZQrc9eGWflb4sYl/VnoLWy8+B1Fkgpb7TkSwe/5AMouJvQow+PDwTS/XX4n89qnKW3x3r44i3oSMNNUPeUQnbN6J66CERJvK5aPRp8ZyIPZ4Lj73VSOW0xt09gfPEVoHwELkrqSLQOXWSKXaO7/fC7fEX09wkMXMRmXii1tChfFdO/F/kTM4n/Q8YqOelkvdPGH7nN2g+3UZhshwsqdjS4QGRrWbWgA4vIQYAoDxo+PjJv+Vrue/DrVsEKDFJxHXojRott0AgnR8Q==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260518203216_199",
+    "telegram_message_id": "Edgar_20260518203216_200",
+    "processed_at": "2026-05-18T20:40:02.558Z"
+  }
+}

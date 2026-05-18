@@ -8,6 +8,16 @@ on:
       - '_cache/cv/**.json'
       - '.github/workflows/build-cv-cache.yml'
   workflow_dispatch: {}
+  # Phase 4.1 (spec §18.7) — Scored Chatlogs is a Google Sheet, not a Git
+  # repo, so push triggers can't see new submissions. The cron makes sure
+  # the rebuild fires periodically and pending-claim sections refresh on
+  # the credential pages without operator action. Every 6h is a fair
+  # tradeoff between freshness (≤6h delay between submission and surfacing)
+  # and CI minutes (4 runs/day; each ~2min wall-clock; ~5 runs no-op when
+  # neither Sheet nor data repo changed). The build commits back with
+  # `[skip ci]` so a scheduled run doesn't cascade into another run.
+  schedule:
+    - cron: '0 */6 * * *'
 
 # Need write to push the regenerated _cache back into this same repo.
 permissions:
@@ -57,6 +67,28 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r engine/requirements.txt
           pip install weasyprint
+
+      # Phase 4.1 — Materialize Google service-account creds from a repo
+      # secret so build_cv_cache.py can reach `Scored Chatlogs` and emit
+      # cv['pending_contributions']. When the secret isn't set, this step
+      # writes an empty file and the build silently degrades — pending
+      # sections stay empty but canonical Ledger history rendering is
+      # unaffected. To enable the pending-claim surface, add the secret
+      # `LINEAGE_GOOGLE_CREDENTIALS_JSON` to this repo (org-level also
+      # works) with the contents of a service-account JSON that has read
+      # access to spreadsheets 1Tbj7H5... and 1GE7PUq...
+      - name: Materialize Google credentials
+        env:
+          GOOGLE_CREDENTIALS_JSON: ${{ secrets.LINEAGE_GOOGLE_CREDENTIALS_JSON }}
+        run: |
+          if [ -z "${GOOGLE_CREDENTIALS_JSON:-}" ]; then
+            echo "::warning::LINEAGE_GOOGLE_CREDENTIALS_JSON secret not set — pending Scored Chatlogs fetch will be skipped"
+            echo "{}" > /tmp/google_creds.json
+          else
+            printf '%s' "$GOOGLE_CREDENTIALS_JSON" > /tmp/google_creds.json
+            echo "Credentials written ($(wc -c </tmp/google_creds.json) bytes)"
+          fi
+          echo "GOOGLE_APPLICATION_CREDENTIALS=/tmp/google_creds.json" >> "$GITHUB_ENV"
 
       - name: Build CV cache
         run: |

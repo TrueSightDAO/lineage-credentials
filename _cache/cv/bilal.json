@@ -1,12 +1,55 @@
 {
   "slug": "bilal",
   "display_name": "Bilal",
-  "pk_hash": null,
-  "identity": {},
-  "generated_at": "2026-05-18T20:40:38Z",
-  "has_elective_records": false,
+  "pk_hash": "pk-DEMO-BILAL-LEAD",
+  "identity": {
+    "pk_hash": "pk-DEMO-BILAL-LEAD",
+    "names": [
+      "Bilal"
+    ],
+    "note": "Demo entry for Bilal — program lead of Butterfly Effect at ERA Professionals. Not a real cryptographic key (synthetic pk-hash prefixed `pk-DEMO-` so anyone inspecting can see this is a placeholder, not a signed identity). Seeded so the cohort listing has the program lead visible alongside participant records. When Bilal onboards a real DAO identity via dao_client auth.py login, his real pk-hash replaces this entry and his existing DAO contribution credit (slug `bilal`) merges naturally."
+  },
+  "generated_at": "2026-05-18T20:47:46Z",
+  "has_elective_records": true,
   "has_dao_contributions": true,
-  "programs": {},
+  "programs": {
+    "butterfly-effect": {
+      "display_name": "Butterfly Effect",
+      "lineage_root": "Butterfly Effect",
+      "source_pages": [
+        "https://era-professionals.com/butterfly-effect/"
+      ],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "butterfly-effect",
+          "practice_type": "module-completion",
+          "practitioner_public_key": "",
+          "practitioner_name": "Bilal",
+          "slug": "pk-DEMO-BILAL-LEAD",
+          "captured_at": "2026-05-18T12:00:00.000Z",
+          "source_url": "https://era-professionals.com/butterfly-effect/",
+          "payload": {
+            "module": "Program Lead — Butterfly Effect, ERA Professionals",
+            "duration_minutes": 0,
+            "notes": "Demo seed entry. Bilal is the program lead (not a learner). Surfaced in the cohort listing so the Butterfly Effect partner page reflects both roles — program lead and participants — until real cohort members onboard. Replace with real attestation event once Bilal registers a DAO identity (dao_client auth.py login)."
+          },
+          "raw_payload_json": "",
+          "digital_signature": "",
+          "request_transaction_id": "demo-butterfly-effect-2026-05-18-program-lead",
+          "intake": {
+            "telegram_update_id": "demo-bcc-2026-05-18-lead",
+            "telegram_message_id": "demo-bcc-2026-05-18-lead",
+            "processed_at": "2026-05-18T12:00:00.000Z",
+            "reprocessed": false,
+            "_demo_seed": true
+          },
+          "_path": "programs/butterfly-effect/pk-DEMO-BILAL-LEAD/practice/2026-05-18T120000000Z-program-lead.json"
+        }
+      ]
+    }
+  },
   "dao_contributions": {
     "total_contributions": 1,
     "total_tdg_provisioned": 8.33,

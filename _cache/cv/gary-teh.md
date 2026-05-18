@@ -1,6 +1,6 @@
 # Gary Teh
 
-*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-05-18T20:40:38Z*
+*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-05-18T20:47:46Z*
 
 Gary Teh serves as a current member of the Board of Governors for TrueSight DAO. His contributions span projects including Agroverse, Sun Mint, AID framework, Cypher Defense, Edgar, FORK, MarketMonocle, MoNYtyze L1 Protocol, MoonShot, Real Estate on Chains, Recurring Tokenizations, Rotten Radish, The ArtTalk Magazine, Trinity, TrueSight DAO, and TrueSight.Me, with primary focus on human effort hours, liquidity provision, offline commerce tasks, and build game operations such as attending FaceTime meetings and consolidating materials from discussions. Active from 20171231 to 20260430, Gary has participated in three sessions (40 minutes total) of the TrueSight Capoeira program under the Tribo Bahia Mirim lineage, rooted in Bico Duro.
 
@@ -12,6 +12,15 @@ Gary Teh serves as a current member of the Board of Governors for TrueSight DAO.
 - Total TDG provisioned: **452,598.53**
 - Active period: 20171231 – 20260430
 - Source: [_cache/cv/gary-teh.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/gary-teh.json)
+
+## Butterfly Effect
+
+- Practice sessions logged: **1**
+- Total practice time: **0 minutes**
+- Lineage root: Butterfly Effect
+
+### Recent sessions
+- **2026-05-18T12:00:00.000Z** — module-completion (0 min) — [programs/butterfly-effect/pk-wR9zU8JMnEz1/practice/2026-05-18T120000000Z-demo-module-1.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/butterfly-effect/pk-wR9zU8JMnEz1/practice/2026-05-18T120000000Z-demo-module-1.json)
 
 ## Capoeira — Tribo Bahia Mirim
 

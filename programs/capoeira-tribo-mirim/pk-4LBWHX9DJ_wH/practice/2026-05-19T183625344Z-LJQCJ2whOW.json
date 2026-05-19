@@ -1,0 +1,18 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "practice_type": "training-session",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApteuX0BSHSvFKWuR5PcCzH6/R/dWmHmU4BfiSE9IZHxFu82xMktHHxdFytbIfLyQ6LsZ/rMFlm5xaVtNuBODaoX7NEHvy/GJDNAELmF6EsFTGE0wGOZIaDEVKZkLRaKe4aSFumE+Qyot3XavSXv0fY9kuwWApLmKNK/JHrLDPVOHXQFeBQzKjnhT6Bl5AO9cnhw79n8PqhM3fZsQmOwzPpyPxT99WjuCsvMVtvPFn/lURTMJAkZPTtnCqlXTILfuIxMj7MUwxc1zBa8WDqVKKNxS+pVXKIP/vAZ9fAaU1ZyFUUzMJkU/1m/aOmPaxbFTFhKuXdx8xyGlwvbCHV5NbwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-4LBWHX9DJ_wH",
+  "captured_at": "2026-05-19T18:36:25.344Z",
+  "source_url": "https://capoeira.agroverse.shop/practice.html",
+  "payload": null,
+  "raw_payload_json": "",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApteuX0BSHSvFKWuR5PcCzH6/R/dWmHmU4BfiSE9IZHxFu82xMktHHxdFytbIfLyQ6LsZ/rMFlm5xaVtNuBODaoX7NEHvy/GJDNAELmF6EsFTGE0wGOZIaDEVKZkLRaKe4aSFumE+Qyot3XavSXv0fY9kuwWApLmKNK/JHrLDPVOHXQFeBQzKjnhT6Bl5AO9cnhw79n8PqhM3fZsQmOwzPpyPxT99WjuCsvMVtvPFn/lURTMJAkZPTtnCqlXTILfuIxMj7MUwxc1zBa8WDqVKKNxS+pVXKIP/vAZ9fAaU1ZyFUUzMJkU/1m/aOmPaxbFTFhKuXdx8xyGlwvbCHV5NbwIDAQAB",
+  "request_transaction_id": "LJQCJ2whOWuesFb7W2LWY9+yiNMuxrrdd8qK7BSxO4t6NBUldHaj4K79uoEPA/4Xf/d8wr0bsbaGKucMTYhH958JPkJHmoKt2u6E1/Girk79HYRf2FCoS0R+ifgfs+35AkP8pg2/+I1fvY4JPArP9k0mPL6enuCzRTqCUmHunrIFFjyhXoDd0q6xfyIjYrjkLTCQkbqA64xKNuEcbL8B2qGiYKbGgVYAuJ2vJeYgv3lDZveeSuY3b3C9dGoEaebgg+rPgZV2vGYohcqvnT71KGP0jQZVNxHCgCrjbIhOwADak5ekaVDjkShrpaDuH7ArGM5sBEEHifk8D9vEqbFm3g==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260519183624_225",
+    "telegram_message_id": "Edgar_20260519183624_226",
+    "processed_at": "2026-05-19T18:40:01.573Z"
+  }
+}

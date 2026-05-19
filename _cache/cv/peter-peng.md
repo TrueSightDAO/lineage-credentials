@@ -1,6 +1,6 @@
 # Peter Peng
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-19T09:39:41Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-19T14:57:34Z*
 
 Peter Peng contributed to Cypher Defense and TrueSight DAO from September 2022 to March 2023, with contributions primarily in the Build Game strategy category, including reviewing proposed strategies with clear improvements (3), raising concerns about minor DAO issues (2), suggesting ideas (2), voting in polls (2), and suggesting areas to watch out for (2). He also participated in governance by independently reiterating a pending decision signal (1) and handled marketing by writing a short social media post from an account with at least 10,000 followers (1). His most notable accomplishment was securing a successful tie-up with a channel partner in partnerships and business development (1).
 

@@ -1,6 +1,6 @@
 # Ken Lee
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-19T14:57:34Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-19T17:32:45Z*
 
 Ken Lee made one contribution to the TrueSight DAO in December 2021.
 

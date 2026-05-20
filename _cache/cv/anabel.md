@@ -1,6 +1,6 @@
 # Anabel
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-20T09:29:25Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-20T14:59:11Z*
 
 Anabel made two contributions to the Edgar project in July 2024, both under the 100TDG For every 1 hour of human effort category.
 

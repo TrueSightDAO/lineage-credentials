@@ -1,6 +1,6 @@
 # Royston
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-21T09:38:00Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-21T15:20:13Z*
 
 Royston contributed two hours of human effort to TrueSight DAO in January 2025, earning recognition through the 100TDG For every 1 hour of human effort category.
 

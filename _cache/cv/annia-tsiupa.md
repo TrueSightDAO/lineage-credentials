@@ -1,6 +1,6 @@
 # Annia Tsiupa
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-21T15:20:13Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-21T19:52:09Z*
 
 Annia Tsiupa contributed to the 20250617_beerhall, Agroverse, and TrueSight DAO projects from May 2023 to April 2025, with primary focus on Build Game user experience through 25 high-quality illustrations including icons, logos, anime characters, and paintings, alongside UI designs for single screen templates. She also logged six hours of human effort and attended FaceTime meetings, while handling marketing tasks such as writing and posting short social media content on platforms like Facebook, Instagram, Twitter, Reddit, and TikTok, including one post from an account with at least 10,000 followers.
 

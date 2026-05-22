@@ -1,17 +1,11 @@
-# Rameesa Naseer ud Din
+# rameesa-naseer-ud-din
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-22T23:35:09Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-22T23:37:17Z*
 
 ## DAO Contributions
 
 - Total contributions: **0**
 - Source: [_cache/cv/rameesa-naseer-ud-din.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/rameesa-naseer-ud-din.json)
-
-## Butterfly Effect
-
-- Practice sessions logged: **0**
-- Total practice time: **0 minutes**
-- Lineage root: Butterfly Effect
 
 ---
 

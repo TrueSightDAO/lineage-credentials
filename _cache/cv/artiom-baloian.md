@@ -1,6 +1,6 @@
 # Artiom Baloian
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-21T19:52:09Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-22T03:28:42Z*
 
 Artiom Baloian contributed to the DAO once in May 2022 by providing a reference material link in the Build Game - Strategy category.
 

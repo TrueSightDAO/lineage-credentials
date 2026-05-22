@@ -1,6 +1,11 @@
 # Ayesha Tabassum
 
-*TrueSight DAO Credential Profile · generated 2026-05-22T22:57:54Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-22T23:13:45Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/ayesha-tabassum.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/ayesha-tabassum.json)
 
 ## Butterfly Effect
 

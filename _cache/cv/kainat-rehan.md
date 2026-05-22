@@ -1,6 +1,11 @@
 # Kainat Rehan
 
-*TrueSight DAO Credential Profile · generated 2026-05-22T23:25:13Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-22T23:32:55Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/kainat-rehan.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/kainat-rehan.json)
 
 ## Butterfly Effect
 

@@ -106,4 +106,25 @@ jobs:
             exit 0
           fi
           git commit -m 'chore(cache): regenerate _cache/ [skip ci]'
-          git push
+          # Retry with rebase if push rejected — protects against the race when
+          # the concurrency group queues this run but another commit landed on
+          # main between checkout and push. We rebase our cache commit on top
+          # of whatever advanced main, then push again. Up to 5 attempts.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt rejected — fetching + rebasing"
+            git fetch origin main
+            git rebase origin/main || {
+              echo 'Rebase failed (likely cache conflict) — falling back to re-add'
+              git rebase --abort || true
+              git reset --soft origin/main
+              git add _cache
+              git diff --cached --quiet && { echo 'No changes after rebase'; exit 0; }
+              git commit -m 'chore(cache): regenerate _cache/ [skip ci]'
+            }
+          done
+          echo 'Push failed after 5 attempts — manual intervention needed'
+          exit 1

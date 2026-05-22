@@ -21,9 +21,9 @@
     "former_pk_hashes": [],
     "public_listable": true
   },
-  "generated_at": "2026-05-22T23:13:45Z",
+  "generated_at": "2026-05-22T23:25:13Z",
   "has_elective_records": false,
-  "has_dao_contributions": false,
+  "has_dao_contributions": true,
   "programs": {
     "butterfly-effect": {
       "display_name": "Butterfly Effect",
@@ -36,6 +36,13 @@
       "recent_events": []
     }
   },
+  "dao_contributions": {
+    "total_contributions": 0,
+    "total_tdg_provisioned": 0,
+    "date_range": {},
+    "source": {}
+  },
+  "governance": {},
   "qr_code": {
     "path": "_cache/cv/falak-naz.qr.png",
     "target_url": "https://truesight.me/credentials/#falak-naz"

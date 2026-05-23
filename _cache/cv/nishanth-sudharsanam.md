@@ -1,6 +1,6 @@
 # Nishanth Sudharsanam
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-22T23:37:17Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-23T02:48:16Z*
 
 Nishanth Sudharsanam made 7 contributions to the TrueSight DAO between January 10 and 25, 2022. His activity was primarily early community engagement during the DAO's initial phase.
 

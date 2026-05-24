@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-05-23T19:07:16Z",
+  "generated_at": "2026-05-24T00:40:47Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -55,9 +55,28 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 11,
+      "practice_count": 12,
       "total_practice_minutes": 154,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-05-24T00:36:35.029Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": null,
+          "raw_payload_json": "",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "eXImMEsMHTpbccvfEYYg/8JeM4Amu1RiQPGT3veUXG3YywyD9klE6aijMBJ8/yQx6JFpXsL0Z09mf4wkbPFsoIkh2GVTblF6eVyYj8MhbNQieMi4K3zmZaKcySUGQc93ev8sEZtbI6wRTBlO1URPWx9A8JMTA3qyauASmQNDADzClzJoGYxBvggHQPUfhF4EL8+R1CcM2/E3wOq0eQmpFE9zYGfqjhibeV5FIUGJLfzgBr3qzo93YJW0cLZut/PHyXW2pzBWEb6dlc3g5Fl6nHWVSoh+gYmLFDdQSFBOyrbotVYNfftqUKsK982Og+hdyQyB3jiF4990CaNHzUb5Ew==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260524003636_033",
+            "telegram_message_id": "Edgar_20260524003636_034",
+            "processed_at": "2026-05-24T00:40:05.399Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-24T003635029Z-eXImMEsMHT.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",
@@ -87671,6 +87690,34 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "0w4KGCRFq93sJU06M7Ji",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Reached out to Ken about bringing cacao to the conference\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: IMG_1698.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260523195435_gary_teh_img_1698.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: FckT3lvo09txktXObDhaaLL389ecTo3gpUDAQRZhgHU08iSy7xgIgNTNXqGUWCCjidWpfzLhzy/05WAqOjS1Xzgy3zjiJ3WinwzSMhtUsWZpSIKYhasxeDXBQZMTLPYs2vAWfC6jhEGiSLXf/RwaUDz3FvDuJ+qmHfaKLmxXO43EGPEvXvFxvdyx2LR230O9FhFDR1miICVmtc9rWpzAXVqA08jTKMuXqvm3WOanKwyLSCvSVnlozxBs90pkrGqn1eNdOOuH4qcJYWeYtHfy+z5wn/w42Ec5bX6YSnn4hjheVqLbu7CtZCFHEJnxAEP9y5KIyesGyTZ2MNGTU+ZWHA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "8.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260523",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "Vb4kDX3yI+Vl0OC/X4dt",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Offered to bring cacao to Tiffine event\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: IMG_1697.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260523195536_gary_teh_img_1697.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: TF8YcN0Dn2t8N3+1PMNbn8WUm5+5IasPzpepa+VAk9JMAQAuPJ5fM0paRpi8x6uVLjBjGCI5cORRe4rD1XSpt7K7WJdmhnRMFAY32OJi6jkq4lyUB4xyRodpiXVZf1a9CdCLjrq3DGcaZn7KDkxJR8vgkrdQC+ky0QGOXTm6k3pE+KViYQHvH/LsrsIbo485mIxhR27L2bGlX7INjP1f0bAiKnIWPyTahDoivrgyZyXxfsrEYIcBjSQv3tMmfKPUhmwdIXvxsrp8Bmu8WdEhvjotJcOLhTQrxYdWVj1fzwQj3kk8XxO9MgN7VxsR2HBNuvb1x2kAUH5HfikcVBTb0g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "8.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260523",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "nqYNUmIGX0+FtXJi6OJs",
         "reviewer_email": ""
       },
       {

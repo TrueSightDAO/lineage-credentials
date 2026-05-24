@@ -1,6 +1,6 @@
 # Gary Teh
 
-*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-05-23T19:07:16Z*
+*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-05-24T00:40:47Z*
 
 Gary Teh serves as a current member of the Board of Governors for TrueSight DAO. His contributions span projects including Agroverse, Sun Mint, AID framework, Cypher Defense, Edgar, FORK, MarketMonocle, MoNYtyze L1 Protocol, MoonShot, Real Estate on Chains, Recurring Tokenizations, Rotten Radish, The ArtTalk Magazine, Trinity, TrueSight DAO, and TrueSight.Me, with primary focus on human effort hours, liquidity provision, offline commerce tasks, and build game operations such as attending FaceTime meetings and consolidating materials from discussions. Active from 20171231 to 20260430, Gary has participated in three sessions (40 minutes total) of the TrueSight Capoeira program under the Tribo Bahia Mirim lineage, rooted in Bico Duro.
 
@@ -24,11 +24,12 @@ Gary Teh serves as a current member of the Board of Governors for TrueSight DAO.
 
 ## Capoeira — Tribo Bahia Mirim
 
-- Practice sessions logged: **11**
+- Practice sessions logged: **12**
 - Total practice time: **154 minutes**
 - Lineage root: Bico Duro
 
 ### Recent sessions
+- **2026-05-24T00:36:35.029Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-24T003635029Z-eXImMEsMHT.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-24T003635029Z-eXImMEsMHT.json)
 - **2026-05-19T17:20:17.004Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-19T172017004Z-pWra4QHdID.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-19T172017004Z-pWra4QHdID.json)
 - **2026-05-19T17:20:04.750Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-19T172004750Z-MCSHnl98pC.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-19T172004750Z-MCSHnl98pC.json)
 - **2026-05-19T03:01:18.898Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-19T030118898Z-hOAykvEEkk.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-19T030118898Z-hOAykvEEkk.json)
@@ -38,7 +39,6 @@ Gary Teh serves as a current member of the Board of Governors for TrueSight DAO.
 - **2026-05-17T02:51:32.003Z** — training-session (0 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025132003Z-ESG9b3l4YP.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025132003Z-ESG9b3l4YP.json)
 - **2026-05-15T07:17:59.666Z** — Defense (39 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T071759666Z-CBHOG2m0o0.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T071759666Z-CBHOG2m0o0.json)
 - **2026-05-15T05:46:36.346Z** — Defense (39 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T054636346Z-RQLncFlxRh.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T054636346Z-RQLncFlxRh.json)
-- **2026-05-15T05:46:26.760Z** — Attacks (40 min) — [programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T054626760Z-stYiAw9JF0.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T054626760Z-stYiAw9JF0.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # John Tan
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-24T13:22:09Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-24T19:15:00Z*
 
 John Tan contributed to the TrueSight DAO from February 2022 to April 2022, with 11 total contributions primarily in the Build Game - Strategy category. He focused on submitting reference material and links, completing three such contributions. His activity centered on providing resources for strategic development during this early period of the DAO's work on Agroverse, Sun Mint, and related ventures.
 

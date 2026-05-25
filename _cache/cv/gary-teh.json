@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-05-24T19:15:00Z",
+  "generated_at": "2026-05-25T00:30:47Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -55,9 +55,28 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 12,
+      "practice_count": 13,
       "total_practice_minutes": 154,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-05-25T00:29:06.363Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": null,
+          "raw_payload_json": "",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "rOG3sdj8uy4q70yon7niF1mqapzTiunR6Sy3kma0A4blWHmTW9MSMN6wmHe8Yok1U4TfMhh2TBnZhCWVY1Obve35yo4pGgORHlN41beEtQ1j6CPc9oqbO60+Gak+F8DTVPnqZxy38iatyL2j1YgQRmH0bDejMhZsTr5pFSllGJYBXv6n1QNvw1iaV1M8oSRcXKA2fNLDU3p/8x1a5JucdWmc+t/bpnUxXs9pp9I7Lqapjh80WlYjjhgOwO894cK4S+N1PhxrTPzcedYq1e9j4+3H2HkjSqi/S+GVSz1VPZsvK7zSudv60g1aw89bAx17WjplzBZlF5jlnWc1qNf2EQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260525002907_053",
+            "telegram_message_id": "Edgar_20260525002907_054",
+            "processed_at": "2026-05-25T00:30:00.677Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-25T002906363Z-rOG3sdj8uy.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",
@@ -87650,6 +87669,104 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Discussed about how the communication and human psychology actually works \r\n  \r\n  Focus on one on one small group communication only with folks where the message really matters.\r\n  \r\n  If other folks want to know what’s going on they can either go check the chat logs right now or at some point go ask our chatbot\r\n- Contributor(s): Gary Teh, Garis Pang\r\n- TDG Issued: 75.00\r\n- Attached Filename: IMG_1728.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260524200133_gary_teh_img_1728.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: kXLDMN04xYTcIDYAa0sJIGYqxRZnjXhXBbBL5DqJxZOqvh9sKYY7ZWzizmg+nJjrrXfBkfv11yOhQjnWbPrHav0WqWZE1KrK8a1zkafTXuG1oE43LnADHKwmEbZqi55cy+n+JbrUioS1CBkW7RXUqqEsvCxJ1lBqJG3Qi+smjM3Y3prkhik8ywCMBK/FiggLTEExOZjBxgRj0QUBaW8B328ncEbWKX3Aqj0mFCvtCPxwUR1nf94geYHdop35iJ9L6juBHE68FHabGJ1ApxVd6R4IETFH5kx3sl/WyXyvjpoU1eyyF9lCdY51YM338Hi2frPNAqEYO2Q1t8aQSahXBg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "75",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260524",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "pUZTR2uMojOp1nQEnccS",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 50\n- Description: Dual Tech Summit 2026 — multi-LLM proposal consolidation, finalized plan + execution checklist\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/133\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/184\n  \n  Details:\n  Consolidated four parallel LLM proposals (Claude/Kimi/OpenAI/DeepSeek) + their self-assessments for the SF Dual Tech Summit cacao activation into a single plan-of-record (proposal_finalized.md) and phased implementation_roadmap.md; wrote the cross-proposal verdict; reorganized the folder under events/; fixed filename spelling; created EXECUTION_CHECKLIST.md (phased, time-bounded); and added per-phase team follow-ups to agentic_ai_context/OPEN_FOLLOWUPS.md. Earlier PRs in the same cluster: go_to_market #130/#131/#132.\n- Contributor(s): Gary Teh\n- TDG Issued: 83.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Kvg7LCGdiYZ/L6ZvjIQ+I9eBPLr59SqePrxVxRHb8cAcnYA/7cyO01xgx37WEjXIPCve39cWFk2mRXOjoZMnomsU6SGlotzkZjgR2T7X8XxBk6iITCSnWZDFz0YmJJRf7kI5J9huvw/sefRVy5BYzJRAG0BMZ2jRF214JRtdy5VDrSO1/oGkc9/wZnH588e2uT9iwVza2thvlpiX8JDDByaNIFT8Ql+mEjDM5TgqtIYYOfN492iUHbdNIaoVtrd/M9GLFDoFzx4ZkCObHlqvc6qVGmu2zNp+4QrZDCEk3i2XZwvQXCqMEW4JichOL6T4pAq6ed35oar8W3UdxAMa9w==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "83.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260524",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "jdDn4ycuQ0BD5vMYXnLM",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 25\n- Description: Dual Tech Summit 2026 — Phase-1 deliverables: field-asset copy + truesight.me methodology essay draft\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/133\n  \n  Details:\n  Executed the unblocked Phase-1 work today: drafted field_assets.md (the on-the-day one-line story, 'scan to verify' table placard, table-tent, cup-sticker, and per-farm 'Meet the farms' cards) and truesight_essay_draft.md (the methodology essay 'Provenance is a dual-use problem' for truesight.me, to publish pre-event). Checked off checklist items 1.1-1.3 (drafted, pending Gary review). Locked the serving format to Oscar's Farm ceremonial cacao + Paulo's cacao tea (both farms, both traceable).\n- Contributor(s): Gary Teh\n- TDG Issued: 41.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: GVTmbau88rzWryiCjq9Ig3kNrDJDfOxREc2TPqNSYoS7DZf2f9rxkiUnWWvoUAoko8lXyi90OnsqAVfFYHRGtp6FGTcnLaeIxS3funiv2uGvytpbGHWdwn44Bj/azqK/ehM3sVZQmlaEu/yMcYr6cUUTo3So1xxmpMbO1MtMaOioCyDfxv/qpwMhxDXpAxYp8kHnB1ewoYN1fsjssHIpD7NKciY2zAowGlYm7m1lVjHHzKIWODjsT95bHYUzAmcHh8Rts/wrZ1urwYeJfs+KH+YoDR/2i17fse2NQvZ/SET+dotOGYEiw4xem9ho9lkkGcN+SArK6ZDliDF7YLc7bA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "41.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260524",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "nTJkUlOiJEvWqCjhYP0i",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Edgar to dao_protocol extraction: execution-roadmap convention + plan + Stripe routing doc\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/185\n  \n  Details:\n  Scoped extracting the DAO/Agroverse integration surface out of the Rails sentiment_importer (Edgar) app into a Python FastAPI service (dao_protocol), leaving Edgar as a pure trading platform. Confirmed near-zero coupling between the DAO glue and the trading DB; traced Stripe payment paths across sentiment_importer, agroverse_shop, and capoeira. Deliverables (PR 185): (1) OPERATING_INSTRUCTIONS section 5 establishing the standing convention that a tracked execution roadmap checklist (pre-flight + sequenced PR plan + resume tracker) must precede any multi-step implementation; (2) EDGAR_DAO_EXTRACTION_PLAN.md with PR0-PR7 plan, deploy topology, and a resume tracker; (3) STRIPE_LEDGER_ROUTING.md updated with the previously-undocumented consumer product-QR scan flow where Edgar /qr-code-check creates a Stripe session server-side and reconciles the sale synchronously.\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: MoMM5yTGlAvciHv3JzV5w3kodjYsAAlMle74BYOH1WE7znIEOXZzNtY6amsovbvwOivx1MQlxN1FDI5WkY/Udks/zL51I9yePL4Pj8xBNI4x0/SDcXCX7kNj1E3gy5HDkFUl2iJiyuFQAeQi2hDA1eQPkhzFJ1KC+cyYmnrnNrlBjbosO9dRexDewvTrDzK9WPPrO6qtBkSn1scy0Uu3tmABOcAVzEHe/k/3Amjf9NCE0gD/vtCB+pNnthBDP588/Eoo+wqcAVZCgX8lk7QmunuVl/0o+u2Vuskd2x2ljY3ukv6AxFTRpnYlwEriJ9v93+mA4W4wGU6naENbesSWNQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260524",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "YZw0gVaZUK8uCbnZE8PF",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Published 'The checklist that lets you do nothing' to truesight.me (Do Nothing Society blog)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/145\n  - https://github.com/TrueSightDAO/truesight_me_prod/pull/11\n  \n  Details:\n  Drafted and published a new truesight.me blog post extending the Do Nothing Society series, framing the new execution-roadmap-checklist convention as permission to rest. Matched the site's editorial voice and exact post template, reused the existing do-nothing-society hero SVG, byline Claude (Anthropic). Shipped to beta (truesight_me_beta PR 145) then promoted to production via a content-only PR (truesight_me_prod PR 11) that deliberately preserved prod's CNAME (truesight.me) rather than a fork sync, since beta and prod custom domains differ. Verified live at HTTP 200 and listed on the blog index.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: AP6jIJ1RaUgPdD70gBpUyQAyspj1LS7oHvl0MHn/YkjcKdRedfWEad4e1J65doxJe+/YEh3yF0dAKh8xFaQnm7Ag87Qda+lBQ5gi7MGl25rla7nzhok5mpSjWsvzy/kBphFoZl8AmMdBMJ5D0PCXrvX9UUFB8IWdATQ1aOZqse4WdC7u/YQ/8zYcUWOJF8G+Wk88jvBZK1IWyDx+DtDYA2PpydOOJCs8LX6xQAamkxFfA+7+rKDBsN0jN+tCogtH8K+NOqRNZyYtMyWNMfhhtqfxqRtT2iA0ICSd1mRiMsckEoH0Mo3fqh554Hx8PsjbCQ+cq/VE/XkojOgH74+w3Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260524",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "xXhGvMlaTyQSwfreEGFp",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 35\n- Description: QR-scan newsletter opt-in: consent checkbox (AGL4/AGL8) + qr_code_web_service subscribe append\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/113\n  - https://github.com/TrueSightDAO/tokenomics/pull/309\n  \n  Details:\n  Added a 'keep me posted on Agroverse' consent checkbox to the AGL4 (Oscar's ceremonial cacao) and AGL8 (Paulo's cacao tea) QR-scan landing pages; when ticked, the existing email-link GET passes &subscribe=true and qr_code_web_service.gs now also appends the email to 'Agroverse News Letter Subscribers' (CONFIRMED, Source=qr:<code> in column E) alongside the existing Owner-Email (col L) link. One row per (email,QR) for per-QR attribution; send_newsletter.py already dedupes by email at send time. Verified live schema (col E=Source, empty) + send-side dedup before building. Deploy of the GAS web app (clasp push + redeploy existing deployment) is the remaining step.\n- Contributor(s): Gary Teh\n- TDG Issued: 58.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: MA4pxoMkH2V6ewd9kxaLwxy/4XV9m2t+RJj/EIYE8H7D8iddAu9pnqftvFUdsT+zwCv+0EJ7F5fWd34D94gQMGREAHoGxxu1OogdEUFu1Y3bG7hKe74mh9z/G4qqflc7OAMoNeSu9sOB54znOxdH9pl+op9ruT08t8XwpwRgp8jhCszpbWkILRle1IcZnfzxCcKtJzhDPD3e0fO1iJJTEz7zZP2qkZVWY9+EZuVEfLofzcQFT5oDL0EaD9bTFRAJhBdpPIQz2qKQWD7WCjLkH0db/EEcybgICibwp7cm3cPdbevfoZfR2pYGoLAitXu2KYNRTm/hbNAV1PfKeOq7og==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "58.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260524",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "T7cwhDmTs0nuyyxxprui",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: dao_protocol PR0: renamed repo dao_client to dao_protocol + advanced execution resume tracker\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/186\n  \n  Details:\n  Executed PR0 of the Edgar to dao_protocol extraction plan: renamed the GitHub repo TrueSightDAO/dao_client to dao_protocol (old URLs now 301-redirect), updated the local git remote, and kept the importable package truesight_dao_client + local working directory unchanged for path/import stability. Advanced the EDGAR_DAO_EXTRACTION_PLAN resume tracker (PR 186): marked planning/docs and PR0 complete and pointed RESUME HERE at PR1 (scaffold the FastAPI server package + deploy a health endpoint behind the krake_ng nginx). Verified the new repo resolves and the old URL redirects.\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: oRbiaVaXKZfA3bM3txBCzaY6isVbeP1zbNknHYrCpQgE021L9jGh0cc/J/SnyM0Dl+B2cdGjVy83DbOL2gOH7jgwHbeGi5BJrVyxhoCd2aYh8he7fhXl/FRVJ2kxqvkxqo9Ne1HJRZ6oHyYqFaKkFMJVqa1WlnAcxLWTpiNWay/cgs4XpNydXJ9pAVYdu+ubdQREzoK147TLNUzbYl/FudlZWSaW4TU7MG0ivubZFEz6NsUISBG2TYLKDkC6erLAfLIYOKcAofYHn84BpUN4uqOhNKgL53paIjARR6tykj58u3+z7D6mO7JgrKhRGapTRGVc942LFEfwmpWS820lVw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260524",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "r3whW2dydjj6kNu/gCBx",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

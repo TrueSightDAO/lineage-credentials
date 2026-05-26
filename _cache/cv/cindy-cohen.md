@@ -1,6 +1,6 @@
 # Cindy Cohen
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-26T02:56:25Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-26T09:53:02Z*
 
 Cindy Cohen contributed to the Build Game - Strategy category with five contributions in July 2022. These included reviewing proposed strategies and suggesting against certain actions or areas to watch out for (twice), attending a FaceTime meeting (one hour), reviewing a proposed strategy and suggesting a clear and specific improvement, and contributing reference material via a hyperlink to online resources.
 

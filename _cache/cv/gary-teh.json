@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-05-27T03:36:11Z",
+  "generated_at": "2026-05-27T09:42:04Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -87707,6 +87707,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Telegram bot UX: persistent typing, Markdown→HTML rendering, dao_protocol allowlist\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/48\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/49\n  \n  Details:\n  Polished the Telegram bot after multi-round landed:\n  - truesight_autopilot#48: (1) typing keepalive — multi-round answers take 30-60s+ but Telegram's typing indicator expires at ~5s; call_chat now runs in a worker thread while the main loop re-sends sendChatAction every 4s, so the indicator stays alive (fixes the 'dead gap then reply' feel). (2) Markdown->Telegram HTML — model emits ##/**/-/code which Telegram showed raw; markdown_to_telegram_html() maps headings/bold/bullets/code/links to HTML (parse_mode=HTML) with plain-text fallback on any parse/thread error. (3) Added dao_protocol to allowed_repos + ALLOWED_CHAT_REPOS.\n  - truesight_autopilot#49: fixed nested <b><b> when a heading also contains **bold** (Telegram 400s on it, would force plain-text fallback).\n  18 unit tests pass; deployed to prod EC2; verified render output + dao_protocol live in prod allowlist.\n  \n  PRs: https://github.com/TrueSightDAO/truesight_autopilot/pull/48 , https://github.com/TrueSightDAO/truesight_autopilot/pull/49\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: AogSyLkQoPQwhpLxBRh8FagxjJ4XlpfHkXJheYDc5MQleHAvsxi+nJuHKSOAxdMgv9jv1PDJdDMIWv/xzPALjFiCCsPf70O2go+gqPHPwgvQdkOnr24FsbLPVf/gFNMNq55c6CMq7dy+Nn8IaRSez/JZMuOfcDljnEy9GHJNTqQ93AW1/F6kQS0z+JJsOwCyB/hKYkqwKZ5UtCbi9k/LrqR+D9RJZtbeaPXHU+JnbfCLILBDOS7JGC+/tJl+eoF5lada2xmvfJbyxEsN32PRNVSxapt1GsnSBEspbrq22djiUX7y6OZd8kQF7e0DXur7J3dQwr9K/UfbeOl4SJKEwg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "75",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260527",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "sjII8ibjCg52r4qdEFAg",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Edgar->dao_protocol: activate PR6b in production + verify PR6a payment path via Stripe sandbox\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/219\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1070\n  \n  Details:\n  Activated PR6b in production and verified the PR6 payment paths. Deployed the webhook delegation to seni_ror_new (git pull of #1070 -- brought only the 5 migration commits, no Gemfile change) and restarted the seni_ror systemd unit; confirmed Edgar healthy afterward (browser UA -> 200 on /users/sign_in + homepage; curl 401 is the expected bot-rate-limit filter, not a regression) and that the ramped :8010 routes kept serving through the restart. Verified the PR6b delegation wiring with a synthetic checkout.session.completed to Rails /stripe_webhook: Rails delegated to the dao_protocol service (POST /stripe/order_sync from 127.0.0.1, journal-confirmed) and still acked 200 via the rescue (fake session -> no write). Verified PR6a's MINTED->Stripe-checkout path against a Stripe test-mode sandbox: spun up a 2nd dao_protocol instance on :8011 using the sk_test key from Edgar's development.rb, found a MINTED code, confirmed a 302 redirect to checkout.stripe.com/c/pay/cs_test_... (no SOLD write since we stop at the redirect), then tore the sandbox down. All 6 routes now cut over and PR6b live. Remaining is operator-driven: an optional real-payment reconcile->SOLD test and PR7 cleanup.\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: bS7OKFDnCA+6iZmkgA7Pe8HU5TN0zcjcRoHMktKA238fYl3TEwwlSpBXv5Fxkze5Ix1ITWBgGFclYY8lZOTTaHEMDx6u5rbGEOXrORmkze9f42WoMLsK0XWpujIX6y/+LyiAiL+QbFeJxxm+oFGwvo0I2TQkHnZvziGYuRZvS3Sr7QBUK1kLvregTS5It0fkCeaOv2SB4QLnjLQ8ViI2kwJ0raERNmgEJXW05pety7zRo1KAqcG+ummFEZDCiLTkg0QbMn3s3IFq4GIQ31EJYyYs6hxpPgqjSNXRLqKisEgJ6l3gSUSrx4jDqbp08uH5HzgzN99wJ8/k5bbHiDaofg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "75",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260527",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "ZQLO+FAVEPjy4X8ViAVG",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

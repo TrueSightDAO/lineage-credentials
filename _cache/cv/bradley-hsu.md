@@ -1,6 +1,6 @@
 # Bradley Hsu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-26T20:07:09Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-27T03:36:11Z*
 
 Bradley Hsu made one contribution to the TrueSight DAO on June 13, 2022, in the Build Game - Strategy category, where he independently reiterated a signal associated with a still-pending decision.
 

@@ -6,13 +6,50 @@
   "slug": "pk-o-VOrzMyYhXs",
   "captured_at": "2026-05-18T20:41:22.576Z",
   "source_url": "http://localhost:8080/practice.html",
-  "payload": null,
-  "raw_payload_json": "",
+  "payload": {
+    "theme": "Defense",
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "cocorinha_negativa",
+        "name_pt": "Cocorinha negativa",
+        "duration_seconds": 480
+      },
+      {
+        "id": "defesa",
+        "name_pt": "Defesa",
+        "duration_seconds": 360
+      },
+      {
+        "id": "esquiva_lateral",
+        "name_pt": "Esquiva lateral",
+        "duration_seconds": 420
+      },
+      {
+        "id": "esquiva_para_tras",
+        "name_pt": "Esquiva para tr?s",
+        "duration_seconds": 420
+      },
+      {
+        "id": "queda_de_quatro",
+        "name_pt": "Queda de quatro",
+        "duration_seconds": 480
+      }
+    ],
+    "music_played": [],
+    "total_practice_minutes": 42
+  },
+  "raw_payload_json": "{\r\n  \"theme\": \"Defense\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"cocorinha_negativa\",\r\n      \"name_pt\": \"Cocorinha negativa\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"defesa\",\r\n      \"name_pt\": \"Defesa\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"esquiva_lateral\",\r\n      \"name_pt\": \"Esquiva lateral\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"esquiva_para_tras\",\r\n      \"name_pt\": \"Esquiva para tr?s\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"queda_de_quatro\",\r\n      \"name_pt\": \"Queda de quatro\",\r\n      \"duration_seconds\": 480\r\n    }\r\n  ],\r\n  \"music_played\": [],\r\n  \"total_practice_minutes\": 42\r\n}",
   "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk3F3H+5sAFC9BJKUsU8uWmqblYNAXvR2jtJPGi2ihgIA3xwflOA3LbkxbO30toDnZ2hstgt1HxldfGd3Gy455E7/BIzvUazWEhUKHW+8+RA9eFxdk2iInJd8Q0VSGePdHL4M9QuGCLz0V/ZSAb+pAPTU0P05yWz6uXWfeNgqp9Q6bSOrps0tumxDk4EbipNN1GgH4m+Yktk4ZupgzeohV5QRIsTM+dE6ga+cJUsN+djSRFrBk3L+pRpsTwLnIlNpuC6jK9O4ha9uKcetrnzenejHUgsPdHENR174fX7Hk98f1f/02GEPEWUfuq+a6VE8ss2Fgh+VOmYPM6HcUTylQwIDAQAB",
   "request_transaction_id": "ANK8891+2IyCVxL9WwniIbRXF6LSFNK6SNPctRer5xLVhqOegF2vNB1o/zeg/94RoFE0LnyHjxhdwUb4Ypexn+JUYuvk0QYRYem/m+EkvntegM3AhevDZ215DW9RAZM7t9QqUzpQsLUiI6zYQxgqMmeTtILmwadsFEu3KFBt6u9ildkwik6enxzxq97hPPUeTKkhAT/W7XrSmVePbsGyk396E6PA1xZu4eYYijVzB6FmntZ/JqaIlfSRTTwWLmj1rVwQZ8duIC9y3nvLndf0a7I7JTOfJXDeqmAaejxw+aa6wdK8uR+5iEEEovmU+OzHdN0BIijX3Nt2rmYTTohpBg==",
   "intake": {
     "telegram_update_id": "Edgar_20260518204124_201",
     "telegram_message_id": "Edgar_20260518204124_202",
-    "processed_at": "2026-05-18T20:50:02.234Z"
+    "processed_at": "2026-05-28T19:27:37.175Z",
+    "reprocessed": true
   }
 }

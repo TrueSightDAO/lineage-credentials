@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-05-28T09:58:49Z",
+  "generated_at": "2026-05-28T15:49:10Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -87707,6 +87707,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Following up with Omega Services Isis regarding the packing and the pallets\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_1932.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260528133326_gary_teh_img_1932.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0HmX4PI2iDLqsAzKl752MEIMPwCteu1ozj7PFM1LkeRM8t55ceA6nMR/cizYZ+JYApNIYZ6hg6UKukCAjvM8MHdclfT5dCP5cy/bO/lsH70YLVPqMmA0VmAr0LEGz+mGSoJ5huClHqI20+oYFv0WRmRsDxU+qDsgQfBQz6xnLLYRkJZ6oClLREOamWmsN/d1Nhm6ijkJ91icTM81pSKU8Y0zpnhLbAUSr8D+F9pvgRaOw71S3nGBN5oAAv2/KCj1OtXiNgzX6ttP4FgPor62i1PW4mdn4xM1yHMlZ+TKzefJE/qGBCSTOg6KIwlT+FawINluD8Xo7koTumFYzD8FWQIDAQAB\r\n\r\nRequest Transaction ID: mBPAjq5NCSPdObqYZroTI+EdwKjOsq/eHpmjKyrFraF9dRR7ttaww1EOP3W9bBU5Wrniz9OfJLTpuSNQsAPKlJ0Abl8/NXxiTu8h8dQq2S9GY81aLjLqDQ8V6/RWwxxNFuJ6de4fNiKhVAbFbZJDmlHzKLlF5lUycXOvuvBJ28tx7VCVcYrfX0hJz8LNNOcpG2K1HgNpU5bxOZVcR48NYQ584dbKH8Y9+Daa0/1Xexdde6YIPTc7xCE/Lqa9j5NHaJ40dMzRZnKb1cFqiGkvgm2RhEmJhh7uxIkRSePxEuHaH8rhscxC+U8RR0+QgWEHU4RKR9Zcz//rM9DV9OJJbw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260528",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "69vuwO0YRG08BGY9C49J",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

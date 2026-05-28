@@ -6,13 +6,55 @@
   "slug": "pk-o-VOrzMyYhXs",
   "captured_at": "2026-05-18T20:32:15.478Z",
   "source_url": "http://localhost:8080/practice.html",
-  "payload": null,
-  "raw_payload_json": "",
+  "payload": {
+    "theme": "Defense",
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "cocorinha_negativa",
+        "name_pt": "Cocorinha negativa",
+        "duration_seconds": 480
+      },
+      {
+        "id": "defesa",
+        "name_pt": "Defesa",
+        "duration_seconds": 360
+      },
+      {
+        "id": "esquiva_lateral",
+        "name_pt": "Esquiva lateral",
+        "duration_seconds": 420
+      },
+      {
+        "id": "esquiva_para_tras",
+        "name_pt": "Esquiva para tr?s",
+        "duration_seconds": 420
+      },
+      {
+        "id": "queda_de_quatro",
+        "name_pt": "Queda de quatro",
+        "duration_seconds": 480
+      }
+    ],
+    "music_played": [
+      "007",
+      "008",
+      "003",
+      "002"
+    ],
+    "total_practice_minutes": 42
+  },
+  "raw_payload_json": "{\r\n  \"theme\": \"Defense\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"cocorinha_negativa\",\r\n      \"name_pt\": \"Cocorinha negativa\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"defesa\",\r\n      \"name_pt\": \"Defesa\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"esquiva_lateral\",\r\n      \"name_pt\": \"Esquiva lateral\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"esquiva_para_tras\",\r\n      \"name_pt\": \"Esquiva para tr?s\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"queda_de_quatro\",\r\n      \"name_pt\": \"Queda de quatro\",\r\n      \"duration_seconds\": 480\r\n    }\r\n  ],\r\n  \"music_played\": [\r\n    \"007\",\r\n    \"008\",\r\n    \"003\",\r\n    \"002\"\r\n  ],\r\n  \"total_practice_minutes\": 42\r\n}",
   "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk3F3H+5sAFC9BJKUsU8uWmqblYNAXvR2jtJPGi2ihgIA3xwflOA3LbkxbO30toDnZ2hstgt1HxldfGd3Gy455E7/BIzvUazWEhUKHW+8+RA9eFxdk2iInJd8Q0VSGePdHL4M9QuGCLz0V/ZSAb+pAPTU0P05yWz6uXWfeNgqp9Q6bSOrps0tumxDk4EbipNN1GgH4m+Yktk4ZupgzeohV5QRIsTM+dE6ga+cJUsN+djSRFrBk3L+pRpsTwLnIlNpuC6jK9O4ha9uKcetrnzenejHUgsPdHENR174fX7Hk98f1f/02GEPEWUfuq+a6VE8ss2Fgh+VOmYPM6HcUTylQwIDAQAB",
   "request_transaction_id": "Svf6iO1mvUkLSNuYoPIz7dw/8lTRXAfVvbf4vYym5IMiHN4P1qhKoCQxDMqwkV5pRoccvD5Q5ZQrc9eGWflb4sYl/VnoLWy8+B1Fkgpb7TkSwe/5AMouJvQow+PDwTS/XX4n89qnKW3x3r44i3oSMNNUPeUQnbN6J66CERJvK5aPRp8ZyIPZ4Lj73VSOW0xt09gfPEVoHwELkrqSLQOXWSKXaO7/fC7fEX09wkMXMRmXii1tChfFdO/F/kTM4n/Q8YqOelkvdPGH7nN2g+3UZhshwsqdjS4QGRrWbWgA4vIQYAoDxo+PjJv+Vrue/DrVsEKDFJxHXojRott0AgnR8Q==",
   "intake": {
     "telegram_update_id": "Edgar_20260518203216_199",
     "telegram_message_id": "Edgar_20260518203216_200",
-    "processed_at": "2026-05-18T20:40:02.558Z"
+    "processed_at": "2026-05-28T19:27:35.782Z",
+    "reprocessed": true
   }
 }

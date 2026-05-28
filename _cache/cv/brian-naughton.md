@@ -1,6 +1,6 @@
 # Brian Naughton
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-28T02:55:21Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-28T09:58:49Z*
 
 Brian Naughton participated in one contribution to the DAO in October 2020. He engaged in voting on an online poll for the Cypher Defense project in the Build Game - Strategy category.
 

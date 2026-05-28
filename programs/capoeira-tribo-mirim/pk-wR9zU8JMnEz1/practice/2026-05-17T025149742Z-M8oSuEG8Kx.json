@@ -6,13 +6,45 @@
   "slug": "pk-wR9zU8JMnEz1",
   "captured_at": "2026-05-17T02:51:49.742Z",
   "source_url": "https://capoeira.agroverse.shop/practice.html",
-  "payload": null,
-  "raw_payload_json": "",
+  "payload": {
+    "theme": "Attacks",
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "martelo",
+        "name_pt": "Martelo",
+        "duration_seconds": 480
+      },
+      {
+        "id": "meia_lua_de_frente",
+        "name_pt": "Meia lua de frente",
+        "duration_seconds": 480
+      },
+      {
+        "id": "ponteira",
+        "name_pt": "Ponteira",
+        "duration_seconds": 420
+      },
+      {
+        "id": "queixada_de_frente",
+        "name_pt": "Queixada de frente",
+        "duration_seconds": 480
+      }
+    ],
+    "music_played": [],
+    "total_practice_minutes": 37
+  },
+  "raw_payload_json": "{\r\n  \"theme\": \"Attacks\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"martelo\",\r\n      \"name_pt\": \"Martelo\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"meia_lua_de_frente\",\r\n      \"name_pt\": \"Meia lua de frente\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"ponteira\",\r\n      \"name_pt\": \"Ponteira\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"queixada_de_frente\",\r\n      \"name_pt\": \"Queixada de frente\",\r\n      \"duration_seconds\": 480\r\n    }\r\n  ],\r\n  \"music_played\": [],\r\n  \"total_practice_minutes\": 37\r\n}",
   "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
   "request_transaction_id": "M8oSuEG8K/xbyoUnvqDoY3Rifrqj2tccnxcXpgLIyYtsOx4oCBGCNDTQVLDob+rzSFRKZ49fNMmyfeXVqRRgSTnwv/+FsrtsapAecpmYu3Mnd0i5GubP2hxHQsbLudcamHT3NG8PUmOjW1w9DlmKe4/PSNu6SV7gAFqaEM90gDPchXY7gFDOUIM5/H/UxjYNB7ZuRpvM8uIj5YfGAWtXh9yJZdqlL/sgvcjJ6OaCVoFtIAJ5JtfAqMdZB9pIZaMD9ShdIzBQrtNaRRw6qW37fPz7QQvRj8OBkQVzxSfd/975On6HcAuGthF7AqlxpBn4csCO0kby66SOg2lidXnRvw==",
   "intake": {
     "telegram_update_id": "Edgar_20260517025150_171",
     "telegram_message_id": "Edgar_20260517025150_172",
-    "processed_at": "2026-05-17T03:00:06.246Z"
+    "processed_at": "2026-05-28T19:27:30.990Z",
+    "reprocessed": true
   }
 }

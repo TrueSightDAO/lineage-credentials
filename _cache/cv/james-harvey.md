@@ -1,6 +1,6 @@
 # James Harvey
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-28T15:49:10Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-28T19:28:19Z*
 
 James Harvey made one contribution to the TrueSight DAO on December 18, 2021.
 

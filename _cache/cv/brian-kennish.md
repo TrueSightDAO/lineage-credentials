@@ -1,6 +1,6 @@
 # Brian Kennish
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-28T15:49:10Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-28T19:28:19Z*
 
 Brian Kennish made two contributions to the TrueSight DAO on a single day in December 2021.
 

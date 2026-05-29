@@ -1,6 +1,6 @@
 # Ryan Feathermen
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-28T20:20:06Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-29T02:59:11Z*
 
 Ryan Feathermen made one contribution to the TrueSight DAO in August 2019.
 

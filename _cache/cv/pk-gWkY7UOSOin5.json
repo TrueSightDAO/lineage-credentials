@@ -1,0 +1,52 @@
+{
+  "slug": "pk-gWkY7UOSOin5",
+  "display_name": "pk-gWkY7UOSOin5",
+  "pk_hash": "pk-gWkY7UOSOin5",
+  "identity": {},
+  "generated_at": "2026-05-30T14:20:58Z",
+  "has_elective_records": true,
+  "has_dao_contributions": false,
+  "programs": {
+    "capoeira-tribo-mirim": {
+      "display_name": "Capoeira — Tribo Bahia Mirim",
+      "lineage_root": "Bico Duro",
+      "source_pages": [
+        "https://capoeira.agroverse.shop/practice.html"
+      ],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyja9OujZIqpF6AUqwyqd0ODCtA3So9kvvcvH0y//CvFEVez1Nni3HAnerLjS6dS3vSUnz9T8oRDVwa8lkPEPO00ub2cQBAo9Tps6CkP93fNokkjzKNLozpBOekx5DgS4M7iQH8gxL0Ob7m7oZdqGMtOFjEJB+bGv06VT2T6O1+gaJlplpKtuqRYKFIV0bb1amaU7ZSxfTxPtKCmh7aag4G0D59s8PirXzgKryR3SzdzJu31ycP1gI1JTkCSjlCLhjXQitM1UdaW1Fv6qvHiT1YLUYNQ7KfkK5ya7Ebb/rQDdi3lHYMXamQRRC17SKJdGpEke6e8+Dlti/SOU+U/0IwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-gWkY7UOSOin5",
+          "captured_at": "2026-05-30T14:15:48.252Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": null,
+          "raw_payload_json": "",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyja9OujZIqpF6AUqwyqd0ODCtA3So9kvvcvH0y//CvFEVez1Nni3HAnerLjS6dS3vSUnz9T8oRDVwa8lkPEPO00ub2cQBAo9Tps6CkP93fNokkjzKNLozpBOekx5DgS4M7iQH8gxL0Ob7m7oZdqGMtOFjEJB+bGv06VT2T6O1+gaJlplpKtuqRYKFIV0bb1amaU7ZSxfTxPtKCmh7aag4G0D59s8PirXzgKryR3SzdzJu31ycP1gI1JTkCSjlCLhjXQitM1UdaW1Fv6qvHiT1YLUYNQ7KfkK5ya7Ebb/rQDdi3lHYMXamQRRC17SKJdGpEke6e8+Dlti/SOU+U/0IwIDAQAB",
+          "request_transaction_id": "mQAUBA3YLlvSHrEHR9NAGgIkYl8/Rruf+D7wc8AbfYVKGGlbC4P7905mZzAmESLl/CQpeggDxcQx6zaoqKv8PNChy6cLaUF3D2Q93xRui/FZKY2hxZUKVt7xa0GDSQGdexG2lZ2or0rACqlT8N55xHRE4QuMou7y77ZcaTGBb2/UfnIyTqSOoDOJ3n1JrN1x7CPkjrz9C/0EA/syqfYLIX6aVbYHKAa76otZSKAIJd47ZTPMOoIevAR3w+Y0c2YOpuhASwklovE4a3ywmkIXp8ku32YelZDbUxM9hH/LTcmixC3jbE24+lkqkKiAEg3GbctS+9M/nGdaMi8RLIMmEg==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260530141549_071",
+            "telegram_message_id": "Edgar_20260530141549_072",
+            "processed_at": "2026-05-30T14:20:02.603Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-gWkY7UOSOin5/practice/2026-05-30T141548252Z-mQAUBA3YLl.json"
+        }
+      ]
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-gWkY7UOSOin5.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-gWkY7UOSOin5"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

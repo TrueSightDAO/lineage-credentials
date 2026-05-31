@@ -1,0 +1,50 @@
+{
+  "slug": "saima-khalid",
+  "display_name": "Saima Khalid",
+  "pk_hash": "pk-DXDofYc0ESp7",
+  "identity": {
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzWmD2uQ5Zv3Sf6U3KFfbSNv5X66SFtVH54AbQwKwgdnVpBAu4UFVhytWbSLklvF9QfEF8ZMgfYWyUGCQMgdtqjVEoWCAm7KRW+lU9+veEMqRd/DFEpEwvP3OhRYX5ENNBP7jFw+mk3CspyL+qEoLxqxPbEBrundKG94TTVBuUITBzjtSzJmY9wTVUYClfXxzVa+mBIo079g7D8LhwoDZAxzNm6AyBLAKwy7mlVc+D+wdGkW1b1EKtkIuyHN3dt5sb3hz9QM4T3UfNN0IXm2O2TiPLv2thfSUtv+sifOLsXowItg1DHQmXzvITyyuOCpwtwllga+HqGgcouprczU+JQIDAQAB",
+    "names": [
+      "Saima Khalid"
+    ],
+    "emails": [],
+    "linked_at": "2026-05-31T08:22:28.266Z",
+    "metadata": {
+      "program_year": "2025-2026",
+      "attestor_name": "Shereen Abdullah",
+      "attestor_email": "shereenabdullah9@gmail.com",
+      "school": "Narowal Public School",
+      "learner_type": "teacher",
+      "graduation_date": "2026-04-15T20:00:00.000Z"
+    },
+    "alternate_public_keys": [],
+    "former_pk_hashes": [],
+    "public_listable": true
+  },
+  "generated_at": "2026-05-31T08:24:47Z",
+  "has_elective_records": false,
+  "has_dao_contributions": false,
+  "programs": {
+    "butterfly-effect": {
+      "display_name": "Butterfly Effect",
+      "lineage_root": "Butterfly Effect",
+      "source_pages": [
+        "https://era-professionals.com/butterfly-effect/"
+      ],
+      "practice_count": 0,
+      "total_practice_minutes": 0,
+      "recent_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/saima-khalid.qr.png",
+    "target_url": "https://truesight.me/credentials/#saima-khalid"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

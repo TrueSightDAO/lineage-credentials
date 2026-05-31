@@ -1,0 +1,50 @@
+{
+  "slug": "m-taha-talha",
+  "display_name": "M. Taha Talha",
+  "pk_hash": "pk-NTqCXKtd7yXC",
+  "identity": {
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8wr1SaNY2yJyHzZAejbK1VqUGbJFR8CVJ3J/rjcJuwiD+C6pU6vpV5GHSlgEG369ZCD4xRTKfNyvF3b8Ap/mEis0sfNUuGrTOtcKAMzT4N1VJQhg1fFALuEQAX6c1pJTJ+7CUeCbUlmRd59LRv+sIZT9qRrU0YV2pqpD+Z+LQdvZSUN4kWIHTA/MQIr50Yyaja79VYMnqMmiG4ibD39NGu+FayaQvz9tAjkMl+2zJ1CNG3Kmu/JtIM28nwsaMjuMzthEjdv5NzcUQ7PCduCGE0BmFC+ZGenq9J5aA+kVwmnIr/sWMgdYk/uWpzWJpApwA+t6a9SWFbIkdr9jigiEmwIDAQAB",
+    "names": [
+      "M. Taha Talha"
+    ],
+    "emails": [],
+    "linked_at": "2026-05-31T08:21:50.074Z",
+    "metadata": {
+      "program_year": "2025-2026",
+      "attestor_name": "Shereen Abdullah",
+      "attestor_email": "shereenabdullah9@gmail.com",
+      "school": "Narowal Public School",
+      "learner_type": "student",
+      "graduation_date": "2026-04-15T20:00:00.000Z"
+    },
+    "alternate_public_keys": [],
+    "former_pk_hashes": [],
+    "public_listable": true
+  },
+  "generated_at": "2026-05-31T08:24:47Z",
+  "has_elective_records": false,
+  "has_dao_contributions": false,
+  "programs": {
+    "butterfly-effect": {
+      "display_name": "Butterfly Effect",
+      "lineage_root": "Butterfly Effect",
+      "source_pages": [
+        "https://era-professionals.com/butterfly-effect/"
+      ],
+      "practice_count": 0,
+      "total_practice_minutes": 0,
+      "recent_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/m-taha-talha.qr.png",
+    "target_url": "https://truesight.me/credentials/#m-taha-talha"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

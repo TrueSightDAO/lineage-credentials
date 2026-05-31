@@ -1,0 +1,50 @@
+{
+  "slug": "samiya-saleem",
+  "display_name": "Samiya Saleem",
+  "pk_hash": "pk-OCVdaDBO8PTQ",
+  "identity": {
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4T0Z493hq2Et2m4hgVq57sI2WTIK/NN9hfmt240wgDqbfe7ABY85Doj0I/rRRxEAe9wg7Gu8BhFh5iF2LOEGDYfVLqu+jj9LCNy+ZhV7E/aCubBNyQ4vdQ4U4G/UoBh4Wlfd5vqManyi9i2190u5ioR1ItZ0zCc8S9zdBNkpmm6EGGtODIzl+115RtJDdDisaSVF08WCy1yQ/yw+wq6Vd5AyO2lzkl3/kuzvSOKqVLnsP9FTVG9mcGWbpXGxLUKJWBFLXHLtgEZ9LWvwGesaogrFYaLSXUUE1SN6pZTrKNsh//SOeTRPEiRDACu5yMDuQMSK0Xsv6E0wAXK4bDQ8PwIDAQAB",
+    "names": [
+      "Samiya Saleem"
+    ],
+    "emails": [],
+    "linked_at": "2026-05-22T23:22:06.268Z",
+    "metadata": {
+      "program_year": "2025-2026",
+      "attestor_name": "Gary Teh",
+      "attestor_email": "garyjob@gmail.com",
+      "school": "CMS Karachi",
+      "learner_type": "student",
+      "graduation_date": "2024-08-29T20:00:00.000Z"
+    },
+    "alternate_public_keys": [],
+    "former_pk_hashes": [],
+    "public_listable": true
+  },
+  "generated_at": "2026-05-31T07:21:13Z",
+  "has_elective_records": false,
+  "has_dao_contributions": false,
+  "programs": {
+    "butterfly-effect": {
+      "display_name": "Butterfly Effect",
+      "lineage_root": "Butterfly Effect",
+      "source_pages": [
+        "https://era-professionals.com/butterfly-effect/"
+      ],
+      "practice_count": 0,
+      "total_practice_minutes": 0,
+      "recent_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/samiya-saleem.qr.png",
+    "target_url": "https://truesight.me/credentials/#samiya-saleem"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

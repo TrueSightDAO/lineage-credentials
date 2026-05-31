@@ -1,6 +1,11 @@
 # Aymen Manzoor
 
-*TrueSight DAO Credential Profile · generated 2026-05-31T08:24:47Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-31T08:31:35Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/aymen-manzoor.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/aymen-manzoor.json)
 
 ## Butterfly Effect
 

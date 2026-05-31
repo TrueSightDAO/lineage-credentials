@@ -1,6 +1,6 @@
 # Samuel Lambert
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-31T08:42:59Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-31T11:51:04Z*
 
 Samuel Lambert made one contribution to the TrueSight DAO on September 17, 2021.
 

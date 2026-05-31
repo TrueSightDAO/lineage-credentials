@@ -1,18 +1,18 @@
 {
   "slug": "samiya-saleem",
   "display_name": "Samiya Saleem",
-  "pk_hash": "pk-DDRZ4LAfjYqp",
+  "pk_hash": "pk-OCVdaDBO8PTQ",
   "identity": {
-    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnlWyzmHNRZhenoYZ2rEQkwDGEqdxfbnxNberTZzPC9JfRaewLVkX3a8SxIvRhZ2URJQ3RtYVgXNivg3ybLQW6wQ94NVHNp8/wv7WP7I/z77zJ3uxFl9X2V3XKkS4/ZBm5UVMjWxikOQSviLhi+Vu+RYO08yjJscPhYUzF5a0DuWpKpQXYJx1L4JImwCT1NMEOI45+HHl00E1QCmxkdiU7E48VQLcxwehwbzBeuQkex1IEo6tdTg441KMwjLSEAhHNl803aoDRmnElctW+g9wumsfQOZ4m70dAvG+z3xd5GRgJzKzL+zr4vx8hZuCsgRuA5NNNpcYZG4XmUpF/AiOWwIDAQAB",
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4T0Z493hq2Et2m4hgVq57sI2WTIK/NN9hfmt240wgDqbfe7ABY85Doj0I/rRRxEAe9wg7Gu8BhFh5iF2LOEGDYfVLqu+jj9LCNy+ZhV7E/aCubBNyQ4vdQ4U4G/UoBh4Wlfd5vqManyi9i2190u5ioR1ItZ0zCc8S9zdBNkpmm6EGGtODIzl+115RtJDdDisaSVF08WCy1yQ/yw+wq6Vd5AyO2lzkl3/kuzvSOKqVLnsP9FTVG9mcGWbpXGxLUKJWBFLXHLtgEZ9LWvwGesaogrFYaLSXUUE1SN6pZTrKNsh//SOeTRPEiRDACu5yMDuQMSK0Xsv6E0wAXK4bDQ8PwIDAQAB",
     "names": [
       "Samiya Saleem"
     ],
     "emails": [],
-    "linked_at": "2026-05-31T07:20:22.435Z",
+    "linked_at": "2026-05-22T23:22:06.268Z",
     "metadata": {
       "program_year": "2025-2026",
-      "attestor_name": "Shereen Abdullah",
-      "attestor_email": "shereenabdullah9@gmail.com",
+      "attestor_name": "Gary Teh",
+      "attestor_email": "garyjob@gmail.com",
       "school": "CMS Karachi",
       "learner_type": "student",
       "graduation_date": "2024-08-29T20:00:00.000Z"
@@ -21,9 +21,9 @@
     "former_pk_hashes": [],
     "public_listable": true
   },
-  "generated_at": "2026-05-31T07:23:37Z",
+  "generated_at": "2026-05-31T07:25:54Z",
   "has_elective_records": false,
-  "has_dao_contributions": false,
+  "has_dao_contributions": true,
   "programs": {
     "butterfly-effect": {
       "display_name": "Butterfly Effect",
@@ -36,6 +36,13 @@
       "recent_events": []
     }
   },
+  "dao_contributions": {
+    "total_contributions": 0,
+    "total_tdg_provisioned": 0,
+    "date_range": {},
+    "source": {}
+  },
+  "governance": {},
   "qr_code": {
     "path": "_cache/cv/samiya-saleem.qr.png",
     "target_url": "https://truesight.me/credentials/#samiya-saleem"

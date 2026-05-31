@@ -1,6 +1,11 @@
 # Samiya Saleem
 
-*TrueSight DAO Credential Profile · generated 2026-05-31T07:23:37Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-31T07:25:54Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/samiya-saleem.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/samiya-saleem.json)
 
 ## Butterfly Effect
 

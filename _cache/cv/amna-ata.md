@@ -1,6 +1,11 @@
 # Amna Ata
 
-*TrueSight DAO Credential Profile · generated 2026-05-31T08:34:23Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-31T08:42:59Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/amna-ata.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/amna-ata.json)
 
 ## Butterfly Effect
 

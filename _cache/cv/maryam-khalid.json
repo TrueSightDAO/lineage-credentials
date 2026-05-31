@@ -1,0 +1,50 @@
+{
+  "slug": "maryam-khalid",
+  "display_name": "Maryam Khalid",
+  "pk_hash": "pk-uIogqc4C5cZ-",
+  "identity": {
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5ayiTTKXssyx6FlD4ksgPP2HXGXa2L4p2i0lN/ye1WiwiZp9fcThp8lr5L/l/OYNYLngK0RAhz2JjYQjtY8cOr+9w4QRpIr98PQ0XM3CSFkanpAC/p4Lqpz62Pe2QaWha2PhIxmgkDrcJQ0PYm6W0R82dUX9hf8Og0Szu0q2s+on1wM4IKC5YgG382zIKD1LBDupK/jMCG2IN7IYBsLIKS3R92Nc4YRh4qgCLgH/xoOF3MNqTIarVYVeqlk+2hogm9v9XR2iAAnhB+lQu6YCRVSm+jOrI6I0KNe91Mg1zVBlY6WyRpbI696RccdtWAyFLG8UqEuQq80Ek6txhAd5XwIDAQAB",
+    "names": [
+      "Maryam Khalid"
+    ],
+    "emails": [],
+    "linked_at": "2026-05-31T08:14:20.626Z",
+    "metadata": {
+      "program_year": "2025-2026",
+      "attestor_name": "Shereen Abdullah",
+      "attestor_email": "shereenabdullah9@gmail.com",
+      "school": "IMSG Islamabad",
+      "learner_type": "student",
+      "graduation_date": "2025-02-11T20:00:00.000Z"
+    },
+    "alternate_public_keys": [],
+    "former_pk_hashes": [],
+    "public_listable": true
+  },
+  "generated_at": "2026-05-31T08:17:05Z",
+  "has_elective_records": false,
+  "has_dao_contributions": false,
+  "programs": {
+    "butterfly-effect": {
+      "display_name": "Butterfly Effect",
+      "lineage_root": "Butterfly Effect",
+      "source_pages": [
+        "https://era-professionals.com/butterfly-effect/"
+      ],
+      "practice_count": 0,
+      "total_practice_minutes": 0,
+      "recent_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/maryam-khalid.qr.png",
+    "target_url": "https://truesight.me/credentials/#maryam-khalid"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

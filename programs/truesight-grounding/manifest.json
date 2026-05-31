@@ -1,0 +1,17 @@
+{
+  "program": "truesight-grounding",
+  "display_name": "TrueSight Grounding — Morning Oracle",
+  "lineage_root": null,
+  "lineage_root_public_key": null,
+  "authorized_attestors": [],
+  "practice_types": {
+    "oracle-consultation": {
+      "payload_schema": "schemas/practice/oracle-consultation.json"
+    }
+  },
+  "attestation_types": {},
+  "source_pages": [
+    "https://oracle.truesight.me/draw.html"
+  ],
+  "notes": "Daily mindfulness grounding exercise. Each session is a [PRACTICE EVENT] signed by the practitioner's key. No attestation chain needed — this is a solo practice log."
+}

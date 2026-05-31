@@ -1,0 +1,50 @@
+{
+  "slug": "dua-zahra",
+  "display_name": "Dua Zahra",
+  "pk_hash": "pk-srdigstk7W5e",
+  "identity": {
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8uAmSiM/de6LnJ2BC5Hk0ILY3tgNEOsKLeL29wa8iiMkP6o2AZy7kjl2qhtAtL/jqqV4M80HMbckEvqHMeVlzYgFmWzVxJLYswtsnTG8oXfU5xmDSKmd3sdUmMZwE7EG2sMbDhAR3axgS1w/eatvtz93htx0daq3jacbyVjR+Y8CGttfTBX9KIqYp20dL8D/m/qKp5VSCY8mtMXvYHSEFKAOrnC5t/br7vwJj/akmIVDbE356mZ2IIyZh9JEbQ/UMlZ1SCF/vdrf+Qvx1TjLFDcD9BvdtKMtJxrGU2AkF+ZT5aMLHBBs5aCAFcUX69IZSs/SXgnBGM3MNtFiAJEf4wIDAQAB",
+    "names": [
+      "Dua Zahra"
+    ],
+    "emails": [],
+    "linked_at": "2026-05-31T08:19:43.604Z",
+    "metadata": {
+      "program_year": "2025-2026",
+      "attestor_name": "Shereen Abdullah",
+      "attestor_email": "shereenabdullah9@gmail.com",
+      "school": "Narowal Public School",
+      "learner_type": "student",
+      "graduation_date": "2026-04-15T20:00:00.000Z"
+    },
+    "alternate_public_keys": [],
+    "former_pk_hashes": [],
+    "public_listable": true
+  },
+  "generated_at": "2026-05-31T08:22:23Z",
+  "has_elective_records": false,
+  "has_dao_contributions": false,
+  "programs": {
+    "butterfly-effect": {
+      "display_name": "Butterfly Effect",
+      "lineage_root": "Butterfly Effect",
+      "source_pages": [
+        "https://era-professionals.com/butterfly-effect/"
+      ],
+      "practice_count": 0,
+      "total_practice_minutes": 0,
+      "recent_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/dua-zahra.qr.png",
+    "target_url": "https://truesight.me/credentials/#dua-zahra"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-31T08:18:42Z",
-  "count": 413,
+  "generated_at": "2026-05-31T08:23:48Z",
+  "count": 438,
   "members": [
+    {
+      "slug": "abiha-ahmad",
+      "display_name": "Abiha Ahmad",
+      "pk_hash": "pk-ljT4L86TIpOJ",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
     {
       "slug": "adi",
       "display_name": "Adi",
@@ -14,7 +30,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8750.94,
       "total_contributions": 43,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "adrien",
@@ -28,7 +44,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 150.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "aga-marecka",
@@ -42,7 +58,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 13570.679999999998,
       "total_contributions": 60,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "agl15",
@@ -56,7 +72,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1127.12,
       "total_contributions": 14,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ahbinav",
@@ -70,7 +86,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 291.65,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ahmed",
@@ -84,7 +100,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "aihui-ong",
@@ -98,7 +114,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "aiza-nasir",
+      "display_name": "Aiza Nasir",
+      "pk_hash": "pk-uOg88D1IsaH_",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "aleksa-mil",
@@ -112,7 +144,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 44820.0,
       "total_contributions": 35,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "alesha-bajwa",
+      "display_name": "Alesha Bajwa",
+      "pk_hash": "pk-yJH88lmJASwT",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "alessandro-mele",
@@ -126,7 +174,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 956.6600000000001,
       "total_contributions": 13,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "alex",
@@ -140,7 +188,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1449.9900000000002,
       "total_contributions": 13,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "alex-circuit-labs",
@@ -154,7 +202,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "alex-costa",
@@ -168,7 +216,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 24.990000000000002,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "alexadoglio",
@@ -182,7 +230,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "alexander-grau",
@@ -196,7 +244,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "alexandre-fernandes",
@@ -210,7 +258,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 400.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ali-ahmed",
@@ -222,11 +270,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "allison-d-laureano",
@@ -240,7 +288,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 318.6700000000001,
       "total_contributions": 9,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "allison-liu",
@@ -254,7 +302,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2600.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ambarish-malpani",
@@ -268,7 +316,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7502.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "anabel",
@@ -282,7 +330,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "anaya-haider",
+      "display_name": "Anaya Haider",
+      "pk_hash": "pk-M2UwHKEfzGiL",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "andrea-catalina-falcon-rios-de-pabst",
@@ -296,7 +360,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1398.33,
       "total_contributions": 17,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "andreas-quandt",
@@ -310,7 +374,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 283.33,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "andrew-shroomed",
@@ -324,7 +388,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "andrey-nayman",
@@ -338,7 +402,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1650.0,
       "total_contributions": 18,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "andy-choi",
@@ -352,7 +416,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 66.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "angela-hamit",
@@ -366,7 +430,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "angela-tseng",
@@ -380,7 +444,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1116.6499999999999,
       "total_contributions": 11,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "angeline-tan",
@@ -394,7 +458,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7358.0,
       "total_contributions": 12,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "anika-giftge",
@@ -408,7 +472,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 37560.0,
       "total_contributions": 70,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "anna-love",
@@ -422,7 +486,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "anna-nguyenova",
@@ -436,7 +500,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "anne-charboneau",
@@ -450,7 +514,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8410.0,
       "total_contributions": 18,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "annelaure-vuillermoz",
@@ -464,7 +528,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "annia-tsiupa",
@@ -478,7 +542,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8808.33,
       "total_contributions": 39,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "annie-teo",
@@ -492,7 +556,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "anupa-dasgupta",
@@ -506,7 +570,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 19976.49,
       "total_contributions": 133,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "anupa-diya",
@@ -520,7 +584,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 123.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "apoorva-abhinav-colleague",
@@ -534,7 +598,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 266.65999999999997,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "aqsa-arshad",
+      "display_name": "Aqsa Arshad",
+      "pk_hash": "pk-IFHCC5IEmMgM",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "aravind-gandavadi",
@@ -548,7 +628,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "arpt",
@@ -562,7 +642,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 12.5,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "arti",
@@ -576,7 +656,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 4510.75,
       "total_contributions": 39,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "artiom-baloian",
@@ -590,7 +670,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "assadullah-shabir",
@@ -602,11 +682,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "atheleah-nous",
@@ -620,7 +700,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 675.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ayesha-tabassum",
@@ -636,7 +716,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "aymen-manzoor",
+      "display_name": "Aymen Manzoor",
+      "pk_hash": "pk-TiqZUXI2lObz",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "baki71166714",
@@ -650,7 +746,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bala-vishal",
@@ -664,7 +760,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "barbara-sadini",
@@ -678,7 +774,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3034.9399999999996,
       "total_contributions": 19,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bernard-leong",
@@ -692,7 +788,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2155.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "betty",
@@ -706,7 +802,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 12009.0,
       "total_contributions": 55,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bhavana",
@@ -720,7 +816,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 425.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bilal",
@@ -736,7 +832,7 @@
       "has_elective_records": true,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "biljana-sanev",
@@ -750,7 +846,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "billy-estoque",
@@ -764,7 +860,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bing",
@@ -778,7 +874,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8395.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "bisma-ansar",
+      "display_name": "Bisma Ansar",
+      "pk_hash": "pk-lZ4NBNEgGAfK",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "black-izeek",
@@ -792,7 +904,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5.684341886080802e-14,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "blake",
@@ -806,7 +918,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33.34,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bob-clark",
@@ -820,7 +932,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "boris-giftge",
@@ -834,7 +946,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 850.0,
       "total_contributions": 6,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bradley-hsu",
@@ -848,7 +960,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "brian-kennish",
@@ -862,7 +974,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7500.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "brian-naughton",
@@ -876,7 +988,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "brian-vedao",
@@ -890,7 +1002,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "brian-wee",
@@ -904,7 +1016,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "bruno-bethonico",
@@ -918,7 +1030,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 716.6600000000001,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "byron-walker",
@@ -932,7 +1044,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "carl-ftizgibbon",
@@ -946,7 +1058,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1557.0,
       "total_contributions": 22,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "carlos",
@@ -960,7 +1072,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "casey-oppenheim",
@@ -974,7 +1086,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "catherine-he-limin",
@@ -988,7 +1100,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "cepotx",
@@ -1002,7 +1114,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58.33,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "chen-jianwen",
@@ -1016,7 +1128,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 501.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "chloe-gs",
@@ -1030,7 +1142,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58.33,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "chris-arriola",
@@ -1044,7 +1156,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "chris-ye",
@@ -1058,7 +1170,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "christina-yu",
@@ -1072,7 +1184,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "cindy-cohen",
@@ -1086,7 +1198,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 525.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "claude",
@@ -1100,7 +1212,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "cliff",
@@ -1114,7 +1226,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "coach-remmie",
@@ -1128,7 +1240,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "coopercabruca",
@@ -1142,7 +1254,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1132.8899999999999,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "corrales-cachola",
@@ -1156,7 +1268,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "craig-henderson",
@@ -1170,7 +1282,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "cryptononymouseconomist",
@@ -1184,7 +1296,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dafu-onepiece-labs",
@@ -1198,7 +1310,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dan-cordie",
@@ -1212,7 +1324,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 498.33,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "daniel-prime",
@@ -1226,7 +1338,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 186.65000000000003,
       "total_contributions": 16,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "daniela-c-merlano",
@@ -1240,7 +1352,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "danielle-sunberg",
@@ -1254,7 +1366,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 368.0,
       "total_contributions": 12,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "david-berget",
@@ -1268,7 +1380,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7700.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "david-california-land-owner-davos",
@@ -1282,7 +1394,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "david-ghost-drive",
@@ -1296,7 +1408,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "david-hu",
@@ -1310,7 +1422,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "david-k-k-kwan",
@@ -1324,7 +1436,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dean-mao",
@@ -1338,7 +1450,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 541.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "deric-walintukan",
@@ -1352,7 +1464,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "derrek",
@@ -1366,7 +1478,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "deya",
@@ -1380,7 +1492,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "diana-gan",
@@ -1394,7 +1506,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dirk-watkins",
@@ -1408,7 +1520,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dita",
@@ -1422,7 +1534,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3550.0,
       "total_contributions": 13,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "doris-wang",
@@ -1436,7 +1548,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 6100.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dr-anita-lamprecht",
@@ -1450,7 +1562,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7642.0,
       "total_contributions": 49,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dr-denis",
@@ -1464,7 +1576,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dr-nike-schmidt",
@@ -1478,7 +1590,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 111.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dr-spencer-william-brown",
@@ -1492,7 +1604,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 625.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dragon",
@@ -1506,7 +1618,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1550.0,
       "total_contributions": 6,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "dsb-5413",
@@ -1520,7 +1632,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "dua-zahra",
+      "display_name": "Dua Zahra",
+      "pk_hash": "pk-srdigstk7W5e",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ed",
@@ -1534,7 +1662,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 82480.48000000001,
       "total_contributions": 299,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "edge-and-node",
@@ -1548,7 +1676,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 4442.67,
       "total_contributions": 11,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "edi-hsu",
@@ -1562,7 +1690,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9805.0,
       "total_contributions": 20,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "edmund-wuu",
@@ -1576,7 +1704,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 400.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "edward",
@@ -1590,7 +1718,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "edwin",
@@ -1604,7 +1732,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 708.33,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "edwin-fireworkz",
@@ -1618,7 +1746,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "edwin-lun",
@@ -1632,7 +1760,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 600.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "elinor-janelle",
@@ -1646,7 +1774,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 4408.32,
       "total_contributions": 15,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "elizabeth-irizarry",
@@ -1660,7 +1788,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "elodie-carter",
@@ -1674,7 +1802,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "elora-eugene-oregon",
@@ -1688,7 +1816,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "elvisyong",
@@ -1702,7 +1830,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "eman-zakeer",
@@ -1714,11 +1842,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "emelin-frances-lisboa",
@@ -1732,7 +1860,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25621.449999999924,
       "total_contributions": 356,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "emmanuel-nwanja",
@@ -1746,7 +1874,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "eric-founderhaus",
@@ -1760,7 +1888,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "eric-ly",
@@ -1774,7 +1902,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "eric-y-chen",
@@ -1788,7 +1916,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 6,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ervin-sarajevo",
@@ -1802,7 +1930,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1180.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ethan-bryan-ng",
@@ -1816,7 +1944,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 14650.0,
       "total_contributions": 22,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "evan-sui",
@@ -1830,7 +1958,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "evi",
@@ -1844,7 +1972,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 12015.0,
       "total_contributions": 12,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ewerton-silva",
@@ -1858,7 +1986,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "ezzah-shahzad",
+      "display_name": "Ezzah Shahzad",
+      "pk_hash": "pk-QpIFS4HoUpD8",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "fabien-aepli",
@@ -1872,7 +2016,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "fadi",
@@ -1886,7 +2030,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "faima-khatoon",
+      "display_name": "Faima Khatoon",
+      "pk_hash": "pk--G2rt6cEWgXv",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "falak-naz",
@@ -1902,7 +2062,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "fark-kader",
@@ -1916,7 +2076,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 300.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "fatima-tariq",
@@ -1928,11 +2088,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "fatima-toledo",
@@ -1946,7 +2106,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 65852.81000000003,
       "total_contributions": 247,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "fatima-zafar",
+      "display_name": "Fatima Zafar",
+      "pk_hash": "pk-Ubh4H4ckYnF7",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "felix",
@@ -1960,7 +2136,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 325.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ferdinando-boninelli",
@@ -1974,7 +2150,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2233.2099999999996,
       "total_contributions": 14,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "fizza-nasir",
+      "display_name": "Fizza Nasir",
+      "pk_hash": "pk-_znLAWWC89Ig",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "fleurish-quartz",
@@ -1988,7 +2180,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "florian-cornu",
@@ -2002,7 +2194,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "francine-cabral",
@@ -2016,7 +2208,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "franck-nouyrigat",
@@ -2030,7 +2222,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 23835.0,
       "total_contributions": 38,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "francois-renet",
@@ -2044,7 +2236,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8671.0,
       "total_contributions": 28,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "garis-pang",
@@ -2058,7 +2250,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 67653.33,
       "total_contributions": 139,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "gary-teh",
@@ -2075,7 +2267,7 @@
       "has_elective_records": true,
       "total_tdg_controlled": 955998.0666666903,
       "total_contributions": 3625,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "gautam-mittal",
@@ -2089,7 +2281,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33450.0,
       "total_contributions": 37,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "getdata-inc",
@@ -2103,7 +2295,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.3600000003061723,
       "total_contributions": 1939,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "gilbert-zhuo",
@@ -2117,7 +2309,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "glenn-kowalsky",
@@ -2131,7 +2323,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "global-dao-alliance",
@@ -2145,7 +2337,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10250.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "gloria-chimelu",
@@ -2159,7 +2351,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "green-gulch-zen-monastery",
@@ -2173,7 +2365,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "guenther-dobrauz",
@@ -2187,7 +2379,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 601.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "gwendolyn-regina",
@@ -2201,7 +2393,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "h4n5",
@@ -2215,7 +2407,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "hackerdojo",
@@ -2229,7 +2421,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1276.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "hajra-bibi",
+      "display_name": "Hajra Bibi",
+      "pk_hash": "pk-EZV5ZpkKtz7z",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "hamza-habib",
@@ -2241,11 +2449,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "hans-martin-heierling",
@@ -2259,7 +2467,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3627.25,
       "total_contributions": 34,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "hawkenzo1",
@@ -2273,7 +2481,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "hoorain-chaudhary",
+      "display_name": "Hoorain Chaudhary",
+      "pk_hash": "pk-LWmlCjQm3_4w",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "horab-jamil",
@@ -2289,7 +2513,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "horacio",
@@ -2303,7 +2527,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "house-of-balance",
@@ -2317,7 +2541,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5425.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "hubert-yee",
@@ -2331,7 +2555,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1780.0,
       "total_contributions": 19,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "hughiegabriel",
@@ -2345,7 +2569,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ian",
@@ -2359,7 +2583,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33337.0,
       "total_contributions": 24,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ida",
@@ -2373,7 +2597,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ilya-voytov",
@@ -2387,7 +2611,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 6410.0,
       "total_contributions": 14,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "inza",
@@ -2401,7 +2625,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "irene-hsu",
@@ -2415,7 +2639,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 216.67000000000002,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "iris-m",
@@ -2429,7 +2653,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1535.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "isabela",
@@ -2443,7 +2667,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "itz-eazyboy",
@@ -2457,7 +2681,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.1368683772161603e-13,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "iwona-fluda",
@@ -2471,7 +2695,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5658.549999999999,
       "total_contributions": 35,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jacki-roach",
@@ -2485,7 +2709,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1010.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jacob-m-hot-springs-montana-okanonga-barter-faire",
@@ -2499,7 +2723,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 57.08,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jacob-nelan",
@@ -2513,7 +2737,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 60725.99,
       "total_contributions": 62,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "jalva-azhar",
+      "display_name": "Jalva Azhar",
+      "pk_hash": "pk-UP3UCSkQQf2U",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "james-harvey",
@@ -2527,7 +2767,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "james-sheen",
@@ -2541,7 +2781,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "james-sung",
@@ -2555,7 +2795,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 608.3499999999998,
       "total_contributions": 10,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "janet-hob",
@@ -2569,7 +2809,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "jannat-firdous",
+      "display_name": "Jannat Firdous",
+      "pk_hash": "pk-ou0EahRkkxMb",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jascha-martschenko",
@@ -2583,7 +2839,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11944.73,
       "total_contributions": 17,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jayan",
@@ -2597,7 +2853,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jeff",
@@ -2611,7 +2867,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3000.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jen-chan",
@@ -2625,7 +2881,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jenifer-runnion",
@@ -2639,7 +2895,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 703.3399999999999,
       "total_contributions": 13,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jeramy-dahl",
@@ -2653,7 +2909,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jeremy-chong",
@@ -2667,7 +2923,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jerry-luk",
@@ -2681,7 +2937,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8822.66,
       "total_contributions": 21,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jessica-jae-liu",
@@ -2695,7 +2951,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jim-white",
@@ -2709,7 +2965,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jinn-rajinder-jhol",
@@ -2723,7 +2979,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "joao-fouad",
@@ -2737,7 +2993,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "john-saadeh",
@@ -2751,7 +3007,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "john-tan",
@@ -2765,7 +3021,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9110.0,
       "total_contributions": 11,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "johnlingardr",
@@ -2779,7 +3035,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 20.840000000000003,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "johnny-browaeys",
@@ -2793,7 +3049,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "johnny-bueler",
@@ -2807,7 +3063,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "johnson-teh",
@@ -2821,7 +3077,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 38665.0,
       "total_contributions": 44,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jonathan",
@@ -2835,7 +3091,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3015.99,
       "total_contributions": 16,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "josh-brown",
@@ -2849,7 +3105,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 133.32999999999998,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "joshua-bishop",
@@ -2863,7 +3119,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "joshua-wee",
@@ -2877,7 +3133,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "josue-oscar-rodriguez",
@@ -2891,7 +3147,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "juan-bernabo",
@@ -2905,7 +3161,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 557.7400000000001,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "jules-kenton",
@@ -2919,7 +3175,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "junaid-khalid",
@@ -2933,7 +3189,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "june-jo",
@@ -2947,7 +3203,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2000.0,
       "total_contributions": 11,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "justine",
@@ -2961,7 +3217,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kainat-rehan",
@@ -2977,7 +3233,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kainat-rehan-2",
@@ -2991,7 +3247,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "karin-lanz",
@@ -3005,7 +3261,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3467.3599999999997,
       "total_contributions": 31,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "karin-lorez",
@@ -3019,7 +3275,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 351.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "karl",
@@ -3033,7 +3289,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kaspar-hidayat",
@@ -3047,7 +3303,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kathryn-gichini",
@@ -3061,7 +3317,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kelly-choo",
@@ -3075,7 +3331,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kelvin-chew",
@@ -3089,7 +3345,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58360.0,
       "total_contributions": 85,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kemartiti-2719",
@@ -3103,7 +3359,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ken-lee",
@@ -3117,7 +3373,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ken-nim",
@@ -3131,7 +3387,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9419.220000000001,
       "total_contributions": 47,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kevin-deval",
@@ -3145,7 +3401,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11350.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "khak-e-ayesha",
+      "display_name": "Khak-e-Ayesha",
+      "pk_hash": "pk-qytdpRBbOVjm",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kirsten-ritschel",
@@ -3159,7 +3431,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 18574.049999999996,
       "total_contributions": 110,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kris-swims-like-fish",
@@ -3173,7 +3445,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "krishanthan-surendran",
@@ -3187,7 +3459,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "kuoloon",
@@ -3201,7 +3473,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10145.0,
       "total_contributions": 17,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lake",
@@ -3215,7 +3487,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7050.0,
       "total_contributions": 32,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lan",
@@ -3229,7 +3501,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 69725.01000000002,
       "total_contributions": 112,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "laura-hill",
@@ -3243,7 +3515,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "laura-liew",
@@ -3257,7 +3529,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "laura-solner",
@@ -3271,7 +3543,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lawrence",
@@ -3285,7 +3557,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "leslie-lim",
@@ -3299,7 +3571,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lester-barebottle-brewery",
@@ -3313,7 +3585,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 572.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "levi",
@@ -3327,7 +3599,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 40.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "linda-gorski",
@@ -3341,7 +3613,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "liz-george",
@@ -3355,7 +3627,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lori",
@@ -3369,7 +3641,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2510.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lorna-blount",
@@ -3383,7 +3655,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 800.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lorna-eclectic-india",
@@ -3397,7 +3669,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lucas-root",
@@ -3411,7 +3683,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "luigi",
@@ -3425,7 +3697,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lukas-bugla",
@@ -3439,7 +3711,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "lydia-huang",
@@ -3453,7 +3725,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1075.0,
       "total_contributions": 10,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "maegan-gorbett",
@@ -3467,7 +3739,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 225.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "maggie",
@@ -3481,7 +3753,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "maira-rahat",
+      "display_name": "Maira Rahat",
+      "pk_hash": "pk-pQToDupE2ZaD",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "malina-mohsin",
@@ -3493,11 +3781,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "manha-masood",
@@ -3509,11 +3797,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "marcell",
@@ -3527,7 +3815,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 102.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mark-montalban",
@@ -3541,7 +3829,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "marta-lopes",
@@ -3555,7 +3843,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "marta-poltorak",
@@ -3569,7 +3857,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1510.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "maryam-khalid",
@@ -3581,11 +3869,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "matheus-reis",
@@ -3599,7 +3887,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 29692.860000000037,
       "total_contributions": 180,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "matt-baxter",
@@ -3613,7 +3901,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "matthew-kilkenny",
@@ -3627,7 +3915,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 20.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "matthias-gosser",
@@ -3641,7 +3929,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "maya-frost",
@@ -3655,7 +3943,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mayra-alexandra",
@@ -3669,7 +3957,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mehar-afaq",
@@ -3681,11 +3969,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "meir-s-simhi",
@@ -3699,7 +3987,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mercedes",
@@ -3713,7 +4001,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mestre-bico-duro",
@@ -3727,7 +4015,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 333.33,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "michael-flaxman",
@@ -3741,7 +4029,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "michael-lim",
@@ -3755,7 +4043,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mihai-hodisan",
@@ -3769,7 +4057,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "milena-smith",
@@ -3783,7 +4071,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8555.14,
       "total_contributions": 42,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mimrah-mahmood",
@@ -3797,7 +4085,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mmaisy-ward",
@@ -3811,7 +4099,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 20.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mohammad-balaj",
@@ -3823,11 +4111,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mohammad-muzammil",
@@ -3839,11 +4127,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mohammad-zohaib",
@@ -3855,11 +4143,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "momina-arif",
@@ -3871,11 +4159,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "momo-yamada",
@@ -3889,7 +4177,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 22383.0,
       "total_contributions": 18,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "muhammad-abbas",
+      "display_name": "Muhammad Abbas",
+      "pk_hash": "pk-PsksmQYFVTdy",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mukarram-fareed",
@@ -3901,11 +4205,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mukiri-mwirigi",
@@ -3919,7 +4223,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1010.0,
       "total_contributions": 10,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "mulan-teh",
@@ -3933,7 +4237,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "murtaza",
@@ -3947,7 +4251,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2250.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nash",
@@ -3961,7 +4265,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nato",
@@ -3975,7 +4279,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "navier",
@@ -3989,7 +4293,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nayyan-ahmed-kiyani",
@@ -4001,11 +4305,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "neil-bergert",
@@ -4019,7 +4323,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "neil-berget",
@@ -4033,7 +4337,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 15400.0,
       "total_contributions": 11,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "neil-maxwell",
@@ -4047,7 +4351,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1218.0,
       "total_contributions": 10,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nelson",
@@ -4061,7 +4365,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2675.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "neo",
@@ -4075,7 +4379,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10266.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nick",
@@ -4089,7 +4393,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 330.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nicole-keller",
@@ -4103,7 +4407,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 990.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nima-kaz",
@@ -4117,7 +4421,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1528.1600000000003,
       "total_contributions": 18,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nishanth-sudharsanam",
@@ -4131,7 +4435,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8850.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nixxholas",
@@ -4145,7 +4449,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "noor-ul-huda",
+      "display_name": "Noor-ul-Huda",
+      "pk_hash": "pk-MLyFddTpWh1e",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "nosonspot",
@@ -4159,7 +4479,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "olaf",
@@ -4173,7 +4493,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 324.25,
       "total_contributions": 6,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "oliver-scherenberg",
@@ -4187,7 +4507,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "orlantildes",
@@ -4201,7 +4521,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 24.990000000000002,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ozioma-chukwunyere",
@@ -4215,7 +4535,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5278.33,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "paloma",
@@ -4229,7 +4549,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 647.0800000000003,
       "total_contributions": 19,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "paul-liu",
@@ -4243,7 +4563,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "paulo-hernandez",
@@ -4257,7 +4577,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 225.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "peace-on-fifth",
@@ -4271,7 +4591,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "perry-tam",
@@ -4285,7 +4605,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 300.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "peter-gwee",
@@ -4299,7 +4619,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3775.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "peter-peng",
@@ -4313,7 +4633,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7730.0,
       "total_contributions": 15,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "philip",
@@ -4327,7 +4647,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 18260.0,
       "total_contributions": 19,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "pk-4LBWHX9DJ_wH",
@@ -4343,7 +4663,23 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "pk-FIwuW2G_hRuU",
+      "display_name": "pk-FIwuW2G_hRuU",
+      "pk_hash": "pk-FIwuW2G_hRuU",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "pk-gWkY7UOSOin5",
@@ -4359,7 +4695,7 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "pk-o-VOrzMyYhXs",
@@ -4375,7 +4711,7 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "pooja-yousra-friend",
@@ -4389,7 +4725,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "priscilla-huang",
@@ -4403,7 +4739,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58590.0,
       "total_contributions": 129,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "prithvi",
@@ -4417,7 +4753,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rafay-aamir",
@@ -4429,11 +4765,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rafidah-jalil",
@@ -4447,7 +4783,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "raman",
@@ -4461,7 +4797,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rameesa-naseer-ud-din",
@@ -4475,7 +4811,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rameesa-naseer-ud-din-2",
@@ -4489,7 +4825,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rameesa-naseer-ud-din-3",
@@ -4505,7 +4841,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ramona-wong",
@@ -4519,7 +4855,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 155.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ranette-sorenson",
@@ -4533,7 +4869,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ranette-sorenson-raye-works",
@@ -4547,7 +4883,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "raphael-bouzy",
@@ -4561,7 +4897,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 800.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ray-wu",
@@ -4575,7 +4911,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 416.67,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "reuben",
@@ -4589,7 +4925,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1850.0,
       "total_contributions": 17,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "richard-chu",
@@ -4603,7 +4939,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30243.0,
       "total_contributions": 25,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "riffat-latif",
@@ -4615,11 +4951,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rob-hutter",
@@ -4633,7 +4969,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rockey599204723",
@@ -4647,7 +4983,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rodney-wieck",
@@ -4661,7 +4997,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 158.33,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "romaiza-ishtiaq",
+      "display_name": "Romaiza Ishtiaq",
+      "pk_hash": "pk-WTYlsr1XaTSt",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "royston",
@@ -4675,7 +5027,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "rusty-bogart-pipevine-chocolate",
@@ -4689,7 +5041,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ryan-feathermen",
@@ -4703,7 +5055,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "ryansjjr",
@@ -4717,7 +5069,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 14850.0,
       "total_contributions": 25,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sacred-earth-farms",
@@ -4731,7 +5083,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 166.67000000000002,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "saemin-ahn",
@@ -4745,7 +5097,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9000.0,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "saif-ur-rehman",
@@ -4757,11 +5109,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "saltwater-lunch",
@@ -4775,7 +5127,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "samiya-saleem",
@@ -4791,7 +5143,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "samiya-saleem-2",
@@ -4807,7 +5159,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "samuel-lambert",
@@ -4821,7 +5173,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sarah-h",
@@ -4835,7 +5187,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2978.58,
       "total_contributions": 15,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "satheesh-paddolker",
@@ -4849,7 +5201,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11661.0,
       "total_contributions": 20,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "scott",
@@ -4863,7 +5215,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "shabeeh-fatima",
+      "display_name": "Shabeeh Fatima",
+      "pk_hash": "pk-LD1OeNzwCgVT",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "shadan",
@@ -4875,11 +5243,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "shadi-atamne",
@@ -4893,7 +5261,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5432.66,
       "total_contributions": 19,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "shane-low",
@@ -4907,7 +5275,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1500.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sharvin-baindur",
@@ -4921,7 +5289,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1200.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "shena-davenport",
@@ -4935,7 +5303,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8659.83,
       "total_contributions": 19,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sherwin",
@@ -4949,7 +5317,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1600.0,
       "total_contributions": 9,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "shine-light",
@@ -4963,7 +5331,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 120.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "shino-ling",
@@ -4977,7 +5345,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11045.0,
       "total_contributions": 15,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "soniya-ahuja",
@@ -4991,7 +5359,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 941.67,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sonya-gorski",
@@ -5005,7 +5373,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 34.67,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sophia",
@@ -5019,7 +5387,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sophie-riegert",
@@ -5033,7 +5401,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "stanley-li",
@@ -5047,7 +5415,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 591.66,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "street-insights-llc",
@@ -5061,7 +5429,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "suhaimi-zainul",
@@ -5075,7 +5443,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5875.0,
       "total_contributions": 28,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "suheil",
@@ -5089,7 +5457,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11060.66,
       "total_contributions": 78,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sujit-nair",
@@ -5103,7 +5471,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2591.6800000000003,
       "total_contributions": 6,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "sumbul-sikander",
@@ -5119,7 +5487,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "susan-oh",
@@ -5133,7 +5501,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 450.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "suzo",
@@ -5147,7 +5515,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.33,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "svet-svitlo",
@@ -5161,7 +5529,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 60.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "tahleel-mir",
+      "display_name": "Tahleel Mir",
+      "pk_hash": "pk-JiIAqpCMTsna",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tayyaba-ieman",
@@ -5177,7 +5561,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "teck-chiong-lim",
@@ -5191,7 +5575,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tess-walkowski",
@@ -5205,7 +5589,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2669.8999999999996,
       "total_contributions": 57,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tessa-rosemary-eckerman",
@@ -5219,7 +5603,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5200.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "the2xld",
@@ -5233,7 +5617,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2259.9700000000003,
       "total_contributions": 28,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "theodl",
@@ -5247,7 +5631,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "thomas-gorissen",
@@ -5261,7 +5645,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1850.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "thomas-tang",
@@ -5275,7 +5659,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1100.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tiffany-harnsongkram",
@@ -5289,7 +5673,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 277.67,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tiffine-wang",
@@ -5303,7 +5687,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 14984.67,
       "total_contributions": 32,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tomas-bernabo",
@@ -5317,7 +5701,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9819.82,
       "total_contributions": 31,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tres-garcia",
@@ -5331,7 +5715,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 6285.33,
       "total_contributions": 39,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "trex-d-designer",
@@ -5345,7 +5729,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 303.33,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tripp",
@@ -5359,7 +5743,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 652.78,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "truetech-inc",
@@ -5373,7 +5757,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 4963.770000000005,
       "total_contributions": 209,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "tushar-sharma",
@@ -5387,7 +5771,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 608.34,
       "total_contributions": 9,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "val-lapidus",
@@ -5401,7 +5785,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 62143.00000000001,
       "total_contributions": 258,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "valentine-stockdale",
@@ -5415,7 +5799,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vanessa-walach-shaman-better-daze",
@@ -5429,7 +5813,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vanja",
@@ -5443,7 +5827,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 504.0,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "varma-priyatham",
@@ -5457,7 +5841,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 77.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vibhu-mittal",
@@ -5471,7 +5855,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10161.33,
       "total_contributions": 25,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "victor-munoz",
@@ -5485,7 +5869,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5250.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "victor-pineda",
@@ -5499,7 +5883,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 403.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vina-e-microbio-de-bike",
@@ -5513,7 +5897,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.67,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vincent-song",
@@ -5527,7 +5911,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 316.67,
       "total_contributions": 8,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vinibitencourt",
@@ -5541,7 +5925,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 218.31999999999996,
       "total_contributions": 10,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vishvajit",
@@ -5555,7 +5939,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1235.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "vlatko-gigov",
@@ -5569,7 +5953,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50584.08,
       "total_contributions": 162,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "walter-punsapy",
@@ -5583,7 +5967,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 5,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "will-chen",
@@ -5597,7 +5981,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 175.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "windy-butler-ehry",
@@ -5611,7 +5995,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 16.66,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "won-kim",
@@ -5625,7 +6009,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "xenofon-kontouris",
@@ -5639,7 +6023,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "xiahong-lin",
@@ -5653,7 +6037,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "xjcaa",
@@ -5667,7 +6051,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "yasir-danish",
@@ -5679,11 +6063,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "yasmin",
@@ -5697,7 +6081,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 308.34000000000003,
       "total_contributions": 7,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "youna-kim",
@@ -5711,7 +6095,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1050.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "yousra-saad-kamoona",
@@ -5725,7 +6109,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 198.34000000000003,
       "total_contributions": 11,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "yousuf-mansoor",
@@ -5737,11 +6121,11 @@
       "programs": [
         "butterfly-effect"
       ],
-      "has_dao_contributions": false,
+      "has_dao_contributions": true,
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "yuan-luo",
@@ -5755,7 +6139,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "yukihiro",
@@ -5769,7 +6153,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1300.0,
       "total_contributions": 4,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "yuval-wirzberger",
@@ -5783,7 +6167,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 150.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "zach-miltz",
@@ -5797,7 +6181,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "zach-roth",
@@ -5811,7 +6195,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "zack-franklin",
@@ -5825,7 +6209,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "zake-zephylia",
@@ -5839,7 +6223,7 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
     },
     {
       "slug": "zoran",
@@ -5853,7 +6237,23 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5100.0,
       "total_contributions": 3,
-      "last_updated": "2026-05-31T08:17:05Z"
+      "last_updated": "2026-05-31T08:22:23Z"
+    },
+    {
+      "slug": "zoya-imran",
+      "display_name": "Zoya Imran",
+      "pk_hash": "pk-X5gQISdlXvzl",
+      "is_governor": false,
+      "voting_rights": 0.0,
+      "primary_program": "butterfly-effect",
+      "programs": [
+        "butterfly-effect"
+      ],
+      "has_dao_contributions": false,
+      "has_elective_records": false,
+      "total_tdg_controlled": 0,
+      "total_contributions": 0,
+      "last_updated": "2026-05-31T08:22:23Z"
     }
   ]
 }

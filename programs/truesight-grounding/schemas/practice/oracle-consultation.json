@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Oracle Consultation",
+  "description": "Payload schema for a truesight-grounding oracle-consultation practice event.",
+  "type": "object",
+  "required": ["hexagrams", "total_minutes"],
+  "properties": {
+    "hexagrams": {
+      "type": "array",
+      "description": "The hexagrams drawn during this session.",
+      "items": {
+        "type": "object",
+        "required": ["number", "name"],
+        "properties": {
+          "number": { "type": "integer", "description": "Hexagram number (1-64)." },
+          "name": { "type": "string", "description": "Hexagram name (e.g. 'Splitting Apart')." },
+          "changing_lines": {
+            "type": "array",
+            "items": { "type": "integer" },
+            "description": "Line numbers that are changing (1-6)."
+          },
+          "relates_to": {
+            "type": "integer",
+            "description": "Hexagram number this relates to (if changing lines present)."
+          },
+          "relates_to_name": {
+            "type": "string",
+            "description": "Name of the relating hexagram."
+          }
+        }
+      }
+    },
+    "qmdj_card": {
+      "type": "string",
+      "description": "QiMen Dunjia card or structural overlay drawn."
+    },
+    "advisory_summary": {
+      "type": "string",
+      "description": "Brief summary of the advisory or insight received."
+    },
+    "total_minutes": {
+      "type": "integer",
+      "description": "Total duration of the session in minutes."
+    },
+    "mood": {
+      "type": "string",
+      "description": "Optional mood or state of mind (e.g. 'reflective', 'focused')."
+    }
+  }
+}

@@ -1,6 +1,11 @@
 # Sumbul Sikander
 
-*TrueSight DAO Credential Profile · generated 2026-05-31T07:25:54Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-05-31T08:09:47Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/sumbul-sikander.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/sumbul-sikander.json)
 
 ## Butterfly Effect
 

@@ -1,6 +1,6 @@
 # Richard Chu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-02T17:25:53Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-02T20:47:18Z*
 
 Richard Chu contributed to the DAO from September 2021 to June 2022, with 25 total contributions. His top category was Build Game - Strategy, where he participated in voting on an online poll.
 

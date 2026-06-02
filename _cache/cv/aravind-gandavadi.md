@@ -1,6 +1,6 @@
 # Aravind Gandavadi
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-02T17:25:53Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-02T20:47:18Z*
 
 Aravind Gandavadi made two contributions to the DAO on July 17, 2022, both in the Build Game category. He completed a minor engineering function and attended a FaceTime strategy meeting.
 

@@ -1,0 +1,52 @@
+{
+  "slug": "pk-G0Q-GSnufn6_",
+  "display_name": "pk-G0Q-GSnufn6_",
+  "pk_hash": "pk-G0Q-GSnufn6_",
+  "identity": {},
+  "generated_at": "2026-06-03T23:31:24Z",
+  "has_elective_records": true,
+  "has_dao_contributions": false,
+  "programs": {
+    "truesight-grounding": {
+      "display_name": "TrueSight Grounding — Morning Oracle",
+      "lineage_root": null,
+      "source_pages": [
+        "https://oracle.truesight.me/draw.html"
+      ],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsblIMMxwstvu6RiqpQN3c3PClRaYwmDWj+O3AzycbZVJPukH1J/4epnjJPD6KsnMnih6Mvt0xbq+8X9sjgVZ7GubU5iRyKpuMYcjGA79n4Rdc9J7/7qzAgnNSWlCP33uiBj63dYgjWlYWkhlpyz3SdlJ/nOtEI1YW4MQDioesYi7rpIIaZDQGJhHH3cMLzkemJ5t0CJzuZRH7ISbrScVI+gGlHWYCpTLrvFghAD0hlVu/XUx3Ty37ECsAUOIVL6TMmcvOX8C7fkuTSSF78RI89nEye2Rd4aHsQ3aXptIKu86xulNwIqNVLzX3wYmaJ+/KhuiTK/EJ9vVEhQj91ECQwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-G0Q-GSnufn6_",
+          "captured_at": "2026-06-03T23:27:49.836Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": null,
+          "raw_payload_json": "",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsblIMMxwstvu6RiqpQN3c3PClRaYwmDWj+O3AzycbZVJPukH1J/4epnjJPD6KsnMnih6Mvt0xbq+8X9sjgVZ7GubU5iRyKpuMYcjGA79n4Rdc9J7/7qzAgnNSWlCP33uiBj63dYgjWlYWkhlpyz3SdlJ/nOtEI1YW4MQDioesYi7rpIIaZDQGJhHH3cMLzkemJ5t0CJzuZRH7ISbrScVI+gGlHWYCpTLrvFghAD0hlVu/XUx3Ty37ECsAUOIVL6TMmcvOX8C7fkuTSSF78RI89nEye2Rd4aHsQ3aXptIKu86xulNwIqNVLzX3wYmaJ+/KhuiTK/EJ9vVEhQj91ECQwIDAQAB",
+          "request_transaction_id": "lLFodKxaNz6aSH2pHci4/omJQDAvVAUy4CtO2Itls8x4TGkRqil/HNv4ss5XrPUl+4v+Kmmuumv6i6ElHkAcw1gk9epWKWt7QcJIZIT/v/Q03yx4fyuuYlBXdxsz6inbqacjl+dD9ps6JpkrrRhkQBqVJGhRaJux8r/zTRoc8zCHHIfTBVv8XeJvplVBNQ8K0TeN/QGimo5lyeiWwokGd1icqswIr0IOi0d4Ns8sK8NK/jqZTDty+f87lHzzjUjFtSogJJXO/t1kfWU0mpV+f8h/21A6+fQSG+Q8aCLFTX30RLA+cRCvjm+b7OpN6MrX62rhUYs1sDWveR/eBgQETA==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260603232750_405",
+            "telegram_message_id": "Edgar_20260603232750_406",
+            "processed_at": "2026-06-03T23:30:03.434Z"
+          },
+          "_path": "programs/truesight-grounding/pk-G0Q-GSnufn6_/practice/2026-06-03T232749836Z-lLFodKxaNz.json"
+        }
+      ]
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-G0Q-GSnufn6_.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-G0Q-GSnufn6_"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

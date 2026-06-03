@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-03T20:54:46Z",
+  "generated_at": "2026-06-03T23:31:24Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88199,6 +88199,62 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "A+DHr/Sg7tBoEQIM/TFM",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: @⁨Kaon⁩ \r\n  \r\n  Can you expose the experiential learning system on a URL so that I can start using it for the experience we plan to offer to the community during my upcoming visit in China \r\n  \r\n  This dogfooding will surface edge cases in your system which will help improve it thanks \r\n  \r\n  Let me know when it can be ready 😊🙏\r\n  \r\n  Web app\r\n  \r\n  I pass prompt it saying I want to create a set of lesson for cacao\r\n  \r\n  The various context the lesson will be conducted in\r\n  \r\n  As well as upload a bunch of videos (_I can connect my YouTube account with it_)\r\n  \r\n  It uploads the videos and fetches the links and then embeds in a lesson package\r\n  \r\n  Similar to capoeira.agroverse.shop\r\n  \r\n  And of course, the activities as well for example, a learning experience could be structured as 70% activities and 30% theoretical learning, though the ratio can vary depending on the specific experience.\r\n  \r\n  Don’t bother over optimizing \r\n  \r\n  Send me the url and let me give it a test run \r\n  \r\n  My sense is some other parameters will end up surfacing and becoming more important 😊🙏\r\n  \r\n  Make sure it allows me to connect my YouTube account and my GitHub account and then use those to upload the generated materials one I click on publish\r\n  \r\n  Also make sure it allows me to choose, which particular GitHub repository I want the experience materials to be published to\r\n  \r\n  And also every time I publish it updates the github repo I associated with it \r\n  \r\n  I’m gonna publish that github repository as a  GitHub page\r\n  \r\n  This is an example of my conversations with Sophia\r\n  \r\n  https://github.com/TrueSightDAO/truesight_autopilot_transcript\r\n  \r\n  In case she fails, I could always spin up another LLM to parse through our conversation and then continue from there\r\n  \r\n  A partial solution has a lot of rough edges and sometimes might accidentally scratch a user. \r\n  \r\n  In a holistic solution walls between the user and the solution disappears… \r\n  \r\n  It cannot be directly arrived at through pure cognition but instead via the path of an infinite cosmic dance between man and machine to such an extend everything blurs into one at which point it is hard to decipher at which point does the boundary of the user ends and the boundary of the solution begins\r\n  \r\n  Okay tomorrow evening I will! \r\n  Wich means tomorrow morning for you.\r\n- Contributor(s): Gary Teh, Kaon Krasniqi\r\n- TDG Issued: 50.00\r\n- Attached Filename: IMG_2180.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260603204651_gary_teh_img_2180.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: 0WbPu2Qmv3gSmq6CaHSngeDunkOTmCX9dGtGWRbJLCO51VRWWnjVgevfpS1zYOr7b0kBJ2kWxE1Cx0BbzXqFvhxiAwCvsgcRpRJBwjhYFsTaWQKSj4A54VecAa18AREGw1h/Mxa23DGJXyze7YpPuGdx/SdXh3EvjrKgrnxwT5n1p9ztqq8Pb+Kq1SzsVy3lSi4boiENQPfxC+NyiNFmxjCSXG9gNKArJ7+plT2y3qXr7BzHKTy7812H2tipW0/UVsO2k4c2s6Q87pNX7pSkjzBffcwlXGhaVDyp006hmbIpz69kvHw75scwZO9Q+VsEiyfkAnyevOmjoKZQOLPFUA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260603",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "ae+oKVWkz3oIoVNQBbrV",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Chatted about how to coordinate with kaon, what to expect when over in China are between 15 of July and end of July\r\n  \r\n  Digital infrastructure that Jerry needs to do investigation on so that our workflow can still work when behind a Chinese firewall\r\n  \r\n  Gaining visibility into what is proposing to implement\r\n- Contributor(s): Elizabeth Wong, Gary Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_2181.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260603204834_gary_teh_img_2181.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: pQDzvaDjO30Hty7Pmgj4MZ6pGYOPRhIl4oUhbihSioDUvWdKb8Bg2Kbqf0m0ePDTtdBCDvSLSUkwn9oMUtn8OLRL/73Z86Z3XFVE8LZTS9L9gXKGGGtJ0hRQVvViW431UeHzvA2b9KVM1/2ZthFmSQqpj4NedXbHFpNjTHa//WZmePt0oyJmwsTm7ruNHgx7AsG1WFcHszTFX+DuyRUIRDY2n098iKBwsn8PdPho508cbBzS/HZP1Y0QZCXkfiibxR1lMoKALn1U53r875qL9glyskkZppvDCsCz3XdsqI/tk1mYhT+JdUHNdvO8DH5YCgNidrOxKdiMiV3RLw6l4g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260603",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "Ze/bZA8kFqtSr5mGso8d",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Discussion about the on boarding of alchemy springs in San Francisco\r\n- Contributor(s): Gary Teh, Vlatko Gigov\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_2107.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260603205341_gary_teh_img_2107.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: 5OIUEmWPEWEqoufHcUx8kChup7kYYuZRBAbtKVfjdeyevMmdw5Ek/g2D43z3k61N+p+uQXVRukVaqSfhyCbi8+QRLpm03e7YiS4x6u5a9vVtmXMnN0HFw+DVz7m2PciWRhnQfy3fjd6Ls6JyQjAvgfwCvGNGXyN87PkyiJATx77J5AZaMFg9fCQKvtC/JoTKAxL4OKTOgSWuRuXALVnSIvC259WCOoUoO/5PJ1XK8igose6bbLPjUzbLF9kfseXg16be7D3M7jphsoWgcZgBxpK/cxLCqmiOVPWt24G1gMdk6LbehrITWxv3P447MHuk32Bv41CBt60XgUXdvcVPoQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260603",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "1CZK3nQSPUeUkDYbjVci",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Self-serve program onboarding: two-step registration blueprint + request side\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/59\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/274\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/275\n  \n  Details:\n  Designed and started the one-call self-serve program-onboarding flow. Documented in PROGRAM_PARTNER_ONBOARDING.md: the consolidated program-definition parameter set, the per-program attestation/admin subdomain step (with clash-check), the integration boundary (partner submits attestation/activity events via our signing tooling; WE auto-mint trees and manually mark SOLD after payment), and the two-step [PROGRAM REGISTRATION] blueprint (REQUEST by anyone → governor APPROVAL via DApp review page + notification bell → provisioning handler) + a public marketing/funnel page. Built the request side: dao_client report_program_registration.py (build_event_cli over the full parameter set) + dao_protocol dispatch routing for [PROGRAM REGISTRATION REQUEST] → Program Registrations PENDING. Remaining (spec'd): DApp request page, governor review page + bell, provisioning handler.\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: YJgMRFlR7eeTYU9g15y/qWQQpdm0hWTJC62AUW0khv212IqpNB4ZWcwkhN821Rxm/ALpHGXKOHkKSKll2bOLI9+6EWmtkQ+fbb2x8HY0tnE7o0MqHY8bRQneCTKWsaxdMGKT2PnUHGT6ti5Yp4dg62LDUzEBh2ZLrrdgVDduaj1RgMbjpOq6gw2rzj/S+h79rMlNSCrDwV2NN9C77WvZtYmRI3ekUlQBP1Qxi85Em50Y8BMI7HocZ2QdASWIR+mdl4AaGhyio78OVlkFVa+4Yizs5XEQCq7hww7bZqQtSRS+s9TP2QeH4enN9gXVTQh1zWLxXO95e2yQPPbrFbBUPg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260603",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "ZfcE4q3heS0tZiM07lZ5",
         "reviewer_email": ""
       },
       {

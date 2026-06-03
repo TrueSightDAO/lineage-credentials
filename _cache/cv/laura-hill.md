@@ -1,6 +1,6 @@
 # Laura Hill
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-03T17:56:03Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-03T20:54:46Z*
 
 Laura Hill participated in one contribution to the DAO in October 2020. She voted in an online poll for the Cypher Defense project under the Build Game - Strategy category.
 

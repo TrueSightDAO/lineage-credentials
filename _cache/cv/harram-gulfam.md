@@ -1,6 +1,11 @@
 # Harram Gulfam
 
-*TrueSight DAO Credential Profile · generated 2026-06-04T07:35:20Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-04T09:54:03Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/harram-gulfam.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/harram-gulfam.json)
 
 ## Butterfly Effect
 

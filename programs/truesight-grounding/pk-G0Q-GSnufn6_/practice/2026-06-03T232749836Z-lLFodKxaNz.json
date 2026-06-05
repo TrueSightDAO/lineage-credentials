@@ -5,9 +5,26 @@
   "practitioner_name": "",
   "slug": "pk-G0Q-GSnufn6_",
   "captured_at": "2026-06-03T23:27:49.836Z",
-  "source_url": "https://oracle.truesight.me/",
-  "payload": null,
-  "raw_payload_json": "",
+  "source_url": "https://oracle.truesight.me/?reading=8-7-8-7-9-9&cast=2026-06-03T23%3A27%3A49.836Z",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 6,
+        "name": "Sung / Conflict",
+        "changing_lines": [
+          5,
+          6
+        ],
+        "relates_to": 40,
+        "relates_to_name": "Hsieh / Deliverance"
+      }
+    ],
+    "advisory_summary": "Morning oracle grounding session.",
+    "total_minutes": 15,
+    "mood": "reflective",
+    "qmdj_card": "Cast 6/3/2026, 4:27:49 PM\u7bc0\u6c23 \u5c0f\u6eff \u00b7 \u4e0b\u5143\u5c40 \u967d\u90418\u5c40\u56db\u67f1 \u4e19\u5348 \u7678\u5df3 \u620a\u7533 \u5e9a\u7533\u503c\u7b26 \u5929\u8f14 @ \u574e\u503c\u4f7f \u675c\u9580 @ \u574e\u98db\u6b65 6"
+  },
+  "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 6,\n      \"name\": \"Sung / Conflict\",\n      \"changing_lines\": [\n        5,\n        6\n      ],\n      \"relates_to\": 40,\n      \"relates_to_name\": \"Hsieh / Deliverance\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/3/2026, 4:27:49 PM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u620a\\u7533 \\u5e9a\\u7533\\u503c\\u7b26 \\u5929\\u8f14 @ \\u574e\\u503c\\u4f7f \\u675c\\u9580 @ \\u574e\\u98db\\u6b65 6\"\n}",
   "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsblIMMxwstvu6RiqpQN3c3PClRaYwmDWj+O3AzycbZVJPukH1J/4epnjJPD6KsnMnih6Mvt0xbq+8X9sjgVZ7GubU5iRyKpuMYcjGA79n4Rdc9J7/7qzAgnNSWlCP33uiBj63dYgjWlYWkhlpyz3SdlJ/nOtEI1YW4MQDioesYi7rpIIaZDQGJhHH3cMLzkemJ5t0CJzuZRH7ISbrScVI+gGlHWYCpTLrvFghAD0hlVu/XUx3Ty37ECsAUOIVL6TMmcvOX8C7fkuTSSF78RI89nEye2Rd4aHsQ3aXptIKu86xulNwIqNVLzX3wYmaJ+/KhuiTK/EJ9vVEhQj91ECQwIDAQAB",
   "request_transaction_id": "lLFodKxaNz6aSH2pHci4/omJQDAvVAUy4CtO2Itls8x4TGkRqil/HNv4ss5XrPUl+4v+Kmmuumv6i6ElHkAcw1gk9epWKWt7QcJIZIT/v/Q03yx4fyuuYlBXdxsz6inbqacjl+dD9ps6JpkrrRhkQBqVJGhRaJux8r/zTRoc8zCHHIfTBVv8XeJvplVBNQ8K0TeN/QGimo5lyeiWwokGd1icqswIr0IOi0d4Ns8sK8NK/jqZTDty+f87lHzzjUjFtSogJJXO/t1kfWU0mpV+f8h/21A6+fQSG+Q8aCLFTX30RLA+cRCvjm+b7OpN6MrX62rhUYs1sDWveR/eBgQETA==",
   "intake": {

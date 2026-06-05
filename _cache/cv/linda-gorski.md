@@ -1,6 +1,6 @@
 # Linda Gorski
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-05T03:34:38Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-05T09:43:42Z*
 
 Linda Gorski made one contribution to the DAO, logging one hour of human effort under the 20250617_beerhall project on April 13, 2025, qualifying for 100 TDG.
 

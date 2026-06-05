@@ -3,7 +3,7 @@
   "display_name": "pk-gWkY7UOSOin5",
   "pk_hash": "pk-gWkY7UOSOin5",
   "identity": {},
-  "generated_at": "2026-06-05T21:07:08Z",
+  "generated_at": "2026-06-05T21:10:27Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,7 +14,7 @@
         "https://capoeira.agroverse.shop/practice.html"
       ],
       "practice_count": 1,
-      "total_practice_minutes": 0,
+      "total_practice_minutes": 40,
       "recent_events": [
         {
           "program": "capoeira-tribo-mirim",
@@ -24,14 +24,58 @@
           "slug": "pk-gWkY7UOSOin5",
           "captured_at": "2026-05-30T14:15:48.252Z",
           "source_url": "https://capoeira.agroverse.shop/practice.html",
-          "payload": null,
-          "raw_payload_json": "",
+          "payload": {
+            "theme": "Attacks",
+            "moves_practiced": [
+              {
+                "id": "ginga",
+                "name_pt": "Ginga",
+                "duration_seconds": 360
+              },
+              {
+                "id": "bencao",
+                "name_pt": "B?n??o",
+                "duration_seconds": 420
+              },
+              {
+                "id": "chute",
+                "name_pt": "Chute",
+                "duration_seconds": 420
+              },
+              {
+                "id": "gancho",
+                "name_pt": "Gancho",
+                "duration_seconds": 480
+              },
+              {
+                "id": "joelhada",
+                "name_pt": "Joelhada",
+                "duration_seconds": 360
+              },
+              {
+                "id": "joelhada_lateral",
+                "name_pt": "Joelhada lateral",
+                "duration_seconds": 360
+              }
+            ],
+            "music_played": [
+              "010",
+              "004",
+              "001",
+              "009",
+              "005",
+              "002"
+            ],
+            "total_practice_minutes": 40
+          },
+          "raw_payload_json": "{\r\n  \"theme\": \"Attacks\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"bencao\",\r\n      \"name_pt\": \"B?n??o\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"chute\",\r\n      \"name_pt\": \"Chute\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"gancho\",\r\n      \"name_pt\": \"Gancho\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"joelhada\",\r\n      \"name_pt\": \"Joelhada\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"joelhada_lateral\",\r\n      \"name_pt\": \"Joelhada lateral\",\r\n      \"duration_seconds\": 360\r\n    }\r\n  ],\r\n  \"music_played\": [\r\n    \"010\",\r\n    \"004\",\r\n    \"001\",\r\n    \"009\",\r\n    \"005\",\r\n    \"002\"\r\n  ],\r\n  \"total_practice_minutes\": 40\r\n}",
           "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyja9OujZIqpF6AUqwyqd0ODCtA3So9kvvcvH0y//CvFEVez1Nni3HAnerLjS6dS3vSUnz9T8oRDVwa8lkPEPO00ub2cQBAo9Tps6CkP93fNokkjzKNLozpBOekx5DgS4M7iQH8gxL0Ob7m7oZdqGMtOFjEJB+bGv06VT2T6O1+gaJlplpKtuqRYKFIV0bb1amaU7ZSxfTxPtKCmh7aag4G0D59s8PirXzgKryR3SzdzJu31ycP1gI1JTkCSjlCLhjXQitM1UdaW1Fv6qvHiT1YLUYNQ7KfkK5ya7Ebb/rQDdi3lHYMXamQRRC17SKJdGpEke6e8+Dlti/SOU+U/0IwIDAQAB",
           "request_transaction_id": "mQAUBA3YLlvSHrEHR9NAGgIkYl8/Rruf+D7wc8AbfYVKGGlbC4P7905mZzAmESLl/CQpeggDxcQx6zaoqKv8PNChy6cLaUF3D2Q93xRui/FZKY2hxZUKVt7xa0GDSQGdexG2lZ2or0rACqlT8N55xHRE4QuMou7y77ZcaTGBb2/UfnIyTqSOoDOJ3n1JrN1x7CPkjrz9C/0EA/syqfYLIX6aVbYHKAa76otZSKAIJd47ZTPMOoIevAR3w+Y0c2YOpuhASwklovE4a3ywmkIXp8ku32YelZDbUxM9hH/LTcmixC3jbE24+lkqkKiAEg3GbctS+9M/nGdaMi8RLIMmEg==",
           "intake": {
             "telegram_update_id": "Edgar_20260530141549_071",
             "telegram_message_id": "Edgar_20260530141549_072",
-            "processed_at": "2026-05-30T14:20:02.603Z"
+            "processed_at": "2026-06-05T21:07:26.323Z",
+            "reprocessed": true
           },
           "_path": "programs/capoeira-tribo-mirim/pk-gWkY7UOSOin5/practice/2026-05-30T141548252Z-mQAUBA3YLl.json"
         }

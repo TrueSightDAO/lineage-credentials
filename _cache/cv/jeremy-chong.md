@@ -1,6 +1,6 @@
 # Jeremy Chong
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-05T15:21:23Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-05T17:11:17Z*
 
 Jeremy Chong made one contribution to the TrueSight DAO on March 16, 2022.
 

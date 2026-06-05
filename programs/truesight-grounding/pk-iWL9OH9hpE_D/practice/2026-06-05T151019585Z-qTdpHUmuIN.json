@@ -5,9 +5,26 @@
   "practitioner_name": "",
   "slug": "pk-iWL9OH9hpE_D",
   "captured_at": "2026-06-05T15:10:19.585Z",
-  "source_url": "https://oracle.truesight.me/",
-  "payload": null,
-  "raw_payload_json": "",
+  "source_url": "https://oracle.truesight.me/?reading=7-6-9-7-7-7&cast=2026-06-05T15%3A10%3A19.585Z",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 13,
+        "name": "T'ung J\u00ean / Fellowship with Men",
+        "changing_lines": [
+          2,
+          3
+        ],
+        "relates_to": 10,
+        "relates_to_name": "L\u00fc / Treading"
+      }
+    ],
+    "advisory_summary": "Morning oracle grounding session.",
+    "total_minutes": 15,
+    "mood": "reflective",
+    "qmdj_card": "Cast 6/5/2026, 8:10:19 AM\u7bc0\u6c23 \u5c0f\u6eff \u00b7 \u4e0b\u5143\u5c40 \u967d\u90418\u5c40\u56db\u67f1 \u4e19\u5348 \u7678\u5df3 \u5e9a\u620c \u58ec\u5348\u503c\u7b26 \u5929\u82f1 @ \u9707\u503c\u4f7f \u666f\u9580 @ \u826e\u98db\u6b65 8"
+  },
+  "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 13,\n      \"name\": \"T'ung J\\u00ean / Fellowship with Men\",\n      \"changing_lines\": [\n        2,\n        3\n      ],\n      \"relates_to\": 10,\n      \"relates_to_name\": \"L\\u00fc / Treading\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/5/2026, 8:10:19 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u5e9a\\u620c \\u58ec\\u5348\\u503c\\u7b26 \\u5929\\u82f1 @ \\u9707\\u503c\\u4f7f \\u666f\\u9580 @ \\u826e\\u98db\\u6b65 8\"\n}",
   "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
   "request_transaction_id": "qTdpHUmuIN4K+o53xoAdOmCXTe+tAVgFIiO6EdcihqtiG4aNsruKyvoNvbsBzz4QOtiZlookeRUR/GHWFZHWkJpzVkuQqG7iMvCtLAX4Z4a0lDCuJFDrgkzyOaLsOglYclF93SXDkG9oS3zzmAN3FMdB4+PNBVFr2Dj3Zf16cIzpbP3vexLh+kKhPvnLX2I5sjXTYr1H5QyNOw/vVFZNiKXRPDKkXv7NElb44YO+RphMetvlnU4Fy424kaPGb7VZ9+sZnhPG4WRRhMq/aOAXLY0/aSimUPOB/Iajp3CtMHmDAGdteKtbAcQFAoOGztTaUtT5VVk5r1DFTAseVO36PA==",
   "intake": {

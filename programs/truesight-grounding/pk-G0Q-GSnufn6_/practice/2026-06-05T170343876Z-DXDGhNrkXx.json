@@ -1,0 +1,18 @@
+{
+  "program": "truesight-grounding",
+  "practice_type": "oracle-consultation",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsblIMMxwstvu6RiqpQN3c3PClRaYwmDWj+O3AzycbZVJPukH1J/4epnjJPD6KsnMnih6Mvt0xbq+8X9sjgVZ7GubU5iRyKpuMYcjGA79n4Rdc9J7/7qzAgnNSWlCP33uiBj63dYgjWlYWkhlpyz3SdlJ/nOtEI1YW4MQDioesYi7rpIIaZDQGJhHH3cMLzkemJ5t0CJzuZRH7ISbrScVI+gGlHWYCpTLrvFghAD0hlVu/XUx3Ty37ECsAUOIVL6TMmcvOX8C7fkuTSSF78RI89nEye2Rd4aHsQ3aXptIKu86xulNwIqNVLzX3wYmaJ+/KhuiTK/EJ9vVEhQj91ECQwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-G0Q-GSnufn6_",
+  "captured_at": "2026-06-05T17:03:43.876Z",
+  "source_url": "https://oracle.truesight.me/",
+  "payload": null,
+  "raw_payload_json": "",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsblIMMxwstvu6RiqpQN3c3PClRaYwmDWj+O3AzycbZVJPukH1J/4epnjJPD6KsnMnih6Mvt0xbq+8X9sjgVZ7GubU5iRyKpuMYcjGA79n4Rdc9J7/7qzAgnNSWlCP33uiBj63dYgjWlYWkhlpyz3SdlJ/nOtEI1YW4MQDioesYi7rpIIaZDQGJhHH3cMLzkemJ5t0CJzuZRH7ISbrScVI+gGlHWYCpTLrvFghAD0hlVu/XUx3Ty37ECsAUOIVL6TMmcvOX8C7fkuTSSF78RI89nEye2Rd4aHsQ3aXptIKu86xulNwIqNVLzX3wYmaJ+/KhuiTK/EJ9vVEhQj91ECQwIDAQAB",
+  "request_transaction_id": "DXDGhNrkXxRW14LQAVWf2K5gReXmRuo+dOZNeQcqqEfrB8zjBN/6KTV/dd4dmRlDr94PB9EBnLqW1rU0u4wuHnW0jsNkN8pEPk0p5Q6MhKeBSw6nLa2z8jkizUS5PcFf8ZCiazpQBlfTNeBaR9h/nwn8p73eElOtwMeMkQs8ubVwz5uTLNR4IMBG18/ohq1yJvW2tg/WhlYcNu+F+PZRpaLcLXaZqLRVWjSksH6Tz4yMwz2zmT0RG0R5V3WcIAk93y/YOWiGVboIXj7+iKH6imieUsIHwuSAA7kUrAJ+It+X8KqJJhWtpAcdqt590TTlmZW5XM7B+us5HTusM6lI5w==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260605170344_045",
+    "telegram_message_id": "Edgar_20260605170344_046",
+    "processed_at": "2026-06-05T17:10:01.071Z"
+  }
+}

@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-06-05T20:10:53Z",
+  "generated_at": "2026-06-05T20:14:09Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -23,9 +23,26 @@
           "practitioner_name": "",
           "slug": "pk-iWL9OH9hpE_D",
           "captured_at": "2026-06-05T15:10:19.585Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": null,
-          "raw_payload_json": "",
+          "source_url": "https://oracle.truesight.me/?reading=7-6-9-7-7-7&cast=2026-06-05T15%3A10%3A19.585Z",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 13,
+                "name": "T'ung Jên / Fellowship with Men",
+                "changing_lines": [
+                  2,
+                  3
+                ],
+                "relates_to": 10,
+                "relates_to_name": "Lü / Treading"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "total_minutes": 15,
+            "mood": "reflective",
+            "qmdj_card": "Cast 6/5/2026, 8:10:19 AM節氣 小滿 · 下元局 陽遁8局四柱 丙午 癸巳 庚戌 壬午值符 天英 @ 震值使 景門 @ 艮飛步 8"
+          },
+          "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 13,\n      \"name\": \"T'ung J\\u00ean / Fellowship with Men\",\n      \"changing_lines\": [\n        2,\n        3\n      ],\n      \"relates_to\": 10,\n      \"relates_to_name\": \"L\\u00fc / Treading\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/5/2026, 8:10:19 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u5e9a\\u620c \\u58ec\\u5348\\u503c\\u7b26 \\u5929\\u82f1 @ \\u9707\\u503c\\u4f7f \\u666f\\u9580 @ \\u826e\\u98db\\u6b65 8\"\n}",
           "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
           "request_transaction_id": "qTdpHUmuIN4K+o53xoAdOmCXTe+tAVgFIiO6EdcihqtiG4aNsruKyvoNvbsBzz4QOtiZlookeRUR/GHWFZHWkJpzVkuQqG7iMvCtLAX4Z4a0lDCuJFDrgkzyOaLsOglYclF93SXDkG9oS3zzmAN3FMdB4+PNBVFr2Dj3Zf16cIzpbP3vexLh+kKhPvnLX2I5sjXTYr1H5QyNOw/vVFZNiKXRPDKkXv7NElb44YO+RphMetvlnU4Fy424kaPGb7VZ9+sZnhPG4WRRhMq/aOAXLY0/aSimUPOB/Iajp3CtMHmDAGdteKtbAcQFAoOGztTaUtT5VVk5r1DFTAseVO36PA==",
           "intake": {
@@ -42,9 +59,26 @@
           "practitioner_name": "",
           "slug": "pk-iWL9OH9hpE_D",
           "captured_at": "2026-06-04T17:36:04.317Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": null,
-          "raw_payload_json": "",
+          "source_url": "https://oracle.truesight.me/?reading=8-6-7-8-7-9&cast=2026-06-04T17%3A36%3A04.317Z",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 53,
+                "name": "Chien / Development",
+                "changing_lines": [
+                  2,
+                  6
+                ],
+                "relates_to": 48,
+                "relates_to_name": "Ching / The Well"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "total_minutes": 15,
+            "mood": "reflective",
+            "qmdj_card": "Cast 6/4/2026, 10:36:04 AM節氣 小滿 · 下元局 陽遁8局四柱 丙午 癸巳 己酉 庚午值符 天任 @ 坎值使 生門 @ 坤飛步 6"
+          },
+          "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 53,\n      \"name\": \"Chien / Development\",\n      \"changing_lines\": [\n        2,\n        6\n      ],\n      \"relates_to\": 48,\n      \"relates_to_name\": \"Ching / The Well\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/4/2026, 10:36:04 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u5df1\\u9149 \\u5e9a\\u5348\\u503c\\u7b26 \\u5929\\u4efb @ \\u574e\\u503c\\u4f7f \\u751f\\u9580 @ \\u5764\\u98db\\u6b65 6\"\n}",
           "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
           "request_transaction_id": "udwSKy8chQvjK1o4TXBBzaT96X69+sQu/xtEI5OIXj5XNTXjG2IuXP1h9rAxVux1MBlMmZK8W7jfpyU7N0aVrdWCwVZi7rWQjV7S2Ny2IbaIXjLlWbT+2DHYsbyqjYizxupw/bvsr6072/unZ111CuFbAd0gk2wqaRHAiAg6+u1dUL1HUsb8uJ+N7r+3nPNGSsGQHcZvM3iwbyF7zv1iS73tMOgVAEtxvyHLpMB2HGwjHblJboCpnzgDzUeNzbYDMXk/E/wMnHwQinz7+Mdyd2euCA8DsK32BV7wZ2rA2WgO71cxgmR5MfrYJqSPHgDTn7vf2Eb8HrLI+qzVXTlP1g==",
           "intake": {
@@ -61,9 +95,26 @@
           "practitioner_name": "",
           "slug": "pk-iWL9OH9hpE_D",
           "captured_at": "2026-06-03T17:41:36.430Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": null,
-          "raw_payload_json": "",
+          "source_url": "https://oracle.truesight.me/?reading=9-7-7-6-7-7&cast=2026-06-03T17%3A41%3A36.430Z",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 9,
+                "name": "Hsiao Ch'u / The Taming Power of the Small",
+                "changing_lines": [
+                  1,
+                  4
+                ],
+                "relates_to": 44,
+                "relates_to_name": "Kou / Coming to Meet"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "total_minutes": 15,
+            "mood": "reflective",
+            "qmdj_card": "Cast 6/3/2026, 10:41:36 AM節氣 小滿 · 下元局 陽遁8局四柱 丙午 癸巳 戊申 戊午值符 天輔 @ 艮值使 杜門 @ 艮飛步 4"
+          },
+          "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 9,\n      \"name\": \"Hsiao Ch'u / The Taming Power of the Small\",\n      \"changing_lines\": [\n        1,\n        4\n      ],\n      \"relates_to\": 44,\n      \"relates_to_name\": \"Kou / Coming to Meet\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/3/2026, 10:41:36 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u620a\\u7533 \\u620a\\u5348\\u503c\\u7b26 \\u5929\\u8f14 @ \\u826e\\u503c\\u4f7f \\u675c\\u9580 @ \\u826e\\u98db\\u6b65 4\"\n}",
           "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
           "request_transaction_id": "SOyKagkjYNKiz04TGq4zPX3NGVMWh6ITDjJdnFNHflOJl6RgJVjisI6teR6mYDXRdWfRsx2YNHhE0pVb8LrAGewVsFVnLS7MeRXIgTs8yIiONcrV0NSUUKEpaZ+HXZasVVQanmjxTeRQNvrz2nTNP0OH/W9a/Rzi0/+UPACMHAYOUiDn4Ac4dXPxR7kRm60Lg/n3VVGgHR6N7E32jr9JGruEL77N3btkocR0E9ca0fQoCbUVHX9peS3TTSjI3JdVmCrdE0YjDseYyuf5E1/A6VU1ugiwQVU1dO2K6ac8k7mMBoFJY7IV2IR2IkVscHu/N+PQG3znAQUJ6ByEqMJtgA==",
           "intake": {
@@ -80,9 +131,25 @@
           "practitioner_name": "",
           "slug": "pk-iWL9OH9hpE_D",
           "captured_at": "2026-06-02T17:16:07.996Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": null,
-          "raw_payload_json": "",
+          "source_url": "https://oracle.truesight.me/?reading=7-7-9-7-7-8&cast=2026-06-02T17%3A16%3A07.996Z",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 43,
+                "name": "Kuai / Break-through",
+                "changing_lines": [
+                  3
+                ],
+                "relates_to": 58,
+                "relates_to_name": "Tui / The Joyous"
+              }
+            ],
+            "advisory_summary": "The reading is complete, but the DAO advisory call failed. You can still open the advisory links above and retry by recasting.",
+            "total_minutes": 15,
+            "mood": "reflective",
+            "qmdj_card": "Cast 6/2/2026, 10:16:07 AM節氣 小滿 · 下元局 陽遁8局四柱 丙午 癸巳 丁未 丙午值符 天沖 @ 乾值使 傷門 @ 坤飛步 2"
+          },
+          "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 43,\n      \"name\": \"Kuai / Break-through\",\n      \"changing_lines\": [\n        3\n      ],\n      \"relates_to\": 58,\n      \"relates_to_name\": \"Tui / The Joyous\"\n    }\n  ],\n  \"advisory_summary\": \"The reading is complete, but the DAO advisory call failed. You can still open the advisory links above and retry by recasting.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/2/2026, 10:16:07 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u4e01\\u672a \\u4e19\\u5348\\u503c\\u7b26 \\u5929\\u6c96 @ \\u4e7e\\u503c\\u4f7f \\u50b7\\u9580 @ \\u5764\\u98db\\u6b65 2\"\n}",
           "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
           "request_transaction_id": "taLoug2Bicd+rfAcuANWzNIeDA79LnkDjrd4sbL/M2kXZu2p4Xy2cry6u4yQaKczCmR7YHx4vPfRKRvqmdnp9dDRY6bGnEeFPcKvgFDCHT0yIWsED3s67zcyVLvdpXpz1y087aBcUtXC+kslQgZWq6scGISmzyf+NVA/x36zqc2URgKCTLRlmr+I9U5BuUO09f27uvdUgoWhoP0+odC63TIDcUti12/l9fI4gai9YtyaJn/e2wOAdEOqRhPBOzVVtaZO93BFpiVgHvWbZtu4Owqv03+OBcApq3jZvaVoVMG3A7CKWNmk7Tt/J4qp2Yl+77f45NoT4bRfCNssLzl95A==",
           "intake": {
@@ -99,9 +166,25 @@
           "practitioner_name": "",
           "slug": "pk-iWL9OH9hpE_D",
           "captured_at": "2026-06-01T16:23:13.280Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": null,
-          "raw_payload_json": "",
+          "source_url": "https://oracle.truesight.me/?reading=8-8-6-7-8-8&cast=2026-06-01T16%3A23%3A13.280Z",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 16,
+                "name": "Yü / Enthusiasm",
+                "changing_lines": [
+                  3
+                ],
+                "relates_to": 62,
+                "relates_to_name": "Hsiao Kuo / Preponderance of the Small"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "total_minutes": 15,
+            "mood": "reflective",
+            "qmdj_card": "Cast 6/1/2026, 9:23:13 AM節氣 小滿 · 下元局 陽遁8局四柱 丙午 癸巳 丙午 甲午值符 天芮 @ 坤值使 死門 @ 坤飛步 0"
+          },
+          "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 16,\n      \"name\": \"Y\\u00fc / Enthusiasm\",\n      \"changing_lines\": [\n        3\n      ],\n      \"relates_to\": 62,\n      \"relates_to_name\": \"Hsiao Kuo / Preponderance of the Small\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/1/2026, 9:23:13 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u4e19\\u5348 \\u7532\\u5348\\u503c\\u7b26 \\u5929\\u82ae @ \\u5764\\u503c\\u4f7f \\u6b7b\\u9580 @ \\u5764\\u98db\\u6b65 0\"\n}",
           "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
           "request_transaction_id": "tzHJ/0tRnYlMiCWw6+XvFRvhUFP2MlX42T5KBOEYhjVbEaNLZZWSGHZa7oDXS6n5zfl4W03LqQFXMhkpen2b//J7oWG27+dTMttMq+6ozLGCMo9qeIv565caHHBsmKLwBQEJvKbnis7xHvv0TI5xCzUW2cFXL7ZmuVTW/siN3E7qvvjhJ6n0sVQXp5IkYGmpaEbNemuH2dGCzOnhJxgKi9qJiiuKX+2ah0U0GiRkx0PTNMFNKsxE6rrTaB2DROEGIpeTMBJpGlscv0IFgSIeh5xnB96Q6wnA3y5zqqsL7kgV/wLxTXnoeHAwGfEH+q9rRyUuXZJj8nVc6EZSqGbNYQ==",
           "intake": {
@@ -118,9 +201,25 @@
           "practitioner_name": "",
           "slug": "pk-iWL9OH9hpE_D",
           "captured_at": "2026-05-31T15:35:17.029Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": null,
-          "raw_payload_json": "",
+          "source_url": "https://oracle.truesight.me/?reading=8-9-8-8-7-8&cast=2026-05-31T15%3A35%3A17.029Z",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 29,
+                "name": "K'an / The Abysmal",
+                "changing_lines": [
+                  2
+                ],
+                "relates_to": 8,
+                "relates_to_name": "Pi / Holding Together"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "total_minutes": 15,
+            "mood": "reflective",
+            "qmdj_card": "Cast 5/31/2026, 8:35:17 AM節氣 小滿 · 下元局 陽遁8局四柱 丙午 癸巳 乙巳 壬午值符 天英 @ 震值使 景門 @ 艮飛步 8"
+          },
+          "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 29,\n      \"name\": \"K'an / The Abysmal\",\n      \"changing_lines\": [\n        2\n      ],\n      \"relates_to\": 8,\n      \"relates_to_name\": \"Pi / Holding Together\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 5/31/2026, 8:35:17 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u4e59\\u5df3 \\u58ec\\u5348\\u503c\\u7b26 \\u5929\\u82f1 @ \\u9707\\u503c\\u4f7f \\u666f\\u9580 @ \\u826e\\u98db\\u6b65 8\"\n}",
           "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
           "request_transaction_id": "IxxfbyiQxlom8rTGdinv0jMU7a3j9URUZ/d3tfLVRIz26tAY1OA2kido+856dDmAJfSh3P1trOn4htnMDqHJxNzPZX+P3lFyrT3y+uMFOALNuKEndjMZhkZAeTtMttZsTx5tFzlDgxZPdQKvk5dF3JleVJHBpLk5gzlOy4PgecZxLUKgUwT8xIjS6MoVZhkqTVjPHvHo5xaUHwmt9qs/m9Nt1UNSYDTlGdC3Z60XJ96XTXAzERgoaZLocMak5InZZ97bwj+hjh9DjlgIRzELQ7y9wEsrkX1Jv5XGy5rNqBXDSCb9dNoW8vbEQUho9ic5RpqXbUYTI+UObz8X0ZzHtQ==",
           "intake": {

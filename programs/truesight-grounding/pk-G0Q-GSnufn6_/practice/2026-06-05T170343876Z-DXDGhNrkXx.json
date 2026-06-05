@@ -5,9 +5,25 @@
   "practitioner_name": "",
   "slug": "pk-G0Q-GSnufn6_",
   "captured_at": "2026-06-05T17:03:43.876Z",
-  "source_url": "https://oracle.truesight.me/",
-  "payload": null,
-  "raw_payload_json": "",
+  "source_url": "https://oracle.truesight.me/?reading=8-7-9-7-8-7&cast=2026-06-05T17%3A03%3A43.876Z",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 50,
+        "name": "Ting / The Cauldron",
+        "changing_lines": [
+          3
+        ],
+        "relates_to": 64,
+        "relates_to_name": "Wei Chi / Before Completion"
+      }
+    ],
+    "advisory_summary": "Morning oracle grounding session.",
+    "total_minutes": 15,
+    "mood": "reflective",
+    "qmdj_card": "Cast 6/5/2026, 10:03:43 AM\u7bc0\u6c23 \u5c0f\u6eff \u00b7 \u4e0b\u5143\u5c40 \u967d\u90418\u5c40\u56db\u67f1 \u4e19\u5348 \u7678\u5df3 \u5e9a\u620c \u8f9b\u5df3\u503c\u7b26 \u5929\u82f1 @ \u5764\u503c\u4f7f \u666f\u9580 @ \u514c\u98db\u6b65 7"
+  },
+  "raw_payload_json": "{\n  \"hexagrams\": [\n    {\n      \"number\": 50,\n      \"name\": \"Ting / The Cauldron\",\n      \"changing_lines\": [\n        3\n      ],\n      \"relates_to\": 64,\n      \"relates_to_name\": \"Wei Chi / Before Completion\"\n    }\n  ],\n  \"advisory_summary\": \"Morning oracle grounding session.\",\n  \"total_minutes\": 15,\n  \"mood\": \"reflective\",\n  \"qmdj_card\": \"Cast 6/5/2026, 10:03:43 AM\\u7bc0\\u6c23 \\u5c0f\\u6eff \\u00b7 \\u4e0b\\u5143\\u5c40 \\u967d\\u90418\\u5c40\\u56db\\u67f1 \\u4e19\\u5348 \\u7678\\u5df3 \\u5e9a\\u620c \\u8f9b\\u5df3\\u503c\\u7b26 \\u5929\\u82f1 @ \\u5764\\u503c\\u4f7f \\u666f\\u9580 @ \\u514c\\u98db\\u6b65 7\"\n}",
   "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsblIMMxwstvu6RiqpQN3c3PClRaYwmDWj+O3AzycbZVJPukH1J/4epnjJPD6KsnMnih6Mvt0xbq+8X9sjgVZ7GubU5iRyKpuMYcjGA79n4Rdc9J7/7qzAgnNSWlCP33uiBj63dYgjWlYWkhlpyz3SdlJ/nOtEI1YW4MQDioesYi7rpIIaZDQGJhHH3cMLzkemJ5t0CJzuZRH7ISbrScVI+gGlHWYCpTLrvFghAD0hlVu/XUx3Ty37ECsAUOIVL6TMmcvOX8C7fkuTSSF78RI89nEye2Rd4aHsQ3aXptIKu86xulNwIqNVLzX3wYmaJ+/KhuiTK/EJ9vVEhQj91ECQwIDAQAB",
   "request_transaction_id": "DXDGhNrkXxRW14LQAVWf2K5gReXmRuo+dOZNeQcqqEfrB8zjBN/6KTV/dd4dmRlDr94PB9EBnLqW1rU0u4wuHnW0jsNkN8pEPk0p5Q6MhKeBSw6nLa2z8jkizUS5PcFf8ZCiazpQBlfTNeBaR9h/nwn8p73eElOtwMeMkQs8ubVwz5uTLNR4IMBG18/ohq1yJvW2tg/WhlYcNu+F+PZRpaLcLXaZqLRVWjSksH6Tz4yMwz2zmT0RG0R5V3WcIAk93y/YOWiGVboIXj7+iKH6imieUsIHwuSAA7kUrAJ+It+X8KqJJhWtpAcdqt590TTlmZW5XM7B+us5HTusM6lI5w==",
   "intake": {

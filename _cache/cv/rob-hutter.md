@@ -1,6 +1,6 @@
 # Rob Hutter
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-05T21:10:27Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-06T02:55:41Z*
 
 Rob Hutter made two contributions to the DAO in April 2021.
 

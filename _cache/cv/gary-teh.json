@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-07T13:49:18Z",
+  "generated_at": "2026-06-07T16:58:51Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88370,6 +88370,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Reaching out to Lucas Root about placing chocolate bars in his vending machine\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: IMG_2363.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260607142654_gary_teh_img_2363.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: DffrTTZ36jL/5NC0O9DuQL//Fpwas59e1VE9FA5GO1WHiFv4OgmuIPM9unVkmB0JiBOw3d1ySPXPX+f3wTfslrFAKkIDcqJFLh8iAZf946kdeAtxZz8b/S7E0lAiqX+DSLzTSrND0AXEa1CDKmBXRiAD0UANNajJ+3QwmlnqI7CFuPodDctgyPKW+/hR0F+y9DEFwBGr95FEgtDHtq8AnShj15Wdl1xE6ZPz9VG7K4ocVL2t6aw/5+J1oOAu/e1geJmc4pFujG5yGBoO96XkpG6OAP3wmLzOphQmDfYL8xyXGy1ZBZlPiml6A3MrhFqOyN28HdUiZWQKmW3fd/SJvA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "8.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260607",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "e5SYGDvHrm2r84C13SoQ",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Responding to Dennis about Nora’s question as well as placement of cacao in his store\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: IMG_2362.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260607142745_gary_teh_img_2362.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: L0oFyds1KcoZO6kyTkr6hH2AjjwN1599xWubFQ3+Aalu5WY81a18zasCpCGp/2+NmW2KYusN9mQh320xUdqp6gwk1y9KS00+4uNhPimLEZeXSalflOGIRCdhcPbKobN7rtCTXKIrEEjYsm1ThK5JTghjv+aOK1jp1KEpM1BWP/Uf83HJ0OO9yvEQbDyqKfMBCLo3uqX7SYOkLYebIGIOcVsaqsoHAslpprrI62z0dlzbeNJNEOo6oQWFpEUO9vfZtjU1o98MrrgZFdtu13K0F5rqht47l7U/KVwAO+XQfKaXsBOvjdhrr/HHsw4GunWuG7dkjfJ/ZDfaLVgKdfIK3Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "8.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260607",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "+U6TgZU2pijqbX+Ez9/u",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

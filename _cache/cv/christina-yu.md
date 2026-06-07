@@ -1,6 +1,6 @@
 # Christina Yu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-07T16:58:51Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-07T19:20:44Z*
 
 Christina Yu made two contributions to the DAO between December 2021 and January 2022.
 

@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-06T19:20:19Z",
+  "generated_at": "2026-06-07T03:42:38Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88410,6 +88410,62 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "7pxLsMzSgQQAhhUX7gnW",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Reply-only involvement: outreach pipeline now machine-handles every pre-reply state\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/162\n  \n  Details:\n  Operator reviewed the remaining 16-draft human-review queue and ruled that human involvement should begin only when a prospect replies. Restructured the warm-up auto-sender accordingly: Hosts Circles prospects now auto-send by default; the generic-inbox lint flag is informational everywhere (own-domain inboxes converted a partner, unverifiable ones are the shop's only listed address, and bounce handling is the safety net); drafts with positive wrong-address evidence self-heal like bounces (draft discarded, bad_email Notes marker, Email cleared, row re-queued to contact discovery, enrich exclusion regex extended); body-quality failures auto-discard for one Grok regeneration attempt per recipient with repeat offenders as the only human residue; stale sheet rows auto-reconcile. Applied live: the AI/Needs Review Gmail label drained to zero, one wrong-address row auto-re-enriched, clean tier now 46 of 47 pending. The operator's outreach surface is now exactly two things: prospect replies and the daily nudge digest.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Fo+Hy2cbtGTdMHxNTi6gf+U4S8Ap7kERODwQ1hWa1lsfZeQqXYsKhM9/GdafZS30z6FC/siJ9jFPinvtJtTYadMHe+jNJ9q1yJYAp4Cujl1Asr08kA2lt+UEqSzJYpZOJdGPOuw9How7+nPp8OsMk0m21QH0ey7TXskL7qBKDz9JLifmRiqxz8q8hwMurOJbO8cGT/0laIFqvI3GrMNOOKWHzv/uESku20KSQfGfCvtW8vtOkf9YQPXhluZYHa17fDzGBe3yAyABK9IJdVElZgH6HngwJiULPmL7xF+BK/eIMBbUji5lMwJveR3alWnWpkV1Pgo6c5OCTiaWRud50w==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260606",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "/y0/COa4mx71hlp/940Z",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Documented Telegram watchdog runbook + sophia upgrade hazards for cross-agent coordination\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/110\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/329\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/330\n  \n  Details:\n  Hardened the operational knowledge around the newly-live Telegram attention watchdog ahead of the sophia EC2 hardware upgrade being run by a parallel agent session. README of truesight_autopilot gains a Deployment subsection with the full one-time login runbook (my.telegram.org code-delivery gotchas, 4-step setup, session-custody rules, re-auth steps, WATCHDOG_* tuning) plus the env-table entry. CONTEXT_UPDATES carries two cross-agent notes: the three non-git artifacts that must survive any volume change (.env with on-box Telegram keys, Telethon session file, watchdog state), and the blue/green cutover hazard — concurrent Telethon clients on one auth key raise AuthKeyDuplicatedError and permanently invalidate the session, so Telegram services must stop on the old box before an AMI clone boots; recommended AWS DLM for periodic AMIs and keeping AMIs private since they now contain live credentials.\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Io5NmHNNHceqRMNqHOP3M+2oLMg+DOayBTnqWvOW8nmcCpL9JLS0QWzMkQPIDGhibBnUl8mhrhdkI4b/8HT00ZdCIktRl6Im9msSMjebkXe9DATFqTlK4Y7bvKAkP+aEU0eI4q1qz8A7WYHUS8f7CkClHAEShwtYTU2rqetDnaD/l7/To+lSKvzVSecKa5zb3AYUhAcVME5BpwczDrZgdxJK237Oi2jf6sqbajM+PbFXZmR0Mnh+KNCZCgZMhGyt2+Nj1Li8WCt6sWM+uMxNhPDYogB9WOp/ioBUJamiUJSs1gPf7sdNtMYGv9hI5wc9rSZ7HAE2VI8AjdF//tHJdA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260606",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "NwPOaHoVhnXiQE+PAp6J",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Activated Telegram attention watchdog + coordinated sophia upgrade with parallel agent session\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/327\n  \n  Details:\n  Operator completed the one-time MTProto activation of the Telegram attention watchdog: diagnosed the my.telegram.org code-delivery stall (codes arrive only in the in-app Telegram service chat and repeated requests silently rate-limit), obtained api_id/api_hash on a clean retry, performed the interactive Telethon login on the sophia EC2 box, and brought the truesight-autopilot-watchdog unit live (verified in journal: watchdog up as garyjob). Unanswered question-shaped Telegram DMs and mentions now nudge his Saved Messages on a 4h/2h SLA with a daily digest — closing the coordination failure mode that cancelled the June 12 cacao serving. Also coordinated the concurrent sophia hardware upgrade with the parallel agent session handling it: conveyed the AMI blue/green strategy decision (periodic AMI backups, spin replacement instance, repoint Elastic IP, retire old box) and the session-safety constraints documented in CONTEXT_UPDATES. Backlog entry closed in OPEN_FOLLOWUPS. Build-phase PRs were logged in earlier contribution entries; this entry covers the activation and coordination work only.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: D2f900+XoSDYtcZ1V7a/nDspB20+msS2QF1IeMwMDm4xANdOkQRczaSwbNBag4qLgKOf6Xi+5W5/pzGIYe7yNyOxiNS3MOKB8AontINDZnY2eTrQWiuRQOvI1CwhK7T3lNbAdQ05FYpFVhXlu6QJPzvdWre/lO/7PaTDWPxRl7JmVVNkEUenfht6cIFMyPbutkHpcu9gAl2Doi5+7AVXQSwN/Q6QPob8n3aMbtMPODAmJcG1mCYe9A+skdxKgGEQDVo8oFksKpaVXI7p04faIyXq4ecP2MreLYpOOU5Za9i8eT5HinJdtknX2U4oyU4HC4SBJ9jd2K1qmTAerM6taA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260606",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "ezYIb6+zFznp/Yp3Xvxw",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Filed dated follow-up: Sophia-drafted Telegram replies (watchdog v2, revisit July 6)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/333\n  \n  Details:\n  Designed and filed the operator-requested one-month follow-up for evolving the Telegram attention watchdog from read-only nudges to drafted responses. Entry specifies: a signal-quality read-out checklist to run at revisit (nudge count, false-positive rate, missed asks, latency improvement); a two-rung rollout where v2a posts context-grounded reply drafts to Saved Messages with sending staying fully manual, and v2b send-on-approval is hard-gated behind comfortable v2a usage plus reply-only scope, per-message approval, send caps, kill switch, and audit log; and the LLM-egress privacy decision that must be made consciously before any code, since the v0 watchdog promises chat content never leaves the box. Trigger ~2026-07-06.\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: ir/8A/IpC/KRiMp0B9kbfJtMf5iQeP+CQfm8lsoWVhUSFeS08XAgwlQIlApTvUHCh8+TXzwLiP/Xq3OeaXdhRlhcjotvlw0zT4cByepUSebphlmaIlKc9Ek6PRFi4ZJPqa5OXiDwcuHw1gxzQs5OzTM5os2tWiP3HsWSNsquF5SSZEM21gGTRkzltnPwrq70Tyh9L6o/zxUThHZnPGG8ed52qyhkcZF8yCS6hMfWnxf5bW5U8MxzP6qVrfII/9fWWv35Ur9ip0oT9WjeCZfpvN5DkZsl84MGuOrFl83+ei5d4CtJo1EqQgQdwwUcGt+d9BZRfA6q0+T95ISKCynWDA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260606",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "wrs/vXMEQkJrahdbWBSI",
         "reviewer_email": ""
       },
       {

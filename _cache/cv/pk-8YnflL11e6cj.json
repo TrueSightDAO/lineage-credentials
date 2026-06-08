@@ -1,0 +1,70 @@
+{
+  "slug": "pk-8YnflL11e6cj",
+  "display_name": "pk-8YnflL11e6cj",
+  "pk_hash": "pk-8YnflL11e6cj",
+  "identity": {},
+  "generated_at": "2026-06-08T17:24:36Z",
+  "has_elective_records": true,
+  "has_dao_contributions": false,
+  "programs": {
+    "truesight-grounding": {
+      "display_name": "TrueSight Grounding — Morning Oracle",
+      "lineage_root": null,
+      "source_pages": [
+        "https://oracle.truesight.me/draw.html"
+      ],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoFB0vFsZtadCJYeADXIkLSm8eRJnWMj8baym5jv9MbxQlLIO2U4LCC1QQVLBiIRm1Sd7GyaC3Olx7P39xRYrQfRMMmZshbzf5UTIgsfrB6Bu40yU0A90BLGBsU4OoHHl0lAW0sXsTCREaX3P9MoNqjLXVY2H2N/S2loyL/bFBt5ypZrdtp2YGYL0Gr71vlmgk4QtmAXZOYFtxaSCPALcVmkvAHS5HdsKpZPePMoVBMoYPRuDeFaMVIk1JoALVUbGnaNOGTW7Gim8gtJQz028JgML8X5CNXCB+T+KnUHmuYtzsdOGmylR6legK+1xqCXRGxWbvKJqC24coUYCCqfuVQIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-8YnflL11e6cj",
+          "captured_at": "2026-06-08T17:12:42.135Z",
+          "source_url": "https://oracle.truesight.me/?reading=6-8-8-8-6-9&cast=2026-06-08T17%3A12%3A42.135Z",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 23,
+                "name": "Po / Splitting Apart",
+                "changing_lines": [
+                  1,
+                  5,
+                  6
+                ],
+                "relates_to": 3,
+                "relates_to_name": "Chun / Difficulty at the Beginning"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "total_minutes": 15,
+            "mood": "reflective",
+            "qmdj_card": "Cast 6/8/2026, 10:12:42 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4"
+          },
+          "raw_payload_json": "{\r\n  \"hexagrams\": [\r\n    {\r\n      \"number\": 23,\r\n      \"name\": \"Po / Splitting Apart\",\r\n      \"changing_lines\": [\r\n        1,\r\n        5,\r\n        6\r\n      ],\r\n      \"relates_to\": 3,\r\n      \"relates_to_name\": \"Chun / Difficulty at the Beginning\"\r\n    }\r\n  ],\r\n  \"advisory_summary\": \"Morning oracle grounding session.\",\r\n  \"total_minutes\": 15,\r\n  \"mood\": \"reflective\",\r\n  \"qmdj_card\": \"Cast 6/8/2026, 10:12:42 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4\"\r\n}",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoFB0vFsZtadCJYeADXIkLSm8eRJnWMj8baym5jv9MbxQlLIO2U4LCC1QQVLBiIRm1Sd7GyaC3Olx7P39xRYrQfRMMmZshbzf5UTIgsfrB6Bu40yU0A90BLGBsU4OoHHl0lAW0sXsTCREaX3P9MoNqjLXVY2H2N/S2loyL/bFBt5ypZrdtp2YGYL0Gr71vlmgk4QtmAXZOYFtxaSCPALcVmkvAHS5HdsKpZPePMoVBMoYPRuDeFaMVIk1JoALVUbGnaNOGTW7Gim8gtJQz028JgML8X5CNXCB+T+KnUHmuYtzsdOGmylR6legK+1xqCXRGxWbvKJqC24coUYCCqfuVQIDAQAB",
+          "request_transaction_id": "WxhNOWFKRlJ4e6/HImdiflkoidNNpli9ArAKUxLE5QghE2npw96/+WplqvvyZX7P8SnZsj9Rc/YrVj2SovptU87JIYNu6ksnapWIVFz92GMbvasD+brZvuhvoz9pzYGp9Vga9fhGRAMAA1pQqD14xPNgCLV/4eEmaQd0FnO77fZSF9Nq3z/8PhA/cz1OKfGUsSQAnlDhoMvdGdFnaBwHDA08UgU6fsbH0tbvUIq2FVvsA03MZO0CeMLm0rhtjlsQVm0akfVlE6ljYOOhVR6zz6Ynou2hIDJWCz1/Uh8Jdwqp48rHmUvbkWNp2CpVvbrvZT+bDmv6QoLvH3ZhrLbk5w==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260608171243_013",
+            "telegram_message_id": "Edgar_20260608171243_014",
+            "processed_at": "2026-06-08T17:17:23.823Z"
+          },
+          "_path": "programs/truesight-grounding/pk-8YnflL11e6cj/practice/2026-06-08T171242135Z-WxhNOWFKRl.json"
+        }
+      ]
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-8YnflL11e6cj.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-8YnflL11e6cj"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

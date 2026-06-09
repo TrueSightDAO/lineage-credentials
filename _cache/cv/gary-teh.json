@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-08T20:12:52Z",
+  "generated_at": "2026-06-09T00:08:46Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -55,9 +55,65 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 21,
-      "total_practice_minutes": 589,
+      "practice_count": 22,
+      "total_practice_minutes": 597,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-06-09T00:02:19.964Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": {
+            "theme": "Attacks",
+            "moves_practiced": [
+              {
+                "id": "ginga",
+                "name_pt": "Ginga",
+                "duration_seconds": 360
+              },
+              {
+                "id": "role_joelhada_lateral",
+                "name_pt": "Joelhada lateral com rol?",
+                "duration_seconds": 480
+              },
+              {
+                "id": "role_martelo",
+                "name_pt": "Martelo com rol?",
+                "duration_seconds": 540
+              },
+              {
+                "id": "meia_lua_de_compasso",
+                "name_pt": "Meia lua de compasso",
+                "duration_seconds": 600
+              },
+              {
+                "id": "role_meia_lua_de_frente",
+                "name_pt": "Meia lua de frente com rol?",
+                "duration_seconds": 540
+              }
+            ],
+            "music_played": [
+              "002",
+              "001",
+              "005",
+              "004",
+              "010"
+            ],
+            "total_practice_minutes": 8
+          },
+          "raw_payload_json": "{\r\n  \"theme\": \"Attacks\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"role_joelhada_lateral\",\r\n      \"name_pt\": \"Joelhada lateral com rol?\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"role_martelo\",\r\n      \"name_pt\": \"Martelo com rol?\",\r\n      \"duration_seconds\": 540\r\n    },\r\n    {\r\n      \"id\": \"meia_lua_de_compasso\",\r\n      \"name_pt\": \"Meia lua de compasso\",\r\n      \"duration_seconds\": 600\r\n    },\r\n    {\r\n      \"id\": \"role_meia_lua_de_frente\",\r\n      \"name_pt\": \"Meia lua de frente com rol?\",\r\n      \"duration_seconds\": 540\r\n    }\r\n  ],\r\n  \"music_played\": [\r\n    \"002\",\r\n    \"001\",\r\n    \"005\",\r\n    \"004\",\r\n    \"010\"\r\n  ],\r\n  \"total_practice_minutes\": 8\r\n}",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "mUzpLqvYt72iYKhY2DmK5rwKDun2xi5wPWbTXbhnwBsti5RAatqGhw5G3fawev6o/2fSsA1WP/U/K8T0yyeHapkiX3iB7DKyc6EWZ3YlQwQHsyc+hhPN+s5IDP2gbSa5UcHtaOs7CcnLgLA7/lvA9nZvvX55qjGp3EoOSPvd7UfKAIxf861o/Isxrnf5ZrHb1Glc6iMk0fAnBtO8gab0Erzkv+oP01o+O2XboZZGIGS2ndGvEMJ2w8OxO94rL0sc29uMljuoQmS7Ze/JAB8tAo5D0pbzPWDZa9ZgUYfvrwIV6Qy4rFwKN1nhof7bTcvq+msfoGbQtKsyvcXss8uT3A==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260609000220_087",
+            "telegram_message_id": "Edgar_20260609000220_088",
+            "processed_at": "2026-06-09T00:07:22.478Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-09T000219964Z-mUzpLqvYt7.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",
@@ -1087,62 +1143,6 @@
             "reprocessed": true
           },
           "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T054636346Z-RQLncFlxRh.json"
-        },
-        {
-          "program": "capoeira-tribo-mirim",
-          "practice_type": "training-session",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-wR9zU8JMnEz1",
-          "captured_at": "2026-05-15T05:46:26.760Z",
-          "source_url": "https://capoeira.agroverse.shop/practice.html",
-          "payload": {
-            "theme": "Attacks",
-            "moves_practiced": [
-              {
-                "id": "ginga",
-                "name_pt": "Ginga",
-                "duration_seconds": 360
-              },
-              {
-                "id": "bencao",
-                "name_pt": "B?n??o",
-                "duration_seconds": 420
-              },
-              {
-                "id": "chute",
-                "name_pt": "Chute",
-                "duration_seconds": 420
-              },
-              {
-                "id": "gancho",
-                "name_pt": "Gancho",
-                "duration_seconds": 480
-              },
-              {
-                "id": "joelhada",
-                "name_pt": "Joelhada",
-                "duration_seconds": 360
-              },
-              {
-                "id": "joelhada_lateral",
-                "name_pt": "Joelhada lateral",
-                "duration_seconds": 360
-              }
-            ],
-            "music_played": [],
-            "total_practice_minutes": 40
-          },
-          "raw_payload_json": "{\n  \"theme\": \"Attacks\",\n  \"moves_practiced\": [\n    {\n      \"id\": \"ginga\",\n      \"name_pt\": \"Ginga\",\n      \"duration_seconds\": 360\n    },\n    {\n      \"id\": \"bencao\",\n      \"name_pt\": \"B?n??o\",\n      \"duration_seconds\": 420\n    },\n    {\n      \"id\": \"chute\",\n      \"name_pt\": \"Chute\",\n      \"duration_seconds\": 420\n    },\n    {\n      \"id\": \"gancho\",\n      \"name_pt\": \"Gancho\",\n      \"duration_seconds\": 480\n    },\n    {\n      \"id\": \"joelhada\",\n      \"name_pt\": \"Joelhada\",\n      \"duration_seconds\": 360\n    },\n    {\n      \"id\": \"joelhada_lateral\",\n      \"name_pt\": \"Joelhada lateral\",\n      \"duration_seconds\": 360\n    }\n  ],\n  \"music_played\": [],\n  \"total_practice_minutes\": 40\n}",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "request_transaction_id": "stYiAw9JF0WvxNzTSEUYPB7BiOBnRi5UseOfvnfNOZDb/62Fi7Y/VA2G/DbBWZvjf1I6+QPL+Rg8FqDObX0qodl3nwa08Q+FuMW1bV3aIlUMlpFYZDoVzVKL/Nm0pyqiAQF3TbrUI95DL5oY2I+BQseG1QZ/gP6lEa0VCOAiqhoUrvjcc/NbweLCtD2b+AyCHbZKMYgCls47rUWQJ0PeAAfJ0fsvYw6+M3klIpKCb9BKQ3uX1fnIQ1ugEDLox8t7REkx6ImnFGs8DW9fXJFc41ImQEXz3b20IF3Wq/liIhsQLUEHwwek0Wa1ZIzVJ37NdfmTaoGIXPw0Y743JNjB4A==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260515054627_079",
-            "telegram_message_id": "Edgar_20260515054627_080",
-            "processed_at": "2026-05-16T21:32:57.259Z",
-            "reprocessed": true
-          },
-          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-15T054626760Z-stYiAw9JF0.json"
         }
       ]
     }
@@ -88438,6 +88438,174 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "cdjFRdxKQGEXxZMU+Qny",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Published @truesight_dao/dao-client to npm (scope rename + CI publish workflow)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/67\n  \n  Details:\n  Got the browser DAO-client package published so the oracle/dapp can load it from a CDN. Diagnosed the publish blockers without ever exposing the token: the scope @truesight had no matching npm org (the org created was truesight_dao, account sophia_truesight as owner), so renamed the package @truesight/dao-client -> @truesight_dao/dao-client (package.json, README, src header); added a CI publish workflow (.github/workflows/npm-publish-dao-client.yml: workflow_dispatch + dao-client-v* tags, builds via prepublishOnly, npm publish --access public using the NPM_TOKEN repo secret) — dao_protocol PR #67. Set the NPM_TOKEN GitHub secret from the local .env via a subshell (token never printed). First publish failed E403 (the token wasn't a 2FA-bypass type); after the operator regenerated as an Automation/granular-write token, the workflow published @truesight_dao/dao-client@1.0.0. Verified live: npm registry latest=1.0.0, unpkg + jsDelivr both HTTP 200. Followed the new agent-attribution convention (Generated-by trailer). Oracle CDN re-wire intentionally deferred to a careful follow-up (verify-200 guard) rather than re-introducing the refactor that broke prod earlier.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: fdywB2Q6GLgxioAX6wJOi1KITsAxFjzO9LmwMkhHvgETuUrJKxwQzDvz8IqtOMVF5bZ7ZjdkFR/7VCIkftU/Vyp2x7zmgSR6SjxhHuB64ijTW9UYeB7ZDHMFsdhSUqw1xk3MDUZAnkOx3WI7ebG/TnkW765k65OFENnMyEHjd6HH66en58s9gT+4p0O30Cir2ZVSMY4vSuXi53AE2JHzmnA08jpkFL2ytb3SixxvPvedSz2ABb4zluf+jnC27rcYrRzblEOAFX0aWnrdraH/2OEZq7VMVkslq3jAUBNjxhTJpgsAfSqHLFjDEVLaZqjQ1PbnhIra9Hh4+j/66myXkQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "33.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "PHs2ktnYZPC1ixyZEteW",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 25\n- Description: Oracle CDN re-wire handed off to Sophia (full context); refresh-first handoff convention + NPM token rotation followup\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/362\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/363\n  \n  Details:\n  Handed the oracle CDN adoption to Sophia with full context + today's outage lessons. ORACLE_CDN_REWIRE_PLAN.md: §5 roadmap to safely adopt the now-published @truesight_dao/dao-client@1.0.0 CDN (verify unpkg 200 in-PR, pin @1.0.0, node --check every changed JS + each extracted inline script before merge, map inline helpers to the DaoClient global before deleting, preserve canonical-signing + 3-state identity UX + SW kill-switch; future versions publish via the dao_protocol CI workflow + NPM_TOKEN secret, no raw token on the box). Added a 'Before you start ANY handoff — refresh your repo view' step to SOPHIA_HANDOFFS.md (read_repo_file or git pull the context clone) to fix the stale-clone confusion Gary flagged; Sophia confirmed she pulled latest, verified the CDN 200, started PR1, topic 1638 (recorded with rejoin session_id). Filed OPEN_FOLLOWUPS entry to rotate NPM_TOKEN before its ~2026-09-06 expiry. All commits carry the Generated-by attribution trailer.\n- Contributor(s): Gary Teh\n- TDG Issued: 41.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: iv5RR6J57xT4eAb0wqVH0xtbG5GLqOaYrslpI3JKpiM4GJUKCaDjtzC9w+Q6zTpNzdKJX0NOON8j51cxs4Aw/JC14nRhQK1AAkmwq1dxTTHFEmx1HQ7uiOQK53Xg9cI0+LzVefNeJNd37DTHXf4INMEM1gNK2vS1nbH9BjCbkMVx1ebRszhJRgL8alK1msqQwpJoHwkaSnof08BDYq3m7vC2IzI+HvxPvmwl+WvVxWdvq+OaAcpd0DAOmek8Mr3E6TfSkYvoaCQzcQR7nv0eti+gtTkisaeTSnvPqw3Q/656IzgZRyuqUJ+SdO3kYA8TV3n2zILR4epZX8JFjSL9Gg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "41.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "CGa1EPix2wqsH+hsntOp",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Hotfix: revert oracle CDN integration (package global API mismatch broke signing); root-caused + handed proper fix to Sophia\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/oracle/pull/43\n  \n  Details:\n  Spun up the oracle locally with Sophia's CDN integration (PR #42) for review and caught a prod-breaking runtime bug: 'DaoClient.base64ToArrayBuffer is not a function' on every signing op (identity link/verify + reading submission). Root-caused from the minified bundle: @truesight_dao/dao-client@1.0.0 is built with esbuild --global-name=DaoClient on 'export class DaoClient', so window.DaoClient is the module NAMESPACE ({DaoClient: class}) not the class — the static base64 helpers live at DaoClient.DaoClient.*, while the oracle (and the package README) call DaoClient.* directly. node --check passed because it's a runtime API-shape mismatch, not a syntax error. Reverted PR #42 (oracle #43): restored the known-good inline base64 helpers in index.html + oracle-draw-submit.js and removed the CDN tag, parse-verified, merged → prod signing restored. Handed the proper fix to Sophia in topic 1638: fix the browser build so the global IS the class, add a runtime smoke test that loads the actual bundle and asserts the global shape (node --check cannot catch this class of bug), bump+republish 1.0.1, re-integrate the oracle pinned to @1.0.1 — open the PR for local review rather than auto-merging (integration has broken prod twice). All commits carry the Generated-by attribution trailer.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: B1c6tlDcRK4Y4FJX6Pr3n2/npbaRUB7nBCijvK3PodUUlt7J8oqQLHge9k/kmZZZpgGaUM1jtzGemWMZlNL6M/0t1kdegZTav64oBta7gukY3TbnHYNUDA/gg6X5VsZTe1ff4aKZKm9+5bTLSfnyytObeWHltAltxMBqsQY77dVhDkkBBtZUNqyhWrY8mkqf6pIUNzdmqoXvPvlDyNCSLhEnKkvWs8plwd/dmJPh+DWNAY0ZOaXP6vMDXp9lLkk2rOZNt4Gt3rmWSB6kEaKeqRXNV/Xu9lrWosZKWKrYxpGZErZ9JIXMsT8c7L7rT2c0GyhVAoPA3hA44xXXe2aS6g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "k94Ju/L9GCEsfiTWS+/y",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 25\n- Description: Capoeira dao-client swap (PR2): execution plan + handoff to Sophia (topic 1658), gated on @1.0.1\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/367\n  \n  Details:\n  Drafted the capoeira → @truesight_dao/dao-client swap plan and handed it to Sophia in topic 1658. Grounded it in the actual swap surface (capoeira/assets/js/practice-event-submit.js: base64 helpers, generateKeypair, publicKeyToSlug, signRequestText to swap; buildPracticeEventText/submitSession/backfillUnsent/getCvUrl stay inline). Wrote CAPOEIRA_DAO_CLIENT_SWAP_PLAN.md with the post-oracle-outage gates: depend on @1.0.1 (NOT the broken 1.0.0 global-shape build), verify the unpkg URL 200 in-PR, RUNTIME smoke test asserting the global shape (node --check can't catch the API mismatch that broke oracle twice), fix CDN load order (no blind defer), map-before-delete, open-PR-don't-auto-merge. Discovered the pre-existing master roadmap (TRUESIGHT_DAO_CLIENT_JS_ROADMAP.md) was stale (claimed scope @truesight, version 0.1.0, global window.TruesightDaoClient — all wrong) and corrected it + repointed the registry row to the dedicated plan. Refreshed Sophia's context clone; she confirmed, read the plan, and correctly PARKED PR2 until @1.0.1 lands (dependency on the global-shape fix in topic 1638). All commits carry the Generated-by trailer.\n- Contributor(s): Gary Teh\n- TDG Issued: 41.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Hkn9Mdt5f8sH1WMN9qPpa/QwB6VByBxPl8/wboY1Kg6rzmFsoqgqTnLYdmwqQnOojOaM8R5qBuVjKNhUB/7JCfVAkvhjHid7iGCjv81T5mi1jtTNQbBJ8aCLQUnFWHvWW6fq4fN6S4gVuZjCOr3XePEA6+kdSEpHZsl68fWAvRBxg2DDznymKKUgD4BkDmPjlJ9zdsnN2p0PVgbXVCCI1q9L5WYT5g+6vnAiYQnF6yzKL1N5vzsZKfFlCexjfFK/V2jIVwlxdHgqwWaZMuwMANosg/r2hjBpeCYJG/ychXOXkjNvNRpPhZ372ybGLU/Qk4esnKxCnVuW0mIHY3BZzQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "41.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "B4qdHwJS1Kka2NYYqAAw",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Consolidated DAO-client integration fix list (oracle + capoeira) handed to Sophia at thread 3\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/368\n  \n  Details:\n  Consolidated all outstanding @truesight_dao/dao-client integration issues into one coordination punch-list (DAO_CLIENT_INTEGRATION_FIXES.md, agentic_ai_context PR #368) and handed it to Sophia at thread 3 as the single tracker. Issue 1 (BLOCKER, topic 1638): republish @1.0.1 fixing the browser global (window.DaoClient must BE the class, not the module namespace — the bug that broke oracle prod twice) plus a RUNTIME smoke test that loads the actual bundle (node --check can't catch an API-shape mismatch). Issue 2 (oracle, reverted to working inline): re-do the CDN adoption against @1.0.1 with correct load order, preserving canonical-signing + 3-state identity UX + SW kill-switch. Issue 3 (capoeira, parked): swap practice-event-submit.js generic helpers, keep capoeira-specific logic inline. Captured the shared Definition of Done for every consumer swap (depend on @1.0.1 + verify unpkg 200 in-PR, runtime test, fix load order, map-before-delete, open-PR-don't-auto-merge, Generated-by trailer) and the sequence (Issue 1 unblocks 2 and 3, which then run in parallel as reviewed PRs). Refreshed Sophia's clone; she confirmed, restated the plan, and reported she's on Issue 1 with 2 & 3 parked.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: CNpyuf1Lu0hQb9rmba9YIdmqNhqZXnMzaLZsfxyeQ7TwWp/G3bgc3+kILPbFcUwx+rrX1PWYDQ30ydcOL2I2hVoWR7fg8TOtuSvuKScPRqK3RfnWHBoX3NAqVK7I6jLCjCNJ/uF+j/WPVZDoZyx8kqXxrlypeY6jMng3W0JrEJIBTCBcxHkNlITnJ0N5d9zCCvF8RvB16CxN6rHPrbtRkKMd5/4i0FQIYPoCAoT7uQlkZq4lTziaad9En+TuPQKhYyLxc8SxKwzwkTdnhEZnDxTTKt8beJOsfy9FLENDZxbgq3uFGqNoCaKVQT6ZnqnahKttq2eHtYNiV11ZxzBTBw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "33.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "xKZNF1F0EKJ7MftUVB0s",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Fix handoff pipeline: corrected protocol doc + posted in-Telegram go for thread 3\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/369\n  \n  Details:\n  Diagnosed why a ping_sophia handoff didn't reach the Telegram-facing Sophia: ping_sophia POSTs to the HTTP /chat-blocking endpoint, which returns the reply to the caller and does NOT post into Telegram or share session memory with the Telegram-side Sophia — so a handoff to a pre-existing thread (3) was answered over HTTP but invisible in Telegram (governor saw 'no handoff'). Fixes: (1) Corrected SOPHIA_HANDOFFS.md (agentic_ai_context PR #369) — removed the false 'session_id bridges to the Telegram topic' claim; codified that the durable handoff is the committed plan + registry, and the ping is a TRIGGER that must instruct Sophia to create the topic if none exists, POST the kickoff+context INTO the Telegram topic, reply with the thread_id, and wait there, so the governor always finds her ready with context. (2) Posted a governor go-ahead with full context into Telegram thread 3 via the bot API (message 1690) authorizing Sophia to begin Issue 1. Flagged an incidental short-lived Google access-token print from sourcing the box .env; will grep single vars going forward.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: CvkrW//xEiaLXYfcHUo3J4cFa/Z+5VOLWfoq0o10/GTnCZbjBitVFe00Y0ia06vhz1s35p7CSAhw0Ht0eEWel4qHdSzyjL+QlG4cVANmsE9hP6QVdyf6vIq6nEbvjo3pVIDmwSnOmB1F+tmflsGb1QKHp9RVHNoZOwwWFWt7SQ1LDDey2lJq1SR5/MxzfSJp5hOsByuc+411k/eyy3f1lrmOZeupbLs0aGTo+30M59Re8RAIeWkEY4D4FymaUZzJJC8bl1X8pk/fLFiIN9ku/BLhLV/fR+0yhNmpZNJna4S7e9Jy0fsWYugAZtt527F+uNFJguglsIbypkngVOYtfQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "33.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "DeOwVVPADH//esRuSjbm",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 25\n- Description: Solidified handoff protocol (GO convention + agent-agnostic runbook); verified Sophia's @1.0.1 fix is live\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/370\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/371\n  \n  Details:\n  Codified the handoff end-state Gary wanted. SOPHIA_HANDOFFS.md now has: (1) an agent-agnostic 5-step runbook so any local LLM (Claude/Cursor/Kimi/Codex) hands off identically — write plan → commit to main (durable handoff) → registry row → trigger Sophia → record thread_id; (2) the GO convention — after a handoff Sophia is parked in a topic with full context posted, every kickoff ends with the GO prompt, and the governor authorizes the WHOLE plan with a short 'go for it' (or go/proceed/ship it), on which Sophia executes from RESUME HERE through all gates (open-PR-don't-auto-merge, verify/runtime-smoke-test, Generated-by trailer) and reports in-thread with no per-step confirmation; (3) the tooling reality — Sophia can only post into topics she creates (no post-to-existing-thread tool), so handoffs let her create + report the topic rather than targeting a pre-existing thread (this is why the thread-3 attempt didn't land). PRs #369 (protocol-not-a-bridge fix), #370 (runbook + GO convention), #371 (topic-creation reality + tracker → 1695). Also verified Sophia's Issue 1 is genuinely done: dao_protocol #69 (merged) republished @truesight_dao/dao-client@1.0.1 with the browser global fixed via an esbuild footer (globalThis.DaoClient = the class) + a runtime smoke test asserting the global shape; confirmed live on npm (latest 1.0.1) and unpkg (200, global = class). Oracle + capoeira are now unblocked; Sophia is parked GO-ready in topic 1695.\n- Contributor(s): Gary Teh\n- TDG Issued: 41.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: L/uK0I9ecx4UTmjxCKa9SWeseNjlSD1XBONAq5ifQnAN72wKGt5n8vfh/sWVM1BFDLtx7u04dGFEBYQG4TJ8VONdz0eXxGdc00tdWVQ5wJUq0E0lNvIfRn2HkfKoPex71SlzZPvtHb8wgS6UMuMdEJN8ZwusmHqHTunTB/qqa1f01XQ3pIja+YZg+/RPU7ZUOuvb+XFn8N1l24wzUs+NAB76UnBTTreEscBbDzIZR+WQIXhE2ZRHYeaU9mEWQLZ1Fp23El5XPwzyKDpEn/oKL02oIFqU68Av02eminJ2EvINEloU6GfKBFh0Y9Zic3LxysGh0q2MsinlXv1rD9RImw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "41.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "/3Tnb/7B9ejnTurifwfy",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 25\n- Description: Handoff protocol overview doc (LLMs ↔ Sophia ↔ humans) with mermaid flows\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/373\n  \n  Details:\n  Authored HANDOFF_PROTOCOL_OVERVIEW.md in agentic_ai_context (PR #373): a human-readable map of the full handoff protocol across local LLMs (Claude/Cursor/Kimi/Codex), Sophia (autopilot), and human governors. Covers the actors & interfaces (terminal, GitHub = durable source of truth, ping_sophia = trigger-not-bridge, Telegram = live coordination + GO convention), and three mermaid diagrams: the end-to-end handoff sequence; the 'go for it' execution/gating flow (verify → smoke test → map-before-delete → open PR → auto-merge-vs-park-for-review); and the three human touchpoints (initiate in terminal / authorize via Telegram 'go for it' / review+merge PRs + account-only actions). Documents the Definition-of-Done gates and current limitations (Sophia posts only to topics she creates/has seen; ping reply is the HTTP Sophia, not the Telegram session). Cross-links SOPHIA_HANDOFFS.md, GITHUB_AGENTIC_AI_SSH.md, OPERATING_INSTRUCTIONS.md §5. Added an orientation pointer from SOPHIA_HANDOFFS.md.\n- Contributor(s): Gary Teh\n- TDG Issued: 41.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: bl/b5il1elF4LYJmhq282XK2esa5hWZ65I3Mo5Decla3TaCp2yoPvimU0gn9ADp/hFZHeej0AlU0YWMke5HyjhF08p7pWhaRTOVSuGNevW/eQ5/PuhzPn4jwkZpvyxFdn9h2nbNiPcTiwclenx6zP5w1hPqZsnTpRnga4WTVCQt3w4oIeKgR89dDMZi38DHO85xs5b08mOrwN/AJlI6wJ9mFHItDvAHe+LCIf//EwIK5mpc3keGRCVaefvVI1/3USmjGLmSJpb6RhNaK0V8QanxiunkCD/fv5ce2sAcw1ueQyjsCpOm9zxL22w44Cfr3KXDwZcEM5VylyZw79G/8Ew==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "41.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "3sqF2dd88ap9BCfj8yRN",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Morning Oracle Standup: plan drafted + handed to Sophia (topic 1722)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/374\n  \n  Details:\n  Designed and handed off the Morning Oracle Standup feature (agentic_ai_context PR #374, MORNING_ORACLE_STANDUP_PLAN.md): a governor's morning oracle draw fires a signed, fire-and-forget browser trigger to a new Sophia /daily-briefing endpoint, which verifies the key maps to a governor (check_digital_signature), dedups once per day, composes a personalized agenda from live sources (parked handoffs, open PRs, due OPEN_FOLLOWUPS, in-flight status, drawn hexagram as framing), and posts to Telegram #General so the day's items are waiting — flowing into the GO convention. Mermaid flow + pre-flight (CORS for oracle origin, signed-request shape, dedup store) + sequenced PRs (PR1 Sophia endpoint, PR2 oracle trigger depends on it) + gates (governor-check, dedup, non-breaking trigger, privacy, open-PR-don't-auto-merge). Followed the solidified protocol; Sophia created topic 1722, posted the kickoff ending with the GO prompt, parked at PR1 GO-ready (recorded PR #375).\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: nt8oUnEH5M1pZ/BwbFOE1BBxuWNzKTFW+hVbqw/vamhrC0kMZce+++aeOhVvIAeBgqS+NQ+DBtHfS9eHI0VWtDfRboutC5yQ0UMSO2JGG3k7HgqL3pLzS7IJ4FHin1SfXs/prVLkq0R9+mW4acKMDgnN+6pBhcCFk5iRNeYrxbsUmKJ3JP4lt79H/RaU9zaFXUvIBgrEqYfp31cvteKO6MtykQkjvCcjHOBKirKLuHa8Ol3Rs/VKO/O14n5X+3UhwBIUlel3OHAYD0g7oRaMln33Y0YGVKKIXc6tIAmtJMN7UxVaj3S9BoHsVDipuLLwMuDwcuoO0yO4/wLmQG8ZjQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "6rKp3gX3N3Z4wyajVKaW",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 50\n- Description: Made the GO convention real: Telegram adapter resolves thread_id → handoff plan (deployed)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/128\n  \n  Details:\n  Fixed the keystone bug where a bare 'go for it' in a Telegram handoff topic had no referent (each message is a stateless turn, so Sophia replied generically). Root cause + fix: the thread_id already travels to the brain via build_session_id, and SOPHIA_HANDOFFS.md already maps thread_id → plan file — so wired them together in app/telegram_adapter.py: before dispatch, look up the current thread_id in the registry and, for an active handoff, prepend a context line instructing the brain to read that plan (read_context_file) and treat a go-signal as authorization to execute from RESUME HERE. Adapter-only and fail-safe (any lookup error dispatches the message unchanged → blast radius limited to the Telegram path). Split out a pure _parse_handoff_plan() + unit tests (thread-id match, session-id-suffix match, inactive-row ignored, unknown→None); verified against the live registry (1722→MORNING_ORACLE_STANDUP_PLAN, 1695→DAO_CLIENT_INTEGRATION_FIXES). Shipped truesight_autopilot PR #128, deployed to the box (git pull + systemctl restart truesight-autopilot-telegram.service, confirmed active). This makes the GO convention actually work end-to-end.\n- Contributor(s): Gary Teh\n- TDG Issued: 83.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: gKep3CJhUkIaigEbDN8LL55cCO70MbO0AM5YDlbJXORGX7PDTkk8WPJMrxnN3APbGNjBTUQcT4XcSsFEN7K71cNFJl8ob6wsWG3HqiPDGZRv63yR+l1s9w11jXknqcPUkGx7Tf1C4U+KMbBtfFJ2zf92xS8SayZt8gI2Wq6Kep0EzV+Mo7lkic22KyNYBf8qx8akMUOlBbmTc4Agimg/b/cjniLcJRYrNzM1P6S0ycaweI+9uHFMOIG0/4tmCbsO5PbMzjJ6LcTP8q+Ud5iEyMS+YMH7z89CLittTs+opk87qaZU1+Ed2Xc0vD1v3QxEpLNRZcB+yt+9n0aiqoPvEA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "83.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "vuyh/b7sVbrCL7190JsW",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Automated dao-client npm publishing: publish-on-version-bump (gated, idempotent)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/73\n  \n  Details:\n  Made @truesight_dao/dao-client publishing fully automatic (dao_protocol PR #73). Upgraded npm-publish-dao-client.yml: on any push to main that changes packages/dao-client/package.json, CI installs, runs the runtime smoke test (npm test) as a publish gate, then publishes only if that exact version isn't already on npm. So a release is now just: bump the version in a PR → merge → it self-publishes — no manual workflow_dispatch, no token handling (uses the existing NPM_TOKEN GitHub Actions secret, never on the box). Idempotent (already-published version = no-op, so unrelated package.json edits and re-runs are safe) and gated (a failing smoke test blocks the publish). Retained workflow_dispatch + dao-client-v* tag triggers. To ship 1.1.0 final now: bump 1.1.0-rc.1 → 1.1.0 and merge.\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: c9FrFlLoE15WaEU+TNAZTmFWiFd8D/qSGasQc2+r+QJAYzLBd/3uilBvv3NdIW6xXI+CgCCYhBQm69OS3B5sMeYo93PMF5I62F55eWt01V8ibegB3fhTRd512rUpAdpIJWydDH4ADbhzSIkQrG5VQBPRmU+WtoVS/H6tmzq7rM5w4BpOg0figR3oSe3lcnTJZExtgZLS1h0FnwFb7Ax/F86MXdyAxOpHOIUSQ03k/GCcnvWeiKWG2mTiqg5b1EduWonsfevkfjWKO4HW1O+eYF3eGUdLz3ujuZksIXaj0yCWmoFsHPC/jn23/11sKCJVwSYEN6h8pwpsGMjR+GJ1cg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "uqD/KktL3PPcNOiFypko",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: dao-client release flow documented + npm-token expiry hardened; Sophia notified\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/74\n  \n  Details:\n  Made the auto-publish flow durable + the token-expiry proactive (dao_protocol PR #74). README 'Publishing (automatic)' now documents: release = bump version → merge (CI publishes if new, smoke-test-gated), plus an explicit npm-token section (expires ~2026-09-06, lives ONLY as the NPM_TOKEN GH Actions secret — never on a server or in chat — governor-only rotation). The publish step prints a clear 'token likely expired → rotate' hint on failure. Added npm-token-health.yml: a weekly npm whoami that fails loudly so expiry is caught BEFORE it blocks a release; triggered it once to validate (success — token healthy). Notified Sophia of the bump-and-merge flow + the token rules via ping_sophia. Rotation remains tracked in OPEN_FOLLOWUPS (~2026-09-06).\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hqi++E1CxaKBFYSX67u2miXIkqxWkVZM5SnsxrVhJJEEa8Bd2GV/CPUPz7wC/UhcpcFIfnaNuxKnr8V0FpG0QYL3HoERDm8WcOt82eNI9g+MuiD4TCmt3FFYD+Wd/SHpfBxe7x/m77i8S28dB8Z8l8avJ64lgz7BS4q+b3M4uwtetVqy0XAlupon1myTb1qYRHX/9uMcBkly0dK+fCw2sHnkrT2VuFMLNzy9z7oXvtGmx07TdlxqvGJT9/uSNAVFYq6h/6WM1IdhcOahydQHRhbZCyRBtgUO/06XBWzWBZW44vKxIQurbzbp2c2+p99pf/wCy/qiqwyHoe37zqPTlw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "33.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260608",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "yx9CYv6ukPRkNgmOtRMm",
         "reviewer_email": ""
       },
       {

@@ -1,0 +1,49 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "practice_type": "training-session",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-wR9zU8JMnEz1",
+  "captured_at": "2026-06-09T00:02:40.941Z",
+  "source_url": "https://capoeira.agroverse.shop/practice.html",
+  "payload": {
+    "theme": "Attacks",
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "role_joelhada_lateral",
+        "name_pt": "Joelhada lateral com rol?",
+        "duration_seconds": 480
+      },
+      {
+        "id": "role_martelo",
+        "name_pt": "Martelo com rol?",
+        "duration_seconds": 540
+      },
+      {
+        "id": "meia_lua_de_compasso",
+        "name_pt": "Meia lua de compasso",
+        "duration_seconds": 600
+      },
+      {
+        "id": "role_meia_lua_de_frente",
+        "name_pt": "Meia lua de frente com rol?",
+        "duration_seconds": 540
+      }
+    ],
+    "music_played": [],
+    "total_practice_minutes": 42
+  },
+  "raw_payload_json": "{\r\n  \"theme\": \"Attacks\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"role_joelhada_lateral\",\r\n      \"name_pt\": \"Joelhada lateral com rol?\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"role_martelo\",\r\n      \"name_pt\": \"Martelo com rol?\",\r\n      \"duration_seconds\": 540\r\n    },\r\n    {\r\n      \"id\": \"meia_lua_de_compasso\",\r\n      \"name_pt\": \"Meia lua de compasso\",\r\n      \"duration_seconds\": 600\r\n    },\r\n    {\r\n      \"id\": \"role_meia_lua_de_frente\",\r\n      \"name_pt\": \"Meia lua de frente com rol?\",\r\n      \"duration_seconds\": 540\r\n    }\r\n  ],\r\n  \"music_played\": [],\r\n  \"total_practice_minutes\": 42\r\n}",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+  "request_transaction_id": "EjxTwde/Cfdlni0aZrkQfRwMyB1iotTqQUNK7Hj3xJp8ie9ltzuiqzvIc/rQ4DfqGFDw3fpRdgvdJhGogsArZw7coxBUmuvxOzkRskjc0Nec4Ek/rBliDIOu3JgbI82THS6pugaoXV9abi2Txc19YVr7K+2AZmTTE/I3f2hgQHrE35cqZqGM21g8F7tykJli+4Dy0DALnA3tXoKPho8jt9F60NBhJAqZTrysoGRHvXyPoB6Mva11Z2/IbRJzpg6GOxZAUm6f2ePNuKenJl6GTkce+2Lu6Ml0jeMTlw/yCUsQ04PE6NOlYOXBzDcxLWqd5+vUfoTyObqpMrUuLzC74A==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260609000241_091",
+    "telegram_message_id": "Edgar_20260609000241_092",
+    "processed_at": "2026-06-09T00:07:26.585Z"
+  }
+}

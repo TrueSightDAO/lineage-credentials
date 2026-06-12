@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-11T20:20:34Z",
+  "generated_at": "2026-06-12T03:44:12Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88366,6 +88366,34 @@
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 0.83\r\n- Description: Receipt for printing event placard for tomorrow\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 0.83\r\n- Attached Filename: Receipt SQLKKBYW6507.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260612011445_gary_teh_receipt_sqlkkbyw6507.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: nnSIkj//0wAl5EwlC7Sb8wr0ctbPpBa7ywcIs+V3iTdL/oA7F/YHVLKxBYQJJDcI2a85ujHl6svT8MTcjkVBhfQb4aCnqlHSPhQEOkgtnMcwepRVKGG1Frady+AZ5L3wtAtkj+5NGdaJU2p4ZutO0jC1fDbE+xhwX6+woEip7e/8lg8yK+HZXwRg09qt/Hbw7EuwHL+RH21w8Sz8RXg7hk9TWPQWUV2su+z6LYQ0tYmKur4Ls6PyzTJiP4ItmWpN7sC9AESPVcNthaatE0FLqSZPc33h9mtdGuvyiQyVn/7dG25FWjZTMlRYiLcKKvo0J4eDU+Xoq3/EmQv9VnUktw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "0.83",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260612",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "Wx16fnwzmzi9PiHz6i6F",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Printing this at the FedEx office\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_2469.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260612012155_gary_teh_img_2469.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: nB5vWtfK0h9GBRfc4ss2YLeBbneAO1yG/3SDEDIvoBU0vyIkgmIF3Jz2J9LLuUDNS9kGhXx3IjrfMhf8iD0jpW7ONiuwX/Vu5/RXoDQ2pKiyhd3YTs1vlXhTw7tQIb/7mw/QvP+rWGgNIJTxQwH92JupdJjHgRJ7T1w0ab804j3bPSUchj/efzd9hel5owdzaKJhm718pdt7+67XRXpti2DaUcEss0kqcXiIY3mPZZAMs/Fb++iUIAaz3c2Cmyh5hTp3oZwMuSze1H8yWWKFxMRQAE7OEKTmNygRDiuZmeoP/xpHdIX2quKsJzAMABv9XBtGGM6EU/BvkMZ2tazQ+g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260612",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "m2WcXQgsMB9kj32qeG0A",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
         "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Description: Fix Sophia per-thread concurrency race + build watch-and-notify capability\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/138\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/139\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/140\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/141\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/142\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/143\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/416\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/418\n  \n  Details:\n  Two-part autopilot (Sophia) work, diagnosed live on prod and shipped end-to-end.\n  \n  (1) CONCURRENCY RACE: sending attachments/instructions into a Telegram topic while Sophia was mid-turn corrupted that topic's transcript (assistant tool_calls persisted without tool results -> DeepSeek 400 on every later reply -> topic permanently dead; bricked 'Stream of consciousness' + 'Digital Infrastructure'). Root cause: 10-thread adapter pool + uvicorn --workers 2 + an out-of-band append_to_transcript.py writer racing the per-topic transcript (last-writer-wins). Fixes: repaired the two bricked topics + restarted; self-healing sanitiser + atomic writes (never brick again); --workers 1 + per-session lock (one writer/executor per topic); locked the /chat streaming path; eliminated the cross-process writer (prep stays parallel, the turn is the single writer); adapter per-topic dispatch serialization; detailed per-turn completion reports; mid-task ack+queue; and a .gitignore fix so deploy.sh git-clean can't wipe Sophia's session memory.\n  \n  (2) WATCH-AND-NOTIFY: a chat turn is bounded (180s) and holds the per-topic lock, so Sophia cannot wait for a long async op (AMI/snapshot bake, instance boot, deploy) -> she was promising follow-ups nothing kept (proven: an AMI reached 'available' and she never reported). Built a generic detached-poller facility (watch_aws_resource / watch_url tools -> app/watch_runner.py) that outlives the turn, polls to a terminal state, and posts back to the originating topic. Caught + fixed an aws_query response-envelope bug via a live probe.\n  \n  Deployed to prod (targeted, no git clean) and verified: 1 worker, 0 dangling sessions, tools live, real AMI probe returns (done, available). Plans: agentic_ai_context/SOPHIA_THREAD_CONCURRENCY_PLAN.md + SOPHIA_WATCH_AND_NOTIFY_PLAN.md.\n- Contributor(s): Gary Teh\n- TDG Issued: 400.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: qq5E+TiHSmkUJNT89yjvfDViZtf9w4tPuckQyf3xt7BCcXou+6qGZAB+2MJXDxYv8Rss3oNfU4mTRP23GGiLPVF1MehLP4yMf0wQufPD6SejFX3t111hAVEa/7nmV76TcVTCohg7x2lWG2kemlkYvmbkfGke6Q0gM2QMQ5AjgI6emJpMVSekGnuDGnYj4ka93CUq8szfHHrvGoixKe1Uv7F8nIlMuKlCpXx2PHvNtvi/5GohqIF6MCSx3NGK6edUxTjMpclAtXLOYVBasN/ts/k5ghOHNM9lgMyeOzoXxWm2Y7/5xgVAnx5LLYY27QZ1zvqgRCw1+revztvz+nTv3g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
         "rubric": "100TDG For every 1 hour of human effort",
         "tdg_provisioned": "400",
@@ -88403,6 +88431,48 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "5d37Yly4VCgnV3jqiDQ7",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 150\n- Description: Phase 1 — Chocolate Subscription Engine (Subscribe + PDPs)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/157\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/158\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/159\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/160\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/161\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/162\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/163\n  \n  Details:\n  ## Phase 1 — Chocolate Subscription Engine\n  \n  Built and shipped the complete subscribe-to-chocolate-bar flow on agroverse.shop.\n  \n  ### What was built\n  \n  - **Subscribe page** at `/subscribe/chocolate-bar/` — quantity picker (3/6/12 presets + stepper), address form, Stripe Checkout integration with recurring monthly pricing\n  - **GAS action** — `createSubscriptionCheckoutSession` (additive, doesn't touch existing cart flow)\n  - **Checkout success page**\n  - **Nav link** to subscribe page\n  - **Subscribe CTA** on Oscar's Bar PDP and Santa Ana Bar PDP\n  - **Generic PDP** at `/product-page/premium-dark-chocolate-bar/` — full subscription landing page with rotating-origins concept, traceability, impact section\n  - **Homepage product card** for the generic PDP\n  - **Tagline:** \"Life is like a box of chocolates — you never know what farm you're gonna get.\"\n  - **Layout polish:** hero two-column, content full-width below\n  - **Removed** competing \"Buy One Bar\" CTA from generic PDP\n  \n  ### PRs merged (agroverse_shop_beta)\n  - PR #157 — Subscribe CTA on Oscar's + Santa Ana PDPs + generic PDP\n  - PR #158 — Homepage subscribe card\n  - PR #159 — Tagline\n  - PR #160 — Full-width layout (reverted)\n  - PR #161 — Revert to two-column\n  - PR #162 — Restructure layout\n  - PR #163 — Remove Buy One Bar button\n  \n  Plus earlier PRs from the initial build (subscribe page, GAS action, success page, nav link).\n  \n  ### Time spent\n  ~2.5 hours total across all work.\n  \n  ### Phase 2 deferred\n  Fulfillment automation (queue + invoice.paid handler + fulfillment UI) deferred until Linda has received 2 successful subscription shipments. Follow-up filed in OPEN_FOLLOWUPS.md with 60-day timer.\n- Contributor(s): Gary Teh, Sophia Truesight\n- TDG Issued: 250\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: ZjK0dp8bct+Yf69FDiUCfS2MHWitwPF+IQbWltwuX3Na8WqTC4nFNi5mKiK4iBXSSVdG/KUEv+XwY/5Bqu5mKEK3MjpBUqPX10XIyIiNfbz+HnC1whqmlFCAykr0p/TUxltWfR7L584Bwr6rm+gJ/tPnBnBMPZLuerdJ/1x4EN+MqWJDzFrwKI0TpDjtLYaDH/ldPR0aLLugZOetfNuIxkFJAwvp87gYKxeVD/Hbdc83vc5sOkGsLxLrt1/PKFsWwypqhUMCKv8e0cuvMOMGTgoxIVb2Ifgah0cni1k8hE7uo4/+AMEhR4c/fOhr4tiON27YMdaGkQOr1ck4wRH37Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "250",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260611",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "MlF1hEhDAqQKkzZ+6dW+",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 210\n- Description: Sophia: turn-report fix, follow-up-monitor + governance/vault plans (handed off), CI green\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/152\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/156\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/157\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/447\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/449\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/453\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/454\n  \n  Details:\n  Continuation of the Sophia (truesight_autopilot) work after the prior 240-min report.\n  \n  (1) TURN-REPORT FIX: the per-turn 'Done this turn' completion report dumped garbage on tool-heavy turns (26x '. ssh run -> {' lines, a URL with a literal backslash-n, and the message truncated past Telegram's 4096 cap). Now grouped by tool with counts, shows the command for shell tools, extracts a salient field instead of a bare brace, cleans newline leaks. Tests + deployed.\n  \n  (2) DURABLE FOLLOW-UP MONITOR: designed with Gary a thread-bound, multi-day follow-up system so Sophia's 'I'll check tomorrow and ping you' actually happens (today it dies when the turn ends). Definition in OPEN_FOLLOWUPS.md, scheduling state in a sidecar, working context = the thread transcript; invariant: every follow-up requires a thread_id; control surface list/steer/abort; on strike spins a full Sophia turn in the thread; probes gmail_reply + elapsed_days. Wrote the roadmap + UAT and handed off to Sophia (parked GO-ready, thread 2622).\n  \n  (3) MULTI-TENANT GOVERNANCE / IDENTITY / VAULT: designed the evolution of Sophia from a single-user bot into a multi-org, governance-gated agent (one policy keyed on tenant x surface x identity x action; tool-layer auth; data-vs-instruction boundary; single-tier Telegram governor auth via email-challenge binding to Contributors contact Column X; engagement modes proactive vs addressed-only; DM policy; box-local credential vault with email->RSA-gated page, never-overwrite + versioning, reference-by-name; one-instance-per-org replication). Wrote the capstone plan + full UAT and handed off Phase 0 to Sophia (parked GO-ready, thread 2744).\n  \n  (4) CI GREEN: diagnosed + fixed truesight_autopilot CI (red on every push) — ruff lint (E402/E741), a repo-wide ruff-format backlog (83/105 files), and a bare-pytest import failure (pythonpath). All gates now pass on main; unblocks Sophia's incoming Phase-0 PRs.\n- Contributor(s): Gary Teh\n- TDG Issued: 350.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: ajQsN8lpqCcfURx0wkf58FnpMb0G7TfpIjGTOty0NaKWcjKPXyRtNgRybgRXUavsaDtA0/Pam/t0uo7EDYDGMBW3smIdyOLAbNQgt9AVHsPhdNBN3Mo97bCwZ6wE0lnKw9QuyAAAD5qIRfjt9Fl6vIwfQ5a1kP4+U2oMNkBH5b2Emw1/x5q89f4V2MK3LbUgz+hQdWOVuE4SdQio4XtIarwHgNwya06MQ7tFDXab96QRevd3wVHVPmPOiHoZpSd7Sm4LNUIjUXq4MJQvg94iLwOHbLkw4RS7lXuIZwGlIrOpBN0/bhpNSt33gA5YsU9e2gkJyLUQkT/Ds5YubkJ9BA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "350",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260611",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "lAeNRECycfylEHNGPCbS",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 10.60\r\n- Description: Top up DeepSeek API credits\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 10.60\r\n- Attached Filename: receipt_7GC34619R5874635Y.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260611231724_gary_teh_receipt_7gc34619r5874635y.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: K/d1yooXK06H4D2y/LyLTDoRMRp/EM5GF0/2a34av5tBMllrsde7ZacafwFjUst6eIrEdNIrSnSql5fBnb8NdXOFjWXfRz3jOyR1aWgKE2j/BwdSpQSbJzC8avquq9bIDelII7STSVM9m5pdmPbywuKbR5fH+Z22mXxFTE22IsfTzm+8XjIHi1no+NpyWXDVg4L5dkTqOX8PGWBMWhI1FMlPamDFv1muSGi/lDS4lGqvpEEMcD7Lyzns45pq4P7KYZ13xrcKXhNGNlFsWCwdQuBmXpSADHUxtNljFVeagNkSKrqwtrHQ3HDh5EAZ3M/pcm0qkkOR2py3KiDT8lhDXQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "10.6",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260611",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "sL5gjNSfF779OGtxB9aN",
         "reviewer_email": ""
       },
       {

@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-12T20:09:17Z",
+  "generated_at": "2026-06-13T03:32:26Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88363,6 +88363,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 90\r\n- Description: Driving from San Francisco to Milpitas for the Tech Fest 2026 meet up to serve cacao. Pick up cacao from Kirsten’s place\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 150.00\r\n- Attached Filename: IMG_2539.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260613023817_gary_teh_img_2539.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: WWZUNyze57eyiEq3XYKjfudNu0qNWtf6h9tzkpMcBdjl0OBoQpgFbY6hJx9/CHkyZqSlPi+zpuIINEAgzBvD3VFoTIsGvqmsAoruyHtFGcHucUVlJEpJUHkL8iMvYEAI6s+CDW2RJgRpuosjyAp+SHZ6PWBWoT91LIBIAb8kECVaQxwUXj96hlkIOzMfxWuvroVSRaSyl34CCU61/2UgXD2PIup/PldH2F1fFu/wnCXHuxv/9n/Oa6GCFWO9P17N6qS920asTQr4yLs2M4P2M+kYfc3UitFWSUObXa0A+lKtwjEvCC7uk+3HGZv5MikSKS9I+1VLx2Xk50aBu9RC1g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "150",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260613",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "nKuNk4Jt3RkA9Pu6yPOV",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: SF Tech Fest 2026 — booth duty: served ceremonial cacao, chatted with attendees about Friends of the Rainforest, collected 2 email leads (Kim & Artish) for the Email360 retention loop. QR code SFTF_FR_20260612_2 displayed on table placard.\n- Contributor(s): Gary Teh\n- TDG Issued: 100\n- Attached Filename: contribution_20260613024819_autopilot_b019a99c4e0146fab4a330220ff0b1f0.jpg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260613024819_autopilot_b019a99c4e0146fab4a330220ff0b1f0.jpg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: QWe3lWc23kEOAOJ7VllFmdoShBeSmh15cR7Mphm8apAQc3boXZFArz0pPJIdl+zwbHNtXLda1yY5aJCR/pSCeOcsRHHpCECsy2sRXVjxT/xTNDPCa1d7NYfhkU2AGoa0lTmqK/lHXZLFEao8+YK6a8mpRF0oQKa8JR34DqGseUxN1dwNqR38INrTilDqU+MQ9AKwmz0xePqmda6V7ickZPJn3bFqlFaxMZfq61Ur98fwsSGUpZhzjYP1nqyXrkDzQSzqr2zSTGzwZm7bOAeqvDhbbA7u/0RtRqIEndntGlE3zFSCjEFjPo++1v+LCbFZ5tkCetZl7Anksy6XW8vFSg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260613",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "0KP1/+b84L6/cB+RTqoc",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

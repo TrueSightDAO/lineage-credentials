@@ -1,6 +1,6 @@
 # Gautam Mittal
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-12T20:09:17Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-13T03:32:26Z*
 
 Gautam Mittal contributed to the TrueSight DAO from January 2022 to July 2022, primarily through the 'Bring Builders' category where he brought on seven active contributors. He also participated in 'Build Game - Strategy' by contributing two reference materials with hyperlinks to online resources. His efforts focused on expanding the community by onboarding new participants during this period.
 

@@ -1,6 +1,6 @@
 # Laura Liew
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-15T12:09:42Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-15T20:54:27Z*
 
 Laura Liew made one contribution to TrueSight DAO on March 29, 2025, in the category of 100 TDG for every 1 hour of human effort.
 

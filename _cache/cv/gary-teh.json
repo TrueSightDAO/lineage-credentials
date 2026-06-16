@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-15T20:54:27Z",
+  "generated_at": "2026-06-16T03:54:30Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88366,6 +88366,48 @@
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Butterfly Effect pipeline troubleshooting — governance & direction\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/butterfly-effect-club/pull/3\n  \n  Details:\n  Directed and governed the troubleshooting of the butterfly-effect-club automation pipeline.\n  \n  Actions taken:\n  1. Granted SA permissions to the ERA Cohort Roster sheet\n  2. Provided the ERA $97 payment receipt image for ERA_PAYMENT_PROOF_B64 secret\n  3. Granted PAT scopes (secrets:write) when needed\n  4. Directed Sophia to use vault credentials, challenged assumptions on key formats\n  5. Made strategic decisions on approach throughout the debug session\n  \n  Result: Both workflows now passing. Pipeline fully operational for the first time since setup.\n- Contributor(s): Gary Teh\n- TDG Issued: 120\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: Nxfj9GIQsDj8Gp4bKT8+bijRJdrQo18nOp6bs9UqI1n2RfU6YzX7+6eyIwXU5j66l1F3WLat2pJRmZO0h+HRHOd40/x8kt+cGHvO7FhIpoQF3LvEDUIT342xllS6KByu82Mr324dVvOreH/tf7KsMJRk/HHYnANsm8EGX7Hm6EYWziN4VYl4Yt3j8sndUE7L/xuKxEF02sO/tG4oFF56GmiG8SjJtdRVkO/nFxqv2O/CtRrCPq/ZsqwHvkSNBriLwu+/fRX3jCe8eUaPLmE6RpMGStK+7JrL0CZxjJ6F4zFIPXrEk4mhe2QTCI2O4SdldRkrNlZQyXXjIxZ09LaOwA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "120",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260616",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "QWaZyew/SqFqKZpvf94O",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Fix Sophia credential-vault durability + cross-process cache coherence\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/214\n  \n  Details:\n  Diagnosed and fixed two independent bugs in Sophia's (truesight_autopilot) encrypted credential vault that caused the 2026-06-15 'vault wiped / shows empty' incidents.\n  1) Durability: vault dir (/opt/truesight_autopilot/vault) lived inside the deploy tree and was NOT in .gitignore, so deploy.sh's 'git clean -fd' deleted the Fernet key + all 31 credentials. Added 'vault/' to the existing runtime-dirs gitignore section (git clean respects .gitignore). No relocation / no key re-encryption.\n  2) Cache coherence: Vault cached decrypted entries per-process and loaded disk once; the separate vault web worker (was --workers 2) never saw writes from other processes (CLI / main bot), so the page showed empty after credentials were re-added. Added (mtime,size)-based reload so any instance reflects external writes; dropped the vault worker to --workers 1.\n  Added 3 cross-process regression tests (verified they fail on the pre-fix path). Vault suites green (46 + 8). Merged in PR #214.\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: c+08Dxket3WCGBkoEML8m4zocplrUyZG+wmCmH0fpwO/txALjkg7imaYmLjhUuQZ1/UULIHO4r7mTHIHefp2Ix4+Agc5ASniLOI8XEqGNWzo22YvYtaKtHJKCnzKq7/Q1WCiT01hEMEzqrPwWwfvg5LfNMuEhjWeln986bpekXEkkUxrrnP8561FD7tDWymgsnxm8vvlBUti+N7gbNVxu0TsXD3SDb3aZcVdJlXesy+ZZxC2GYyGYxI14JDZ2bujzIH+SupgDtQIecumeii8FAdwpfD5C1juf/nHObVAGXu10AIQfS+uGOSsCfADBtaiRI6Wo06Z2VDjqgc60hy4FA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260616",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "TcWpQr9Jmo1agSuHNzjd",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Discussions on\r\n  \r\n  Part 1\r\n  ========\r\n  - experiential learning lesson plan Mr Cao - high school kids (half from USA)\r\n  - experiential learning lesson plan Evan - MBA level students\r\n  \r\n  - Students\r\n  \t- learn how to build and manage a regenerative circular economy supply chain\r\n  \t- when in China course work hands on experience for GTM \r\n  \t- when in China course work hands on experience for GTM \r\n  \t- Brazilian Cacao Journeys when students come to Brazil hands on experience on farm management, manufacturing facility, lab test and logistics\r\n  \r\n  Part 2\r\n  ========\r\n  - utilization of Sophia and Edgar for handling Chinese manufacturing sector full supply chain traceability \r\n  - SOP to handle requirement for border crossing into USA (HTS code to HS code transaction)\r\n  \r\n  \r\n  Part 3\r\n  ========\r\n  - 20th June to 27th June in person meetup to \r\n  - follow up meetings with partners when I arrive in \r\n  \t- Mr Cao and Evans on experiential learning lesson plans\r\n  \t- Liz's contact for handling food import and distribution into China\r\n- Contributor(s): Gary Teh, Elizabeth Wong\r\n- TDG Issued: 200.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260616025702_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: RNoNZm8OfreRH8+q43f1QU9FKCq44dQWZ08in4psCPyiMZVJrPs/jXCAdGVnNNRE4wDhLqMKaTkUB1iT04nQqQSJVJ7dtJvFFC78sssgsI41Eamlv3Ej6QQFMIYLzoGtbwlDdj5/CprVM2d1MayNOl8G5dmrOgV0Jg+k7VUg5oVTMd9POn99TYgRew+KvgGcraVrksTM7HzlXewsH7XV4ilq+pNmWuC5Z9pSM/VzfKYg1+9FV6zAx57uITgoHz2Je/OYchxM5fCRWms6Xr77uG2SKtRJciUnE6+Di/T9UyMqSCnpemKxFcwSowc2urvmXncpB1w3qoB8Zgw6dIi2/w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "200",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260616",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "3q+Qb21ZVZHxcjA+r3P0",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
         "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Replace hardcoded version with live Git commit hash on EDGAR DAO Protocol landing page\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/113\n  \n  Details:\n  Changes made to dao_protocol:\n  \n  1. **`truesight_dao_client/__init__.py`** — `__version__` now dynamically reads `git rev-parse --short HEAD` at import time (falls back to \"dev\" if not in a git repo)\n  2. **`truesight_dao_client/server/static/index.html`** — Removed hardcoded \"1.0.0\", replaced with `<div id=\"version-value\">—</div>` that JS fetches from `/ping` and renders as a clickable link to `https://github.com/TrueSightDAO/dao_protocol/commit/<hash>`\n  3. **`truesight_dao_client/server/routes/dao.py`** — Added `PARTNER ADD EVENT` card to the landing page Governance section (incidental improvement from the PR)\n  \n  Now visiting https://edgar.truesight.me shows the live commit hash (e.g. \"6c7ab60\") as a clickable link to the exact commit on GitHub. The `/ping` endpoint also returns the hash as its version.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: QruLxUaFWPw9kzto4uorEh7Ypfh4wSS/jaLibwaegsH5WvS2oSyv3RcOddZ0kw47iTP0mrimxDfr35vn1wyWgE/PduBKoXCd/T5Ug6dQU/nGxcolL+vx7DlwGo3ZyCKbd4t6wb3sr3f3pS6rjy7HuPQUEIq7zYPzTcdE42Td/bZlt2s7OZl26qRUsYJyWdLXNfR7wBKlhjwYPGrT06xR1+mDK/1VvFwvPZ8LJZfvCf0XSGBNfGeQcTYiu0CxFprfaQ2euJqk23BUv+juqqECG3hTjyjYyOBxGJhwCp33R9kzypsBmA5KmTMQKPSMMedQvSHaVYJ1HCpFi1xy3/6qIw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
         "rubric": "100TDG For every 1 hour of human effort",
         "tdg_provisioned": "0",
@@ -88417,6 +88459,20 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "hQy9FxFVCsUg2wM7jC3P",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Finished chatting with Eugene who was introduced by Fadi \r\n  \r\n  My sense is he is going through a *_phase transition*_ in his vision, community direction and operations. probably in the early stages of his own hero’s journey (_phase 1 of triple diamond design thinking process_) at the moment \r\n  \r\n  He has a vague general direction he wants to move towards _*helping companies become regenerative*_ but He is not sure what is the _*true north metric*_ he is using as a benchmark to gauge his progress\r\n  \r\n  Proposed for him to check in periodically when he makes progress\r\n  \r\n  Also surfaced the following established DAO interfaces for him to consider interacting with \r\n  \r\n  - organize events where we serve cacao\r\n  \r\n  - ⁠when Soniya or Ken organize events, he share with his community \r\n  \r\n  - ⁠if any of his community wants to produce regenerative SKU we offer our tree planting and fund traceability infrastructure \r\n  \r\n  - ⁠if any of his community member know any retailer or leader of community spaces, happy to onboard them view consignment of our cacao\r\n  \r\n  We also spoke briefly about social capital and about how it’s generally none transferable and unmindful deployment will only serve to be a form of value destruction than value creation\r\n  \r\n  Linkedin attempted to digitize it but right now it’s just becoming a cesspool for spam\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_2689.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260615211338_gary_teh_img_2689.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: RFyZdVEvtxlWkt4Zg7C4zgz4ccSBfMqiNSlj/bDPRdr2vTqZliQVHggjq9zekJT/LCm4rfo1QEs0qYBzTKp3ooxHSDYg6U2uIsDw+Hge9S4enBVOrsONipvWmEa1i3EDOgTgUFz+OkibHXL1YncrtnenSV8B7VFaCC0dphU714ZhRuTBQuUbWbaJ1+jlEzZIkRId+3DPA1r+ZFUsc1KXGrAQmL9T783LsZvcViddy+DkUWqTB5BvBeUGSDMg4RosSK23kg4ZlxlRKBx/zSbylkH8/Y0kAn5BpDu1RVryszYwe2YqchvCt1V6RYWdU7sDReKdOYXZdd2V0BLyD7425g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260615",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "4Q8qMkDJ/IXGshKjmdOq",
         "reviewer_email": ""
       },
       {

@@ -3,7 +3,7 @@
   "display_name": "Claude",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-16T20:48:59Z",
+  "generated_at": "2026-06-17T03:56:05Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -99,7 +99,36 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Claude",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 180\n- Description: Sophia identity/auth (Telegram<->ledger, /verify, Column X policy) + vault 500 hotfix & deploy\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/221\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/224\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/225\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/226\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/522\n  \n  Details:\n  Paired engineering session on truesight_autopilot (Sophia) — identity/auth + vault reliability:\n  \n  - Telegram identity binding: write Telegram ID to Column X and Telegram Handle to Column H of \"Contributors contact information\" (previously wrote the numeric ID into H and dropped the handle). PR #221.\n  - Wired the Telegram /verify email-challenge flow into the adapter as a DM-only on-ramp, and made policy.resolve_identity resolve governors via Column X -> Governors cache (with caching + graceful degradation). PR #224.\n  - Live 500 hotfix on /vault/api/system-status (phantom track_registry import) — PR #225 — then repointed the vault status/deploy endpoints at the canonical deploy_watcher registry so tracks show real data. PR #226.\n  - Supporting documentation updates in agentic_ai_context. PR #522.\n  - Merged all PRs, deployed to the sophia EC2 box (reset to origin/main + service restarts), and verified live: brain /health 200 and /vault/api/system-status 200.\n  \n  PRs:\n  https://github.com/TrueSightDAO/truesight_autopilot/pull/221\n  https://github.com/TrueSightDAO/truesight_autopilot/pull/224\n  https://github.com/TrueSightDAO/truesight_autopilot/pull/225\n  https://github.com/TrueSightDAO/truesight_autopilot/pull/226\n  https://github.com/TrueSightDAO/agentic_ai_context/pull/522\n- Contributor(s): Gary Teh, Claude\n- TDG Issued: 300.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: FZu3Ymkk/h1dDAR4JNM/pVvB7l1Os0vgys0ZP5WqgGWu0n41La80UDh8YWH1stqyntAwhqiSuXx84TC69GMTM3ht6pJfhBf7P1PfN7iJuhlTBhedLSx/YMKRnfvqQdtcuwcA20YrLjbkCaQc98trcr0cONcBjDmLeugKkgGnAzoVqW1BtTfo9nGoPEN21MqS0EGZ72h6UuHaP5ovKhJi2+2qHhodUfQV56J14PkxkjPH3Sq0067sD+e5UCFToqvixteNJ2kEtwA0WmzoEY34JcrLB5nL5QTiU5MZXE02ldq54GrN3c0zq00K1rfPj4kDbeIyfnXxH0lW7QJCIrUeEw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "300",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260616",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "SRxUF6flGGgi91Yoolva",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Claude",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Diagnose + fix Sophia empty-response; codify one-PR-per-turn planning convention\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/227\n  \n  Details:\n  Root-caused the '⚠️ Autopilot produced an empty response' Sophia returned on the Public-Key Lookup Cache thread: a turn that exhausts CHAT_MAX_TOOL_ROUNDS (30) forces a text-only completion, DeepSeek emits DSML tool-call syntax as content, _strip_dsml empties it, and the streaming /chat path (Telegram) had no backstop -> empty done.response. Fixed in PR #227 (merged + deployed to the autopilot box, truesight-autopilot.service restarted): added _needs_clean_retry/_ensure_nonempty_final guards making the streaming path symmetric with the non-streaming handler, plus hermetic regression tests (529 passing). Also codified a workspace-wide one-PR-per-turn planning convention in agentic_ai_context OPERATING_INSTRUCTIONS.md section 5a and re-scoped the Public-Key Lookup Cache handoff (plan + HANDOFF_MANIFEST) so Sophia's round cap no longer chokes on whole-roadmap turns.\n- Contributor(s): Claude\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: ewS2UTW8aKV+Hahbcsh4IBtSEE2yIszBRsG6R3aa9mqRD8XAr1ihJabkCF4XvF7KRpFH3iKdcoTrmANqUgUcKZDfUag3XCarqXlLsrV6aeJOuapvwJ3t25zXC5TpWPqEpCziwCgOxzHVsny/biIeyxWB93aCuBb4pHQ7vwiFJCxYVtLAPSCVkR/cxG3z1SawtjfkOkbzYJVXyTu6swjPP3RKJHXUGxnB/26+YOt4g3JuEkArdvURb+hfdyLFBarxje5O6bLnVNBIpwTiQByDbTR1axswjE6ZvDHHOUy9EpY1/D5h+Ci78ltMwRf5I1omsEGzpOGfbx65KaDT/jqDMQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260616",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "3b3PRo8YCfo7II+spU1V",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

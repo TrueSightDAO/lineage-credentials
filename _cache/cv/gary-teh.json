@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-18T03:43:18Z",
+  "generated_at": "2026-06-18T10:19:05Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88363,6 +88363,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 90\r\n- Description: Delivering and dropping off the cacao over at Kirsten’s place\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 150.00\r\n- Attached Filename: IMG_2767.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260618053747_gary_teh_img_2767.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: fdrji5DQ8DhtwLhZu4OhcETp9d9WwsghbBBvFWjq7Vq4lkqPke4zS9bMpzjS+H9sTw2k184vmdrrcBhxpTkSSkU77M3IZMlKJe5emofJCk0sPOFEG+qKXnypzVZkpY3SJqY78gVp4xLnK7pgqoO8UyNrxzCtt/OgmP/CZ6NlMl+/NoCilv8nny9Yw3WZTaXUn2y0lScqhOQ+rkMiy4YD8n7bxIrRsWCmqPmBSIlxsANNx8ddr8um+r4MjjzyLxjVfgW59lEt9WiWgoZGnd+9DYsp1xFwx0DLL4kzswf8/ON7oAORpamfsXDkZJBGaTMyTETrJ5eomRYIz6HXrO0t/w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "150",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260618",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "4WFBI502JPcXll4nRm74",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Sharing about our community efforts to restore our Amazon rainforest as well as our guiding philosophy to onboard Chives to our project\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 200.00\r\n- Attached Filename: IMG_2796.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260618053855_gary_teh_img_2796.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: BD1N+nTSek3VoRW+yXi+ugyEzWtUghAGY1Zrt9y89YIpVNisd4aoLaNojSiaIaSIN71hmNCmEQP0Z08dfCg22GYFarUTvVplxG3jFMluMu8T0gsOp5W4PZvgi8saNSLck45y/t9rNGeIF8iZdjYgxk9dDRGRw8VHtrvFhGQRtNMDa6kdstsG5+T6aut4x867VG4kekzBSLJCl9J0tcv7T1sfR75qEJoJBP/j/9gGW9bdqmhPgGBh0SkMJhPaJZq1zv4A2pL1cunE2h73vy9JPWu3d22GSrT/t703YownTDIrCRJ4mbcAaYWy8HQlqFbe356F4sw6uhC+Bm7I94M8NA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "200",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260618",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "fdutg7WAHSR9/rcCjgOf",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

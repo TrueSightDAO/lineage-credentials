@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-18T20:34:14Z",
+  "generated_at": "2026-06-19T04:06:04Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88366,6 +88366,20 @@
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Fix stale inventory records — root cause unauthorized column S + sentinel implementation\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/124\n  - https://github.com/TrueSightDAO/tokenomics/pull/366\n  \n  Details:\n  Investigated why inventory movements were showing unauthorized despite being submitted by a governor. Root cause: Python dao_protocol port was missing the governor authority check for Telegram Chat Logs column S. Also identified GAS getRange reading only 19 columns (A-S) instead of 20 (A-T), preventing sentinel flag from being read. Implemented column T (Is Sentinel) end-to-end. Updated SENTINEL_ROLE_IMPLEMENTATION_PLAN.md and triggered cache regeneration.\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: fqfMRSt21cDcmFIejeGs64l+O4oeiMkz4wa5VHJw8HjKO7T7SVasjoD0ukGc5XxuvYZCDKbSsJrcpYfOEJOTjzEWZii/D07wIyK4dwV8u/VslCnR7OF0PfAFFobhu5sbfwNCPOSJPrZonfwwaDVgh0GZ60m9+4SaBEyEboOA/2ufr6dHHYIlHkRCmdpbey0Ytu08gYKzx6BLz6cEqcIlnDiHciD8wkr/AaOMtJWi9jLu8SXRvQjsCbB/lxjQSXITocUwP6aBVOpZ1G3DeLs0CLps4noTToUXNLLjL8rs9dqeR7F6p+oY3djgBJxC87JfIik1CKmzzIuBV7UZnISkYw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "75",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260619",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "bZ9AGDl7C9AqaZDmAEyh",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
         "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 90\r\n- Description: Delivering and dropping off the cacao over at Kirsten’s place\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 150.00\r\n- Attached Filename: IMG_2767.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260618053747_gary_teh_img_2767.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: fdrji5DQ8DhtwLhZu4OhcETp9d9WwsghbBBvFWjq7Vq4lkqPke4zS9bMpzjS+H9sTw2k184vmdrrcBhxpTkSSkU77M3IZMlKJe5emofJCk0sPOFEG+qKXnypzVZkpY3SJqY78gVp4xLnK7pgqoO8UyNrxzCtt/OgmP/CZ6NlMl+/NoCilv8nny9Yw3WZTaXUn2y0lScqhOQ+rkMiy4YD8n7bxIrRsWCmqPmBSIlxsANNx8ddr8um+r4MjjzyLxjVfgW59lEt9WiWgoZGnd+9DYsp1xFwx0DLL4kzswf8/ON7oAORpamfsXDkZJBGaTMyTETrJ5eomRYIz6HXrO0t/w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
         "rubric": "100TDG For every 1 hour of human effort",
         "tdg_provisioned": "150",
@@ -88473,6 +88487,48 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "LVF6FKk6D0EhdmBnazoG",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Found Chives' lost QR code and shared registration URL\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context\n  \n  Details:\n  Found Chives' lost QR code (2024PF_20250505_12) from the June 9, 2025 sales record in the QR Code Sales sheet. Shared the Edgar registration URL (edgar.truesight.me/agroverse/qr-code-check?qr_code=2024PF_20250505_12) so she can register her email for tree-planting updates.\n  \n  Proof: Screenshot of SMS sent to Chives with the QR code and registration link.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: PurG8ZTNptrbRjmi21mJ+X9VnQdyXxpyiTWC1Y2HVkf/H4wh3+MiBRlwbjFYYS8mbpOSmQ56D3b6X3ulX1RV+GmufuSzQtrVCQwJn799L9Xl4GztHgp8yKzDYhuc+IoQt5ZroWGN2I9qNpmA9+kcl1LHcy+Jpfa448l3FQmdGuDxHrVhaz1AePQf37iIu8bt3O7cFCNzqkbSC/T7+LbRG1WtVzbU+X2VrDhUIcu7+RjMnigZWUNAPqWtH3RAdLLsWzOkS/4nCmBs7gTo7Hcb5onVQLUkgqvXcl5Dq82aSmb/m4Vlt1AtREXuxq5sljGGrmNdC1q2NvoU/e3QP4Sdcg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260618",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "67YHg6+4PEifJwpFk/IL",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Fix Telegram Chat Logs column S+T + Sentinel role implementation\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/124\n  - https://github.com/TrueSightDAO/tokenomics/pull/363\n  \n  Details:\n  Root-caused Python port missing column S governor authority check. Added columns S+T to dao_protocol, updated GAS movement processor for sentinel auth, set sheet values, clasp-pushed both GAS projects. PRs: dao_protocol#124, tokenomics#363, tokenomics#365, agentic_ai_context#572.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: OfMWjNosRD0ztTPUV19R6ut1NsoI97GUCGko7tlnxH91+Qj2sXdmulo2tx6kjC/Os09dK2cFYGc0L+wnISmx9cEuNMBqPCyf3MoQuwVC3v0Ouicz1LUUI//K3v9k2erDPHq/UpikNaTJraU+fyvdzBmRXEG1tkdsZ2EhVDRDZNTER1nPGb9MqMeQforaiIxjqXnzyWQqmvgx32WNrwnItQ2AHF8cWlAFk8txhvgCp7M8oa5v/Y7TLf9KfUpeZI/nfCgIhnGOo6JJl5XssHjC5NpASVCj7LFvYZe2EGHY4kpF6jcUixKkVPbj4Mdbqpa/GCubC/4dWCh+0KZR3bOAMg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260618",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "90HsXpubPSNd6vAley6H",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Processing the following QR codes\r\n  \r\n  2024OSCAR_20260330_1\r\n  2024OSCAR_20260330_2\r\n  2024OSCAR_20260330_3\r\n  2024OSCAR_20260330_4\r\n  2024OSCAR_20260330_5\r\n  2024OSCAR_20260330_6\r\n  2024OSCAR_20260330_7\r\n  2024OSCAR_20260330_8\r\n  2024OSCAR_20260330_9\r\n  2024OSCAR_20260330_10\r\n  2024OSCAR_20260330_11\r\n  2024OSCAR_20260330_12\r\n  2024OSCAR_20260330_13\r\n  2024OSCAR_20260330_14\r\n  2024OSCAR_20260330_15\r\n  2024OSCAR_20260330_17\r\n  2024OSCAR_20260330_19\r\n  2024OSCAR_20260330_20\r\n  2024OSCAR_20260330_21\r\n  2024OSCAR_20260330_22\r\n  2024OSCAR_20260330_30\r\n  2024OSCAR_20260330_34\r\n  2024OSCAR_20260330_35\r\n  2024OSCAR_20260330_36\r\n  2024OSCAR_20260121_22\r\n  2024OSCAR_20260121_24\r\n  2024OSCAR_20260121_25\r\n  2024OSCAR_20260121_26\r\n  2024OSCAR_20260121_27\r\n  2024OSCAR_20260121_28\r\n  2024OSCAR_20260121_29\r\n  2024OSCAR_20260121_30\r\n  2024OSCAR_20260121_31\r\n  2024SA_20251227_35\r\n  2024SA_20251227_36\r\n  2024SA_20251227_37\r\n  2024SA_20251227_38\r\n  2024SA_20251227_39\r\n  2024SA_20251227_40\r\n  2024SA_20251227_42\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: Report Inventory Movement.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260618232628_gary_teh_report_inventory_movement.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: cyURk4bIMU9hzThQiUqMQ9RAXfabRkS853j+M2ueiTrz56AkgwG1vDZcvRloVzEymI4Scw3P70iBcKHwRKjtUA5+PEOGv46tUEP4eFI6NlxVFhryt1JPIQHKSvPIskgO2uEtGPz9aI8iU1JYZxZjTNyFc1C6Dk6A5pUv85gzrA0PKeimINZIYDY7QocyUE04lzdPmSKW6BqqHaGaF5Aa29SJrqJNEhCduVWShu9PqZpB0+xeD1Ern3qHAvAxbT2aZvfFYFVTst4fBtd3fulW3uz9Sp6bFPEPipg8GbsIPrQ4u5GbPIO/bEULplTy1hsEXiKHA6bybnlLZTQeugbI8Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260618",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "GTtGV8qBuusIzCya2//i",
         "reviewer_email": ""
       },
       {

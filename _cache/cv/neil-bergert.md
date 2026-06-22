@@ -1,6 +1,6 @@
 # Neil Bergert
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-22T16:56:54Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-22T20:45:46Z*
 
 Neil Bergert made two contributions to TrueSight DAO in August 2022, both in the Build Game - Strategy category where he suggested an idea without proposed implementation details.
 

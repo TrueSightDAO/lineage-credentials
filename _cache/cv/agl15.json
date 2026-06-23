@@ -3,7 +3,7 @@
   "display_name": "AGL15",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-22T20:45:46Z",
+  "generated_at": "2026-06-23T02:59:19Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -690,20 +690,6 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "aWAj4jx0HGFU4heJEgQ8",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "AGL15",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 2.50\r\n- Description: Bus ticket for Two from French Quarter of New Orleans to the airport\r\n- Contributor(s): AGL15\r\n- TDG Issued: 2.50\r\n- Attached Filename: IMG_9283.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260323184214_gary_teh_img_9283.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: rjiOaRJ/0LUqcFGyX+sNNe3uAgq6pjsTdUi4uXR/bS5zsHWsGqWnPHGsdHhX2OsBdgNXRQ+4ymSC0QjngqeUjlIPrJ0FYRaukxfIYyUeVpv+R0QulOuP+yudYjbVU63j68sxab2iASyhR8xZ43B49a+7AX3voMtnl3vjk1x8BfD5NGEaYqLPaqtzhMhHb4w9qORMb+xGkAmqFNs/f0ms9qkwZ2MLtu9lEMn99lYF7g9Fgtgqh6EwWkWJkreEtb+xe5S1Zmi3yHZPf72avf+7tSdgipe9JnYyiNCD+IfAM3sJBy97cRyaJB7ECPfgazjL7dkVoKZfzpf2qc/Cwtqjlw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "1TDG For every 1 USD of liquidity injected",
-        "tdg_provisioned": "2.5",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260323",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "9dcSPulbDcqxWWxGNbfY",
         "reviewer_email": ""
       }
     ]

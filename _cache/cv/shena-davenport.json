@@ -3,7 +3,7 @@
   "display_name": "Shena Davenport",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-22T20:45:46Z",
+  "generated_at": "2026-06-23T02:59:19Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -563,20 +563,6 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "3ZKnsGELH2lecsfTWPk3",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Shena Davenport",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 240\r\n- Description: Time spent visiting the two apothecaries in New Orleans\r\n- Contributor(s): Gary Teh, Shena Davenport\r\n- TDG Issued: 400.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: qW/AjZiy26YQCzXDcTkIKoII87kqSOrgJWcCaPhWUhJAu5rJw0FJ4cqspRnd3x7vdz6cU40YgIfVm2IcsiA3le4tgXehW4Wr3Y35ccDkAJV5HbHr2mTjkKCQaizEa8PTf9XpG2wy1eB0cnazQja80gAOsIqrrc7EY/TYOlYV0EYoUfsHkMtzr5jRwn5nVD8VEn2BiNZ+W40ITr3gZ6WWUvY1Vy7z1z2GYRYe+nmTmOaIln0MEOQGsiepaiJ3NBqH9GMpcspDHwA7g5ViqlIhQQhX36vlzzJxsgffSgbPq7gsctfxOcOvDu0y86E8UfhZpdsso+795GQxAXsFOZ3zHQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "400",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260322",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "QW/Sm4nNGZeXOuPsleYm",
         "reviewer_email": ""
       },
       {

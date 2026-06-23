@@ -1,6 +1,6 @@
 # XiaHong Lin
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-23T02:59:19Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-23T09:36:01Z*
 
 XiaHong Lin made one contribution to the TrueSight DAO on August 31, 2021.
 

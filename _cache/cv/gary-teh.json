@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-23T14:45:08Z",
+  "generated_at": "2026-06-23T20:01:30Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88366,6 +88366,48 @@
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: _*Suggestions from Breno on Prospera LLC setup_*\r\n   \r\n  - Every share has 1 vote\r\n  - Company can grant you shares\r\n  - Sell shares back to company\r\n  - Price will be bought back as net asset value\r\n  \r\n  _*Cost_*\r\n  - USD300 + USD75\r\n  - USD230 annually\r\n  - Taxes 1% taxations \r\n  \r\n  *_Triangular international trade structure_*\r\n   \r\n  - Cacao is sold from Brazilian entity to Prospera company by Brazilian company\r\n  - ⁠Cacao is sold from Prospera company to USA company at wholesale price\r\n  - ⁠USA company sells cacao to retailers at wholesale price\r\n  - ⁠Profit is booked in Prospera\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260623164524_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 3nxt1XW07VI01ibUaMNhWv7cdfGmmOHvc/vxR77gCjTPk3uqMypXZaiOHlS8PMc0X/yLVyJxMB/G+UttlBItQj0+VKqGNGmuok66d91QokHNPSOrUePIKxhHlSKKvQdX+s8F/jH7u5Lq6DMyCGoaSztYv+gzSNEw5Tzm7Zs00I0OEnhOrQMcI0aTlXUvFO00EYbIgOv3c5Cjn+NHXqo0gI3r8OMSfElFTk2hdDgpDc/8k9O3XiFJuLKBevp8n1ZU5d7rHLaBoO1KEYn4LdmQxwayDt5r0jS/9a0WLLCFQGG6iWp7NH2VkO3Y03t5mCjRnmjKsAtL3ATZ1erXVSoCHQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260623",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "hExJ6FlcVmnBt9PsdpDv",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Reviewed and merged PR #132 (Proposal CLI implementation); oversaw execution of PROPOSAL_CLI_IMPLEMENTATION_PLAN from go-signal through deploy.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: FW2VXNEQh8a3BOstVynLHZYavr4BjRHQ+E4pmZ89/rXaaIJriaRM85QZuW1UsF+cX/mdlAQqaFYmBtMbqpkVDm8QQGXZ44YWitt/KfY7m/w0JpY48HtjWLb6u+awUzUwDVHaBJqPYJi6989JYwMY/2pHednCfyjK8rbbszvYMYeHxVmAL66FeZ7LvwoleoAW+xliI0xMVZ5vyH+jq6k0Z7luy2GH+fqgQDJE0h+F4nJBxBJadAPlYYVs7A80t1zTCO+Sycks78wLfZuaby46WELoLYhNNCnXnKl1XvC7dQ7XtJ+xwDfkB4YoGbHJKnYgF1J+wEjMBaWNyTI8j+0TBA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260623",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "2sed2ASYlrtf3LxjEnFP",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Driving to print the brochure at FedEx office\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_3022.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260623180123_gary_teh_img_3022.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: F1mO3eLcTOhBhwGrc9nSOSkm/5chbhR0lB+Lnlp7ZPOfFTJiy/BsnN9Drv1w5eD2ErkTL9vHAagxN3iddfnQfVqtFbMem9ccFeQDrc7/MKc1jl6i+lfwVTU987bSdZgyxWwJu9yoJaHyCKeepG0QDk+VtHSzj3i3P24D8MsNWn7VS5Mv6ZEccd02YXfQRNZV3B4wvleSlNBC97ssVxqFmyRAUz1qUC8OgNfUkRLIp4qFBRwXJXRz+EG+GB8VurxNKw3osWYtbZevlduM4LM4vvB3+OySiqk7EJ5QwvAmS5ry3UHoYY4rP2+3R8dsFke9nwgCuX5hybySY6ajGebPHQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260623",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "IQNPQG55MY9tyoeXsRmk",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
         "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 72.66\r\n- Description: Gasoline for driving around\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 72.66\r\n- Attached Filename: IMG_2962.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260622053616_gary_teh_img_2962.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: crU/yZSExwhMkV3opAjK3ZTKh4dqclTBUkM/fAYj7shmSV3Z1gJnTmjy4X+lYAPN7Fkggd41glF9iCVedtGB7wrWtJ4QSNjK1eNiZBVTA8E15+4GxGByPNQ5E5jguGHrjvMitlPG6uksipJNIOCaEaVLuPln5avec78GgbIV8LKNaRqoPnEVoLG/L/7bMznQ8ZH25txINL1PqJGp+87Tv5ygtFmpIE61vROEsedEbSa1PnRYX8uRowDEf523AtK8UWXzrTl9qf8KITFcreWQsPx1dvUGX65jlphK0URPFmUOR0+H072/SfdLQnIukJwo/l6Y9GmkFw6SQ/L2ewD7IA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
         "rubric": "1TDG For every 1 USD of liquidity injected",
         "tdg_provisioned": "72.66",
@@ -95067,20 +95109,6 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "vOyyPGQoHaYjN0W2j0n+",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Gary Teh",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Dealing with this error \r\n  \r\n  Summary of failures for Google Apps Script: Populate Contribution Submission\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: Summary of failures for Google Apps Script- Populate Contribution Submission.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260426152332_gary_teh_summary_of_failures_for_google_apps_script__populate_contribution_submission.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0HmX4PI2iDLqsAzKl752MEIMPwCteu1ozj7PFM1LkeRM8t55ceA6nMR/cizYZ+JYApNIYZ6hg6UKukCAjvM8MHdclfT5dCP5cy/bO/lsH70YLVPqMmA0VmAr0LEGz+mGSoJ5huClHqI20+oYFv0WRmRsDxU+qDsgQfBQz6xnLLYRkJZ6oClLREOamWmsN/d1Nhm6ijkJ91icTM81pSKU8Y0zpnhLbAUSr8D+F9pvgRaOw71S3nGBN5oAAv2/KCj1OtXiNgzX6ttP4FgPor62i1PW4mdn4xM1yHMlZ+TKzefJE/qGBCSTOg6KIwlT+FawINluD8Xo7koTumFYzD8FWQIDAQAB\r\n\r\nRequest Transaction ID: xutdeiXe1WvU2Q22DMuMHuK2TE5RnqCyIbmBGgBJ53PhvqcDJoSaKPE/UrQIriH1TXbe6rIx7wWWojqblBH5GWzlmOFq1biVf9/ggLFxJixWRk5Lpionbjd1XmuBMMeRubX+aXZ5CnqLy/P/PJj6SL5HFbn9AUBnHwq0hMjYfWpkFuz+BVhh9BUP7JOHDFhF8YVEoHR8i168XaTJUydNrt5qSHq+TA8r+fCxBtgx4cuwXfp+7ayiQZlbTgHlxWx7MhHxlD+sUH487qk/FcBFt6NZ7a+SN7mj29KsAucCWH6QlrvmaX0Ao0RjKgJgB+jLq65NLzBkcACCY/SEzMPyUQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "8.33",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260426",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "+CUxW7+Xktdxg265gEBJ",
         "reviewer_email": ""
       },
       {

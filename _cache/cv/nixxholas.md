@@ -1,6 +1,6 @@
 # @nixxholas
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-24T09:25:59Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-24T14:34:16Z*
 
 @nixxholas contributed to the DAO in March 2022 with two engineering efforts on the Build Game project: advising on how to get around a bug and identifying a bug.
 

@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-26T03:30:52Z",
+  "generated_at": "2026-06-26T09:22:53Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88363,6 +88363,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 180\r\n- Description: Chocolate experience to figure out how to extend it to China\r\n- Contributor(s): Gary Teh, Kirsten Ritschel, Ken Nim, Elizabeth Wong\r\n- TDG Issued: 300.00\r\n- Attached Filename: d29c93b3-3e27-4712-8257-93a909f63958.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260626053906_gary_teh_d29c93b3_3e27_4712_8257_93a909f63958.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: YcgikN4N769gUYQHAZzSfWGBN9oRyT3EuBGPf6sIhdqBcYDmLOEvDDZEEsaC1Wd8TlO15oylmR4pxo4jeOhyZ+aCsNAhhTCjFdDFFtmzKL1CnqQU1lYk7vdViWe1TyMpF8j/IeaBgHTpXagFciaCf4UR0CJy2jhKyU5fpPg90Vme3stExNAdxRgVQTKUnsixfEq69JR1xVKB6mNVG/24vqxE4kMkOtNCTquQp7CRSaa7BFM0yzW03seWjMB+c+Jy0M4cQHHEBa4EKAAgXi7NTesjIPq8/B5bXQfKF/x6NmTmjqeHfeVAJ1k8oTQJzHi/px2Q5fzBjgVaU4lFs1QM7w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "300",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260626",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "dYOfIfcKRs+sPFyEg+/G",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

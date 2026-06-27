@@ -1,6 +1,6 @@
 # Xenofon Kontouris
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-27T13:29:27Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-27T19:18:52Z*
 
 Xenofon Kontouris made two contributions to the TrueSight DAO on a single day in February 2022.
 

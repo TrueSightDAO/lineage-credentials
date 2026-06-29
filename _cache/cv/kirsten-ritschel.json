@@ -3,7 +3,7 @@
   "display_name": "Kirsten Ritschel",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-29T10:54:45Z",
+  "generated_at": "2026-06-29T15:49:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -2731,6 +2731,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Kirsten Ritschel",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 480\r\n- Description: Prep, set-up chocolate experience, clean up. For four people, each made their own inclusion bar to take home\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 800.00\r\n- Attached Filename: 80e5ec85-d2e5-40b6-9baf-10b22f1cdd4d.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260629150324_kirsten_ritschel_80e5ec85_d2e5_40b6_9baf_10b22f1cdd4d.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: 6zyoalYbKOTFuLawfg79371XX1m2o9Rug0MDce0dX0kToGQxk7GTD+BBhc1Nk1KdCakfdcjpWr1Q5ZSUb0KVY5M4K28hnV8puYcLFcK6Xo9SP3o6hUNShVwbPIs8kZr6vHcByzcHbla3LiW1D8vYEQ8Tak3AcwluVNIbR5yQI5xl7xEM16FGGrqg23WcAgQPaIr0R6l2XwBxq5W3FdidA0wkhojrpwhN1wex3qAug27VR4ZGOqYzdFwJBOMnwE1ygJ3AHElVNbX2zEuy6C3uRdYm7jPmBUMcYfKRQLoD000djs046K40gJ7IfDFKy4ps/5jbKD/v0KjI96x/Tu0FUQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "800",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260629",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "yT2Y7/0oOv6yMSg1sFNU",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Kirsten Ritschel",
         "project_name": "telegram_chatlog",

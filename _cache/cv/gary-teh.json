@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-06-30T14:15:32Z",
+  "generated_at": "2026-06-30T19:53:55Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88618,20 +88618,6 @@
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 45\r\n- Description: Spoke about the Choclate feedback from Costa Rica especially the 95% with Val. Also suggested that we bring Cacau butter from Brazil to help Kirsten with her chocolate, making since more Cacau mate slightly tempered taste to make it less bitter. Spoke about the acquisition channel and the retention loop as well as potentially sourcing for Cacao Molasses from Brazil for his beer making\r\n  \r\n  Spoke about using experiences as a way to pull in a crowd as well as the commodification of food\r\n  \r\n  Spoke about building out the storage for the 200 kg of cacao Nibs that’s coming in from Brazil\r\n- Contributor(s): Gary Teh, Val Lapidus\r\n- TDG Issued: 75.00\r\n- Attached Filename: IMG_0967.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260504194827_gary_teh_img_0967.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: kl38PgMSDKTQj/OPYietAHS7gum1Fjz2M94jN+s+4vlj/eF2XCYMupTpgUxozSIoKAzYfjV43ZUHkLF9VqyabHZplbYbOHY70vhPqpD2GUWHTobIORoeu1Q+cGRFz4wdQfGCUDzTRgd52AQkOXkBeUpttoO/uOrdE5pj94GRYBvnu5kaj0d9sxJQrFgUje2nvfVC/ftIBnhJMgdiRhTtV0g6+Q82F5BGy72X4yl2QZtD5wK5aUFlaLBss5Xeh+2vulDXs3KlxNB4EwrXcaVkj8Kun6hL3/bKkXGExd3YQRXDatvD4YvEYAycfZDEQZHAk/aazV8wyuwR5nTNieuk8A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "75",
-        "status": "Reviewed",
-        "tdg_issued": "75",
-        "status_date": "20260504",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "JVdWpK1K3LVUkSJHTVrS",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Gary Teh",
-        "project_name": "telegram_chatlog",
         "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 180\r\n- Description: Spoke about how experience art and craft becomes very important as all the cognitive heavy and rules phase routine stuff gets automated away by AI also look through the transfer of the inventory of 15 bags of ceremonial Cacao from Kirsten Dugar as well as planning for how the future R&D facility build out in San Francisco for Chocolate making would beand a preview of the Malang that Kirsten has they will be using to make Chocolate with\r\n- Contributor(s): Kirsten Ritschel, Gary Teh\r\n- TDG Issued: 300.00\r\n- Attached Filename: IMG_0862.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260504195238_gary_teh_img_0862.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: p4ohSwnlEkCb/CulLnMMRpRHIMggK7Q1qpusiPS57kbwj1HnEZHWXhCIt2X2eZGKcgjeKRNsDDq9Q7SCjMLngtRzGfaAQ+9CTVRAZmjsXuY75fQT3hYxubSRD2Bbx6RU5jITO4jLB1oT8R2DXEkhwLuVMmtTqrpII9z7qrW5k8NNjAIiLD5zypA8GdJdC5R2dAhJCD6aNmT8cz7vQsCa0pfoWGmgeA5/PAiCnHheivEGL9D47AsOgYmA+/x7QUDqE+fjPd52hrVT9hbmtVR7nuKAzgr4OxJcN3/nm4DUAwNcI/7i7qoGWqXA8KJy02quUHCxlJ/4W6R2YiZ2WHwzmg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
         "rubric": "100TDG For every 1 hour of human effort",
         "tdg_provisioned": "300",
@@ -88697,20 +88683,6 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "Wr0luFD1pu8zaEDOpuub",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Gary Teh",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Processed Elizabeth Wong bulk Stripe checkout: discovered 37 serialized QR codes (20 Oscar 2024 + 17 Santa Ana 2023) via GAS endpoint, wrote and executed batch sales script (submit_elizabeth_wong_sales.py), submitted 37 [SALES EVENT] to Edgar with amortized Stripe fees, updated agentic_ai_context with serialized QR sales pattern for future AIs.\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: gvEArGqmCwqyDUNX7sKVkiBYnj5Q+Qf8qBRyaGOY4E0ixNaT2W+wssctY15pwlL2TdOYW17uy7SrB4NX0ff9F/0SF+8Oce4t25TiJ5ETs1R5IxirTwHQGqoIf3vqmwoak5pd1RZV8wgeayTxOBkb4cfqf48yKuXjURgp6f1Z7Y8a00NzC6T1J04LE3Gtmcii/GgSie9ait6TbGL5+/j2HMTKIoszyfXkSC71Fy5KzU37CWyeMexYA90grF6ljh0Oxq17Zu4mF1v9SRdjgVgVbh//ZjdkJoFXyafybCxrcauvIXV+csPzaMOb/YENrKrm4Dke/STzEx6S3BNqmOfjtQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "75",
-        "status": "Reviewed",
-        "tdg_issued": "75",
-        "status_date": "20260430",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "Od+Ua7U2mijAxRlwncUt",
         "reviewer_email": ""
       },
       {

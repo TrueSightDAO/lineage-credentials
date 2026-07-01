@@ -11,7 +11,7 @@ on:
   # Phase 4.1 (spec §18.7) — Scored Chatlogs is a Google Sheet, not a Git
   # repo, so push triggers can't see new submissions. The cron makes sure
   # the rebuild fires periodically and pending-claim sections refresh on
-  # the credential pages without operator action. Every 2h is a fair
+  # the credential pages without operator action. Every 2h reduces staleness
   # tradeoff between freshness (≤2h delay between submission and surfacing)
   # and CI minutes (12 runs/day; each ~2min wall-clock; ~5 runs no-op when
   # neither Sheet nor data repo changed). The build commits back with
@@ -96,7 +96,6 @@ jobs:
           python scripts/build_cv_cache.py --data ../data
 
       - name: Commit + push if changed
-        id: cache_commit
         working-directory: data
         run: |
           git config user.name 'lineage-credentials-builder[bot]'
@@ -114,7 +113,6 @@ jobs:
           for attempt in 1 2 3 4 5; do
             if git push; then
               echo "Pushed on attempt $attempt"
-              echo "pushed=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
             echo "Push attempt $attempt rejected — fetching + rebasing"
@@ -130,23 +128,3 @@ jobs:
           done
           echo 'Push failed after 5 attempts — manual intervention needed'
           exit 1
-
-      # jsDelivr (the credential pages' PRIMARY data source via
-      # program-shell.js) caches @main branch files for 12h+, so freshly
-      # rebuilt CVs render stale on truesight.me long after this workflow
-      # commits them. Purge the CDN copy of materially changed CVs.
-      # Every rebuild bumps generated_at in EVERY file (+1/-1), so we only
-      # purge JSONs whose diff exceeds that single line — purging ~750
-      # timestamp-only changes per run would hammer the purge API for
-      # nothing the pages care about. Cap at 100 per run as a safety valve.
-      - name: Purge jsDelivr for materially changed CVs
-        if: steps.cache_commit.outputs.pushed == 'true'
-        working-directory: data
-        run: |
-          git diff HEAD~1 HEAD --numstat -- '_cache/cv/*.json' \
-            | awk -F'\t' '($1+$2)>2 {print $3}' | head -100 \
-            | while read -r f; do
-                curl -s --max-time 20 "https://purge.jsdelivr.net/gh/TrueSightDAO/lineage-credentials@main/$f" >/dev/null \
-                  && echo "purged: $f" || echo "::warning::purge failed: $f"
-              done
-          echo "Purge pass complete."

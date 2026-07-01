@@ -11,7 +11,7 @@ on:
   # Phase 4.1 (spec §18.7) — Scored Chatlogs is a Google Sheet, not a Git
   # repo, so push triggers can't see new submissions. The cron makes sure
   # the rebuild fires periodically and pending-claim sections refresh on
-  # the credential pages without operator action. Every 2h is a fair
+  # the credential pages without operator action. Every 2h reduces staleness window (≤2h delay between submission and surfacing) and makes a single dropped run less impactful
   # tradeoff between freshness (≤2h delay between submission and surfacing)
   # and CI minutes (12 runs/day; each ~2min wall-clock; ~5 runs no-op when
   # neither Sheet nor data repo changed). The build commits back with

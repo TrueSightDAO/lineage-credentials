@@ -1,6 +1,6 @@
 # Street Insights LLC
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-01T09:31:19Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-01T12:29:23Z*
 
 Street Insights LLC made two contributions to the DAO on December 11, 2021.
 

@@ -3,7 +3,7 @@
   "display_name": "JohnLingardR",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -134,7 +134,7 @@
         "status": "Ignored",
         "tdg_issued": "0",
         "status_date": "20250612",
-        "existing": "RESOLVE FAILED",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "lOG9ey8tS2PdLk4c/K4Z",
         "reviewer_email": ""
@@ -148,7 +148,7 @@
         "status": "Ignored",
         "tdg_issued": "0",
         "status_date": "20250521",
-        "existing": "RESOLVE FAILED",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "AjmqSwrBnNMsY0Vla+Yy",
         "reviewer_email": ""
@@ -162,7 +162,7 @@
         "status": "Ignored",
         "tdg_issued": "0",
         "status_date": "20250521",
-        "existing": "RESOLVE FAILED",
+        "existing": "TRUE",
         "reporter": "The2xld",
         "scoring_hash": "S/5EGOj/UjI3ovSZWRbS",
         "reviewer_email": ""
@@ -176,7 +176,7 @@
         "status": "Ignored",
         "tdg_issued": "0",
         "status_date": "20250521",
-        "existing": "RESOLVE FAILED",
+        "existing": "TRUE",
         "reporter": "JohnLingardR",
         "scoring_hash": "PgYcIzGDETp5Qd3StoWD",
         "reviewer_email": ""

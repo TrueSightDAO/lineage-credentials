@@ -3,7 +3,7 @@
   "display_name": "Peter Gwee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -253,7 +253,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250318",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "4vfL482tt27yNwQqUkYA",
         "reviewer_email": ""

@@ -3,7 +3,7 @@
   "display_name": "Orlantildes",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -355,7 +355,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250319",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "pc73nb+272aRDQlRX4Sy",
         "reviewer_email": ""
@@ -369,7 +369,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250313",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "FcDpKoQaYmDYTsA+9DMe",
         "reviewer_email": ""
@@ -383,7 +383,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250313",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "eQoQTrJPbwHrkILzmiGM",
         "reviewer_email": ""
@@ -397,7 +397,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250313",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "I6xzZGCUPLVy7VFOVvjE",
         "reviewer_email": ""
@@ -411,7 +411,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250313",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "lj8AjvuP0CKYW5KJZ+lg",
         "reviewer_email": ""
@@ -425,7 +425,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250304",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "q2nVBtRIrv6qW4RK3fEg",
         "reviewer_email": ""
@@ -439,7 +439,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250304",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "2OXUfMMw6WjSR367Ntfu",
         "reviewer_email": ""
@@ -453,7 +453,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250228",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "uBZvcJLfIqWKlKNSAlyN",
         "reviewer_email": ""
@@ -467,7 +467,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250226",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "HYmbo8ttFhY6aWIrnjqf",
         "reviewer_email": ""
@@ -481,7 +481,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250226",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Matheus",
         "scoring_hash": "yVzc8IxT0PY3Ep744BbF",
         "reviewer_email": ""
@@ -495,7 +495,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250226",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "UFu7xA9Hm1En+lnNj0LR",
         "reviewer_email": ""
@@ -509,7 +509,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250218",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "Lbl4ouUjw05kxl9pxIcC",
         "reviewer_email": ""
@@ -523,7 +523,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250131",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "L178o4+MlY152f5jHO+S",
         "reviewer_email": ""
@@ -537,7 +537,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250131",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "VPTl5Rm3B6OoDRvb1cAg",
         "reviewer_email": ""
@@ -551,7 +551,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250130",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "j1iRb85HAB5oe6HF7/Ek",
         "reviewer_email": ""
@@ -565,9 +565,23 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250130",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "Uz5yzJ8o9vwBJO/WWvGe",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Orlantildes",
+        "project_name": "telegram_chatlog",
+        "contribution": "Me and @reismatt⁩ spent 15 minutes today on the phone talking about\n\n- shipping of 120 bags of cacao nibs to San Francisco \n\n- ⁠santos to clarify the pricing for processing our cacao\n\n- ⁠orlantildes on how to deal with the pest infestation issues in Ilheus Brazil warehouse due to the cacao husk. (Seems we will be discarding our entire batch of cacao husk in the warehouse)\n\n- ⁠how to cash out $TDG via Raydium directly from within our Phantom Wallet",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250130",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "Rd//BraqPKtSVBmZ+Aul",
         "reviewer_email": ""
       },
       {
@@ -579,7 +593,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250130",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "qrJaFIAeWGlBh8b5jEKs",
         "reviewer_email": ""
@@ -593,7 +607,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250120",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "20bSh0egkSacH6uz0Bl4",
         "reviewer_email": ""
@@ -607,7 +621,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250117",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "R57LM/d1hg3uZDJW2vgH",
         "reviewer_email": ""
@@ -621,7 +635,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250116",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "rgmZuJaqYAMxaVQrs6HM",
         "reviewer_email": ""
@@ -635,7 +649,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250115",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "7gisznn8IMZcmuPbg6xI",
         "reviewer_email": ""
@@ -649,7 +663,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250115",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "JC9DoEjmghf87TR4WAcO",
         "reviewer_email": ""

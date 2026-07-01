@@ -1,6 +1,6 @@
 # Sherwin
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-06-30T19:53:55Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-01T02:22:03Z*
 
 Sherwin made 9 contributions to the TrueSight DAO on a single day in February 2022. Activity occurred entirely within a one-day active period from 20220224 to 20220224.
 

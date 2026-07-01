@@ -3,7 +3,7 @@
   "display_name": "Shena Davenport",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -588,7 +588,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250228",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "+sVoVR5Ts3+TO8r5297o",
         "reviewer_email": ""
@@ -602,7 +602,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250228",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Temu",
         "scoring_hash": "lFV4jF/VBCtv6DcKr3QH",
         "reviewer_email": ""
@@ -616,7 +616,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250228",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "Ye9Z1wggQ19vm7CxK6QG",
         "reviewer_email": ""
@@ -630,7 +630,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250227",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "FO0mgMYcbcfUp4MxjZ9o",
         "reviewer_email": ""
@@ -644,7 +644,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250227",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "kdfcA73YSZVcishIFxY4",
         "reviewer_email": ""
@@ -658,7 +658,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250226",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Shena",
         "scoring_hash": "Tq8H47cDy5Xpiaa0GE3c",
         "reviewer_email": ""
@@ -672,7 +672,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250226",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "WCtLNOMbaVozD9HPhP5Q",
         "reviewer_email": ""
@@ -686,7 +686,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20241215",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "8YB5rVtu8CgwwU8KY5Im",
         "reviewer_email": ""

@@ -3,7 +3,7 @@
   "display_name": "Fleurish Quartz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -109,7 +109,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250128",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "cH3E4ez1B1+ezFhVnmhp",
         "reviewer_email": ""

@@ -3,7 +3,7 @@
   "display_name": "ARPT",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -99,22 +99,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "ARPT",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 15 minutes speaking with ARPT about our tree planting operation.",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "12.5",
-        "status": "Reviewed",
-        "tdg_issued": "12.5",
-        "status_date": "20250628",
-        "existing": "RESOLVE FAILED",
-        "reporter": "Gary Teh",
-        "scoring_hash": "WeIs0XTmnY4HojKNLzhh",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

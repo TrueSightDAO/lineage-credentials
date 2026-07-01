@@ -3,7 +3,7 @@
   "display_name": "Anupa Dasgupta",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -3313,6 +3313,20 @@
         "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "dHGxFtLTrv/0JlS+fH9Z",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Anupa Dasgupta",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "Actually makes even better sense to just hook this pipeline up to the HR departments of the tech companies here in Silicon Valley as suggested by @918017107841 last year and then clarified by Ai Hui who sold off her food tech startup",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250224",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "o2A1mFYYOJG67TtM5yQY",
         "reviewer_email": ""
       }
     ]

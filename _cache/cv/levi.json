@@ -3,7 +3,7 @@
   "display_name": "Levi",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -134,7 +134,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250202",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Ray",
         "scoring_hash": "PfuSH2Rpf9DRoffwRRHP",
         "reviewer_email": ""
@@ -148,7 +148,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250202",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Angela",
         "scoring_hash": "kU4PGyaYQXnQGg2dxYLB",
         "reviewer_email": ""
@@ -162,7 +162,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250202",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Sangara",
         "scoring_hash": "WvKulbDGbukeYmCLUga+",
         "reviewer_email": ""
@@ -176,7 +176,7 @@
         "status": "Successfully Completed / Full Provision Awarded",
         "tdg_issued": "0",
         "status_date": "20250202",
-        "existing": "FALSE",
+        "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "9YE7kysV0YH78PwCZ0ZH",
         "reviewer_email": ""

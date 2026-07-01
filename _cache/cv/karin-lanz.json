@@ -3,7 +3,7 @@
   "display_name": "Karin Lanz",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -879,6 +879,34 @@
         "existing": "TRUE",
         "reporter": "Karin",
         "scoring_hash": "k+6Su3UnLmEp9ZZIsFtE",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Karin Lanz",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "Thanks @41765737357 for spending 30 minutes driving and helping drop off the cacao at the thawil train station just now",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250120",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "tjBZ87MNfxTTWBwGY3Ge",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Karin Lanz",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "I spent 45 minutes in discussion with @41765737357",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250119",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "u+DviJrQWpv2+TV3Ki+/",
         "reviewer_email": ""
       }
     ]

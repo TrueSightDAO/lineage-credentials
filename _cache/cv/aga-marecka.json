@@ -3,7 +3,7 @@
   "display_name": "Aga Marecka",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-06-30T19:53:55Z",
+  "generated_at": "2026-07-01T02:22:03Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -1575,6 +1575,48 @@
         "existing": "TRUE",
         "reporter": "Gary Teh",
         "scoring_hash": "bNet3Ls8bKRD1R5xLKLJ",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Aga Marecka",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "@48606646246 and Trisha’s (_Edge and Node_) feelings about having to deal with collecting cash for the cacao they are making available to their local community seems the same",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250223",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "v/7NSULGtXWFQ86PREKS",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Aga Marecka",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "I spent 5 minutes asking @48606646246 more details about the coworking space in Poland where cacao circles will be offered",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250211",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "MLeRP+dcl+b8GQ+NafRu",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Aga Marecka",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "Me and @48606646246 had a 5 minutes call where we walked through how our first cacao circle in Poland could be conducted 🤩🙏",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250129",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "/wpidmBZIXvNOt7RlV0v",
         "reviewer_email": ""
       }
     ]

@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-07-02T02:16:39Z",
+  "generated_at": "2026-07-02T03:26:37Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88363,6 +88363,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Fix three production bugs on perch.truesight.me (500 errors + missing chart data)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1097\n  \n  Details:\n  ## What changed\n  \n  Diagnosed and fixed three production bugs on `perch.truesight.me` (sentiment_importer):\n  \n  ### 1. Landing page 500: Date.parse on Time object (sentiment_importer#1097)\n  - `get_date_range_for_market` in `app/helpers/application_helper.rb` called `Date.parse()` on raw PostgreSQL results, but PG returns `date_published` as a `Time` object, not a `String`. This caused `TypeError: no implicit conversion of Time into String` on every request to `/`.\n  - Fix: Changed `Date.parse(r['date_published'])` to `r['date_published'].to_date`.\n  \n  ### 2. /large_dips 500: broken route helper shadowing (sentiment_importer#1098)\n  - Commit 08c42e24 introduced `helper_method :my_shopping_path` and `helper_method :large_dips_path` in `daily_trades_controller.rb` that called non-existent `my_shopping_daily_trades_path` and `large_dips_daily_trades_path` route helpers, shadowing the valid route-generated helper.\n  - Fix: Removed both helper methods so the route helpers resolve correctly.\n  \n  ### 3. Charts missing data after June 11, 2026 (sentiment_importer#1099)\n  - `LargeDipIndexRefresher` (app/workers/large_dip_index_refresher.rb) referenced `MINIMUM_TRADE_COUNT` without the `DailyTrade::` qualifier, causing `NameError` on every run since June 11. Raw price data imported fine, but sell-off index records (used by the charts) were never created.\n  - Fix: Changed `MINIMUM_TRADE_COUNT` to `DailyTrade::MINIMUM_TRADE_COUNT`. Backfilled 13 missing June trading days.\n  \n  ### Infrastructure fixes during deployment\n  - `seni_ror`: Killed stale `nohup` Rails process holding port 3002 with old code; cleared stale PID file blocking systemd restart.\n  - `seni_sk_nelanco`: Cleared 1.8GB of old log files (disk was 100% full); restarted `systemd-resolved` (DNS was broken).\n  \n  ## Pull requests\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1097 — Fix: date nav pills crash when SQL returns Time objects\n  - Commit 7e2cd2c6 — Fix: remove broken my_shopping_path/large_dips_path helper methods\n  - Commit 02b2a0f5 — Fix: qualify MINIMUM_TRADE_COUNT in LargeDipIndexRefresher\n- Contributor(s): Gary Teh\n- TDG Issued: 200.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Wjpg7W5Q/p8a7h/r2rO6L1xYtVq5xYC35kuxiUm6p0OhLgn7jZLWj8NLdKvz2GFfyrvYaMJdweei5YEJyyGgl+5fAGMlWg+Gv/vlvhLWsvxSmBD+pDx+iPXiC05vzJObP47fNyXuB2DyjFlWfEWpOHJUaNM4pI8S0KdgPYwip3xrfqpxKIIThQIDVIStstaJdnsxh6v4m79xNdB78pEI291oLFOl2/PcEp2UKfdkgz7PtszzXceZm/CKNxI/hyb/Qv1HnrNbTcW8o6Qlh4efUHR/OzhhztEUHl4kOX0MaqC3+yHS4/01jcFFYsL3t56PteOzyrEAcm9PcaDsB75a6w==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "200",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260702",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "v67/XjsAVb9wkETq5W0d",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Follow up on Nelanco AWS Account hack charges in May\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: Case Details _ AWS Support Console.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260702015033_gary_teh_case_details___aws_support_console.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: fIaVbU4z1NPnvUsjJd0HdgIFkCdGPnK+kSXZekOfHTNNfN5o8RrouoGB3YO9mx8wNVNErOX5mFI6gq1q0DPf6XY20F09POwlv5PKZ3h37FBKqOL7zvWraS3/FLXZDB//ZuLqnfxBBavgAT27hzVTkX/6z1zlzYKqkhwiZGaea/YpM5WkDWLRfd16Azknvj85QiPJj1eljHRIMo/slbr8nkreOt7Hu1cc7VnYlRi2eU0JsXT2u6RU9s4Bp//RRyeDAK750bNtfQ3aBVuUH2X7hbTncz5+c5wmwovzaki3evUrbywhm7cTHo6O5a8W4nLACP0VLrgBrk4i7udJ8A+52A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "16.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260702",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "E0dHT5FplBfU4VN/wkdl",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

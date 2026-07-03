@@ -1,6 +1,6 @@
 # pk-8YnflL11e6cj
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-07-03T12:02:27Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-07-03T15:50:41Z*
 
 ## TrueSight Grounding — Morning Oracle
 

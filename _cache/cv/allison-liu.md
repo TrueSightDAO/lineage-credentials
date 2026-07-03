@@ -1,6 +1,6 @@
 # Allison Liu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-03T15:50:41Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-03T16:26:29Z*
 
 Allison Liu made three contributions to the DAO between September 2018 and August 2021.
 

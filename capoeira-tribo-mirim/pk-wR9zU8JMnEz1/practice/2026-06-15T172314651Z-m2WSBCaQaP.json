@@ -1,0 +1,53 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "practice_type": "training-session",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-wR9zU8JMnEz1",
+  "captured_at": "2026-06-15T17:23:14.651Z",
+  "source_url": "https://capoeira.agroverse.shop/practice.html",
+  "payload": {
+    "theme": "Attacks",
+    "total_practice_minutes": 8,
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "queixada_cavando",
+        "name_pt": "Queixada cavando",
+        "duration_seconds": 480
+      },
+      {
+        "id": "role_queixada_de_frente",
+        "name_pt": "Queixada de frente com rol\u00ea",
+        "duration_seconds": 540
+      },
+      {
+        "id": "role_queixada_de_frente_2",
+        "name_pt": "Queixada de frente com rol\u00ea (varia\u00e7\u00e3o)",
+        "duration_seconds": 540
+      },
+      {
+        "id": "rabo_de_arraia",
+        "name_pt": "Rabo de arraia",
+        "duration_seconds": 600
+      }
+    ],
+    "music_played": [
+      "007",
+      "001",
+      "003",
+      "008",
+      "010"
+    ]
+  },
+  "raw_payload_json": "{\n  \"theme\": \"Attacks\",\n  \"total_practice_minutes\": 8,\n  \"moves_practiced\": [\n    {\n      \"id\": \"ginga\",\n      \"name_pt\": \"Ginga\",\n      \"duration_seconds\": 360\n    },\n    {\n      \"id\": \"queixada_cavando\",\n      \"name_pt\": \"Queixada cavando\",\n      \"duration_seconds\": 480\n    },\n    {\n      \"id\": \"role_queixada_de_frente\",\n      \"name_pt\": \"Queixada de frente com rol\\u00ea\",\n      \"duration_seconds\": 540\n    },\n    {\n      \"id\": \"role_queixada_de_frente_2\",\n      \"name_pt\": \"Queixada de frente com rol\\u00ea (varia\\u00e7\\u00e3o)\",\n      \"duration_seconds\": 540\n    },\n    {\n      \"id\": \"rabo_de_arraia\",\n      \"name_pt\": \"Rabo de arraia\",\n      \"duration_seconds\": 600\n    }\n  ],\n  \"music_played\": [\n    \"007\",\n    \"001\",\n    \"003\",\n    \"008\",\n    \"010\"\n  ]\n}",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+  "intake": {
+    "reprocessed": true,
+    "processed_at": ""
+  }
+}

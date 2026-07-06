@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-07-06T16:49:33Z",
+  "generated_at": "2026-07-06T19:08:23Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -55,9 +55,29 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 24,
+      "practice_count": 25,
       "total_practice_minutes": 681,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-06-12T02:25:10.205Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": null,
+          "raw_payload_json": "",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "fTQm11zkzkZe4oCQrGnOOC/xcMe7UwUps6xV9vwd/G7XO2dkSCLv4u6aLSQV8RJeK/VwKYRTF7PUREFo+h9qroRKvaA+g0Yomi7Ysl0J18f8tePYs8ynbChEl8fLvDyDwpj6LpgTEgRXDqYSopk6faKYHeMIe0BTP1NhH6JlBtthCjSurjjaNKaw6LWIAkiFModrXPhW0zEOwJr0WaYq5+Ca6akvybezHpZOi62HCihHFzEFlo9SPBLQuA0fANxauZQAEhKvDxJ/9FZ0v4NuYKTDB10za7u8oD2o5TalpViwyX35bGD0osAnjaTc57ldiWzgW3CZ8qvG0k52l95PeQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260612022510_099",
+            "telegram_message_id": "Edgar_20260612022510_100",
+            "processed_at": "2026-07-06T19:01:47.791Z",
+            "reprocessed": true
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-12T022510205Z-fTQm11zkzk.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",
@@ -1080,62 +1100,6 @@
             "reprocessed": true
           },
           "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025149742Z-M8oSuEG8Kx.json"
-        },
-        {
-          "program": "capoeira-tribo-mirim",
-          "practice_type": "training-session",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-wR9zU8JMnEz1",
-          "captured_at": "2026-05-17T02:51:32.003Z",
-          "source_url": "https://capoeira.agroverse.shop/practice.html",
-          "payload": {
-            "theme": "Attacks",
-            "moves_practiced": [
-              {
-                "id": "ginga",
-                "name_pt": "Ginga",
-                "duration_seconds": 360
-              },
-              {
-                "id": "martelo",
-                "name_pt": "Martelo",
-                "duration_seconds": 480
-              },
-              {
-                "id": "meia_lua_de_frente",
-                "name_pt": "Meia lua de frente",
-                "duration_seconds": 480
-              },
-              {
-                "id": "ponteira",
-                "name_pt": "Ponteira",
-                "duration_seconds": 420
-              },
-              {
-                "id": "queixada_de_frente",
-                "name_pt": "Queixada de frente",
-                "duration_seconds": 480
-              }
-            ],
-            "music_played": [
-              "002",
-              "008",
-              "004",
-              "007"
-            ],
-            "total_practice_minutes": 12
-          },
-          "raw_payload_json": "{\r\n  \"theme\": \"Attacks\",\r\n  \"moves_practiced\": [\r\n    {\r\n      \"id\": \"ginga\",\r\n      \"name_pt\": \"Ginga\",\r\n      \"duration_seconds\": 360\r\n    },\r\n    {\r\n      \"id\": \"martelo\",\r\n      \"name_pt\": \"Martelo\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"meia_lua_de_frente\",\r\n      \"name_pt\": \"Meia lua de frente\",\r\n      \"duration_seconds\": 480\r\n    },\r\n    {\r\n      \"id\": \"ponteira\",\r\n      \"name_pt\": \"Ponteira\",\r\n      \"duration_seconds\": 420\r\n    },\r\n    {\r\n      \"id\": \"queixada_de_frente\",\r\n      \"name_pt\": \"Queixada de frente\",\r\n      \"duration_seconds\": 480\r\n    }\r\n  ],\r\n  \"music_played\": [\r\n    \"002\",\r\n    \"008\",\r\n    \"004\",\r\n    \"007\"\r\n  ],\r\n  \"total_practice_minutes\": 12\r\n}",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "request_transaction_id": "ESG9/b3l4YP65hCTyw/MYp+hlPba61MBkYWtoEgogrbIbSqqdRTXZaFH69RwIY0ewF4vivtrUd3asTOLywWNNowXnihbc4uK1xP7yFWMDUyGNQznRkXInzdgfOlJajHGnvxCr6GSOIkK/5c3gs6x1nFVdtl2SuGWdZYWqyT7Ikk+q4eP2MtgX/p4C1dNVL1sEjZRa9tk/lHiof9MAkaSgsnHbKhR2XpEzpIhx01t8WSqGtgEb5rkYrEE2xZFtTIQvBQCzeBmzgfSBulE0rg/OR0b2yvXvdzxjTBsuf3s6ezsWO5LKbhmJlu82qen1lECSx3tp/BooGoLSYScuAiVDA==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260517025132_169",
-            "telegram_message_id": "Edgar_20260517025132_170",
-            "processed_at": "2026-05-28T19:27:28.868Z",
-            "reprocessed": true
-          },
-          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-05-17T025132003Z-ESG9b3l4YP.json"
         }
       ]
     }
@@ -88363,6 +88327,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 8\n- Description: Looked up Santa Ana Fazenda QR codes on main ledger, updated QR code 2024SA_20251227_32 ownership to Micaelly Pinheiro (micaxlly@gmail.com), and processed sale with Stripe session cs_live_a13W73ntFE8CZbsvng9fJXVCDA3hCYUh53k0cv4SKn02hSUDtMWkpHbpcT including UPS tracking 1ZXG9979YN06539643\n- Contributor(s): Gary Teh\n- TDG Issued: 13.33\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: MjMMFbO4Bzi+ZXBgEkIG/7aecOo90SEZ/ISqU0PiI38r+ABg2c/fSCq7xPnfYJU/dK6PKKU5yrzoKNddVwO/thHO1epbBUvVvHso4wNrkhuRCoAqVvuGzzZq5UKOj5Yj0tGUI/lLO0LdBGNIe0gM2N7GGHPeycXl20DvuNMzogYF0R5F+Z3FqJhkHUG345+hWE392uhPXg1DcR2LZkk9rYxOyGSRW7V7iuRpLm2LhGe0PIznTlkuzaTM0gNI/p+7H/LlIFtRSLG57cxTqaChHIvwgwisW0CWUaXUzup2vbT4BvauWWnFgGUKnCAFQ+olZ+0PyIWVeqrFtGPzlHRTag==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "13.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260706",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "DAmjrKebLCWTzZ84Ajlv",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: fix: harden update_qr_code CLI with canonical labels\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/139\n  \n  Details:\n  Added canonical_labels (QR Code, Associated Member, New Status, etc.) to update_qr_code.py to prevent label drift vs GAS parser. Previously canonical_labels=[] forced all labels through --attr verbatim, causing 'Associate Member' to not match the GAS regex 'Associated Member'. Audited all 35 CLI modules — update_qr_code was the only one with this gap. Deployed to Sophia via pip install.\n- Contributor(s): Gary Teh\n- TDG Issued: 16.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: W4dlBjpHFjAMT3SXE0jfliKwg2IGBW7y/gN1mro8qepZZvPU9UnnWgf+F+KbOJSUNy3udYPMA6EQQBpWBRc8vfy1gHkHKwSX3Hkkx4VSA2EwgZBIx7+NCt01XaQvVEI2/MAqha2PcK2ezNfod+a9+CqTiRH+Kax6oQ0uGSXLNk1g3BZj+5faJSiTNK6mkkRxmVdgHuqzmhtWFTV3al7USnCsqPl2ednKIMczSVjDaDtjgdCGzxgubEw6UPZeQJfB3VSfhcu8aR7T3XhSzvmyadQItbQ9SmNGJC5m1O5puU6tMpMKQXl/nnmvldp8P4InNXcqrIHInzMcq8dY0b2ixw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "16.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260706",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "3zjPm9vQhSKyKT1UFwqi",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

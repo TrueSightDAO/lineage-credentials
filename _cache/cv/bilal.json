@@ -9,7 +9,7 @@
     ],
     "note": "Demo entry for Bilal — program lead of Butterfly Effect at ERA Professionals. Not a real cryptographic key (synthetic pk-hash prefixed `pk-DEMO-` so anyone inspecting can see this is a placeholder, not a signed identity). Seeded so the cohort listing has the program lead visible alongside participant records. When Bilal onboards a real DAO identity via dao_client auth.py login, his real pk-hash replaces this entry and his existing DAO contribution credit (slug `bilal`) merges naturally."
   },
-  "generated_at": "2026-07-07T03:26:52Z",
+  "generated_at": "2026-07-07T07:31:11Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {

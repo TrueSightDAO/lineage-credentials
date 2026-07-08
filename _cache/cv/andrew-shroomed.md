@@ -1,6 +1,6 @@
 # Andrew Shroomed
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-08T08:29:33Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-08T11:44:19Z*
 
 Andrew Shroomed contributed to the Agroverse project with one instance of sourcing for buyer in the Commerce category.
 

@@ -1,6 +1,6 @@
 # David K K Kwan
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-10T10:46:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-10T14:02:14Z*
 
 David K K Kwan contributed to the DAO through a single effort in the Cypher Defense project, where he crafted contents for the entire marketing campaign under the Build Game - Marketing category.
 

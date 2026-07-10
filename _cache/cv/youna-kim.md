@@ -1,6 +1,6 @@
 # Youna Kim
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-10T03:27:17Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-10T06:04:49Z*
 
 Youna Kim contributed to TrueSight DAO with four entries from December 2021 to December 2023. Her work centered on marketing in the Build Game, where she oversaw an entire marketing messaging campaign, and included one instance of human effort logged at 100 TDG per hour.
 

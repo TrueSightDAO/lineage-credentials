@@ -1,0 +1,55 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "practice_type": "training-session",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-wR9zU8JMnEz1",
+  "captured_at": "2026-07-11T20:32:38.237Z",
+  "source_url": "https://capoeira.agroverse.shop/practice.html",
+  "payload": {
+    "theme": "Defense",
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "cocorinha_negativa",
+        "name_pt": "Cocorinha negativa",
+        "duration_seconds": 480
+      },
+      {
+        "id": "role_esquiva_martelo",
+        "name_pt": "Esquiva para martelo com rol?",
+        "duration_seconds": 480
+      },
+      {
+        "id": "role_esquiva_para_tras",
+        "name_pt": "Esquiva para tr?s com rol?",
+        "duration_seconds": 480
+      },
+      {
+        "id": "role_negativa",
+        "name_pt": "Negativa com rol?",
+        "duration_seconds": 540
+      }
+    ],
+    "music_played": [
+      "007",
+      "011",
+      "005",
+      "004",
+      "010"
+    ],
+    "total_practice_minutes": 39
+  },
+  "raw_payload_json": "{\r\n    \"theme\": \"Defense\",\r\n    \"moves_practiced\": [\r\n      {\r\n        \"id\": \"ginga\",\r\n        \"name_pt\": \"Ginga\",\r\n        \"duration_seconds\": 360\r\n      },\r\n      {\r\n        \"id\": \"cocorinha_negativa\",\r\n        \"name_pt\": \"Cocorinha negativa\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_esquiva_martelo\",\r\n        \"name_pt\": \"Esquiva para martelo com rol?\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_esquiva_para_tras\",\r\n        \"name_pt\": \"Esquiva para tr?s com rol?\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_negativa\",\r\n        \"name_pt\": \"Negativa com rol?\",\r\n        \"duration_seconds\": 540\r\n      }\r\n    ],\r\n    \"music_played\": [\r\n      \"007\",\r\n      \"011\",\r\n      \"005\",\r\n      \"004\",\r\n      \"010\"\r\n    ],\r\n    \"total_practice_minutes\": 39\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+  "request_transaction_id": "hYeAJu+1n999k5/EWiPXYOJka5zyg8VydkJuK9RPlTtNCeoD90PWi107K3TdN0YsOm4KerK3v8+EMpTIhfEklr7pKhLD30pZt+YU7BVKkL8SwS7/27dNo1Jiil0bXuW67hJXnyhOQt+nNMcEKPiXRrbgiS69XQur+AC/AAK1LelrpizNuUbV4HyX+u/ElRXh9x+1F/hXUJCG9RPUWnOb7Poc1KyNJflaGDlTHJfz1al4edL4ws02bPqwAdLM3VguuhiZSjJsWuVhx7vX2rDM7oIsUEmdt+q7CAvq06OlgruJqzUAjsHfTPiubeHPtVSXzkEl8IM+Uaxs/yEoVCkkDA==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260711203239_009",
+    "telegram_message_id": "Edgar_20260711203239_010",
+    "processed_at": "2026-07-11T20:37:29.034Z"
+  }
+}

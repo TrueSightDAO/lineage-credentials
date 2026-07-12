@@ -1,6 +1,6 @@
 # Peter Gwee
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-12T11:07:06Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-12T12:58:59Z*
 
 Peter Gwee made 7 contributions to the DAO from January 2022 to March 2025, primarily through human effort hours under the 100TDG For every 1 hour of human effort category. He participated in the 20250617_edgar project.
 

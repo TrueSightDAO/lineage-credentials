@@ -1,6 +1,6 @@
 # TrueTech Inc
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-14T13:11:13Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-14T15:22:58Z*
 
 TrueTech Inc has made 209 contributions to the TrueSight DAO ecosystem across Agroverse, Sun Mint, and TrueSight DAO projects from July 2022 to January 2026. Their work primarily involves bringing liquidity by paying DAO expenses in USD (74 contributions), injecting liquidity at 1 TDG per 1 USD (70), and providing human effort valued at 100 TDG per hour (57), along with receiving USDT (5) and minor outflows (-3). A notable accomplishment is sustaining DAO operations through consistent USD funding and effort over three and a half years.
 

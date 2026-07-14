@@ -1,6 +1,6 @@
 # Neo
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-13T22:47:03Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-14T01:30:07Z*
 
 Neo contributed to the DAO from April 2022 to July 2022 with five contributions across strategy and liquidity categories. They provided two reviews of proposed strategies for the Build Game with clear and specific improvements, paid for two DAO expenses in USD on behalf of the organization under Bring Liquidity, and shared one reference link as strategy material.
 

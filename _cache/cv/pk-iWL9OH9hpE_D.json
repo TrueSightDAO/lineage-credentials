@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-07-14T15:22:58Z",
+  "generated_at": "2026-07-14T16:21:24Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -13,9 +13,45 @@
       "source_pages": [
         "https://oracle.truesight.me/draw.html"
       ],
-      "practice_count": 16,
+      "practice_count": 17,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-iWL9OH9hpE_D",
+          "captured_at": "2026-07-14T16:16:32.412Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 28,
+                "name": "Ta Kuo / Preponderance of the Great",
+                "changing_lines": [
+                  3,
+                  6
+                ],
+                "relates_to": 6,
+                "relates_to_name": "Sung / Conflict"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 7/14/2026, 9:16:31 AM?? ?? ? ??? ??2??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 28,\r\n        \"name\": \"Ta Kuo / Preponderance of the Great\",\r\n        \"changing_lines\": [\r\n          3,\r\n          6\r\n        ],\r\n        \"relates_to\": 6,\r\n        \"relates_to_name\": \"Sung / Conflict\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 7/14/2026, 9:16:31 AM?? ?? ? ??? ??2??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "request_transaction_id": "kfhZ/cu3WyETZaA0nMXp1cjgiI5XkvsbxkHwbLJV3VXryThgrpfS8EvFOpHb1UyuvPNggJmN3vTCKKfvJ/KekCua/8Q2Lisx/Cu3jeeFhm9bEl2ccIZwB6LHtbu0OeLP07gVPzhlJHndfg7o9SdhPwmohzRgCNJUzr9YhZQwbkTEkes6xDrtM2Z1jL+sBdDJum/997yXjNXtB0KXs66xq0TARA8h0th0x07VCl/hpxbDDx9BCLzRPeZU9YzzmFBtmLbV3LK7HVdTAOIlEwF6OJRXu6xoljNTf8uGKtk/n9nYHV2jH1/sb5c0MJWr1Rd7pSNwDRe8rBxQAUbfBV4xIw==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260714161634_033",
+            "telegram_message_id": "Edgar_20260714161634_034",
+            "processed_at": "2026-07-14T16:17:24.150Z"
+          },
+          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-07-14T161632412Z-kfhZcu3WyE.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",

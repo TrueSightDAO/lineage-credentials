@@ -1,6 +1,6 @@
 # Jeramy Dahl
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-14T17:21:35Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-14T19:08:07Z*
 
 Jeramy Dahl made one contribution to the Sun Mint project by bringing on an active contributor through the 'Bring Builders' category.
 

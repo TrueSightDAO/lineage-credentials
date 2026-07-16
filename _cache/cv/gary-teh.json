@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-07-16T19:30:47Z",
+  "generated_at": "2026-07-16T20:27:03Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -87942,6 +87942,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Handoff of instructions to Fatima and orlantildes\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: handoff_gary_to_fatima_2026-07-15.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260716193308_gary_teh_handoff_gary_to_fatima_2026_07_15.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: Uhie4Z5NGZBnzOmCzjAALRwaOym+8nuRAC5HL5htjKaDoc/jrOvpxF80zPECFUBgl0lZycdALbBvu/dZT2fZAZ/ZHOXl9onWEXCoABy/o11g9V7ZXEFvDK6RP/1qlj0tLrQRWd82ldkC0Rt4mm1s6c7eTVcjUM4QSTYCriMpDwqTz9EGkGPdLq4an0oLVb0ymVwHeOFXWmk3LgJ0I/8QEJO2FJKI5cO1FJCRUBquqeuPdvkM2ZbEnHpnY+JCnI2BcL8YMa2BGQWL+fJX3dLNmKjkfiby2k3Aslt9MjBVfX594PPAGthMj2m+NrHoxQNSb02kaU2RnDhP4WpTqJuFiA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260716",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "YcFfldQGBaNgpq9+eVdq",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Directed and corrected Sophia on setting up Claude Code box with correct Gmail OAuth tokens for admin@truesight.me and gary@agroverse.shop inbox access.\n- TDG Issued: 5\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: SWZ3X/PKPbbowqlCUoS6LrsUVfSJa9QbVGvqyXde5kK5b3kH14TL6G5OMfI5Xt2Dil+v6kG6w5YkEz0H0UvrurI5ugGLObgzF+2pb+a+2rYdKbyGOEN0TKCh16n4m5j3c+27ms1c6TEpFZFSrzP8beC/+o+qYID9JZivynRggzMDuTo0xlvSBT3QWYd+1QTy2xr59jeCD24vSeu6rY+x0ozXHmrFOpNEmnfi+6NIGaC5c6Mmw4/EgokE4/P1eeJ/8PUJme5PD4ucj6Y5BzARxaigWplCZPWJGKqhnMDvnFIIulMXFw/QGTJnfVOiOT4DoQkaIE8F7kn9Gzy4jKgiKQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "5",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260716",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "MihlWNRiZiS57h2VmWcO",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

@@ -1,6 +1,6 @@
 # Shane Low
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-16T15:28:34Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-16T17:06:18Z*
 
 Shane Low made one contribution to the TrueSight DAO on January 3, 2021.
 

@@ -1,6 +1,6 @@
 # Chris Ye
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-17T11:17:11Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-17T13:07:32Z*
 
 Chris Ye contributed to the DAO with one effort in the Build Game category. He oversaw an entire marketing messaging campaign in July 2022.
 

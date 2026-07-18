@@ -1,6 +1,6 @@
 # Jacob Nelan
 
-*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-18T10:58:14Z*
+*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-18T12:55:09Z*
 
 Jacob Nelan has contributed to the TrueSight DAO across multiple projects including Edgar, Recurring Tokenizations, and TrueSight.Me, with a primary focus on liquidity provision and funding operations. He provided liquidity by injecting USD on 32 occasions and covered DAO expenses in USD on 25 instances, supporting the ecosystem's financial needs from August 2021 through April 2026. Jacob also engaged in game-building efforts, reviewing strategies with specific improvements, voting in polls, suggesting UX enhancements, and attending FaceTime meetings. He is currently a member of the Board of Governors.
 

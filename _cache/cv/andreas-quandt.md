@@ -1,6 +1,6 @@
 # Andreas Quandt
 
-*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-20T22:48:51Z*
+*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-20T23:09:50Z*
 
 Andreas Quandt contributed to the DAO through three instances of human effort logged under the telegram_chatlog project, each qualifying for 100 TDG per hour from August 2021 to March 2026. He is currently a member of the Board of Governors.
 

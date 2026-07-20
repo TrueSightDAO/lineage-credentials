@@ -1,6 +1,6 @@
 # Anika Giftge
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-20T03:27:59Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-20T06:41:12Z*
 
 Anika Giftge contributed to the DAO's Build Game efforts from March 2022 to April 2022, focusing primarily on strategy development through reference materials, idea applications, reviews, and improvements. She brought on passive observers twice and a key opinion leader once under Bring Builders. Her contributions include reviewing proposed strategies to suggest against actions or highlight watch areas, independently reiterating pending decision signals, providing UX suggestions, and linking reference materials. Notable was onboarding a key opinion leader.
 

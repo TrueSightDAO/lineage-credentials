@@ -1,6 +1,6 @@
 # Green Gulch Zen Monastery
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-21T01:48:47Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-21T03:28:24Z*
 
 Green Gulch Zen Monastery contributed two hours of human effort to Agroverse and TrueSight DAO in late November 2023, earning recognition under the 100 TDG for every 1 hour of human effort category.
 

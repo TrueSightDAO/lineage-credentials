@@ -1,6 +1,6 @@
 # David Berget
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-21T22:48:03Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-22T01:48:42Z*
 
 David Berget contributed to the TrueSight DAO between December 2021 and February 2022, with 7 total contributions. His activity was primarily in community operations and early partner outreach for Agroverse and Sun Mint initiatives. One notable accomplishment was facilitating initial discussions with cacao supply chain partners during the DAO's launch phase.
 

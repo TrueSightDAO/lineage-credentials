@@ -1,0 +1,68 @@
+{
+  "slug": "pk-RgVWT95jgyi7",
+  "display_name": "pk-RgVWT95jgyi7",
+  "pk_hash": "pk-RgVWT95jgyi7",
+  "identity": {},
+  "generated_at": "2026-07-22T04:30:18Z",
+  "has_elective_records": true,
+  "has_dao_contributions": false,
+  "programs": {
+    "truesight-grounding": {
+      "display_name": "TrueSight Grounding — Morning Oracle",
+      "lineage_root": null,
+      "source_pages": [
+        "https://oracle.truesight.me/draw.html"
+      ],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnZEiAySAQByvYDq9FRoBdnFaiKr37MR7rMrqai8zc2QMCFxfSCExMoatvtZGKi9eX9nfwgbcHEZaSKAtQhzpRrg6Y+WDqJFn/j+0YoAmHxY4vg5ygY+j+yCd/ifnqeEXkqEVAMnjrVppC93g7T3VgMoKuNaEnPj72eMHWfTLdlnXj+bss7ku4ZmvKP+v4YlNbUTBgAiMHBjlmpmYL3EztXtyz5mq2KztEeS/hwSMTCJ8VUyvPtuOQV1XKVzq/kbNccatZ4nPZSyjfjCVofNpf/supim9diIv2p+Bq3o5XrGHpTa8laWW8pwHdUEyGD1yuaYS9VYLfPAm32+OUGHbcQIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-RgVWT95jgyi7",
+          "captured_at": "2026-07-22T04:20:11.073Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 34,
+                "name": "Ta Chuang / The Power of the Great",
+                "changing_lines": [
+                  2
+                ],
+                "relates_to": 55,
+                "relates_to_name": "F?ng / Abundance"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 7/22/2026, 12:20:10 PM?? ?? ? ??? ??5??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 34,\r\n        \"name\": \"Ta Chuang / The Power of the Great\",\r\n        \"changing_lines\": [\r\n          2\r\n        ],\r\n        \"relates_to\": 55,\r\n        \"relates_to_name\": \"F?ng / Abundance\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 7/22/2026, 12:20:10 PM?? ?? ? ??? ??5??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnZEiAySAQByvYDq9FRoBdnFaiKr37MR7rMrqai8zc2QMCFxfSCExMoatvtZGKi9eX9nfwgbcHEZaSKAtQhzpRrg6Y+WDqJFn/j+0YoAmHxY4vg5ygY+j+yCd/ifnqeEXkqEVAMnjrVppC93g7T3VgMoKuNaEnPj72eMHWfTLdlnXj+bss7ku4ZmvKP+v4YlNbUTBgAiMHBjlmpmYL3EztXtyz5mq2KztEeS/hwSMTCJ8VUyvPtuOQV1XKVzq/kbNccatZ4nPZSyjfjCVofNpf/supim9diIv2p+Bq3o5XrGHpTa8laWW8pwHdUEyGD1yuaYS9VYLfPAm32+OUGHbcQIDAQAB",
+          "request_transaction_id": "cH4QFBc/0Qkau/KogC5deBRERqcaVWSRncEQrLRG6V3v1WZSaetvnD9w7c5LKXA2hMAtxQVU/jIPF2ofJJ1Yw+dCPGq0+0+oTT3hA4zcakJ0m5rqOA4dsuplWzpAr2pKcOUzpF/KrS+mZ6BIpXUC5k8DATMlERpz/SqlGE76rlPVywELh9YAq6bLR2gH+ptoEvdNqd1mcKGB8deeXklD//AFutT10zERpmtrjrRAU9hwAgVSnP0ccMg0MVMavydrEvQDUMweCRdVvs0mf3euuzRY/jCvmrWXmvWdSJJ8M45WZCSY1eJOL64PDaa87B5Zb5iJucGcX0G2nZzUa8kO9A==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260722042014_237",
+            "telegram_message_id": "Edgar_20260722042014_238",
+            "processed_at": "2026-07-22T04:27:21.717Z"
+          },
+          "_path": "programs/truesight-grounding/pk-RgVWT95jgyi7/practice/2026-07-22T042011073Z-cH4QFBc0Qk.json"
+        }
+      ]
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-RgVWT95jgyi7.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-RgVWT95jgyi7"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

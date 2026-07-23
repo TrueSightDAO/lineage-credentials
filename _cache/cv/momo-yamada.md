@@ -1,6 +1,6 @@
 # Momo Yamada
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-23T08:15:02Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-23T11:48:49Z*
 
 Momo Yamada contributed to the TrueSight DAO from January 2021 to November 2021, with 18 contributions spanning multiple areas. Their work primarily focused on community operations and partner outreach for Agroverse, the cacao supply chain initiative, alongside regular Telegram engagement and content curation. Momo also participated in Sun Mint regenerative reforestation efforts and supported related social ventures through event coordination.
 

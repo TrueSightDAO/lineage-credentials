@@ -1,6 +1,6 @@
 # Annelaure Vuillermoz
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-22T22:56:16Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-23T01:55:53Z*
 
 Annelaure Vuillermoz made two contributions to the TrueSight DAO on December 8, 2021.
 

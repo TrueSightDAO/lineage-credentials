@@ -1,6 +1,6 @@
 # Nayyan Ahmed Kiyani
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-23T13:27:38Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-23T17:29:23Z*
 
 ## DAO Contributions
 

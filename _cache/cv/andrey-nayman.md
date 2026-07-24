@@ -1,6 +1,6 @@
 # Andrey Nayman
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-24T08:10:49Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-24T11:33:10Z*
 
 Andrey Nayman contributed to Agroverse and TrueSight DAO over two years, from April 2022 to February 2024, with 18 entries primarily in Build Game - Strategy activities. He provided reference materials and links five times, reviewed proposed strategies with clear improvements three times, and reiterated pending decision signals independently three times. Andrey also suggested cautions or areas to watch twice, contributed educational reference materials twice, logged two hours of human effort, and offered one actionable step in a strategy review.
 

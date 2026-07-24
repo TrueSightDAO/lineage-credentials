@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-07-24T05:14:45Z",
+  "generated_at": "2026-07-24T08:10:49Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -87989,6 +87989,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Compiling Dr. Ye product feedback, Liz表哥 market insight, and cacao beverage market gap analysis into structured DAO reference data\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: VgME3uIdTNZe0tppv1aBcfssQP90W5HGQ/Wj2h8Cx06/v/oXQ3GrhbRytgnkbe7AOY2rk1pjCmOlk7jMULZ8FM/b9cHKuhoXSLqq4KYqm2Xw50+23jLyYRpHOCzRiY9WgoYnN5yhytfDvnaHTVwu7r9Lbha+kfvPdzLj5YGrvl9zWoGUixnAquxuGDe/dSsx+yN75+sgP+WQHD3JYh+fvypU4tVHIO/Hq8oA6iF0zPTMJyEo89QM+guVH62sdCBX+U5hLZlnpz8WU8BSWxCuI0oe6JYV/YOIVkWXoMD4WXlBdhGJWlgL4TDjXlna2jiNcunno4mE4oq0TvSNOK6Hzg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260724",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "hh1yIqespluVt6bz1N0M",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Dinner meeting with Liz's cousin (表哥) — market research gathering on cacao beverage market gap in China, product feedback and insights\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: P1GOfmrqk0/c0WNIawzYnfDbMbXuOg+w3M6geUA2DQhRWiYOHU2bZGuVUTXidfU4Fr5XgQNmIJVW4ZvdtRqo68A1lEm5ZJC779LCs/HlK+9IHFR2DbY8Bkbd7jGs7g6CwDheLLYpeFAaJcrOpqdThUbzA5fcvjyEWSyloG0o7T7X3HJuqMZBBdJbPacH6Fxs6z2K6yXizurqJzywsLTLzNZ89npzCM1WGLtW+47FrfeoNCEjyZW39r7Qht5/xB6hckUbcmQZ3TrjtRH96YantcUvXUJvjAF1MTnq+z1MMQpp+WgrYZEpzOHfB4IcJqlJKHxXFRzjDZR1mkl3/GZlCQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260724",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "MVor0mARi0s7Go3V3aVN",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

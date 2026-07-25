@@ -1,6 +1,6 @@
 # Lan
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-25T19:56:23Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-25T20:43:05Z*
 
 Lan has contributed to multiple TrueSight DAO projects including Agroverse, Sun Mint, Cypher Defense, Edgar, MoNYtyze L1 Protocol, Recurring Tokenizations, and TrueSight.Me, with activity spanning from October 2020 to April 2026. Their contributions primarily consist of injecting liquidity (33 instances), paying DAO expenses in USD (25 instances), and providing human effort (19 hours). Lan also brought on active contributors (8 instances), participated in strategy-building through FaceTime meetings (5 instances), online polls (4 instances), strategy reviews with improvements (4 instances), and reference materials (3 instances).
 

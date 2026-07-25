@@ -1,6 +1,6 @@
 # Anupa Dasgupta
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-25T05:00:22Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-25T07:52:59Z*
 
 Anupa Dasgupta contributed to multiple projects including Agroverse, Cypher Defense, Edgar, Real Estate on Chains, and TrueSight DAO, with contributions spanning from November 2022 to March 2025. Her work primarily focused on Build Game strategy and user experience, including attending Facetime meetings every 30 minutes (37 instances), logging 30 hours of human effort, reviewing proposed strategies with cautions or specific improvements (12 instances), creating UX wires for single screen templates (8 instances), and contributing reference materials via hyperlinks (11 instances). Notable accomplishments include delivering full-scale strategies with rollout action plans to grow the DAO on four occasions.
 

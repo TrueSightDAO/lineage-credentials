@@ -1,6 +1,6 @@
 # Oliver Scherenberg
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-25T16:47:50Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-25T19:56:23Z*
 
 Oliver Scherenberg contributed to TrueSight DAO with one activity in May 2023, introducing a potential investor under the Bring Builders category.
 

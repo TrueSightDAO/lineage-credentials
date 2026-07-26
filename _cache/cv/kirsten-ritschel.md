@@ -1,6 +1,6 @@
 # Kirsten Ritschel
 
-*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-26T16:50:16Z*
+*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-26T18:59:52Z*
 
 Kirsten Ritschel contributed to multiple TrueSight DAO projects including Agroverse, 20250617_agroverse, 20250617_beerhall, 20250617_townhall, Recurring Tokenizations, and telegram_chatlog, with a primary focus on human effort tracked under the 100TDG for every 1 hour category, totaling 83 instances, alongside liquidity injections totaling 10 instances. Active from January 14, 2025, to February 14, 2026, she participated in townhall and beerhall events. Kirsten is currently a member of the Board of Governors.
 

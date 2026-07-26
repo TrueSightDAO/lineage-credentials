@@ -1,6 +1,6 @@
 # Edge and Node
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-26T02:12:03Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-26T02:40:33Z*
 
 Edge and Node contributed 11 times to TrueSight DAO and Agroverse projects from September 2023 to February 2025, with contributions primarily in the 100TDG for every 1 hour of human effort category (6 instances total). They brought on passive observers to the DAO twice via the 'Bring Builders' rubric. Edge and Node also supported events planning by providing a booth to showcase products and services at an event once and creating a social media blast advertisement per channel once. Additionally, they provided office and kitchen facility use for one hour under Build Game operations.
 

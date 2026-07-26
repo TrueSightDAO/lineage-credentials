@@ -1,6 +1,6 @@
 # Doris Wang
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-26T14:59:47Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-26T16:50:16Z*
 
 Doris Wang made four contributions to the TrueSight DAO in April 2022. She brought on an active contributor through the Bring Builders initiative (500 category, two instances), secured a successful tie-up with a channel partner in Partnerships / Business Development (5000 category), and brought on a passive observer (100 category).
 

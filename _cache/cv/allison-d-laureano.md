@@ -1,6 +1,6 @@
 # Allison D. Laureano
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-25T22:46:12Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-26T02:12:03Z*
 
 Allison D. Laureano contributed to the 20250617_beerhall, Agroverse, Sun Mint, and TrueSight DAO projects from August 2023 to May 2025. Her efforts primarily consisted of human effort tracked under the 100TDG per hour category, with four full-hour contributions and two additional shorter ones. She also provided one standalone insight for the Build Game strategy rubric and one offline commerce task lasting 30 minutes, along with reiterating a pending decision signal in the strategy category.
 

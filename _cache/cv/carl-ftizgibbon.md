@@ -1,6 +1,6 @@
 # Carl Ftizgibbon
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-28T11:53:29Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-28T13:33:52Z*
 
 Carl Ftizgibbon contributed to Agroverse and TrueSight DAO from January 2021 to February 2024, with contributions primarily in commerce operations including vendor quotations, sourcing, and assessments. He provided six quotations from vendors, sourced items for vendors on four occasions, and supplied details for two SKUs while assessing and qualifying one vendor. Carl also participated in Build Game strategy through three Facetime meetings, two vendor calls, one online poll vote, and one strategy review where he suggested areas to watch out for.
 

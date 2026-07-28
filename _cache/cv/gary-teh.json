@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-07-27T23:50:51Z",
+  "generated_at": "2026-07-28T01:45:23Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -87989,6 +87989,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Follow-up with Jerri re: upcoming meeting with Evans and Model UN in Beijing\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: ixUQJCQNca0Os1W8MqQ5i8yNn2Gba3228Q05vGqBD5e6PsB8F/vA8I6HPZhZQ/1SPBZURmUUwzUAfQ59glpJYoLb9gPT4ieMzlNAB+aNAz4g+Bh4o0lYWGfCGDLHeaQT3T8Q3GEdbCkUVXxE8QX9e+QPi+68EuLap3M1Jue2BrD86IL58p57BqxV+VLwEStxwql3iRccsu09NCk0N7ksIvDXJazCC+UaqEe15fJLwnwpEbEUQxTR2kUTfgGbpJHQBbgZvvwlveSQvYHnzzF/InXPoYU75jdoXYJVmoRTJYuW81cOKCJbULCFPu41y+/hL3uPVb4IOlnzyhCM/kQQgA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260728",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "9oeC6o3xmdMmPA1feTi7",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

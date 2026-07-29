@@ -1,6 +1,6 @@
 # Marta Poltorak
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-29T15:48:53Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-29T17:14:29Z*
 
 Marta Poltorak contributed to Cypher Defense and TrueSight DAO from October 2020 to December 2022, with contributions primarily in Build Game activities including strategy via attended FaceTime meetings, marketing through writing and posting official long social media or blog posts, short posts from an account with at least 10,000 followers, and resharing short media posts. She also participated in governance by raising a concern about an existing minor issue in the DAO and handled a single line item operations task. Her top category was attending FaceTime meetings every 30 minutes for Build Game strategy, with three such instances.
 

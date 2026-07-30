@@ -1,6 +1,6 @@
 # Brian Wee
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-30T08:11:18Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-30T11:48:54Z*
 
 Brian Wee made two contributions to the TrueSight DAO on March 4, 2022.
 

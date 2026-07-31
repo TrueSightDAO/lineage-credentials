@@ -1,6 +1,6 @@
 # pk-_153-rfF66BP
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-07-30T22:59:24Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-07-31T00:33:38Z*
 
 ## TrueSight Grounding — Morning Oracle
 

@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-07-31T11:55:35Z",
+  "generated_at": "2026-07-31T17:06:14Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -87989,6 +87989,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Gary Teh and Elizabeth Wong — 30 min strategy session preparing for upcoming dinner discussions with Liu Yunhu (UN SDG) and Shawn Cao (MUN/Youth Bridge): alignment on 文/武 covenant, three collaboration doors (Capital & Stage / Curriculum & Credentials / Open Question), and pilgrimage principles at the table.\n- Contributor(s): Gary Teh, Elizabeth Wong\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: RarcIxVKpbxLGF2zekztaJxEQYBrYdqIVrzsx+cngj9EJYeahIFkj4ILeWKCdOckr94qm3TdgkhPXP+zugU6MQrifVoCv6tdF15lhIKUXzAzqAHJQQ02qR0yosPw/yqcCAJM38ImFdgthxHiU2vEKCPCRdxUxc9zKRCQqyMmtK8sgJ76sWm/6UGxNzh8EnouLdoTRchus/YBjUb9s9tde3yiZStK3bModYn2VCvAFNbxpzDidAA3EaFDryIBS01C4rI/qWqd3bHdi7ZUQcDlciXkZbYn8wEa7Ma7pBeBxNit9foJy7ywDQ8u18TnYH0xUhV9hhTo67qLfUXREOSqQA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260731",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "MHLtsBTK+dc7oGZAZDit",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

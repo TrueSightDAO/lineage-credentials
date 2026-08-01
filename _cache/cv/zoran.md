@@ -1,6 +1,6 @@
 # Zoran
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-01T14:54:58Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-01T16:52:28Z*
 
 Zoran contributed to the TrueSight DAO's Build Game across three categories from April 2022 to July 2022. He provided a full-scale strategy and rollout action plan to grow the DAO, offered suggestions for user experience improvements, and oversaw an entire marketing messaging campaign.
 

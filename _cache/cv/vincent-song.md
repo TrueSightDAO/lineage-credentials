@@ -1,6 +1,6 @@
 # Vincent Song
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-01T20:43:26Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-01T22:47:19Z*
 
 Vincent Song contributed to Agroverse, FORK, MoonShot, and TrueSight DAO from October 2020 to February 2025, with contributions primarily in Build Game strategy through attending FaceTime meetings, including multiple every-30-minutes sessions and per-hour sessions. He also crafted content for an entire marketing campaign in the Build Game marketing category, introduced a potential investor under Bring Builders, and logged an hour of human effort. His work focused on strategic meetings and promotional efforts across these projects.
 

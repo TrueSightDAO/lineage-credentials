@@ -1,6 +1,6 @@
 # Andrea Catalina Falcon Rios De Pabst
 
-*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-07-31T22:55:41Z*
+*Governor · DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-01T01:20:56Z*
 
 Andrea Catalina Falcon Rios De Pabst contributed to the TrueSight DAO across multiple projects including 20250617_beerhall, Recurring Tokenizations, TrueSight DAO itself, and telegram_chatlog. Her efforts primarily focused on human effort tracked at 100TDG per hour, with 12 such contributions, alongside injecting liquidity at 1TDG per USD for 4 instances and additional hourly efforts. She is currently a member of the Board of Governors. Active from February 12, 2025, to March 13, 2026.
 

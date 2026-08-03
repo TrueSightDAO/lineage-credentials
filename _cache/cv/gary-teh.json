@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-08-03T05:36:03Z",
+  "generated_at": "2026-08-03T10:15:50Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -55,9 +55,59 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 45,
-      "total_practice_minutes": 963,
+      "practice_count": 46,
+      "total_practice_minutes": 1004,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-08-03T09:15:31.450Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": {
+            "theme": "Attacks",
+            "moves_practiced": [
+              {
+                "id": "ginga",
+                "name_pt": "Ginga",
+                "duration_seconds": 360
+              },
+              {
+                "id": "role_joelhada",
+                "name_pt": "Joelhada com rol?",
+                "duration_seconds": 480
+              },
+              {
+                "id": "role_joelhada_lateral",
+                "name_pt": "Joelhada lateral com rol?",
+                "duration_seconds": 480
+              },
+              {
+                "id": "role_martelo",
+                "name_pt": "Martelo com rol?",
+                "duration_seconds": 540
+              },
+              {
+                "id": "meia_lua_de_compasso",
+                "name_pt": "Meia lua de compasso",
+                "duration_seconds": 600
+              }
+            ],
+            "music_played": [],
+            "total_practice_minutes": 41
+          },
+          "raw_payload_json": "{\r\n    \"theme\": \"Attacks\",\r\n    \"moves_practiced\": [\r\n      {\r\n        \"id\": \"ginga\",\r\n        \"name_pt\": \"Ginga\",\r\n        \"duration_seconds\": 360\r\n      },\r\n      {\r\n        \"id\": \"role_joelhada\",\r\n        \"name_pt\": \"Joelhada com rol?\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_joelhada_lateral\",\r\n        \"name_pt\": \"Joelhada lateral com rol?\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_martelo\",\r\n        \"name_pt\": \"Martelo com rol?\",\r\n        \"duration_seconds\": 540\r\n      },\r\n      {\r\n        \"id\": \"meia_lua_de_compasso\",\r\n        \"name_pt\": \"Meia lua de compasso\",\r\n        \"duration_seconds\": 600\r\n      }\r\n    ],\r\n    \"music_played\": [],\r\n    \"total_practice_minutes\": 41\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "of2Lp5uUx8Mz2mzP4JsnHyUB53owPhEw1nGVvB2UMM8NzGvESuNaMJ7EdoAAlTFKfLYEPNu0yFKVF9nsUcbm6/9zL/YWn5wXSB6PURHs1LaIGaiK8nNteuTNJdFzy3aJ8fXvO3B4jBgxejaC6DxlEehtJI8aTLJrlRgyndy2NAAfCdB12ybZox6ZZfsY/qhVwE2udmQiazixfiEMt6tn1pNmeZyx8fsjPfBKfRMS/7e6iIYrJAvOIYGQ8X2g+MVjPZzqRnQTVbKl6J2W4RWcsOYlxJl3voWhVMB/ygqsXdjcng1tmkZ7TohxSZAOkS74kTnLCNE0OqbCWLKWuNhDJQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260803091533_325",
+            "telegram_message_id": "Edgar_20260803091533_326",
+            "processed_at": "2026-08-03T09:17:22.633Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-08-03T091531450Z-of2Lp5uUx8.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",
@@ -742,26 +792,6 @@
             "reprocessed": true
           },
           "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-12T202754193Z-ChZs7KQxZm.json"
-        },
-        {
-          "program": "capoeira-tribo-mirim",
-          "practice_type": "training-session",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-wR9zU8JMnEz1",
-          "captured_at": "2026-06-12T02:43:48.608Z",
-          "source_url": "https://capoeira.agroverse.shop/practice.html",
-          "payload": null,
-          "raw_payload_json": "",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "request_transaction_id": "ggRpeOmMy1OwvkEA1ZgJSwkUCrCXZAUYosI2xYTikUQyAzoWBb1oO5tsiU3U10uS7+viY/hcVrKak0lA8uPwcg+EZ+pRf4eOI82p1WQWMXIe3iMTgM5ZkBzO/SPvJd8PjyCq2X9alEk6j7mdxKa1tCuXcpHMGVJ/yLpRXmNNxJTo/yTqxIReDwrLdbE3k/4esJkSlSix6KIlPBkj9PWSIwANmJE+VJQ4g+Tb29gegeb1pzfXTFFVKmWbByXJK9HPmFWcUUq6rkBOwrNDvZd85jMJeaifBxQ6g0zAMsO3XVKUv8DmHG2mimfG+knSbGDU7oDZtMx0tj9jwAtCy3u4Qg==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260612024349_101",
-            "telegram_message_id": "Edgar_20260612024349_102",
-            "processed_at": "2026-07-06T19:01:49.650Z",
-            "reprocessed": true
-          },
-          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-12T024348608Z-ggRpeOmMy1.json"
         }
       ]
     }
@@ -87989,6 +88019,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Research on MAPA registration requirements for China (GACC) imports — including the MAPA 'beneficiador de amêndoa de cacau' establishment registration, whether it's required for US vs China lanes, and the independent-farmer coverage strategy\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: p90Zaawt6y7BXtxomVHUxTpnqW+uKnVpJmBMJGWGAXjrje8+nJtscAJtO3E1QeQ1bH2GElnVlLWaUPkxYFB7c6iwx7Z8KupLRFW91e7pIRiKaGMPlBEhIC/LDxNJb0fv/PPTSmUNPpfVr5mwItvWNKFttMD3MDtDJUfDKA6Ttqv+FKm/rTeniRjh3/UNQwFrdT1jnCGnD7l0ltr0I9LMKlph5dJVk/gAjRUVfKAUPOVKvVeqWxMBcLZq+T85fbo8e315sRnuIv5rSTEMI2eDukHriUVhPYsCv992RsgYUdJUtHFB0S4K2g14I/HRzpbDn1lFvy1RoocdCnHwxgLPkg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260803",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "qX8/A+JnIbw7qsWMcj0U",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

@@ -1,6 +1,6 @@
 # Michael Flaxman
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-04T13:56:00Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-04T16:17:11Z*
 
 Michael Flaxman made one contribution to the TrueSight DAO on September 3, 2021.
 

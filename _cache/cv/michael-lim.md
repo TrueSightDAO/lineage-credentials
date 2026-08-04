@@ -1,6 +1,6 @@
 # Michael Lim
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-04T08:40:47Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-04T11:59:28Z*
 
 Michael Lim made one contribution to the TrueSight DAO on February 6, 2022.
 

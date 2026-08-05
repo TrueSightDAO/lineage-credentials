@@ -1,6 +1,6 @@
 # Ethan Bryan Ng
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-05T22:05:45Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-05T22:51:15Z*
 
 Ethan Bryan Ng contributed to the TrueSight DAO from December 2021 to April 2022, with 22 total contributions. His top category was in Build Game - Strategy, where he reviewed a proposed strategy, suggested against pursuing it, and highlighted areas to watch out for. Primarily focused on strategic review in one instance, Ethan provided targeted feedback during the DAO's early active period.
 

@@ -1,6 +1,6 @@
 # Sonya Gorski
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-07T10:45:56Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-07T12:43:54Z*
 
 Sonya Gorski made three contributions to TrueSight DAO and Agroverse from August 2023 to July 2024. She logged two instances of human effort under the 100 TDG per hour category and one review of a proposed strategy for the Build Game, suggesting a clear and specific actionable step.
 

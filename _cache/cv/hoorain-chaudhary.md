@@ -1,6 +1,6 @@
 # Hoorain Chaudhary
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-08T06:38:38Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-08T08:32:03Z*
 
 ## DAO Contributions
 

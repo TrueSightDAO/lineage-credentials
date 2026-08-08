@@ -3,7 +3,7 @@
   "display_name": "Green Gulch Zen Monastery",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -125,7 +125,36 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Green Gulch Zen Monastery",
+        "project_name": "telegram_chatlog",
+        "contribution": "We now have 8 dedicated supporters now to help with distributing our cacao\n\n1. Nima Kaz and @palomalecheta FounderHaus⁩\n2. @kikiscocoa \n3. Aga\n4. Hans Martin \n5. ⁠Green Gulch Zen Monastery\n6. ⁠The Center SF\n7. The Brazilian Spot\n8. ⁠Miss Tomato  \n\nI am thinking just to be prudent we should just seek to onboard another 2 supporters more and lock down our current phase in terms of expansion to collect data till April before we do the following \n\n- onboard more dedicated supporters\n\n- ⁠extend our product offerings to beyond cacao nibs direct to consumers",
+        "rubric": "Unknown",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250210",
+        "existing": "TRUE",
+        "reporter": "Green Gulch Zen Monastery",
+        "scoring_hash": "EHGVlWXuUL0Lq4vEqmcR",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Green Gulch Zen Monastery",
+        "project_name": "telegram_chatlog",
+        "contribution": "We now have 8 dedicated supporters now to help with distributing our cacao\n\n1. Nima Kaz and @palomalecheta FounderHaus⁩\n2. @kikiscocoa \n3. Aga\n4. Hans Martin \n5. ⁠Green Gulch Zen Monastery\n6. ⁠The Center SF\n7. The Brazilian Spot\n8. ⁠Miss Tomato  \n\nI am thinking just to be prudent we should just seek to onboard another 2 supporters more and lock down our current phase in terms of expansion to collect data till April before we do the following \n\n- onboard more dedicated supporters\n\n- ⁠extend our product offerings to beyond cacao nibs direct to consumers",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250210",
+        "existing": "TRUE",
+        "reporter": "The Center SF",
+        "scoring_hash": "IlEdqQ7WQlxttgYnqUj3",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

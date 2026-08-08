@@ -3,7 +3,7 @@
   "display_name": "Shine Light",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -124,7 +124,78 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Shine Light",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 1 hour speaking with Shine about establishing his physical address as our Washington state community warehouse",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250616",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "alf/MSmcT5/XMvwQkZQR",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Shine Light",
+        "project_name": "20250617_do_nothing",
+        "contribution": "Meanwhile got invited by Shine to go Do Nothing along with Atelier and Kaylan at his sister’s house by the lake to wash off all the moon dust 😊🙏",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250615",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "PvkbtzJMQASwyqIx72tE",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Shine Light",
+        "project_name": "telegram_chatlog",
+        "contribution": "https://edgar.truesight.me/agroverse/qr-code-check?qr_code=2024SAOJORGE_20250529_3\n\nSold for $25 on credit to Shawn who will be making cacao with it using reishi and lions mane mushroom tomorrow at his booth",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "25",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250606",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "7WIpG1zIIQyWPuyrmBbi",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Shine Light",
+        "project_name": "20250617_beerhall",
+        "contribution": "Shawn the manager of Winter Ridge was based in SF.",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250530",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "1BfD6pRXCrnB9NyBsUu1",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Shine Light",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 30 minutes Speaking to Shawn who does Ecuadorian cacao here",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250518",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "uC/N3A/cHYHzGN/bDFR/",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

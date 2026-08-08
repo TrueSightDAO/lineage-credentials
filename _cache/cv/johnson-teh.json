@@ -3,7 +3,7 @@
   "display_name": "Johnson Teh",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -1141,7 +1141,50 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Johnson Teh",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "I spent 5 minutes following up with @6598383264 regarding 42DAO",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250131",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "8hCqQRfHYSa2Yn+uG+jZ",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Johnson Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 15 minutes responding to Johnson Teh inquiry on providing cacao asset backing for their own DAO coin \n\nWe utilize their funds to finance our shipment of cacao",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250117",
+        "existing": "TRUE",
+        "reporter": "Johnson Teh",
+        "scoring_hash": "lkwQCX8cUZYxF1wrseUN",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Johnson Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 15 minutes responding to Johnson Teh inquiry on providing cacao asset backing for their own DAO coin \n\nWe utilize their funds to finance our shipment of cacao",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250117",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "qlBt8wDhk96l7UTR2Jdo",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

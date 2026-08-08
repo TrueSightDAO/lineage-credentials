@@ -3,7 +3,7 @@
   "display_name": "Ed",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -7325,7 +7325,50 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Ed",
+        "project_name": "telegram_chatlog",
+        "contribution": "Me and Ed from SkyLark ventures spent 30 minutes doing FaceTime today exploring possible next steps",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250203",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "RPvODXbxcJ5RgiSR6aL/",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Ed",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 10 minutes sending a follow up email with the details that Ed requested",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250203",
+        "existing": "TRUE",
+        "reporter": "Ed",
+        "scoring_hash": "qvcpny70Ph0NlUs6SJH9",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Ed",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 10 minutes sending a follow up email with the details that Ed requested",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250203",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "Pu+OctNfs74hfgs0N290",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

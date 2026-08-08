@@ -3,7 +3,7 @@
   "display_name": "Justine",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -99,7 +99,78 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Justine",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 10 minutes responding to Justine about what we need for each day",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250110",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "ISN03Nuoxnwe12w+R7qN",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Justine",
+        "project_name": "telegram_chatlog",
+        "contribution": "Justine invited me to serve hot cacao on the 23rd as well at the social innovation hub \n\nI accepted her invitation to do so",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250109",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "uvfg215Gt36rFNyd3i7j",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Justine",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 5 minutes answering Justine’s question",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250109",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "9UWGMM8d6NrHA63SLgYN",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Justine",
+        "project_name": "telegram_chatlog",
+        "contribution": "I spent 10 minutes forwarding Justine the details she needs for the news letter she is sending out to visitors to the social innovation hub in Davos on the 22nd",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250103",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "1iP1mCzJoqSs7XHKH0Y+",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Justine",
+        "project_name": "telegram_chatlog",
+        "contribution": "Just received an invite to serve cacao at the social innovation house during WEF in davos \n\nI spent 5 minutes responding to Justine",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20241227",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "Ly4g2mh4DNib0NS7/Jm2",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

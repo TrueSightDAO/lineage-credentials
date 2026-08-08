@@ -9,7 +9,7 @@
     ],
     "note": "Demo entry for Bilal — program lead of Butterfly Effect at ERA Professionals. Not a real cryptographic key (synthetic pk-hash prefixed `pk-DEMO-` so anyone inspecting can see this is a placeholder, not a signed identity). Seeded so the cohort listing has the program lead visible alongside participant records. When Bilal onboards a real DAO identity via dao_client auth.py login, his real pk-hash replaces this entry and his existing DAO contribution credit (slug `bilal`) merges naturally."
   },
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -142,7 +142,50 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Bilal",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 240\r\n- Description: Figured out the micro-credentialing architecture \r\n  \r\n  Credentialing of students that went through a program \r\n  \r\n  Credentialing to allow recognized instructor\r\n  \r\n  Ability to allow credentialed instructors to credential students \r\n  \r\n  Setup of funding structure\r\n- Contributor(s): Gary Teh, Bilal\r\n- TDG Issued: 400.00\r\n- Attached Filename: IMG_1374.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260513212142_gary_teh_img_1374.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: j5KRac7kDnu9U0ZGbhdSid7HhwmLt6rfxzkr670/CQeeFyFG0Zos0vT1rsVi9c6qT5sd2jvSrMzRl82dms9xsLsQd8L/emn197luKy6i3+GiqqjBSIYQhWGNzODd2uVUpXE1AJM3VwcBgG74JLCfEKDOlGj/VcaKYiPtv2oiUra0N/C+ajZ2caGVzY3KyeWNDOE1+gelnSbv2CkLBI7Be9RjmeAcyHHtLz6IWVZ5ypUU7T/SxnIO4/VSZvSOEJEx6bmag7LBxbS7J+UFw0iZ7tOTumCkqRAlEbf0+hgfcYceV85iWKFHAXiyBDodsZefdZc793EXc5IhKZEe5ShqfA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "400",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260513",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "HNjO8jn9mr9ZErGb0MGW",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Bilal",
+        "project_name": "telegram_chatlog",
+        "contribution": "Generally spent today doing nothing much in terms of roadmap progress…\n\nBilal and his community wanted advisory inputs on Web3 technology stack, DAO growth and monetization and DAO tokenomics based on the RnD we have done so far regarding TrueSight DAO\n\nBhavana wanted advisory inputs on how to move into and live in a car based on the RnD I did in this area\n\nSeems the insights generated so far is of value in one form or another to a very niche group of people but not really very valuable in general to most of the people \n\nAnd my sense is if it does at some point start becoming of some form of commercial interest, then all the other marketeers will just start piling into the bandwagon. The space will end up becoming so saturated, the insight will just end up being non-valuable commodity anyways 🤔🤣\n\nPerhaps it’s a sign from the universe to Do Nothing for the current moment while exercising Anatman and Shunyata\n\nIn Stillness observe how much of the stuff to be done classified as being productive is actually what the larger ecosystem desires to manifest and how much of it is just wishful thinking resultant from attachment to one form of mental construct or another",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250603",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "#NAME?",
+        "reviewer_email": "ksuchi2003@gmail.com"
+      },
+      {
+        "contributor_name": "Bilal",
+        "project_name": "20250617_do_nothing",
+        "contribution": "Just shared by Bilal 😊🙏",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250522",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "VSaF8V7mvKEJhbhFtRsY",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

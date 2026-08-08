@@ -3,7 +3,7 @@
   "display_name": "AGL15",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -411,7 +411,64 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "AGL15",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 154.50\r\n- Description: Monthly parking while in China to expand cacao distribution\r\n- Contributor(s): AGL15\r\n- TDG Issued: 154.50\r\n- Attached Filename: IMG_4484.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260715132422_gary_teh_img_4484.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: f2GYn7h+3a8IiV7Du7e1OhsQc7lV9YaePbojnHujnE1kjulDeZ56fIVUE/y18LoUdjx6k1+Wjq425zN3ZkCQSK4hcmFXOhWslszOJ/OZeh/Y24pyfEbrx4n4+nC82Pu0i+WwGHrz76X6SjfQ5ruJswv/Y5owuGAQlhPP5NvQi2MXiVqI/v1dP5d7R3j+id6DxZEFNT2/ZKYRYYxiUNQEoeUqcdBoTqHQi6gFcUNh6dTDRIt0yZiLgW/qH4CiEnwKS/shN422DcCbI3nFy7V8khppoPpiCOC20k4O2l9NWAoo27J3MGjydlatQ1mxbs00q9sX8Dh0p0HvI0NlOc2LGg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "154.5",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260715",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "kDH47198ndqgVGgJ0fVc",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "AGL15",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 232.88\r\n- Description: Traffic violation while distracted driving to Cacao Circle\r\n- Contributor(s): AGL15\r\n- TDG Issued: 232.88\r\n- Attached Filename: Pay Tickets Online - San Francisco, California, Superior Court of California – County of San Francisco - Traffic Infractions Division.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260714205253_gary_teh_pay_tickets_online___san_francisco__california__superior_court_of_california___county_of_san_francisco___traffic_infractions_division.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Cdy2KE99N86AmlFWISpQbUyPGMVzQqEaIo6bXA8np6stxP3f04vdgK2JprKp6mdrdzOSnBAiLi5413ZIwblnakp0qaHT+B3H5Z522lYQCQ6RPAf93xDp7dE2j8DV9ECXimi1BmmtywdAjmXDdQ7HYiyuB4OiC6aywLl9ERSOM5BcSZxTn8orINYqzf+oET9xHCdfQMFh2kHQrieghwqkkLja+9iRD7aM2EwrE3D8lDTrHxZpiLZE2Xsp8Ywea2X4lgYzWAdRcmAwz2Ss+9E68vdfRDhW7rtO4wRFxpsNCOXmIZ25uWjsxPLEpCatG52hXRAGiKDY5+yS4u/BHrs69A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "232.88",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260714",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "t51LV/cfXCaLbD5Sbvgm",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "AGL15",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 52.29\r\n- Description: Gasoline for driving to LA to catch flight\r\n- Contributor(s): AGL15\r\n- TDG Issued: 52.29\r\n- Attached Filename: IMG_4390.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260713214029_gary_teh_img_4390.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: m/MnqSCMjAGWh4TUc6eYymcSjq0F0wdF4ATdIhakdFugWOCvc6sieAMigRB6jC/2k+MtabMyE+YqoEWNHK3JjucSpIl2UurARFi9n+20vjqcCQpPoR3ON04+MTIrlBR9vN7X8CQkvdTPmAEY4zBtb9qWIHebY6+dbvfpu89jBItMhwRGNwEsHmiWEbygjctY9AmvLvwB8qHk08S9gafk10OmHvp4NEKC/HtSqnclwZJA5u8YUrPktjrsQ4uj3JHf6sC7475GoZGCIwxCXWOP2qYAzqqbPhSMiBfusbMKCT81e5DHK610v1yB9yNvmS6nToCB8nX4GzQ9H6Y780KGlA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "52.29",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260713",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "N9hLO9PNnpv2+HcydtbS",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "AGL15",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 63.87\r\n- Description: Gasoline for driving to LA to catch flight to China\r\n- Contributor(s): AGL15\r\n- TDG Issued: 63.87\r\n- Attached Filename: IMG_4226.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260711023858_gary_teh_img_4226.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: fRxTuvsPSAR/z2MUzNuZ3nRFK+PPr2FFuUwtUafKIhQl8lr3s3LWKCW9XCrLBZnEntciWvFn3OnXeAnASiTBGFfMDO3vutNL7fiFOpz9jqzld8pIFc6fIVjO+T/2aW8o0KC9CnEzQjuWA2eiPQJbw2Pkl2QyxXzIWjB9rWBTMozWv6Vq2tw2hSDX3VhiRAE0IxaV+6Wk5ZH07VWvjJI+JGRICe5uDyilB70WKQ31ccZwsxtnps3PcNtAbUhezkem7OZtOzIdz/TBOP9e+Og0XASttq7ehE+mWDn/4iTmEt2ojwQ5Gnyuoxf0jPli0O+eXopg4URUzzmjFvA6rtL+Tg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "63.87",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260711",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "R+UrxDlsgEGLMYt8G6Ee",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

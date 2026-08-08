@@ -3,7 +3,7 @@
   "display_name": "Maggie",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -99,7 +99,36 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Maggie",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 30 minutes linking up @14152032783 to Maggie from the house of balance",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250503",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "EhoEMzYqBUhuAcwv98uI",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Maggie",
+        "project_name": "20250317_beer_hall_chat",
+        "contribution": "I spent 10 minutes speaking with Maggie from House of Balance. Seems she would like to buy a bottle of Cacao molasses. Will drop it off when I visit her in France come May after spending time with @41765663130",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Successfully Completed / Full Provision Awarded",
+        "tdg_issued": "0",
+        "status_date": "20250206",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "kG/f7HLa9CY9MRTtc4fB",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

@@ -3,7 +3,7 @@
   "display_name": "Jenifer Runnion",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T03:20:50Z",
+  "generated_at": "2026-08-08T03:29:07Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -395,7 +395,78 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Jenifer Runnion",
+        "project_name": "telegram_chatlog",
+        "contribution": "It’s a very small world \n\nDesert queen who bought these three bags was making pottery at the shed down in Arizona when me and the other Jennifer was making potteries",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250608",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "KND2sH+7vcCzDyWE0KYm",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Jenifer Runnion",
+        "project_name": "telegram_chatlog",
+        "contribution": "Video of the other Jennifer based right now in Mount Shasta showing us how to make pottery from the raw clay i harvested from the desert \n\nhttps://www.instagram.com/reel/C3v1RtEy91D/?igsh=NTc4MTIwNjQ2YQ==",
+        "rubric": "\"100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250608",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "ve/1UAgzWdkt2kF3tuCw",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Jenifer Runnion",
+        "project_name": "20250617_beerhall",
+        "contribution": "Video of the other Jennifer, whom I just visited in Mount Shasta on my way north, showing us how to make pottery from the raw California slab city clay i harvested at the pottery shed in Arizona last year",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250608",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "jDiJqyDIqmEv7RMuAnTi",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Jenifer Runnion",
+        "project_name": "20250617_beerhall",
+        "contribution": "I spent 15 minutes speaking with Jen about leaving her a few bags of our cacao before I head south",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250523",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "iySEdmnYl9qeioy5IQIZ",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Jenifer Runnion",
+        "project_name": "20250617_beerhall",
+        "contribution": "Jennifer whom I bumped into down in the Arizona desert last year moved back here to Mount Shasta",
+        "rubric": "\"Unknown",
+        "tdg_provisioned": "0",
+        "status": "Ignored",
+        "tdg_issued": "0",
+        "status_date": "20250509",
+        "existing": "TRUE",
+        "reporter": "Gary Teh",
+        "scoring_hash": "Flvfb4XoT92sX3m56UWf",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

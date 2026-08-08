@@ -3,7 +3,7 @@
   "display_name": "@itz_eazyboy",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -268,78 +268,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "@itz_eazyboy",
-        "project_name": "telegram_chatlog",
-        "contribution": "Merry Christmas fam🎄🥳",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241225",
-        "existing": "TRUE",
-        "reporter": "itz_eazyboy",
-        "scoring_hash": "EVrcxNfBonLjbUVuilzs",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "@itz_eazyboy",
-        "project_name": "telegram_chatlog",
-        "contribution": "Wishing you all a happy and peaceful celebration ❤️",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241225",
-        "existing": "TRUE",
-        "reporter": "itz_eazyboy",
-        "scoring_hash": "Hj0jn7iNjYhX8NXZSmk3",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "@itz_eazyboy",
-        "project_name": "telegram_chatlog",
-        "contribution": "Gm everyone 🤗",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241220",
-        "existing": "TRUE",
-        "reporter": "itz_eazyboy",
-        "scoring_hash": "4r0nIcG3G3RQu5bQGkqg",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "@itz_eazyboy",
-        "project_name": "telegram_chatlog",
-        "contribution": "Been a while here…\nHope I haven’t missed too much🥲",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241220",
-        "existing": "TRUE",
-        "reporter": "itz_eazyboy",
-        "scoring_hash": "Nakl8EPGo4QJQ2VzEyDW",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "@itz_eazyboy",
-        "project_name": "telegram_chatlog",
-        "contribution": "Compliments of the season 🙏🏼❤️",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241220",
-        "existing": "TRUE",
-        "reporter": "itz_eazyboy",
-        "scoring_hash": "2ABqKxxrewaF9dvozAHo",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

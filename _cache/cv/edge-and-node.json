@@ -3,7 +3,7 @@
   "display_name": "Edge and Node",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -346,50 +346,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Edge and Node",
-        "project_name": "telegram_chatlog",
-        "contribution": "First independent sale via QR code at Edge and Node this morning 😊🙏",
-        "rubric": "Unknown",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20250221",
-        "existing": "TRUE",
-        "reporter": "Edge and Node",
-        "scoring_hash": "Y8Gv6N+YQMhzQFaeuDLU",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Edge and Node",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent sometime updating our ledgers to reflect the recent sales\n\n- 5 bags at the Center SF formerly on consignment basis now considered sold - AGL2 ledger\n- ⁠15 bags dropped off at the Center SF - AGL2 ledger\n- ⁠4 bags sold at Edge and Node - AGL2 ledger\n- ⁠Exchange of 1 kg of cacao nibs from AGL2 exchanged for 5 bags of cacao nibs from our vault\n- ⁠Exchange of 1 kg of cacao nibs from AGL2 exchanged for 2 bars of 500 grams cacao mass\n\nLedgers updated\n- https://truesight.me/ledger\n- ⁠https://agroverse.shop/agl2\n\nI spent 30 minutes updating our ledger",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20250116",
-        "existing": "TRUE",
-        "reporter": "Edge and Node",
-        "scoring_hash": "LOc2tlfICY5hh/PQrqvY",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Edge and Node",
-        "project_name": "telegram_chatlog",
-        "contribution": "Spent 2 hours at edge and node today \n\n- agenda discuss consignment with Trisha. Too complicated and too much liabilities for them to want to handle \n\n- discuss SFSU internship program with Stanley Li",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241218",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "eCd8PX+iGmzcToShE1BF",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

@@ -3,7 +3,7 @@
   "display_name": "@vinibitencourt",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -317,36 +317,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "@vinibitencourt",
-        "project_name": "20250617_agroverse",
-        "contribution": "@555499980942 Can anyone be a legal representative? So long as a power of attorney is signed?",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250404",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "d0iV5y66nuDza0m5HWsU",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "@vinibitencourt",
-        "project_name": "20250317_agroverse_chat",
-        "contribution": "@555499980942 and @557391090002 please spend sometime to discuss about applying for Tax rebate from the Brazilian government as suggested by @555499980942 when we had our face to face discussion back in Florianopolis. Please keep me informed on the updates as well. Thank you",
-        "rubric": "\"100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20250305",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "iO/N8N1BXTModZJbeGDw",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

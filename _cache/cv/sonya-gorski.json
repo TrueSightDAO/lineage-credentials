@@ -3,7 +3,7 @@
   "display_name": "Sonya Gorski",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -150,78 +150,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Sonya Gorski",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Roasting beans and making hot chocolate for Instagram \r\n  https://www.instagram.com/reel/DXS4aEfjJQc/?igsh=NTc4MTIwNjQ2YQ==\r\n- Contributor(s): Gary Teh, Sonya Gorski, Mulan Teh\r\n- TDG Issued: 200.00\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: uaZgSd5amUw4IniLvod4y9TeZ3Os9VnMUhbXWaGg633ZiRA8S8Ycv9/U65esqNkTKNN6URruGcanmE3OtbLtpzmbB+Di1gjbD7ezrRweDnK8xxMPsr1JLqC9wtZBWlYszSVXyNZ0AQOg7TEW9itfRMxmca6rbJDupweYu66KLk/ZvwI0D/RpndAss3d0HoQNuDMubP0uePMex7YYT8adNPXdVdyx/M7rQLfc63/ZgH1hYRCzwvGK4e7aD7hfFxvutOnvAPIG/Gub8XNY+3BDgjXczRc18Riap8NBn6uKlYsMe3DMtCYV0jNsPL/5SwaYLwsnjIGnRaVZgS2rUOccyQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "200",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260419",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "WZkRxrYLLT2AQ0i6JLSG",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Sonya Gorski",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Visiting the final store in Rochester New York \r\n  \r\n  Visited the final store in Rochester New York\r\n  \r\n  Basically a voodoo shop. They asked if we have cacao butter for lip balm. Didn’t want powder form \r\n  \r\n  Mentioned they are not medically certified. So all the stuff they sell are for magic properties and don’t really want customers ingesting them. This was the feedback she gave when I suggested we have cacao tea too similar to the other herbs she have available for sale \r\n  \r\n  \r\n  https://dapp.truesight.me/store_interaction_history.html?store=obatala__412-state-st-rochester-ny-14608__rochester__ny&shop=Obatala\r\n- Contributor(s): Gary Teh, Mulan Teh, Sonya Gorski\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_9834.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260404002700_gary_teh_img_9834.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: TaGWmAT+ML69szZ+QWsMnfGIKfOF0hAs6MZSa+bImV2yn9nQZinlUjSRsi/ctHu0f76jIz/hPV4tTGrNRaStGapRhcdMKyQdixxSgavdikOz1Aovvk5Fhm34UVqwETuAxmID4kEGBW03tsSIzhuxXhyh6Hb2WZsLJ43ocY4Uw0LcD8aiSyNgoP1IPOL6TaKld1tmYAd6LrYziJRbXnT56S9ptwqjCmgUXfXtf0oaJeC5DcFjwbUUGFBXwuKqvLJtTwFwEpyqsvJl7Qzgv8wmCegUq5E0qYJegM5ixp5X9SqoU5Wq0jhOQ6ly3gfJLDL0soHRa1tyG2rEFven4LxUoA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "100",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260404",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "7HmX6MzyRez0LfcLX5F4",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Sonya Gorski",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Visiting pretty apothecary in Rochester, New York\r\n- Contributor(s): Gary Teh, Sonya Gorski, Mulan Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_9780.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260402214834_gary_teh_img_9780.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: p83T+zQHTtyXzt/esNIzkrRMtu+lkONAd14BOIB7ebKtGO3lYfG/asd7zHjbqDhka8HrLSu0zebbBgYfBksu0Fedw0Zcf5Pe/oEOHLI5uZEBkAhFHX9eMoeqn/v30Lw/Yl/F7iQytUxtjD26PSLnNcNe0zIfAK9Z5CQtnJgQLq5uexBD5QQvgqU2lr4pTcMOKUjCKZL/gXch5I40jkw8kDIOzE+oNxu4mEUxUwfxB4mNeqS+M4kkTWAf3/r3hz3sarXBgcUtfGEBbYOwL3bKiBhXdaSiQZT/S2ymSo1mE9nevNtJJZHNeWc6tp9YTfgbU2WJqKOScaMCPjY1irhtag==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "100",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260402",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "9ld4ZjGtf/WskohgVPPp",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Sonya Gorski",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Visiting one world market to pitch about our ceremonial cacao\r\n- Contributor(s): Gary Teh, Mulan Teh, Sonya Gorski\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_9670.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260331234859_gary_teh_img_9670.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: iUZDcCQiN7H3r/KoUodPkYPc72q248w7EUKGVZSX/LkDaeIBYjrsc8PDEFRpGW6vrSK9m2z2HgsXHw/ayuNpxhphPHZKCUXpjTXArHmcrx6Rm0kgvXbRnRZvgS3dc6sP3f/3qddq5aFpP4opwjju2RuvBQJpk9mc4QfFrsUYGUMTYfTuEMl8E2xpoULz+rDUknXiNEiRhp+v5+q+WjMdo3/V9MS5FaLfAJHoai8D9OwtrBB7H/xLEMprBNNHQQP70Qj5pG6Zkuyn15wKaHmQGoBgAkjorCwbdenNokYe5El6y8db19bwKd8azwmbKsWDS+ZQew8mxtHjMPsQhBRNbg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "100",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260331",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "f9Mp4Z2ayevD5+c02AyP",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Sonya Gorski",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Visited tree stores today, south corner apothecary, Lori’s and Breathe yoga, and café\r\n- Contributor(s): Gary Teh, Sonya Gorski, Mulan Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: IMG_9629.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260330191112_gary_teh_img_9629.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: ajytJZYbyMPIFMQouUyuD33e1ox03zJTO3tltsTGFPsBnHkHbmb7rWRAQYiHXqoEUKmynkKWZU2cM5NZ2fAswBUfnOSJTgt+jPIUPIBw52ao1+U6MopiXvzdZp5quaasHFk4Q2D1xt/v0wt5L50NWstMFvAt1zWNjBF0xk6d1bMUFkhf9PO/MhKITj9Sfcql6bCIdhxRjcrhAZXW0zSC2ZsEiwG4ThxoqHu3RR2l1+pQYLWJ8FDHj/EcCw0z7Zcc7n11fRlwjC0w1Rtdm/TNX66MtYWz+27VG/KougAe8jGXjd+BsAy1nKonvH9s7DLiZVLgP/3LRYNPVMUWQyf+JA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "100",
-        "status": "Pending Review",
-        "tdg_issued": "0",
-        "status_date": "20260330",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "77aqOk4imsQCPfd/66hV",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

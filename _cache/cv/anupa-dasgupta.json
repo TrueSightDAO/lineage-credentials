@@ -3,7 +3,7 @@
   "display_name": "Anupa Dasgupta",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -3300,36 +3300,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Anupa Dasgupta",
-        "project_name": "20250617_beerhall",
-        "contribution": "Thank you for sharing @918017107841 😊🙏",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250328",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "dHGxFtLTrv/0JlS+fH9Z",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Anupa Dasgupta",
-        "project_name": "20250317_beer_hall_chat",
-        "contribution": "Actually makes even better sense to just hook this pipeline up to the HR departments of the tech companies here in Silicon Valley as suggested by @918017107841 last year and then clarified by Ai Hui who sold off her food tech startup",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20250224",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "o2A1mFYYOJG67TtM5yQY",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

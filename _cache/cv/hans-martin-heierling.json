@@ -3,7 +3,7 @@
   "display_name": "Hans Martin Heierling",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -903,64 +903,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Hans Martin Heierling",
-        "project_name": "20250617_beerhall",
-        "contribution": "I spent 10 minutes reaching out to @41765737357, @41765663130 @41786813052 and Olaf to check if they know anyone there",
-        "rubric": "\"100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "4.17",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250429",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "pbeZfgw4MWQ1F6WcXvTU",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Hans Martin Heierling",
-        "project_name": "20250617_beerhall",
-        "contribution": "I spent 10 minutes informing both @41765663130 and Nima that I wouldn’t be able to accept their invitation for the physical @120363044028036610@g.us collaboration they have proposed in their geolocation in May.",
-        "rubric": "\"100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "8.34",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250402",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "mDJj2r1e28efo8jbpfBJ",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Hans Martin Heierling",
-        "project_name": "20250617_beerhall",
-        "contribution": "Dear all please welcome @41782035504 who is based out of Zurich, Switzerland. We met at the cacao circle during WEF that was organized by @41786813052 that @41765663130 helped coordinated😊🙏",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250328",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "7xU9P4mDrQp/uH03vXl9",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Hans Martin Heierling",
-        "project_name": "20250317_beer_hall_chat",
-        "contribution": "I spent 10 minutes speaking with Maggie from House of Balance. Seems she would like to buy a bottle of Cacao molasses. Will drop it off when I visit her in France come May after spending time with @41765663130",
-        "rubric": "\"100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20250206",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "kG/f7HLa9CY9MRTtc4fB",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

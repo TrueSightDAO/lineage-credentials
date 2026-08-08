@@ -3,7 +3,7 @@
   "display_name": "Lester BareBottle Brewery",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -99,78 +99,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Lester BareBottle Brewery",
-        "project_name": "20250617_beerhall",
-        "contribution": "Thank you @14158606255 for spending 15 minutes to do stock check of the new inventory of cacao nibs that just arrived as well as following up with Lester from Barebottle brewery 😊🙏",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "12.5",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250527",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "z7nneZGea8AsdhFZMoFc",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Lester BareBottle Brewery",
-        "project_name": "20250617_townhall",
-        "contribution": "12.98kg of cacao nibs were sold to Lester from Bare Bottle brewery for $44 per kg",
-        "rubric": "1TDG For every 1 USD of liquidity injected",
-        "tdg_provisioned": "571.12",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250409",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "IUAdsdDF2GiTDY32aICY",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Lester BareBottle Brewery",
-        "project_name": "20250617_beerhall",
-        "contribution": "Lester from Barebottle brewery has expressed interest to take some of the cacao husk samples from @14158606255 for brewing beer as well",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250409",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "A3AnJ1FLGbd1hrg+CgJA",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Lester BareBottle Brewery",
-        "project_name": "20250617_beerhall",
-        "contribution": "Lester from BareBottle mentioned that they were open to us organizing gatherings over at their community space as there are a lot of folks having their gatherings there already",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250409",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "rvm7JUQUNnb3rEinV+gu",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Lester BareBottle Brewery",
-        "project_name": "20250617_beerhall",
-        "contribution": "Lester mentioned something offhand today that caught my attention.",
-        "rubric": "\"Unknown",
-        "tdg_provisioned": "0",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250409",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "1m6N4aYRRFlwNO0k9iya",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

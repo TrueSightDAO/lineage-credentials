@@ -3,7 +3,7 @@
   "display_name": "JohnLingardR",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -124,64 +124,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "JohnLingardR",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 5 minutes informing @JohnLingardR how to earn $TDG tokens",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "4.17",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250612",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "lOG9ey8tS2PdLk4c/K4Z",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "JohnLingardR",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 5 minutes directing @JohnLingardR to receive instructions from the coordinator in charge",
-        "rubric": "\"100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "4.17",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250521",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "AjmqSwrBnNMsY0Vla+Yy",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "JohnLingardR",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 10 minutes providing information about our platform, it's products and how we operate to @JohnLingardR",
-        "rubric": "\"100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "8.34",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250521",
-        "existing": "TRUE",
-        "reporter": "The2xld",
-        "scoring_hash": "S/5EGOj/UjI3ovSZWRbS",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "JohnLingardR",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 45 minuets in my restaurant planing on how to make this project better and go farm with the best food",
-        "rubric": "\"100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "75",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250521",
-        "existing": "TRUE",
-        "reporter": "JohnLingardR",
-        "scoring_hash": "PgYcIzGDETp5Qd3StoWD",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

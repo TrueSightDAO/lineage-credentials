@@ -3,7 +3,7 @@
   "display_name": "Lori",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -151,50 +151,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Lori",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 5 minutes following up with Lori from the Menlo Park farmers market",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241220",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "Azk8+gEG94jbSS6oYkna",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Lori",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 5 minutes reaching out to Lori from the Menlo Park farm’s market about setting up a booth",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241217",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "51D5ADkAYjU8qy4hdlBh",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Lori",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent another 5 minutes following up with Lori from the Menlo Park farmer's market",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20241217",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "QtcBDXQWgNCx+50luHvx",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

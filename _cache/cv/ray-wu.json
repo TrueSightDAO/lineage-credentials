@@ -3,7 +3,7 @@
   "display_name": "Ray Wu",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -197,22 +197,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Ray Wu",
-        "project_name": "20250617_beerhall",
-        "contribution": "I spent 1 hour and 13 minutes FaceTime with Laura Liew whom I got to know from back in JFDI (_joyful frog digital incubator_) in 2013 during which @16506464893 and Ray Wu (_who introduced @12068495127_) spent time together",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "35",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250328",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "8ImFFifeUh5g8BvoQCNX",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

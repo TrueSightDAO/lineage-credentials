@@ -3,7 +3,7 @@
   "display_name": "Peter Gwee",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-08T01:51:18Z",
+  "generated_at": "2026-08-08T03:20:50Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -243,36 +243,7 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": [
-      {
-        "contributor_name": "Peter Gwee",
-        "project_name": "telegram_chatlog",
-        "contribution": "I spent 5 minutes sharing with Fengshui master Peter  Gwee in Singapore about our project",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "0",
-        "status": "Successfully Completed / Full Provision Awarded",
-        "tdg_issued": "0",
-        "status_date": "20250318",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "4vfL482tt27yNwQqUkYA",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Peter Gwee",
-        "project_name": "20250617_edgar",
-        "contribution": "Peter Gwee the third generation Fengshui master from Singapore whom I have known for 16 years who originally introduced me to Bazi and WuXing just spent 15 minutes sharing some insights about the financial markets",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "12.5",
-        "status": "Ignored",
-        "tdg_issued": "0",
-        "status_date": "20250318",
-        "existing": "TRUE",
-        "reporter": "Gary Teh",
-        "scoring_hash": "7pJRwXjn8GF1XLjcQ0hF",
-        "reviewer_email": ""
-      }
-    ]
+    "entries": []
   },
   "_generator": "build_cv_cache",
   "narrative": {

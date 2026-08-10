@@ -1,6 +1,6 @@
 # Iwona Fluda
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-10T16:55:23Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-10T18:46:07Z*
 
 Iwona Fluda contributed 35 times to TrueSight DAO projects including 20250617_beerhall, Agroverse, Sun Mint, and telegram_chatlog from February 2023 to November 2025. Her work primarily consisted of human effort hours rewarded at 100 TDG per hour, alongside attendance at seven Facetime meetings for Build Game strategy sessions. She also suggested one strategy idea, wrote and posted a short social media text on an account with at least 10,000 followers, contributed to legal document reviews by paragraph and bullet point, authored one official DAO social media post, and handled a single operations task for Build Game.
 

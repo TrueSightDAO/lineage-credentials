@@ -1,6 +1,6 @@
 # Won Kim
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-09T22:23:36Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-10T01:03:10Z*
 
 Won Kim made one contribution to the TrueSight DAO on January 30, 2022.
 

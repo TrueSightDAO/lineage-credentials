@@ -1,0 +1,26 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "practice_type": "training-session",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAybdt08WGETwKVJzO1o+2emfXM/71AymvQ3HaF0p4B3JUiD1H2LibI7sUoHX5BbdLDu+flcjxfQcgThXdANiQ7TX/2lbSaFRupGWbTZWHrEvKH3ijzfBbSR6H3p5NWCU4mAH4AHeFFBjt1wr2UtWKI6Gw/o+kYLml6xgy0w92vfRAm6EQmEqzniXqPX1bq1ci6TWid5sBSGv5MsPpz7wn7SU7Oz4Se2Maxo4KgC8XMorCc02oLezg+uKedEtJEwjXTEGJgVhPohAGf1nCHTh1GA8Gv1UhoHmFWZPBjL+TBDav8CVuuzg4sLft4/5FYxFWrqatYCaSI29qwMyUgtodnwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-8pjRAX1zYCsZ",
+  "captured_at": "2026-08-11T12:44:47.997Z",
+  "source_url": "http://localhost:8933/roda.html",
+  "payload": {
+    "theme": "roda",
+    "moves_practiced": [],
+    "music_played": [
+      "002",
+      "007"
+    ],
+    "total_practice_minutes": 1
+  },
+  "raw_payload_json": "{\r\n    \"theme\": \"roda\",\r\n    \"moves_practiced\": [],\r\n    \"music_played\": [\r\n      \"002\",\r\n      \"007\"\r\n    ],\r\n    \"total_practice_minutes\": 1\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAybdt08WGETwKVJzO1o+2emfXM/71AymvQ3HaF0p4B3JUiD1H2LibI7sUoHX5BbdLDu+flcjxfQcgThXdANiQ7TX/2lbSaFRupGWbTZWHrEvKH3ijzfBbSR6H3p5NWCU4mAH4AHeFFBjt1wr2UtWKI6Gw/o+kYLml6xgy0w92vfRAm6EQmEqzniXqPX1bq1ci6TWid5sBSGv5MsPpz7wn7SU7Oz4Se2Maxo4KgC8XMorCc02oLezg+uKedEtJEwjXTEGJgVhPohAGf1nCHTh1GA8Gv1UhoHmFWZPBjL+TBDav8CVuuzg4sLft4/5FYxFWrqatYCaSI29qwMyUgtodnwIDAQAB",
+  "request_transaction_id": "pXV3vpYN9DN/Rkuzxk9ptLNuDxAObR2Me2lQa7DQLMAUIZH8dF4XQi82fRnH7pWZ9/A8V6bcASkEuCH4+91cJxHZZmeZeN5U5mfnRH+t4d1jzEX+eGxkrvk2TWmPePedr/UQdywQx1LbroaHN4HpUYEI9hmx80QJwLQhAMaGyZRiYwGijR3jSj526MSZqJcrIZEGnPSMT9L/HbYXgJWbZ+08lhjQETMeGYecKAW4qDqOShun3bZCtDz3OUOx0Nf4PgnFtzpav7ZdyagjiDcXDqaR7N36YWMyvZwkC8ci8DUCn880fjFGzMc4LMGtiVPHtcSh71VQuxWCLWxKg61TaA==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260811124448_381",
+    "telegram_message_id": "Edgar_20260811124448_382",
+    "processed_at": "2026-08-11T12:48:39.024Z"
+  }
+}

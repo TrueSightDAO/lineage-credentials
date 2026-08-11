@@ -1,6 +1,6 @@
 # Josh Brown
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-11T10:45:46Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-11T12:44:51Z*
 
 Josh Brown made three contributions to the DAO between March 25, 2025, and May 20, 2025, all under the '100TDG For every 1 hour of human effort' category. These were tied to the 20250617_beerhall project.
 

@@ -1,6 +1,6 @@
 # Edi Hsu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-12T10:55:50Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-12T12:57:43Z*
 
 Edi Hsu contributed to Agroverse and MarketMonocle projects from April 2022 to August 2023, with contributions primarily in the Build Game strategy category. Edi suggested ideas without implementation details (6 times), contributed full-scale strategies with rollout action plans (3 times), reviewed strategies with specific improvements (2 times) and cautions (1 time), provided reference hyperlinks (2 times), participated in polls (2 times), and attended a FaceTime meeting (1 hour). Edi also worked on user experience through design systems (2 contributions). A notable accomplishment was delivering comprehensive growth strategies and action plans for the DAO.
 

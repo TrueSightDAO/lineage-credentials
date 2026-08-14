@@ -1,0 +1,69 @@
+{
+  "slug": "pk-Iajd1vguliva",
+  "display_name": "pk-Iajd1vguliva",
+  "pk_hash": "pk-Iajd1vguliva",
+  "identity": {},
+  "generated_at": "2026-08-14T00:41:08Z",
+  "has_elective_records": true,
+  "has_dao_contributions": false,
+  "programs": {
+    "truesight-grounding": {
+      "display_name": "TrueSight Grounding — Morning Oracle",
+      "lineage_root": null,
+      "source_pages": [
+        "https://oracle.truesight.me/draw.html"
+      ],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJhHQ9VzUHoxPeVaqaCS+xYiBPym/OlFAPyMuFbJBQM4q9MEQ2DV5+ksmNUCvEeYkDRsIrKJmE2QwsbKx5rjpS009uqRp8S+5eq0RxcgCYMUXxv5vpBbFaMEjvfRxiZK3ajwRrFRf8ovAtOpA0emssE0Xrax2AZuyK+FrlLZSkMkDGHEerEgTw/CtF8duoa7Ua0In/F3xKXvHKqeBbhvcl18zT6bT/M4KOgNExHmxCe9Sms7yAq2dR5ebTKrnTE6gzdcKU+PcWCtKOrb9b6ts8GnZNJlrpyCdj/KhZxlTVpH32vSb0xOJZf81IczQHjMhym2eBmLMtcTC+rqFhPdUwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-Iajd1vguliva",
+          "captured_at": "2026-08-14T00:33:53.089Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 2,
+                "name": "K'un / The Receptive",
+                "changing_lines": [
+                  2,
+                  6
+                ],
+                "relates_to": 4,
+                "relates_to_name": "Meng / Youthful Folly"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 14.08.2026 03:33:52?? ?? ? ??? ??5??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 2,\r\n        \"name\": \"K'un / The Receptive\",\r\n        \"changing_lines\": [\r\n          2,\r\n          6\r\n        ],\r\n        \"relates_to\": 4,\r\n        \"relates_to_name\": \"Meng / Youthful Folly\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 14.08.2026 03:33:52?? ?? ? ??? ??5??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJhHQ9VzUHoxPeVaqaCS+xYiBPym/OlFAPyMuFbJBQM4q9MEQ2DV5+ksmNUCvEeYkDRsIrKJmE2QwsbKx5rjpS009uqRp8S+5eq0RxcgCYMUXxv5vpBbFaMEjvfRxiZK3ajwRrFRf8ovAtOpA0emssE0Xrax2AZuyK+FrlLZSkMkDGHEerEgTw/CtF8duoa7Ua0In/F3xKXvHKqeBbhvcl18zT6bT/M4KOgNExHmxCe9Sms7yAq2dR5ebTKrnTE6gzdcKU+PcWCtKOrb9b6ts8GnZNJlrpyCdj/KhZxlTVpH32vSb0xOJZf81IczQHjMhym2eBmLMtcTC+rqFhPdUwIDAQAB",
+          "request_transaction_id": "ZfVXe4LygqQzE/lateEjoxBMhsCfmK6CBlampDAtxS+BXVZK27BG5y37SisGBITaNyZd5q9WvbXgi58cmL9uG0k66buFzMa90OI+Nab2+cVfuQdmoo6rZKL0BfbI3Be0bag76vhvs9DqO9okkpjocUqjvIsTdiREjp8d0spUBTWrEOakIzddZRCIhnahCIIBW9qcagJ6alQzZEMa1PnOWUUkOAuLYdOKTlbCKeEhDR+cdWGI3ykMUEwFci7LovSi+j1y2rswLjhqq4cWNTzhYA/UkXThBzA5D7NcPnbiqQcfxg5dae3dhfpOvI6MB2EmP+/e2dCeSptrupBgjVDYRw==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260814003354_395",
+            "telegram_message_id": "Edgar_20260814003354_396",
+            "processed_at": "2026-08-14T00:37:23.603Z"
+          },
+          "_path": "programs/truesight-grounding/pk-Iajd1vguliva/practice/2026-08-14T003353089Z-ZfVXe4Lygq.json"
+        }
+      ]
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-Iajd1vguliva.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-Iajd1vguliva"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

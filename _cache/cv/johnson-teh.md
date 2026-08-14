@@ -1,6 +1,6 @@
 # Johnson Teh
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-13T22:35:19Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-14T00:41:08Z*
 
 Johnson Teh contributed to the DAO over several years from March 2018 to December 2022, primarily in the Build Game through strategy-related activities. His dominant category was reviewing proposed strategies and suggesting against certain actions or highlighting areas to watch out for (16 contributions), alongside suggesting ideas without implementation details (4), contributing reference materials via hyperlinks (3), and independently reiterating pending decision signals (3). He also provided clear and specific improvements to proposed strategies (3), participated in an online poll vote (1), handled a single line item operations task (1), and assisted with a single task in community management for a day (1). A notable accomplishment was his involvement in the Cypher Defense project.
 

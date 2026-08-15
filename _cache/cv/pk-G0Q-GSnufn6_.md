@@ -1,6 +1,6 @@
 # pk-G0Q-GSnufn6_
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-08-15T16:16:47Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-08-15T18:18:19Z*
 
 ## TrueSight Grounding — Morning Oracle
 

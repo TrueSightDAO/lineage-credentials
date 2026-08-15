@@ -1,6 +1,6 @@
 # Neil Berget
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-15T06:24:31Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-15T08:29:13Z*
 
 Neil Berget contributed to the TrueSight DAO between December 2021 and January 2022, with 11 contributions primarily in community operations and early partner outreach for Agroverse and Sun Mint initiatives. He engaged regularly in Telegram discussions and assisted with content curation to support the cacao supply chain and regenerative reforestation efforts. A notable accomplishment was his role in coordinating initial outreach to potential collaborators during the DAO's formative period.
 

@@ -1,6 +1,6 @@
 # Tres Garcia
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-16T00:45:58Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-16T02:51:50Z*
 
 Tres Garcia contributed 39 times to TrueSight DAO projects including Agroverse, Cypher Defense, Edgar, and telegram_chatlog from September 2022 to December 2025. Tres's contributions primarily focused on Build Game - Strategy rubrics, such as reviewing proposed strategies and suggesting clear improvements (5), attending Facetime meetings every 30 minutes (5), and suggesting ideas without implementation details (4). Tres also participated in online polls (4) and logged human effort hours (3). Notably, Tres contributed full-scale strategies with rollout action plans to grow the DAO, including overviews and system logic (2), and provided reference materials with strategy extensions (2).
 

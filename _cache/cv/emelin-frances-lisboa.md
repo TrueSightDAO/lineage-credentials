@@ -1,6 +1,6 @@
 # Emelin
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-17T00:43:48Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-17T02:56:34Z*
 
 Emelin contributed 356 times to TrueSight DAO projects including Agroverse, Sun Mint, 20250617_agroverse, 20250617_beerhall, 20250917_agroverse, 20250917_beerhall, and telegram_chatlog from September 2023 to September 2025. Their work primarily consists of time-based human effort logged at 100 TDG per hour, totaling 309 instances, alongside targeted Build Game tasks such as catching and rectifying a copywriting error (11 instances), attending FaceTime meetings (4 instances), providing UX suggestions (4 instances), and reviewing strategy with actionable steps (3 instances). Emelin also completed offline commerce tasks (3 instances). A notable accomplishment was identifying and fixing a copywriting error in the Build Game marketing efforts.
 

@@ -1,6 +1,6 @@
 # Jacob M - Hot Springs Montana / Okanonga Barter Faire
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-18T06:30:19Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-18T08:33:30Z*
 
 Jacob M - Hot Springs Montana / Okanonga Barter Faire made five contributions to the DAO between June 1 and June 11, 2025, primarily through the 100 TDG for every 1 hour of human effort category. He participated in the 20250617_beerhall and 20250617_townhall projects, along with telegram_chatlog engagement. One contribution involved injecting liquidity for 1 TDG per 1 USD.
 

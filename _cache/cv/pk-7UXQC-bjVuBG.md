@@ -1,6 +1,6 @@
 # pk-7UXQC-bjVuBG
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-08-19T10:24:42Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-08-19T12:29:15Z*
 
 ## TrueSight Grounding — Morning Oracle
 

@@ -1,6 +1,6 @@
 # Krishanthan Surendran
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-19T09:43:51Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-19T09:51:06Z*
 
 Krishanthan Surendran made two contributions to the TrueSight DAO on a single day in January 2022.
 

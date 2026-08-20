@@ -21,9 +21,9 @@
     "former_pk_hashes": [],
     "public_listable": true
   },
-  "generated_at": "2026-08-20T10:47:31Z",
+  "generated_at": "2026-08-20T10:57:58Z",
   "has_elective_records": false,
-  "has_dao_contributions": false,
+  "has_dao_contributions": true,
   "programs": {
     "ivy-yoga": {
       "display_name": "IVY",
@@ -34,6 +34,13 @@
       "recent_events": []
     }
   },
+  "dao_contributions": {
+    "total_contributions": 0,
+    "total_tdg_provisioned": 0,
+    "date_range": {},
+    "source": {}
+  },
+  "governance": {},
   "qr_code": {
     "path": "_cache/cv/shamshad-haider.qr.png",
     "target_url": "https://truesight.me/credentials/#shamshad-haider"

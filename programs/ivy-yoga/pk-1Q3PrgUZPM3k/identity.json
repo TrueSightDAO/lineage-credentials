@@ -1,0 +1,19 @@
+{
+  "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAszKUzbikGY8iJDJN4BnU0xGCg4vcOWbOmk0sd/RpfXs7tpEUizNkMX22g5LRE9b32INrGoaSh6iMuvWfclTUgy70zQ5pBB5dwXA3uHO6iMOcg/GNaVi/uAE5Z7WpliuFkqe2p8kQ/xxRyzDye267o8op2/0B1eLaajgSVna5n5/3oojRUHQ9+/IZxxt+bEO56AAZZ86krJO5qLkll7rtnWw1gZTtpr6G5XO46ccF53u6JM04pvA6yzVcu4qZqNm2zB7sDdN7xoZwbeOrTbFonofaBcqRjb10VpgD6hYe2SxZ6dqXauGZuMbWTrGaBV57vFeHES3iXTvmnoCiYjczGQIDAQAB",
+  "names": [
+    "Dummy E2E Test 4 (v1.3)"
+  ],
+  "emails": [],
+  "linked_at": "2026-08-20T14:19:46.469Z",
+  "metadata": {
+    "program_year": "2026-2027",
+    "attestor_name": "truesight-autopilot",
+    "attestor_email": "admin@truesight.me",
+    "school": "",
+    "learner_type": "",
+    "graduation_date": ""
+  },
+  "alternate_public_keys": [],
+  "former_pk_hashes": [],
+  "public_listable": true
+}

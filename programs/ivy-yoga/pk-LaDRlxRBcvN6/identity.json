@@ -1,0 +1,19 @@
+{
+  "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqEOHl0qasku2wJSPu9gxF4QZTVuRrTiMrX4JgKf0GoM+Z/8xeRJkDfsIqDBwbeSm5xFl+iCEFmTIQe4z2EofBcliJErcsdZYSEsQhLTejd++i11ncjspfY0RdenXdwBSC03LILQeSySRUcsmd5UUEuJ2qiW8UZwt7GXjTQcuEehlJRY+Zy+PlBZSU+iS+ceiNVdexeZO73rd7cnJb3M5RTWgA68+u9x7nHDo5eB1sNmTW/zA1wBQZiCmXPWNqgrGV1I+l/l1QG/n5TrUl2l2aQrM8mjvLJP+Dm6ri9FXU0/pi8YMVqxXIWAof12l6w/3jCO+vjzO1yuWLbrbqk2jUQIDAQAB",
+  "names": [
+    "QA E2E Test Instructor"
+  ],
+  "emails": [],
+  "linked_at": "2026-08-20T08:12:37.462Z",
+  "metadata": {
+    "program_year": "2026-2027",
+    "attestor_name": "truesight-autopilot",
+    "attestor_email": "admin@truesight.me",
+    "school": "",
+    "learner_type": "",
+    "graduation_date": ""
+  },
+  "alternate_public_keys": [],
+  "former_pk_hashes": [],
+  "public_listable": true
+}

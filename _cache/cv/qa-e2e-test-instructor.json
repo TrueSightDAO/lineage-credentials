@@ -21,19 +21,26 @@
     "former_pk_hashes": [],
     "public_listable": true
   },
-  "generated_at": "2026-08-20T09:23:38Z",
+  "generated_at": "2026-08-20T09:45:06Z",
   "has_elective_records": false,
-  "has_dao_contributions": false,
+  "has_dao_contributions": true,
   "programs": {
     "ivy-yoga": {
-      "display_name": "ivy-yoga",
-      "lineage_root": null,
+      "display_name": "IVY",
+      "lineage_root": "Indus Valley Yoga",
       "source_pages": [],
       "practice_count": 0,
       "total_practice_minutes": 0,
       "recent_events": []
     }
   },
+  "dao_contributions": {
+    "total_contributions": 0,
+    "total_tdg_provisioned": 0,
+    "date_range": {},
+    "source": {}
+  },
+  "governance": {},
   "qr_code": {
     "path": "_cache/cv/qa-e2e-test-instructor.qr.png",
     "target_url": "https://truesight.me/credentials/#qa-e2e-test-instructor"

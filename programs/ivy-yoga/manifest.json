@@ -1,0 +1,20 @@
+{
+  "program": "ivy-yoga",
+  "display_name": "IVY",
+  "lineage_root": "Indus Valley Yoga",
+  "lineage_root_public_key": null,
+  "authorized_attestors": [],
+  "practice_types": {
+    "module-completion": {
+      "payload_schema": null
+    }
+  },
+  "attestation_types": {
+    "program-completion": {
+      "payload_schema": null,
+      "co_signer_optional": true
+    }
+  },
+  "source_pages": [],
+  "notes": "IVY (Indus Valley Yoga) is ERA Professionals' yoga-teacher-training certification (program lead: Bilal Musharraf, Founding Board Member), based on the Original Hot Yoga Teacher Training created by Olivia Anselmo of Liv for Yoga, LLC, covering the 26 postures and 2 breathing exercises of Bikram Chaudhry's original regimen. First cohort planned fall 2027 — no launch urgency. co_signer_optional is true today because dual independent signatures (Bilal + Olivia, visible in the real v1.2 cert artwork) aren't wired into the attestation flow yet — tracked as PR3 in agentic_ai_context/plans/IVY_YOGA_COHORT_ONBOARDING_PLAN.md, gated on two open decisions (fee/branding model; whether Olivia re-signs on every renewal). This manifest was missing from the initial onboarding (2026-08-18/19) — the web-facing truesight_me/programs/ivy-yoga/manifest.json was created, but lineage-credentials needs its own internal copy for the CV cache build to recognize the program; added 2026-08-20 while diagnosing why the first test attestation (QA E2E Test Instructor, pk-LaDRlxRBcvN6) wasn't picked up by build_cv_cache.py."
+}

@@ -39,7 +39,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: data
-          fetch-depth: 0
+          # fetch-depth 2 (not 0/full-history): the jsDelivr-purge step below does
+          # `git diff HEAD~1 HEAD`, which needs the previous commit but nothing further
+          # back. A full clone was taking 20-60+ min as this binary-heavy repo (PDFs/
+          # QR/images for every credential ever issued, ~10GB) grows — this workflow
+          # never reads older history, so there was no reason to pay that cost.
+          fetch-depth: 2
 
       - name: Checkout lineage-engine (code) at main
         uses: actions/checkout@v4

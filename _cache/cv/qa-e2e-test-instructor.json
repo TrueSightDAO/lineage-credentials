@@ -1,0 +1,48 @@
+{
+  "slug": "qa-e2e-test-instructor",
+  "display_name": "QA E2E Test Instructor",
+  "pk_hash": "pk-LaDRlxRBcvN6",
+  "identity": {
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqEOHl0qasku2wJSPu9gxF4QZTVuRrTiMrX4JgKf0GoM+Z/8xeRJkDfsIqDBwbeSm5xFl+iCEFmTIQe4z2EofBcliJErcsdZYSEsQhLTejd++i11ncjspfY0RdenXdwBSC03LILQeSySRUcsmd5UUEuJ2qiW8UZwt7GXjTQcuEehlJRY+Zy+PlBZSU+iS+ceiNVdexeZO73rd7cnJb3M5RTWgA68+u9x7nHDo5eB1sNmTW/zA1wBQZiCmXPWNqgrGV1I+l/l1QG/n5TrUl2l2aQrM8mjvLJP+Dm6ri9FXU0/pi8YMVqxXIWAof12l6w/3jCO+vjzO1yuWLbrbqk2jUQIDAQAB",
+    "names": [
+      "QA E2E Test Instructor"
+    ],
+    "emails": [],
+    "linked_at": "2026-08-20T08:12:37.462Z",
+    "metadata": {
+      "program_year": "2026-2027",
+      "attestor_name": "truesight-autopilot",
+      "attestor_email": "admin@truesight.me",
+      "school": "",
+      "learner_type": "",
+      "graduation_date": ""
+    },
+    "alternate_public_keys": [],
+    "former_pk_hashes": [],
+    "public_listable": true
+  },
+  "generated_at": "2026-08-20T09:23:38Z",
+  "has_elective_records": false,
+  "has_dao_contributions": false,
+  "programs": {
+    "ivy-yoga": {
+      "display_name": "ivy-yoga",
+      "lineage_root": null,
+      "source_pages": [],
+      "practice_count": 0,
+      "total_practice_minutes": 0,
+      "recent_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/qa-e2e-test-instructor.qr.png",
+    "target_url": "https://truesight.me/credentials/#qa-e2e-test-instructor"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

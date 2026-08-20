@@ -1,6 +1,6 @@
 # Karl
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-19T22:19:47Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T00:44:33Z*
 
 Karl made one contribution to TrueSight DAO on March 29, 2025, in the category of 100 TDG for every 1 hour of human effort.
 

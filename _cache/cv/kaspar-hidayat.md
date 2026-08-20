@@ -1,6 +1,6 @@
 # Kaspar Hidayat
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-19T22:19:47Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T00:44:33Z*
 
 Kaspar Hidayat made two contributions to the TrueSight DAO on a single day in February 2022.
 

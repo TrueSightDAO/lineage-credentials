@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-08-19T22:19:47Z",
+  "generated_at": "2026-08-20T00:44:33Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88019,6 +88019,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Contributor(s): Gary Teh, Paloma\n- Description: 4 hours: Gary + Paloma strategy session on hooking in 20,000 hectares of Amazon rainforest land from AMA Group (amagroup.com.br — EBCF private reserves ecosystem) with the VCS carbon credit monitoring solution from NOR / Space Intelligence (nor.space — satellite + geospatial AI). Proof of work: photo attachment.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: Ypclb8W6zhqIaIVuTy4tlANnIQtKxdOjqAXRIEzP8/1qt28EJwQbU4hABVMZ1jwPu6RDYdcVlDJ6PR0wKTGiUr0sT3KP6FQZYvpbYKOboWX6vgpCcPeOZo2P65Gsa0sGT7bT3xSSDmQOScLe49MWi1YNp5W9kTdJvr5dMB3CBdsqofYDQdTJaqFnv332HKr6X/M/0XKOnsKGa7ec4DBE0vCWTkbrxTy/Q0i27suAkwLrBO+hfwjqsGIRhBPPD9JgNf/GIS4q2lGOSd3Vm+aceHUDRqoKsAcpGDE+smNjRqa7MW9bfTtAe+vqV9i2V3/grDzGbRAy1dWK6CEntpHA7Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260819",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "q0v8NA1VMex/B6u/5vyD",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Designed the core architecture of the Agent Handoff Protocol: proposed the public agents/ registry + receiver-prefixed handoffs folder structure, caught the credential-access flaw in the first design (a sender needs write access to write into a recipient's inbox — can't just be the recipient's own private repo), reviewed the implementation plan, and extended Bionpact's fine-grained GitHub PAT to cover the new shared agent_handoffs repo.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: pVkPHBDSlzZxgc9GrWS8bXRuCZ1QqfGz77u/VeqxHRL4Dc5TSpstfqoU9rwcsaAQbfS1i3oeQ0EGcYhkSfx5CEeW0FBGROtkEsu85xjyCxwiH6mnvJPEv/6zVWkwRXvL61C81FWcTifc3pU40/Mkold/sw9V5qKa9Vxf/VnCg34HLb45lVrIBd0zNu7ZlFXmOF3fDRSQ9340aDF/45XIXfGtVoKthRjKs510jvfsiiw7G68I9fF9ONJsatwd/u4/VGoVW+X2MRMjHhfU11aK6s+EWuEOCbrCvwFZvAWJt9JZwRYt3+OsRN+qob/kzvb4M1/W2aSROt2yrTc3407T0w==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "33.33",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260819",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "cGamQNp8X6GaS6xqeafY",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

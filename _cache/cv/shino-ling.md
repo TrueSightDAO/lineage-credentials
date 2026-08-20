@@ -1,6 +1,6 @@
 # Shino Ling
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T10:32:46Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T10:35:28Z*
 
 Shino Ling contributed to TrueSight DAO and MarketMonocle across 15 activities from June 2022 to September 2022, primarily in Build Game strategy with suggestions for ideas, reviews with specific improvements or cautions, poll voting, and Facetime meeting attendance. Shino also generated base layers for two generative NFTs in the NFT Art category and raised a concern about a minor DAO issue in Governance. Notable accomplishments include providing clear strategy reviews and producing foundational NFT art assets.
 

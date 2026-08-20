@@ -1,0 +1,48 @@
+{
+  "slug": "dummy-e2e-test-sophia",
+  "display_name": "Dummy E2E Test (Sophia)",
+  "pk_hash": "pk-kRsZO0DkErg8",
+  "identity": {
+    "primary_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwnPMf5goO4ZLO4wW29xwzSzY3EIrvDsH9ck+CvQkI7QQBAf88GYNrtkgaOT8EynmUAlXbMTsJG+E0QWLosSZRXh6Bb86376ag1GI+qddCHEejSQk39/sjvts8Yba4OAWx1qW55KAL/C2CaZHsymNDzlIe8FsQCvqEz6MH7kIryQTmzGdh2pF1X7pK4p2M2smVBhudHqUMI3nB3DYGiE2LRFNCa6XG28bo+WOnk8I1NMLxGGBeGM81qHzOiY5chizkiJjhEqYTHSgXG80BixusiSWrYV/9rlIFiAu8hVMH1KdMzg0TqtUTQRrAFU+CuFegYRyCdd86Hom4VoZP32d8QIDAQAB",
+    "names": [
+      "Dummy E2E Test (Sophia)"
+    ],
+    "emails": [],
+    "linked_at": "2026-08-20T10:32:33.245Z",
+    "metadata": {
+      "program_year": "2026-2027",
+      "attestor_name": "truesight-autopilot",
+      "attestor_email": "admin@truesight.me",
+      "school": "",
+      "learner_type": "",
+      "graduation_date": ""
+    },
+    "alternate_public_keys": [],
+    "former_pk_hashes": [],
+    "public_listable": true
+  },
+  "generated_at": "2026-08-20T10:35:28Z",
+  "has_elective_records": false,
+  "has_dao_contributions": false,
+  "programs": {
+    "ivy-yoga": {
+      "display_name": "IVY",
+      "lineage_root": "Indus Valley Yoga",
+      "source_pages": [],
+      "practice_count": 0,
+      "total_practice_minutes": 0,
+      "recent_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/dummy-e2e-test-sophia.qr.png",
+    "target_url": "https://truesight.me/credentials/#dummy-e2e-test-sophia"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

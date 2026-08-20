@@ -1,6 +1,11 @@
 # Dummy E2E Test 2 (Cert)
 
-*TrueSight DAO Credential Profile · generated 2026-08-20T11:00:32Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T11:17:15Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/dummy-e2e-test-2-cert.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/dummy-e2e-test-2-cert.json)
 
 ## IVY
 

@@ -1,6 +1,6 @@
 # Perry Tam
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T12:27:17Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T13:31:37Z*
 
 Perry Tam made three contributions to the TrueSight DAO on a single day in December 2021.
 

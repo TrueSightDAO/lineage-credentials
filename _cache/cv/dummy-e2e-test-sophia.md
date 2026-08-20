@@ -1,6 +1,11 @@
 # Dummy E2E Test (Sophia)
 
-*TrueSight DAO Credential Profile · generated 2026-08-20T10:38:17Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T10:45:02Z*
+
+## DAO Contributions
+
+- Total contributions: **0**
+- Source: [_cache/cv/dummy-e2e-test-sophia.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/_cache/cv/dummy-e2e-test-sophia.json)
 
 ## IVY
 

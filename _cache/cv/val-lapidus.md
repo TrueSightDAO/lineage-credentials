@@ -1,6 +1,6 @@
 # Val Lapidus
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T09:45:06Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-20T10:20:27Z*
 
 Val Lapidus has made 258 contributions to TrueSight DAO and related projects including Agroverse, FORK, MarketMonocle, MoonShot, Recurring Tokenizations, 20250617_beerhall, and telegram_chatlog, spanning from August 2021 to January 2026. Their work primarily spans human effort bounties, offline commerce tasks, liquidity provision, and Build Game operations, with regular use of office and kitchen facilities alongside strategy sessions via Facetime meetings. Val also reviewed proposed strategies with specific improvements and wrote social media posts for Facebook, Instagram, Twitter, and Reddit.
 

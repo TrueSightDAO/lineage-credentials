@@ -1,0 +1,35 @@
+{
+  "program": "truesight-grounding",
+  "practice_type": "oracle-consultation",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-iWL9OH9hpE_D",
+  "captured_at": "2026-08-21T08:27:03.786Z",
+  "source_url": "https://oracle.truesight.me/",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 63,
+        "name": "Chi Chi / After Completion",
+        "changing_lines": [
+          1,
+          5
+        ],
+        "relates_to": 15,
+        "relates_to_name": "Ch'ien / Modesty"
+      }
+    ],
+    "advisory_summary": "1. Reading synthesisAfter Completion (#63) signals that TrueSight DAO has reached a stable phase post-recent updates (e.g., tokenomics GAS and ledger conventions), where small successes like QR code fixes and Beer Hall previews can be consolidated. Modesty (#15) urges humble, persistent operations to avoid emerging disorder, emphasizing maintenance of automation scripts and community signals. Changing lines 1 and 5 highlight starting with caution in new tasks and balancing core processes to sust",
+    "qmdj_card": "Cast 8/21/2026, 5:27:03 AM?? ?? ? ??? ??8??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2",
+    "total_minutes": 15,
+    "mood": "reflective"
+  },
+  "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 63,\r\n        \"name\": \"Chi Chi / After Completion\",\r\n        \"changing_lines\": [\r\n          1,\r\n          5\r\n        ],\r\n        \"relates_to\": 15,\r\n        \"relates_to_name\": \"Ch'ien / Modesty\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"1. Reading synthesisAfter Completion (#63) signals that TrueSight DAO has reached a stable phase post-recent updates (e.g., tokenomics GAS and ledger conventions), where small successes like QR code fixes and Beer Hall previews can be consolidated. Modesty (#15) urges humble, persistent operations to avoid emerging disorder, emphasizing maintenance of automation scripts and community signals. Changing lines 1 and 5 highlight starting with caution in new tasks and balancing core processes to sust\",\r\n    \"qmdj_card\": \"Cast 8/21/2026, 5:27:03 AM?? ?? ? ??? ??8??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+  "request_transaction_id": "RmdGtuWgaMi95OEdcJpHNmG0h7ONALvnTpGtkicGpqxUTCC3UOKvlRVYaJL2+sSTsi98AEUXpCAtC6Ug+aHt4GWM/w2kfoqa+GpbQAJbgCbRMI57VBvo2L4MU6zJly3BWnJwCM+6w8EZir4y5jPjXp/SIe/8K0vOW+wzTKUbgAkFtIQa8U4guSsaTP+uDvqjIFtGnX8BEqj+9wTqkRIWPVCXFCSL3Em7rdDMhWGIpxS6wDJWDAX1X8eeaZ+6ezGWxLCFdtYk2uaeP7WNAlKGLWvKV0KOhs61l957K8Jm/UQCC42gYi3gzscPgCQCrl+OvhHwoAaRBKydYArRtGr2pw==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260821082705_107",
+    "telegram_message_id": "Edgar_20260821082705_108",
+    "processed_at": "2026-08-21T08:27:24.596Z"
+  }
+}

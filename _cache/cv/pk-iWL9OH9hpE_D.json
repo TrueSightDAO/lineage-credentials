@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-08-21T08:27:56Z",
+  "generated_at": "2026-08-21T08:29:57Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -13,9 +13,45 @@
       "source_pages": [
         "https://oracle.truesight.me/draw.html"
       ],
-      "practice_count": 48,
+      "practice_count": 49,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-iWL9OH9hpE_D",
+          "captured_at": "2026-08-21T08:27:03.786Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 63,
+                "name": "Chi Chi / After Completion",
+                "changing_lines": [
+                  1,
+                  5
+                ],
+                "relates_to": 15,
+                "relates_to_name": "Ch'ien / Modesty"
+              }
+            ],
+            "advisory_summary": "1. Reading synthesisAfter Completion (#63) signals that TrueSight DAO has reached a stable phase post-recent updates (e.g., tokenomics GAS and ledger conventions), where small successes like QR code fixes and Beer Hall previews can be consolidated. Modesty (#15) urges humble, persistent operations to avoid emerging disorder, emphasizing maintenance of automation scripts and community signals. Changing lines 1 and 5 highlight starting with caution in new tasks and balancing core processes to sust",
+            "qmdj_card": "Cast 8/21/2026, 5:27:03 AM?? ?? ? ??? ??8??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 63,\r\n        \"name\": \"Chi Chi / After Completion\",\r\n        \"changing_lines\": [\r\n          1,\r\n          5\r\n        ],\r\n        \"relates_to\": 15,\r\n        \"relates_to_name\": \"Ch'ien / Modesty\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"1. Reading synthesisAfter Completion (#63) signals that TrueSight DAO has reached a stable phase post-recent updates (e.g., tokenomics GAS and ledger conventions), where small successes like QR code fixes and Beer Hall previews can be consolidated. Modesty (#15) urges humble, persistent operations to avoid emerging disorder, emphasizing maintenance of automation scripts and community signals. Changing lines 1 and 5 highlight starting with caution in new tasks and balancing core processes to sust\",\r\n    \"qmdj_card\": \"Cast 8/21/2026, 5:27:03 AM?? ?? ? ??? ??8??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "request_transaction_id": "RmdGtuWgaMi95OEdcJpHNmG0h7ONALvnTpGtkicGpqxUTCC3UOKvlRVYaJL2+sSTsi98AEUXpCAtC6Ug+aHt4GWM/w2kfoqa+GpbQAJbgCbRMI57VBvo2L4MU6zJly3BWnJwCM+6w8EZir4y5jPjXp/SIe/8K0vOW+wzTKUbgAkFtIQa8U4guSsaTP+uDvqjIFtGnX8BEqj+9wTqkRIWPVCXFCSL3Em7rdDMhWGIpxS6wDJWDAX1X8eeaZ+6ezGWxLCFdtYk2uaeP7WNAlKGLWvKV0KOhs61l957K8Jm/UQCC42gYi3gzscPgCQCrl+OvhHwoAaRBKydYArRtGr2pw==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260821082705_107",
+            "telegram_message_id": "Edgar_20260821082705_108",
+            "processed_at": "2026-08-21T08:27:24.596Z"
+          },
+          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-08-21T082703786Z-RmdGtuWgaM.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",
@@ -675,42 +711,6 @@
             "processed_at": "2026-07-31T00:27:37.062Z"
           },
           "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-07-31T002045516Z-cCZfBelutU.json"
-        },
-        {
-          "program": "truesight-grounding",
-          "practice_type": "oracle-consultation",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-iWL9OH9hpE_D",
-          "captured_at": "2026-07-30T00:46:24.268Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": {
-            "hexagrams": [
-              {
-                "number": 34,
-                "name": "Ta Chuang / The Power of the Great",
-                "changing_lines": [
-                  1,
-                  5
-                ],
-                "relates_to": 28,
-                "relates_to_name": "Ta Kuo / Preponderance of the Great"
-              }
-            ],
-            "advisory_summary": "Morning oracle grounding session.",
-            "qmdj_card": "Cast 7/30/2026, 8:46:23 AM?? ?? ? ??? ??1??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8",
-            "total_minutes": 15,
-            "mood": "reflective"
-          },
-          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 34,\r\n        \"name\": \"Ta Chuang / The Power of the Great\",\r\n        \"changing_lines\": [\r\n          1,\r\n          5\r\n        ],\r\n        \"relates_to\": 28,\r\n        \"relates_to_name\": \"Ta Kuo / Preponderance of the Great\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 7/30/2026, 8:46:23 AM?? ?? ? ??? ??1??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "request_transaction_id": "pmTOUD/YCOORtZw1lhK1YJjj3RQ0R7FoD4wLV/cNEh2QusgCIlYJ9WOgW/6TuhHqkYH+/fpbNkKhQoJxhbU1BCxZC8+nPZrYG+9JsLHRNHn9llyaKDbk4tpGpvXrw4b28CtstO+/WdTsuQ/RXaCLAQc687+PXViesnJ+NNm2suc+epy86JlYAtXXY2uQ6Ss27LRr9OUOBoIeMGJBytmBHg/05CDwnsl+l9U/VYtYuX1wJvRNirwV5a5RwN/wHarpUeS7YFUHjFnvyGpMbctS8wZgpDrDcfcyx7PriVfEn+czw0nSMcLbHiwbdNIaOeFhgoY5RZJhhk9sUp4vMSNHrg==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260730004627_295",
-            "telegram_message_id": "Edgar_20260730004627_296",
-            "processed_at": "2026-07-30T00:47:23.067Z"
-          },
-          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-07-30T004624268Z-pmTOUDYCOO.json"
         }
       ]
     }

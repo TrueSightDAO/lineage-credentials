@@ -3,7 +3,7 @@
   "display_name": "Sophia",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-22T14:11:48Z",
+  "generated_at": "2026-08-22T16:12:37Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -99,7 +99,22 @@
     "source_tab": "Scored Chatlogs",
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
-    "entries": []
+    "entries": [
+      {
+        "contributor_name": "Sophia",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Gary Teh\n- Description: EBCF Manicoré site-inspection due-diligence deck (30-min joint session Gary + Sophia): extracted/condensed Bioeconomy Program slides into a 7-slide deck, added custom Cacao Production slide w/ supply trajectory, revenue, land footprint; iterative trims (frozen-pulp, supply, benchmark/thank-you slides) to final version\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: Hk+AJZuIzn5wj7O6bnzMDF59FW1KJk9fr73E01nOpiHGvNdzaAl+d+IgK8Z0A7SNgAu0JbK42+cA0qbXaIwYVvwy621NWFltOwmY/vK5hj6v/gy5oDCSx2jAfPDTFq1eYbESiqWApIw1nVqjGspKUHxcFsF2YIH8KxPYcsmhuPrdCXbHDfkja8XwTLwkBcQuHSW2jETwVLDODgAhX8Wsrk6tBxWWvYNCZqM9R4xb09BQcOUgsusCkULXZm/i0lzoZNHmxM2un48SdJqWLb/f58AhL7DMUUMRHJ99AkH8Ov7NgbIs9GNoAf+6UfN69fkA8rCnm93lEyUeKYSjRDuKrg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "50",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260822",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "vXRkp61GgewgdAyVyb5i",
+        "reviewer_email": ""
+      }
+    ]
   },
   "_generator": "build_cv_cache",
   "narrative": {

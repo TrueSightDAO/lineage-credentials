@@ -1,6 +1,6 @@
 # Aga Marecka
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-22T00:39:52Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-22T02:45:50Z*
 
 Aga Marecka has made 60 contributions to TrueSight DAO since October 2020, with primary focus on human effort bounties, liquidity provision, and strategic game-building activities. She participated in projects including 20250617_beerhall, 20250617_townhall, Agroverse, Cypher Defense, Recurring Tokenizations, Trinity, TrueSight DAO, and telegram_chatlog. Her dominant categories encompass 18 instances of 100TDG for every hour of human effort, 7 for 1TDG per USD of liquidity injected, and 5 for bringing on active contributors. In Build Game - Strategy, she attended Facetime meetings (5), voted in online polls (4), reviewed and suggested cautions on proposals (3), and contributed to two full-scale strategies adopted by the DAO.
 

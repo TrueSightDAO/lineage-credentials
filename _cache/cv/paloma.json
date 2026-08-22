@@ -3,7 +3,7 @@
   "display_name": "Paloma",
   "pk_hash": null,
   "identity": {},
-  "generated_at": "2026-08-22T16:12:37Z",
+  "generated_at": "2026-08-22T18:15:34Z",
   "has_elective_records": false,
   "has_dao_contributions": true,
   "programs": {},
@@ -542,6 +542,34 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Paloma",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: -13.01\n- Description: Paloma purchased 2x 50-unit packs of Saco Stand Up Pouch Papel Zip Kraft C/visor 10x15cm via Mercado Livre (100 pouches total, R$28/pack x2 = R$56 @ 0.2323 USD/BRL).\n- Contributor(s): Paloma\n- TDG Issued: -13.01\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: KpqmwZzvBNGKNBBKOmR/oS5rSb04yBQKQOe0fA//FovI/EVOL0JyMC5ekLDKNNVIZNSjp5MAZa2Ju3oL9/++qF3UKo701dtHeD/bJO8K4ahjT+ugnFujOtz86QarkJUl7SShNZD3UJsbOCPzDiUYnL/YBCOEuPXw5MWh5yQw8t+Kzpri0v9EQT+qAYlHbB+LLoWC/RPEbxIig4c52jKScTrvFuMxfOL8HvLyI5VRs8U+tdr2rHQlFR7tpNTvoyo5NWgN59HdAFTvK756GZu+lA+AQbbT7NelO/J8iOdE9aFt08VA2FUApGV1Ph9vRqXSvXqfgPxwOCMLPSTd1gqEfA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "-13.01",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260822",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "vIskCD6rP7zydxiucI26",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Paloma",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: -58.07\n- Description: Paloma purchased 1x Bluetooth thermal label printer (Black, 110/240V dual voltage, w/ 20 label rolls) via Mercado Livre, R$249.99 @ 0.2323 USD/BRL.\n- Contributor(s): Paloma\n- TDG Issued: -58.07\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: pZ7vG/Sx0+IRFYV9Yk0jP84wHisJcNyoD8zSwxvZKE3K2AO6MKVPoX/eJHpFUMqlkFxJJp/tNbP3voOttswsjb3vR8eDDsBQ3+8uhaI4v5RKL/Wt13nTrevqHyJq/o6ffZemH8OhVr/epd2W1wB6Fmpn/2N/G6GRJS5BFu55bWbHEjvyyZlB+5bX34iGdYTsD7Z0feJlMdNI5VvXWOnwfAlRSOIqq3TaJDQm+WOCIACmBcD0qCGFCdd0FhLluvbMiSR4CRg7mge7S+wkIyQT056AfvrtXYTQ6PidIz+jiOGeY8xCz8lLu5UFv+AvaW5aPgYl4OLo67WdVQlcgCtVtQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "-58.07",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260822",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "qr9RK3xNnfzi7DXDiALl",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Paloma",
         "project_name": "telegram_chatlog",

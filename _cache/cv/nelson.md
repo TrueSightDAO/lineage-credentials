@@ -1,6 +1,6 @@
 # Nelson
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-23T06:23:52Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-23T08:18:30Z*
 
 Nelson contributed to Cypher Defense and TrueSight DAO from September 2022 to December 2022, with contributions primarily in Build Game user experience through UI design for single features or components (four instances), alongside validating user behaviors (one instance). He also participated in governance by raising a concern about an existing minor issue (one instance) and reviewed a proposed strategy in Build Game, suggesting areas to watch out for (one instance).
 

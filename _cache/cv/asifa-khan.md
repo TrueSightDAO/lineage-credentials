@@ -1,6 +1,6 @@
 # Asifa Khan
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-23T12:19:38Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-23T14:14:06Z*
 
 ## DAO Contributions
 

@@ -1,6 +1,6 @@
 # Thomas Gorissen
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-23T16:13:43Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-23T18:15:09Z*
 
 Thomas Gorissen made 7 contributions to the TrueSight DAO between December 2021 and March 2022. His work focused on early community operations and outreach during the DAO's initial phase.
 

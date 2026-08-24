@@ -1,6 +1,6 @@
 # Florian Cornu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-24T10:28:36Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-24T12:27:44Z*
 
 Florian Cornu made one contribution to the TrueSight DAO on March 5, 2022.
 

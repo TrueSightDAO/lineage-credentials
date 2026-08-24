@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-08-24T10:28:36Z",
+  "generated_at": "2026-08-24T12:27:44Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88030,6 +88030,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Follow-up on Brazil export blocker: reviewing WhatsApp drafts for Plátano Digital (Ilhéus) e-CPF/PJ-e enquiry re Inapta CNPJ regularisation and NF-e enablement\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: Zg5r/U0fUDOyQWrqVSjrB7o0l2fHRaLmWHIeIJga59saDgCCC1oftBZuk9Rq6QP9GocTwxaf6fkdkrjrLkeYODg527L3py1OsXCUOdtCmaFKGNsX91SAM4tHGGfi7roSGG9weqTVWoGhml56vfNMP5j+wO9KVtPdF092Js1SUHuDsV+LKMPEO5SLiH4Tb94TFycX2rCr26uh7eNipAFyNbePiJHio4idMbJ1/YBc9bzY92Y+wHZFNMkWoc+QAhgdh14+ZuFZqIzGD8ikwX8ncAB2h17XfHinT+ovNv7HdkOgYRIZ9Ol7CfmHlbzcaaDhLHiTr+z8I+BYiL2Qhg2JEQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260824",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "Lv4VwLmj30YsqLrj9S5K",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

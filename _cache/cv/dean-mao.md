@@ -1,6 +1,6 @@
 # Dean Mao
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-24T03:25:55Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-24T04:35:21Z*
 
 Dean Mao made five contributions to Agroverse and TrueSight DAO between August 2023 and November 2023. His efforts primarily fell under the 100 TDG for every 1 hour of human effort category with two instances, alongside single contributions in offline commerce tasks (30 minutes), manual outreach for Build Game marketing and growth hacking (30 minutes), and providing a hyperlink to a specific concept for Build Game strategy reference material.
 

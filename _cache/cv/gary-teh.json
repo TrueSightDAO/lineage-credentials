@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-08-26T19:34:46Z",
+  "generated_at": "2026-08-26T22:35:55Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88042,6 +88042,34 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "pnxBr0mwlBVuZrDJgDq0",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: coming over to FounderHaus to help figure out the label printer.\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 200.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260826193637_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: PlVBhVK1pTBKOSIW+DCYn6sFLXfsT0ebgkdwztmm+difGxmAcaqkC6AGlH96DdOlq+HFG1GerLOykkyzfDiVVb+NnC30ct6TytbnCH1P6TPJuzGa4KK+bClmqW0w3IW9TOGJOYHIgH7Hx1ryniHJXuwzYD/2grQCt+4XNVVrWg3ondF74lpBp0eoIy9tRmKRSnbupwH31hs1nsTblWUywm0tbQsZUUAwRwAEykZOTRHE/89V8cVOboOdz5RXBBpEW8fafVmmBO1T9pln7xMQ58LZ5clUP/vh6B8aAeQjpFS6oJqO0Xa/gjKgdUACc6WFDkSWxp38mPG4M8H7VrC3rg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "200",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260826",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "Jrm7qEjXTrhSvWRyjr5W",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Discussing about working more closely with APEX to discover more companies to work with here in Brazil such as packaging companies and co-packing companies to have more sections of our regenerative supply chain based out of Brazil\r\n- Contributor(s): Nima Kaz, Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260826193807_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: nGPbbCrF9MxShuwt22nmQcum66v8rzo1R82ryRvMv/Ou+JaDspqB6191H04tyJ/EZQmua1iF2MWGa+fFrL9wyacb+t98w7y1pPZD06ERUr/Gcx0uk6qleuXlSGJ6YyptUOBqEVHXyxyfVQnmXE9vkgiz4+1Ek0OUXX5WQj+VidOnxDB4dh9i2lBn9FFdaglZlslPC0WKiilVhbhH+xak4TfiMlYmDOzDcRms/9lmAQ/p/NOCa1jcl4jxYSDa+NVuOwtMdxmK/KyyRqP9xI/lotB+lZJPoJFAWp4ECkBqa9NxpXdKlvtukXGOofQvpbXhbdYdwqbB1/l61+5v1s37Nw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "25",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260826",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "QRRqN09vr1Cn48ccR9cZ",
         "reviewer_email": ""
       },
       {

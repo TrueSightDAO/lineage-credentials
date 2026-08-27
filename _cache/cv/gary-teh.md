@@ -1,6 +1,6 @@
 # Gary Teh
 
-*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-08-27T17:06:57Z*
+*Governor · DAO Contributor · Practitioner · TrueSight DAO Credential Profile · generated 2026-08-27T18:45:55Z*
 
 Gary Teh serves as a current member of the Board of Governors for TrueSight DAO. His contributions span projects including Agroverse, Sun Mint, AID framework, Cypher Defense, Edgar, FORK, MarketMonocle, MoNYtyze L1 Protocol, MoonShot, Real Estate on Chains, Recurring Tokenizations, Rotten Radish, The ArtTalk Magazine, Trinity, TrueSight DAO, and TrueSight.Me, with primary focus on human effort hours, liquidity provision, offline commerce tasks, and build game operations such as attending FaceTime meetings and consolidating materials from discussions. Active from 20171231 to 20260430, Gary has participated in three sessions (40 minutes total) of the TrueSight Capoeira program under the Tribo Bahia Mirim lineage, rooted in Bico Duro.
 

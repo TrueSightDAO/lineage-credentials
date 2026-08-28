@@ -1,6 +1,6 @@
 # Anna Nguyenova
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-28T09:47:59Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-28T12:26:34Z*
 
 Anna Nguyenova made two contributions to the TrueSight DAO on a single day in February 2022.
 

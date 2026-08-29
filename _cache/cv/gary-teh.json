@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-08-29T11:59:13Z",
+  "generated_at": "2026-08-29T12:23:43Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88030,6 +88030,48 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 10\r\n- Description: Deep Seek API credits on the 23rd\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 10.00\r\n- Attached Filename: deepseek_10usd_23.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260829121635_gary_teh_deepseek_10usd_23.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: eTXBtgdA7uKyl26xlKRSJKVPmE0/rUUBFuN7kY5vf9tBBzNtoY+e31DbQNv8RAEMX9Zpe+D6xaO2N7ofA6eG3c7R8oT9wbbTjnMqkBVqQsT9O2nc70KYqHLOA++pAnZLadyJeRdyb3cqxl1GVJ6A4UXkGA+gzqwlLsnQr7+3bBzX5V1wyCiQ9tRY6DM8zmV7kgwuWg6Q8KsP4vO7qUoWBX5kZA41xBPOPvO6xLthHeM+59lAEcZhLSPCnjeF8S6jwAvObD92Fd3Tsnc1+wy00dWTHd3vjKx6getP63lTSISfybKb09T0dPjNTeFO8xFYwfFTg2ytkVH3XeUmGvaVfA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "10",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260829",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "zSSSaDGIBL+7o7fvnije",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 2\r\n- Description: Deep seek 28th 2USD\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 2.00\r\n- Attached Filename: deep_seek_2usd.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260829121714_gary_teh_deep_seek_2usd.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: g9J91KexLiNDPZcG2hxa0pk+KgGxgjJCt3bnDgMzimxVob//3g/4IxhawjFBHMfssqZa9JcXCuu7O8WsBjWizsSfwl6HgvCayDLuNrhvcWiqfwAfO8n3jsypQXEwBpmmiexxwaMRpCw1xBmmlZebDK4cAuQJwep0WVw8/PyaHcUabvKrv78IzJNaz2PIp6CKdRdLhhAW2+nkTEfPJpMBLUuECNwtpOC+j+Jig7EMuwyJVdU8Lsl80ZPF4EPFBuQZdJS+PHNczWoQEg0oY13+Ug4c6g6BZBJr5JIhWIL1mHWqJA2f4R8+KhnEtg6sMeqNoZIgHnm6FHko//y+Cgf2BQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "2",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260829",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "m6J9Gn4OVYK0o1WIVUGv",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 10\r\n- Description: Deep Seek API credits 28\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 10.00\r\n- Attached Filename: deepseek_10usd_28.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260829121744_gary_teh_deepseek_10usd_28.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: hGU6fo8L9FfdNX46D3GudA2B9+vURTFQ32BRtzThDYL5wVVNXEM80wLB4G7ddWME7lalOt0cWzjNP00JW1KLohZbGNz79GlzCYaQJOkrOPRl9BeSW5fOJOPkn9JviDOkFgUmS5LViu4CDU00rM0NPrL9V9XKeoxFMe4Ys4pBLTB5Rjkr2vatk0x59so1Hz9L9D+tqTP6Je8wKV853npRnrUq3E2y0QSOIrjzD6EFPcZ9yxH4xwjhzDxZrR7XSpRKYOPZIHptSnh4UYp/QLIvTxU0R4N7Ho8PlMkZYL6HAlPi9H2SHFOZ74DGs+f4zdfqI8cOgdMSCIMOVxyGvQCpsg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "10",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260829",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "+6405FaDb2IIV8MJceSP",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

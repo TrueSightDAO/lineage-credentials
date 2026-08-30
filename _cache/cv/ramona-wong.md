@@ -1,6 +1,6 @@
 # Ramona Wong
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-29T23:42:46Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-30T01:44:10Z*
 
 Ramona Wong contributed to the DAO in June 2022 with five entries primarily in Build Game - Strategy, including two instances of contributing reference material via hyperlinks to online resources, one review where she suggested against a proposed strategy or highlighted areas to watch, and one independent reiteration of a pending decision signal. She also raised a concern in Governance about a potential future issue in the DAO.
 

@@ -1,6 +1,6 @@
 # Craig Henderson
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-30T21:08:08Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-08-30T22:08:01Z*
 
 Craig Henderson contributed to TrueSight DAO and the 20250617_beerhall project with four entries from June 2024 to April 2025. His contributions centered on providing liquidity, earning 1 TDG for every 1 USD injected in three instances, alongside one entry for human effort at 100 TDG per hour.
 

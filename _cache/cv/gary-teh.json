@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-08-31T18:26:47Z",
+  "generated_at": "2026-08-31T23:30:02Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88114,6 +88114,20 @@
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Extracted GPS coordinates (-3.208894, -52.215756, Altamira/PA) from EXIF metadata of a field photo; diagnosed how GPS survives file transfer vs stripped in compressed chat photos; drafted guidance for Jedielcio to send images/videos as files so location info is preserved.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: JDoBxTS4eDnNVNKF/bGDCGrAMcXpZ/4tunyS7nNzjlBcOzXDvb7+gQWt2XZhznJtL5EUSos1z3kJsRGNhru+MHzVSQ8vRXNFk43bZgMnQNW7jVLYYvQM2BeBHXTC3cYgpbtA4wCOBaZRCSVCxei25CRafz07Djg8V9pwkUt/rbhLW8jVZ1lrkubbV3kiWToXWiu+y5NCrgttwFwQzPwTC1mT0Iu0qyN+UZnJUpAH+4fMapjGIczeeIf+qDactSvXavOBNm2JH6QWJxxdsRhOnOv+JFw8Vz4D/VxX8LYtj9qu5USdedVpnQ5avTjQr2+c6dRGv3GiQpv5H6eYeuvVug==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260831",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "WE7e2gk7neENze5T74z3",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
         "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Contributor(s): Gary Teh, Sophia Truesight\n- Description: Retrieving the FounderHaus bougainvillea tree QR code (lineage-assets) for the signage project — locating the minted QR, verifying it decodes to truesight.me/qr/?id=FOUNDERHAUS_BOUGAINVILLEA_20260821_1, and delivering it for printing\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: PSCjvaixWVF/OLBbbr2uiCA7R0LjQNxJfxQrwRgMaCYregawU7A25A4e9dTB221C0Umd6NvHIfvFLGZeu0neT3S1/J8nwulejgkBKJ2lHUyyc8bqxerHVruExyhFUknuIpHEJ3YCL8GANKZDoHJ0USXf9J1HGtKOXnvq3+MOv4eZMJAnpplPvkJ12vYVsszo9p1I/mv3LyHk3rMYy+Lu4QLi559I0z8iuDmCENuTESkvmi9s/I7U5IALYPU5EATHVXVaMZse1Me0p9T9WrVGxb+QlsEQs6rckybxc0TxlOLf/QX744RHCiBWQ2j0AaRYedIJpB/cekHPWqX67HnHfQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
         "rubric": "100TDG For every 1 hour of human effort",
         "tdg_provisioned": "0",
@@ -90139,20 +90153,6 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "Wr0luFD1pu8zaEDOpuub",
-        "reviewer_email": ""
-      },
-      {
-        "contributor_name": "Gary Teh",
-        "project_name": "telegram_chatlog",
-        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Add error visibility to onboarding email batch sender (processBatch)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/257\n  \n  Details:\n  Hardened processBatch() in qr_code_web_service.gs against the silent-failure class that caused today's repeat-onboarding-email symptom: setValue on column M succeeds without throwing but the cell stays empty (formula in M1 overwriting, data validation rejection, or protected-range overlay), so the next trigger re-picks the row and re-sends the email. Three layers added: per-email try/catch (one user's failure doesn't abort the batch), SpreadsheetApp.flush() + read-back verification of column M with an explicit error naming the three likely causes, and an alert email to garyjob@agroverse.shop summarising every failure plus a final re-throw so GAS marks the trigger run as failed (which fires the standard 'Notify me on trigger failure' email). Logger.log summary line on every run for green-run diagnosability. Awaiting clasp push to the admin@truesight.me project to deploy.\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: O6tM6Pdx+ynIij4uH1VBymH40/mjRU66omA5ddxPYgW5OG8/l9xYKnOPXQjI3N9805X1nBACo5sVVEBXzX06ps3Zb6H62lfxbGIHVt9b0ZT2ImNSFx8GzBTRZhS2YtunMNOyHS6ftBfVfMHuDU1/xZtenCDQm0Opn0yrRr4sxEu6KBgtI0KLba9Kko576Kj9RSzuaXoJguQabfoujNU6a3SyQWmYRkOyebZPfu8Z14lUBmt+U/xZg/bW5P6xdQ7SPBcQyCLPlTKXRcl2SShjL39w3jlER0GO3rLbIvVJ8W0CPx35u0HeNT7zs0qcGzp4tZLIoQNNqI+4zUuy3c5Aew==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-        "rubric": "100TDG For every 1 hour of human effort",
-        "tdg_provisioned": "50",
-        "status": "Reviewed",
-        "tdg_issued": "50",
-        "status_date": "20260430",
-        "existing": "TRUE",
-        "reporter": "Edgar",
-        "scoring_hash": "dN3pXC+gqXMw55IvUbzv",
         "reviewer_email": ""
       },
       {

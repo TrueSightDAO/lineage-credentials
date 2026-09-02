@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-02T15:40:49Z",
+  "generated_at": "2026-09-02T17:30:40Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88064,6 +88064,48 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "3imctHuYAjlSx2w8CoBh",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Contributor(s): Gary Teh\n- Description: SunMint plot-first + plot-invalidation governance (2026-09-01/02): design decisions (plot-first model, defer farm link until FSVP/evidence backfill, dropdown lists unlinked plots), UAT submissions + validation, set FBE_GH_PAT + deployment anonymous-access fix in GAS UI, cleared prod gates for GAS v41 deploy + sunmint_prod sync.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: S38UcdOSFhSPD0oqzETA4Xwr2H/N4N9WHv9D9g5lMaZqf9rsoGTcsmXfr4eJdNDZTUAm0NwKT68vkHE4Dto87KsDGcAKYvthmXsBqdx0IBLP9Ojplv3FBetO0sL6/uJcJci5ncH4nIU2q5HFgB6v36oSEu6l+0zV6d6+Dv8FwPAsFfgfhDvwIZR1MaxLKdp1Y+i3mtCsnhj9H4wq4mcW4HsZHOfYwHtu96hTEKXmUb1pkB4Fg8HHEvueF5WzsM64xwZphuTCIVFCbgxLEiXRiL0eKUOglQ7d4L2vNVdAnsiQkGS48YMClshnYOySVY+mA6yVVdIsWYQCl0H3NMGgDA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260902",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "Rh0laAhpWxqdv85Tn7/L",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Provided the query and direction for SunMint program-status research and partner PDF (scan of live sites, whitepaper, codebase, tree planting).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: bmI6apYvdNqMIhGCcyTlCrRoEKBoJuH87tJywYks9mdy+i/0K9qOAs25SoevuYIJ5CgH5Lf+0iCAkCBtfuZBq7jyYbMjJC+5NZcoc0+89+ox+5Pf6mjdsnxpJywYyPLowDmYr8ReVZ26QU0NusVfRG/1uM0BF6GievyUueuIqTdCmaKSkZmJY3yXMdAXYQBW8zvrl+KGOnA3dLaEixvYqE28hDJYnH5kv5py7/K2hLDG1x5jH7kJ4h+tpuioymHPvraHYeSrLC3kGkUyn2WPRC5mi0j9HESTXj4D3t5/RHHJh2ZrtuRihupVq36kcWGjWCV4XuJWD0BPm4Ouj+ZBFA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260902",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "fxxsJBEDF+iWe7YNGlz0",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Supervision and review of the SunMint Android release-keystore backup across the credential vault (iCloud), Sophia's Fernet vault, and Envoy's box; decision to keep the v1.4 key rotation and refresh Sophia's keystore dir.\n- Contributor(s): Gary Teh\n- TDG Issued: 16.67\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: CN9tE6uaR+sgH9loDrEJJEime6EeIP4gQhX/7SdF8JVJ+Ilx6/InyMUMiqUoYiKv+GnnwgnTjYWCYGmpk2RHnx+G6zhstosSDLokTr0iyQixWVhldOtUmdABqc5SUkqbdqLPkO3ILoS134I7jqxEshty91+o22dnMtMkOT4HVj05QrmTHK3FmKztlfnT4YDUV6ms0lDfyuq8DExZ9sGbvyA7OlhMsqwi5dxy+7gvqoyyguN2DFQVX0p5al3wyXXszZWK57qFT0gZFZzaaYAEP567aE9a//CYtU15iz5t7+g86s3diutvqA6/IJLjIpYZdZ5OcTETLupt0m60I04Bmg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "16.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260902",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "mn0ff28DOBc59ulTkoPo",
         "reviewer_email": ""
       },
       {

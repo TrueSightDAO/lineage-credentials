@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-02T02:00:22Z",
+  "generated_at": "2026-09-02T03:25:47Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {

@@ -1,0 +1,30 @@
+{
+  "program": "truesight-grounding",
+  "practice_type": "oracle-consultation",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-iWL9OH9hpE_D",
+  "captured_at": "2026-09-02T13:39:06.439Z",
+  "source_url": "https://oracle.truesight.me/",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 38,
+        "name": "K'uei / Opposition",
+        "changing_lines": []
+      }
+    ],
+    "advisory_summary": "Personal reading for the operator ? a private practice draw, not a decision on behalf of the DAO.You cast Hexagram 38, Opposition, with no changing lines. That is a stable picture of things not converging: fire rises, the lake seeps downward, and the two don't mix. The judgment is unusually specific ? small matters: good fortune; great undertakings: not favorable. Look at the snapshot through that lens: the big surfaces are quiet (no product or frontier commits, no growth goals configured, no ne",
+    "qmdj_card": "Cast 9/2/2026, 9:39:05 AM?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6",
+    "total_minutes": 15,
+    "mood": "reflective"
+  },
+  "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 38,\r\n        \"name\": \"K'uei / Opposition\",\r\n        \"changing_lines\": []\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Personal reading for the operator ? a private practice draw, not a decision on behalf of the DAO.You cast Hexagram 38, Opposition, with no changing lines. That is a stable picture of things not converging: fire rises, the lake seeps downward, and the two don't mix. The judgment is unusually specific ? small matters: good fortune; great undertakings: not favorable. Look at the snapshot through that lens: the big surfaces are quiet (no product or frontier commits, no growth goals configured, no ne\",\r\n    \"qmdj_card\": \"Cast 9/2/2026, 9:39:05 AM?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+  "request_transaction_id": "TrApRcQ2jZeOx8ru9CpgPdPrptmarTs5/PeRag6I0a2ZZn1pBHAPa5EHF3ZmFerpf0zJrAMsmnAdfGl+DQcblauRFChK0TeO7dovST1FOjl9SZ9MFn1mAfD2stj1mpvsTRqi+KwJTUChrTesUMdILfpClNYSfaCMgeXYxeYp88x5sxbKbUG4L28T070tE8BX9X5+SdyVXWQoijdYSBioLQZp3faJcpxAAIcItHNVVmqzcZ7ghGVV8DTUqg0HcKn5eHSx0MvdIUmX+Y9NeeTtzGlEtabnJoTwOlxoPBj6SYEdXe3rsmXuaJ2WrEpkY/Fq/K6G0TFlDzUpBnVAFXW1zA==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260902133908_010",
+    "telegram_message_id": "Edgar_20260902133908_009",
+    "processed_at": "2026-09-02T13:47:27.381Z"
+  }
+}

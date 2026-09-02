@@ -1,6 +1,6 @@
 # Mark Montalban
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-02T20:17:43Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-02T23:41:24Z*
 
 Mark Montalban made two contributions to the TrueSight DAO in December 2021.
 

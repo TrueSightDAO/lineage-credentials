@@ -1,6 +1,6 @@
 # House of Balance
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-03T02:05:05Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-03T07:38:10Z*
 
 House of Balance contributed to Agroverse and Sun Mint projects from July 2022 to October 2023, with contributions primarily in bringing on active contributors. They brought on active contributors seven times under the Bring Builders category and once more in a related effort. House of Balance also oversaw an entire marketing messaging campaign under the Build Game - Marketing category.
 

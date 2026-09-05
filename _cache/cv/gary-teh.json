@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-05T14:14:24Z",
+  "generated_at": "2026-09-05T17:48:34Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88052,6 +88052,62 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Sítio Raimundo & Geniza onboarding — Gary Teh direct time\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/273\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/907\n  \n  Details:\n  Gary Teh direct time — Sítio Raimundo & Geniza farm onboarding (2026-09-04).\n  \n  Governor direction across the thread (~12 messages):\n  - Introduced Raimundo & Geniza (married couple starting a new restoration plot); asked for coordinate deciphering + naming + SunMint submission.\n  - Supplied ~9 HEIC/JPG attachments + ~/raimundo_geniza.zip (36 GPS originals).\n  - Ruled naming: \"not Fazenda Bom Sucesso — figure out a new name\" → Sítio Raimundo & Geniza.\n  - Go-signals ×4 (media pipeline, farm profile, impact-map wiring, records), Option B (hero photo), \"Promote\" ×2 (prod syncs).\n  - Provided COPOPS lead + site code U-06-07; asked for public-source verification (Econodata/CNPJCheck confirmed Raimundo Silva = COPOPS Presidente).\n  - Requested SOP examination + retrospective time analysis.\n  \n  Estimated ≈ 60 min governor direct time (decision/verification role as discriminator).\n  \n  Per convention (Gary 2026-08-24, thread 14165): governor direct time filed as separate event under governor's own name; TDG informational 0.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: SzRHRwe3LWbFNLVL98bFdGxj88rVBSxDVv5i3weS2pGjhR+EfkujQCKybXX3yMWCndjhAm4MD1P3iaIZ6PpFZOksWW83U3YWjqAF+XUly1odJJSwH10a/gX2DRnJQy+G88NoLvClbnb4UXjkUgiJRExdragPWZ93qcQkOngNjnEJZ8Io3jwhf9MnBv3FuKeWppJqh3Jk3vuYOpD2OxHOQE/gnmmS0VJPmp3ki/sM9gt/33D0I5C3z7HhhaJbczVr/qS6pPl+HHaFJKK/tBAs7vbtZrL2b4qodroXxSDG9/Wj1mrAcCM2M8rCplE6e7F3VWF58HkbzVW+e3obwqSOTQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260905",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "IBZwPOACOjEUOFAjAg+M",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Clarifying how things are supposed to be structured with Elizabeth.\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260905145738_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Q8GDKJ7Exf1faPsHUfROMlW5wGdO1Xfzd7V6gAC3Z9ZgBz4Bh1scdi4oD2ysIAJzy4VXemtTTZQ6Twg44E4/zT6ko3+VXo3AbhkNKC7mPbnk4libsMCvFq/quvZ3hGwNer5yJT8h7Uhv05oq2OsqXB/qLx0vlk2f0COKQrwDhHyD8fQdekcCwMELNwsFb+/VfqxUTzjqB8oVXGBj5G4BnQBAlxnUJeiTCJ4dcM1QF+g2+ZiAjVXiwkxJuiJZNzm2kaewN9jTdB/PM2mz5N95hVVDWC+6807LoGyhHGEQI/jM1X2AF09gIyNnxAc3/kvnA5cm2o1x1cNYutBWwHG8vw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "100",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260905",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "Qxj1XikJ94URh2jXllD2",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Amount: 45\n- Contributor(s): Gary Teh\n- Description: Fazenda Bom Sucesso online administration (2026-09-03→05): review/approval decisions on farm page content + hero, video curation (B: curated 8), upload direction, prod promotion approval; preparing + uploading the 1.29GB Paulo interview archive for the media pipeline\n- TDG Issued: 75\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: FxAmVF1s6CS64aS3S613eFwcxbO5mQRFld23lHCCtx5xCNK1X+024chdrP9fqRwk+y13LnjDMTMHMXxLiIYZKzaa0jTeu0JswG9AC2+X4lZbO2RO/3bym+reZQgtCen/IpRbQO98yHsfsaJjcYzSAXoBL9LMkQR6PD+m8cke3YyFGhyuqUhTPM96zhkAQDcTizCFoom91rwRrkTxSgJC0anF6ACHPECXkULnDEzHGudwFezfIZoIB0thCtSo0ibf1FpR1R5v1sOL0bx6YlpA2VOihfBbhGHHuCF8UUqe6dD0S+K/WprtHAKg6hJF5WUGuuFN7XqpkXyYV7dTMWhBsw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "75",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260905",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "MVTIKUURchPjFAJRRjMv",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Contributor(s): Gary Teh\n- Description: Setting up the AGL16 managed ledger structure (1.5 hours)\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: YPfSGRZqnmIDLtKJ4Rs9NKpfOA745Sw1Z0uKsJIQWp5rgW5ulkeOjc0947oOR9KKDrCVHvOnJ30exIaMjzFEKKUxm4a7KcbF/tTnHNmBMdNajC3GrC/aqQOBNQpCM+VRlGK99mU9AQlyU2dC4zOlGmLPSSQbOExEoThWuiNG9fh17RMAf4BfQoEnX2ZfGkmSpp+RJ9lQVxQUgp3pVyyRpvdk16PBWMd27Ugq62S+X3+5oLb9vtbgYnjHtHkGqA3JlCp2tdBqxRg9w/4GkuVbSC1r5cVEjC4v0Apz3IumjTKhD2oBjV3x2ujphteFK+br9SzXuy7qh86UA4reC+Brzg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260905",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "uZgbPfdkN92CZ42EZLYg",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

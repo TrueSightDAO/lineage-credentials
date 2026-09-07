@@ -1,0 +1,34 @@
+{
+  "program": "truesight-grounding",
+  "practice_type": "oracle-consultation",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2LSSl0kRsmOqxPmvrmVfTen1GhUdA/cbAsH1IJfPBR2lNN/XEmA/IRpOjThId9gLWjM8XAtBrfqvTYtQ0d/60fxeXhOsgWd6tRLTXmolv0zXkRjEYA7llPc0ofmsMxZcV39KxGBPVWGwNWcLExakSRUgU6YTjRanRv+1kfIK++DfcfAf48X1Rqpj1Uuzd5AKPgWgz2piFoiQqm8Yh4C3wTaY8O7ucrG1XgjuYrjSeqtjGtPEPXF6s7eDmAdiCaCgPSG+SjZxbBTy9OWhYuwav6MaTJPQW6u5SJ9f3/+pTKH/yVDkt3Y4Vpx7B84Z6U5/Zlwt8PGSwy5VwgkjJlhxbwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-33uzbpfIMqQv",
+  "captured_at": "2026-09-07T12:36:49.763Z",
+  "source_url": "https://oracle.truesight.me/",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 37,
+        "name": "Chia J?n / The Family",
+        "changing_lines": [
+          6
+        ],
+        "relates_to": 63,
+        "relates_to_name": "Chi Chi / After Completion"
+      }
+    ],
+    "advisory_summary": "The reading is complete, but the DAO advisory call failed. You can still open the advisory links above and retry by recasting.",
+    "qmdj_card": "Cast 9/7/2026, 12:36:49 PM?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6",
+    "total_minutes": 15,
+    "mood": "reflective"
+  },
+  "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 37,\r\n        \"name\": \"Chia J?n / The Family\",\r\n        \"changing_lines\": [\r\n          6\r\n        ],\r\n        \"relates_to\": 63,\r\n        \"relates_to_name\": \"Chi Chi / After Completion\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"The reading is complete, but the DAO advisory call failed. You can still open the advisory links above and retry by recasting.\",\r\n    \"qmdj_card\": \"Cast 9/7/2026, 12:36:49 PM?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2LSSl0kRsmOqxPmvrmVfTen1GhUdA/cbAsH1IJfPBR2lNN/XEmA/IRpOjThId9gLWjM8XAtBrfqvTYtQ0d/60fxeXhOsgWd6tRLTXmolv0zXkRjEYA7llPc0ofmsMxZcV39KxGBPVWGwNWcLExakSRUgU6YTjRanRv+1kfIK++DfcfAf48X1Rqpj1Uuzd5AKPgWgz2piFoiQqm8Yh4C3wTaY8O7ucrG1XgjuYrjSeqtjGtPEPXF6s7eDmAdiCaCgPSG+SjZxbBTy9OWhYuwav6MaTJPQW6u5SJ9f3/+pTKH/yVDkt3Y4Vpx7B84Z6U5/Zlwt8PGSwy5VwgkjJlhxbwIDAQAB",
+  "request_transaction_id": "cs2KvXu1aGYwLN3Egi9CJ1vY6DSG2jbGCffA00g2QZbrBZbUvy54ay0m+6V82rhDaT4hpLvLdPPaBFEQzZLoW+viqlW5nK6WKlJ58+M2tDnW83xWh9HAR8bglpC0goeVeje2mQJcOoevkRnm8mCyl67YhRkFzDkhGDQeHunr5IakKH9vUUrDQ6Js0BLRd+ILT6Xw7NttHWLaoAAmToSJXLnQRCKxRXwhBT/9xhTHHgg5v7AgV9v/QR0p9+twY9b6sH9hgI0Iy2G3oh4H89xSeQqrQgswfNZIEHxAW3YK76hectswbw4npfD5ooxpBH8ezTBSsrZ5Q2pU+bXoIfNC+w==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260907123650_036",
+    "telegram_message_id": "Edgar_20260907123650_035",
+    "processed_at": "2026-09-07T12:37:25.919Z"
+  }
+}

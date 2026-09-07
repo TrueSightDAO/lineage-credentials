@@ -1,0 +1,35 @@
+{
+  "program": "truesight-grounding",
+  "practice_type": "oracle-consultation",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtQe5BgX+4qR/yCTWSlrhsDFfSchjR0PSUl/NypdIU6eAcSirw/xS7W9SQnwVL2mabN/np9MnVfyYiuZyJ6Al9hwEi04iZdGSYfucS/rL/hCjmu/gN4tTPPxlzhDOw0CSPn1oKNdQbkXwMNoW31ITiVW78t0woRstsw7GYoorDz25cvZm2qb8mWUyih8mOa3JUapfzhN11lx5o4IMem6L2OO4zHcSgun53Evk+J81AQ6bVUBaGAsc+quC38ggpOqSpdOeCKx7KjFLrLRk+09w6MYt9FlN7adBqRO+jfaE/YBtlue9BAGDbsHGp0NX989JPqpfGxXoArenFem7xtquOQIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-nG_4MLNmsuED",
+  "captured_at": "2026-09-07T10:14:25.741Z",
+  "source_url": "https://oracle.truesight.me/",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 36,
+        "name": "Ming I / Darkening of the Light",
+        "changing_lines": [
+          2,
+          3
+        ],
+        "relates_to": 19,
+        "relates_to_name": "Lin / Approach"
+      }
+    ],
+    "advisory_summary": "Morning oracle grounding session.",
+    "qmdj_card": "Cast 2026/9/7 18:14:25?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6",
+    "total_minutes": 15,
+    "mood": "reflective"
+  },
+  "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 36,\r\n        \"name\": \"Ming I / Darkening of the Light\",\r\n        \"changing_lines\": [\r\n          2,\r\n          3\r\n        ],\r\n        \"relates_to\": 19,\r\n        \"relates_to_name\": \"Lin / Approach\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 2026/9/7 18:14:25?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtQe5BgX+4qR/yCTWSlrhsDFfSchjR0PSUl/NypdIU6eAcSirw/xS7W9SQnwVL2mabN/np9MnVfyYiuZyJ6Al9hwEi04iZdGSYfucS/rL/hCjmu/gN4tTPPxlzhDOw0CSPn1oKNdQbkXwMNoW31ITiVW78t0woRstsw7GYoorDz25cvZm2qb8mWUyih8mOa3JUapfzhN11lx5o4IMem6L2OO4zHcSgun53Evk+J81AQ6bVUBaGAsc+quC38ggpOqSpdOeCKx7KjFLrLRk+09w6MYt9FlN7adBqRO+jfaE/YBtlue9BAGDbsHGp0NX989JPqpfGxXoArenFem7xtquOQIDAQAB",
+  "request_transaction_id": "JLqaU+Tb3QfygjL5yOjfKVRjYX/HDq0jaOf25w21Bc5URH48sfzoTFle1B95+jhTI/meH/Lde0HqmnFGn02Q1NeyZePPthpj8mmSI1YgdTZRT90N4K5la4jDitMq7HgNOzNrqy9sNOI6iWaMvBAwRgpETvi3obJysKCUy6AmilRMQXY3XD2rabCaCYVDCCi1Xt5wxH9OiADOYaMmzfqXciLnAHU1XnP2vVnAfJnOcGqCcADWvWzDLrB7BqeI4NZz2pFwykKssiphsIC828HCmxWQcknY56l2p6UecVKxM2L0EMYTLoe46i1AGAXYs1VStLrSySDWmgCyZ3HaGVetGQ==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260907101428_032",
+    "telegram_message_id": "Edgar_20260907101428_031",
+    "processed_at": "2026-09-07T10:17:23.714Z"
+  }
+}

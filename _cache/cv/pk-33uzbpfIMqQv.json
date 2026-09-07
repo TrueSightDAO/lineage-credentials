@@ -3,7 +3,7 @@
   "display_name": "pk-33uzbpfIMqQv",
   "pk_hash": "pk-33uzbpfIMqQv",
   "identity": {},
-  "generated_at": "2026-09-07T12:38:01Z",
+  "generated_at": "2026-09-07T12:40:33Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -13,9 +13,44 @@
       "source_pages": [
         "https://oracle.truesight.me/draw.html"
       ],
-      "practice_count": 1,
+      "practice_count": 2,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2LSSl0kRsmOqxPmvrmVfTen1GhUdA/cbAsH1IJfPBR2lNN/XEmA/IRpOjThId9gLWjM8XAtBrfqvTYtQ0d/60fxeXhOsgWd6tRLTXmolv0zXkRjEYA7llPc0ofmsMxZcV39KxGBPVWGwNWcLExakSRUgU6YTjRanRv+1kfIK++DfcfAf48X1Rqpj1Uuzd5AKPgWgz2piFoiQqm8Yh4C3wTaY8O7ucrG1XgjuYrjSeqtjGtPEPXF6s7eDmAdiCaCgPSG+SjZxbBTy9OWhYuwav6MaTJPQW6u5SJ9f3/+pTKH/yVDkt3Y4Vpx7B84Z6U5/Zlwt8PGSwy5VwgkjJlhxbwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-33uzbpfIMqQv",
+          "captured_at": "2026-09-07T12:36:50.166Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 37,
+                "name": "Chia J?n / The Family",
+                "changing_lines": [
+                  6
+                ],
+                "relates_to": 63,
+                "relates_to_name": "Chi Chi / After Completion"
+              }
+            ],
+            "advisory_summary": "The reading is complete, but the DAO advisory call failed. You can still open the advisory links above and retry by recasting.",
+            "qmdj_card": "Cast 9/7/2026, 12:36:49 PM?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 37,\r\n        \"name\": \"Chia J?n / The Family\",\r\n        \"changing_lines\": [\r\n          6\r\n        ],\r\n        \"relates_to\": 63,\r\n        \"relates_to_name\": \"Chi Chi / After Completion\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"The reading is complete, but the DAO advisory call failed. You can still open the advisory links above and retry by recasting.\",\r\n    \"qmdj_card\": \"Cast 9/7/2026, 12:36:49 PM?? ?? ? ??? ??7??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2LSSl0kRsmOqxPmvrmVfTen1GhUdA/cbAsH1IJfPBR2lNN/XEmA/IRpOjThId9gLWjM8XAtBrfqvTYtQ0d/60fxeXhOsgWd6tRLTXmolv0zXkRjEYA7llPc0ofmsMxZcV39KxGBPVWGwNWcLExakSRUgU6YTjRanRv+1kfIK++DfcfAf48X1Rqpj1Uuzd5AKPgWgz2piFoiQqm8Yh4C3wTaY8O7ucrG1XgjuYrjSeqtjGtPEPXF6s7eDmAdiCaCgPSG+SjZxbBTy9OWhYuwav6MaTJPQW6u5SJ9f3/+pTKH/yVDkt3Y4Vpx7B84Z6U5/Zlwt8PGSwy5VwgkjJlhxbwIDAQAB",
+          "request_transaction_id": "BEOPtA0dqk7+1W/s5tQ29cTaTGsm9qPG9n6IAo+jq3/tK2wD+BRnwMjtND/yvobb+C0Ei3vcNlt35IoGl4u4XZ+40odzhwkrFAkjVIdHLzlBbynDK1AXBVLFHDWZpY9mrIO3yHWxQ3KqNw694XvlkV1RLgN0ZsA69FGvDogCsM4TzwRrkvG/dFZiHCYUVEdOBOotsgrTy96GShLdiBuCc7GLJQBnKAwfy/xDmikXrnOmKFwq82spV7P/iMD0+opepbnQTm4FkdzSLGONDr/+fT0/6CW5TnEGYuBFVBFvFgvFa1b4Q8uERRSVP37ghg9Z+3Imx4Wge2zkHqgVFp9xYQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260907123652_038",
+            "telegram_message_id": "Edgar_20260907123652_037",
+            "processed_at": "2026-09-07T12:37:29.636Z"
+          },
+          "_path": "programs/truesight-grounding/pk-33uzbpfIMqQv/practice/2026-09-07T123650166Z-BEOPtA0dqk.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",

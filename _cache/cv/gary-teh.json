@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-08T20:29:38Z",
+  "generated_at": "2026-09-08T22:57:57Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -55,9 +55,43 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
-      "practice_count": 49,
-      "total_practice_minutes": 1413,
+      "practice_count": 50,
+      "total_practice_minutes": 1446,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-09-08T22:50:21.925Z",
+          "source_url": "https://capoeira.agroverse.shop/roda.html",
+          "payload": {
+            "theme": "roda",
+            "moves_practiced": [],
+            "music_played": [
+              "002",
+              "007",
+              "010",
+              "001",
+              "003",
+              "004",
+              "005",
+              "008",
+              "011"
+            ],
+            "total_practice_minutes": 33
+          },
+          "raw_payload_json": "{\r\n    \"theme\": \"roda\",\r\n    \"moves_practiced\": [],\r\n    \"music_played\": [\r\n      \"002\",\r\n      \"007\",\r\n      \"010\",\r\n      \"001\",\r\n      \"003\",\r\n      \"004\",\r\n      \"005\",\r\n      \"008\",\r\n      \"011\"\r\n    ],\r\n    \"total_practice_minutes\": 33\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "RNKAnDljzx7GQPCf1qWq3UxLUaEuMfRRlxw6s5Aad/VRDbZSwXxyEmJ9jqsP7FD9zVYG/q2EwXS9pIcpkaH+u2QwJUVL8RVY7ltOBpqwmVN+u0g4nH00WFacHm4AYyieIm3mL0yhqwH5f6ruxgt0pQKwOpggJed3fkKokUKvIQutrkkvH+zMMWmvesPMcvudXRHZHcuKqP1bLHuZoKxxHDtQP68FmCmK/3SCrWNcF9tsOst5oAOuRxE/u16UuERXL2yOLIUky7b8vGKYteltZtfoeausiCMFfZwbWDmc+lRIqaw65BRcMlqj7QmRkE1bv/l29sEzRrgnfem+TRwdJg==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260908225023_264",
+            "telegram_message_id": "Edgar_20260908225023_263",
+            "processed_at": "2026-09-08T22:57:21.842Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-09-08T225021925Z-RNKAnDljzx.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",
@@ -805,26 +839,6 @@
             "reprocessed": true
           },
           "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-22T005843762Z-iPNtYEPTFs.json"
-        },
-        {
-          "program": "capoeira-tribo-mirim",
-          "practice_type": "training-session",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-wR9zU8JMnEz1",
-          "captured_at": "2026-06-19T00:26:36.156Z",
-          "source_url": "https://capoeira.agroverse.shop/practice.html",
-          "payload": null,
-          "raw_payload_json": "",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "request_transaction_id": "fVsAVmNdZG9eY9y67yiB4XYaRiXpKcIJICJsPullNV77ifXdx6JTA+PkoGHJgN1K+1vI6wuWNLiHaQQVYpofcMrLntKfBil3da8iWqTkv+ddtqXdqAs8AHIyo86lGPmuCdJ7YQSkAHt6wYLbLiTJy4tWJsKkwElmMW7bH7xTbzmE5mxxl4PEV9XxQWmIBDG6WSyMXQgd30JUE05Ln+JaHImy0RPhW8loY5ghFcURZsrikmFBC0bI3C6K9sHVe9Z5PRL5Ul5dqL7mc86i9RTfg2fd6LC9mKlukDn+7vY1V+WcwXZdRIQzN0HVFhm5h3agpxM30eO7WFry1icZZrUAJQ==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260619002637_063",
-            "telegram_message_id": "Edgar_20260619002637_064",
-            "processed_at": "2026-07-06T19:01:56.043Z",
-            "reprocessed": true
-          },
-          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-19T002636156Z-fVsAVmNdZG.json"
         }
       ]
     }
@@ -88052,6 +88066,20 @@
     "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
     "floor_date": "2024-12-13",
     "entries": [
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Drafted and sent request to Elizabeth Wong (Liz) to hand-carry 10 x MHC-CL082 chocolate molds (Alibaba/Dongguan, https://www.alibaba.com/product-detail/MHC-Wholesale-Chocolate-Mold-Food-Grade_60818753008.html) from China to Brazil for US tree-to-bar chocolate distribution, following Para supply-chain inspection (2026).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: h8rTjcCS4tISP9S8HJE6nfnTxjNoXXBU9PXFovbOtxd4/1PRaw9L1X4Sadn1Mn+fE/n/7Q+UDrX0XYPnNoZhj1jRpq4sajTWVhDPPpTFR0atK9qgTmffLc1bU92Raafuayg5MBbVHb+FRIWYofLEnmifBSO6iz6tIb0GwxjQLgXYs393D3qpv4LSaODbrkyF3OvuSPipDDPBZG88dsQej2lfTPYCvHDWeutcDBsZEeiOuQC8mLrA4r3j7MKkU2kG9rsNthuxdAX/ys6QFRUza2u62FIglpKU9pXZXrgbtHatrz91Fc6fxwJOaf1/RoepKawDydvdkbiyq+grACQiRQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "0",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260908",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "7l8cG6/khZV/P5krzTpR",
+        "reviewer_email": ""
+      },
       {
         "contributor_name": "Gary Teh",
         "project_name": "telegram_chatlog",

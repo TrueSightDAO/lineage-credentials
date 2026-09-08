@@ -1,6 +1,6 @@
 # Casey Oppenheim
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-07T22:23:39Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-08T02:05:36Z*
 
 Casey Oppenheim made one contribution to the TrueSight DAO.
 

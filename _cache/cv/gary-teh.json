@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-10T20:14:05Z",
+  "generated_at": "2026-09-10T23:33:51Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88078,6 +88078,48 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "VTf/t9mAnR2wEMrGf1BP",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Perhaps to help reduce the friction we should go mint an additional pair of keys so that your work schedule does not get impacted \r\n  \r\n  This is the closest key smith to our storage area. It is just down the street from\r\n  \r\n  https://maps.app.goo.gl/qgEtaTEag8JDSQGu5?g_st=ic\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: CcCLLLRan0TuNagBxC6gQblB5vnZzuYW+QAJtpOPiz9FYP5pi28t/q55AYHlSRUKbEMxdprJ0zq+D3rBF9G7YsxZBRoCT3EV86gnrHoYV1szJGSfSpjzeOrIqPOMvkl9tInhjaVCMCsHa2P4ZqI+JZn1SBDsuQc+5qphbn2EZqMzNaUBm6enkHDeTh9uTZHrEmdIA4RhCqv1ST3Z++d6mXD7Pw7Z1Hu4AOu7DFST5j+slf3VGcq6R76yIj5oPHesQL9TJ5tab55dPcTfN5QqLY2tZ9aKoqivrHNRCFec1b/5z/kQXh1KIqG2u5cx2OIA1u8JHqXzSiNktyoRGriD6g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "16.67",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260910",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "1Bz24BtsN3CtH9TGUiab",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 10.60\r\n- Description: deep seek credit 9th Sep\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 10.60\r\n- Attached Filename: receipt_ffc19c7a-f677-456f-b1be-84d444729bf6.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260910225123_gary_teh_receipt_ffc19c7a_f677_456f_b1be_84d444729bf6.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: C3Ylgnk8CQR0rcMWAMWpef7OpIV53AA0gcO0ZlJQ5K+TMBoI+1PO+rmUjrUFXuv4R+LClPCbFWBhFNAp6o0qrR5cN8nhRokOWBPX5JpNUqu/g93O0MaLkTpD1m4WB3h2tOBYUokw6MFkAITu+3OKC80WPlQykEFRQpfWtkrYAAdM00DSFIciHursJFK40E/3Jv4tA/fBFWT2awL/xYIGLpvOJsALCMlXGX4LycIZSGgQ4W9Xr1vl+5tt+efOlZhIvIC6DFy6nfIV3UOC7UykmWHnttQzb7p5UymiWQURqLDtMtWE8H+xoSZewd1hhQwGOqP2KBsc8rOQmtzXZYilHw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "10.6",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260910",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "UPb8WNuSerA4m1HVs11H",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 10.60\r\n- Description: DeepSeek credits 10th October\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 10.60\r\n- Attached Filename: receipt_f0f98566-dec1-482c-998a-7aaa1f3c3fa0.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260910225140_gary_teh_receipt_f0f98566_dec1_482c_998a_7aaa1f3c3fa0.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: KUU2ofk1EMpkV38O2W956hzX1S8/TsJZSRraa/uGbjBpMqdoTnjrVOpQCuXsXXKxlZ2kzH9z/x3/BRyqoGGl0Qyc8R+YqLd5NyD5vyDhHlojAh6QfBP7i84eCuuTozjlZNwV2BjcsqXZN5+8y0pL7nXac2cz/mC4r3v1GSxa2k2uE4QiCfI9A8WxW4OWLyfOSPnmHH4dYIv6jCEqMqe+5uQrfcwFaaoO3QyQaJYXyufVeCzbsqQLzuvJS4Exb/nygjdE6m+dF2v7QLrJBe9hhtFjJr2QOUQxnuj0lCfgGRBUaMvdXxKWmyBk7caQCirCIGsiOVOBPPLY7XMLM4j95g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "1TDG For every 1 USD of liquidity injected",
+        "tdg_provisioned": "10.6",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260910",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "JEy3Q6nzaaODhZIQUbnu",
         "reviewer_email": ""
       },
       {

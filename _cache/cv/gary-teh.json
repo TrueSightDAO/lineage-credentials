@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-11T08:24:45Z",
+  "generated_at": "2026-09-11T13:57:07Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -88078,6 +88078,34 @@
         "existing": "TRUE",
         "reporter": "Edgar",
         "scoring_hash": "s2Xh4PdsxyYDfigbsV5k",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: BionPact INV-20260911-BP — governor direction & review\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/bionpact-invoice-20260911.pdf\n  \n  Details:\n  Time spent by Gary Teh on the BionPact / Agroverse invoice thread (Telegram topic 26150).\n  \n  Work performed:\n  - Directed the Stripe checkout link creation for invoice INV-20260911-BP ($800, BIONPACT PTE. LTD.).\n  - Reviewed the invoice inspection findings and the Stripe account state (no card on file).\n  - Approved the invoice PDF revision and the removal of cacao/product detail from the Stripe checkout at the buyer's request.\n  \n  Evidence: store_interaction_attachments/invoices/bionpact-invoice-20260911.pdf\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: EbELBfJ0BGEjoK1DlxHrNqvmnernuCKML51kgdlhRQwX20StkR267OPTLDxAP7zIAUBjutBC7T9Q96WSNmim3o+CpqNrYTz0r25V/M5WcLgXilbhTjxyLN83uh5ut36OhGEpgxN+EUAESCuNRk2gMnqNLYzDCXRp8o1Zi/mSw8nBYQvXhJ6O2dYNMvrhm55ffCM1IPPvaYq4EApg5dGnxRQXQ9tpz9/HVCRc520v28dBTQCYIt9oMii9lLDSDLBIn+PKLFJeEpy351PgbyTxCusuI3Gfgf2Mab5kskuk5Zg9v/50gm0HwtMQ3hULyLp1bAKo+XXaNO5hI66QzXcMOg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "75",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260911",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "QfpjH0uNU84LI7TmPijU",
+        "reviewer_email": ""
+      },
+      {
+        "contributor_name": "Gary Teh",
+        "project_name": "telegram_chatlog",
+        "contribution": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 75\n- Description: Research: satellite resolution/cadence cost + sponsor financing report\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/1026\n  \n  Details:\n  Research and cost analysis for increasing the resolution and cadence of the SunMint satellite view (Telegram thread 26145), plus a sponsor-ready pricing report for a project sponsor considering financing it.\n  \n  WHAT WAS DONE\n  1. Baseline audit of the current pipeline: sunmint/scripts/cache_satellite_scenes.py uses Sentinel-2 L2A via Earth Search STAC (anonymous, free), daily cron 06:30 UTC, MAX_SCENES_PER_CELL=4, DAYS_BACK=45, GRID_DEG=0.01 (~1 km cells). Cache = 5 tree cells + 21 plot dirs, 104 scenes, 4.4 MB.\n  2. Established that the cached asset is preview.jpg at 343x343 px, while a full TCI.tif tile is 241 MB — the app deliberately shows low-res renders.\n  3. Separated the two independent levers (resolution vs cadence) and mapped free vs paid moves for each.\n  4. Priced every viable option: Copernicus Data Space / Sentinel Hub (free 10,000 PU/month tier), Sentinel-1 SAR + Landsat 8/9 (free), Planet Agriculture per-hectare tiers ($1.80 / $0.85 / $0.35 per ha/yr, 500 ha minimum), Planet Monitoring area-under-management tiers, Planet Tropical Forest Observatory (successor to the ended NICFI program), Planet Nonprofit Program, and SkySat 50 cm tasking (~$1,212/km2, 25 km2 min, ~$30k per collect).\n  5. Scaled cost to the 10,000-hectare mission target: ~$3,500/yr (cheapest tier) to ~$18,000/yr (top tier).\n  6. Defect identified: Esri World Imagery returns a blank tile at zoom 18+ over the pilot plots (2,521 bytes vs 17,267 bytes for San Francisco at the same zoom), so the basemap goes empty exactly at the zoom needed to inspect canopies.\n  7. Produced a 3-page sponsor-ready PDF cost report.\n  \n  DELIVERABLES\n  - PR (merged): https://github.com/TrueSightDAO/agentic_ai_context/pull/1026\n  - Report markdown: docs/reports/SATELLITE_RESOLUTION_CADENCE_COST_RESEARCH.md\n  - Sponsor PDF: docs/reports/satellite_resolution_cadence_cost_report_20260911.pdf\n  \n  CONTRIBUTORS AND TIME\n  - Sophia Truesight (~60 min): source/STAC/cache audit, web pricing research, report + PDF production\n  - Gary Teh (~15 min): raised the question, framed the sponsor-financing angle, guidance\n  - Total logged: 75 minutes\n  \n  CAVEAT\n  Planet's pricing page is bot-blocked; per-hectare and AUM figures are search-derived and indicative, not quoted. A formal sales quote is required for a firm number.\n- Contributor(s): Sophia Truesight, Gary Teh\n- TDG Issued: 125.00\n- Attached Filename: contribution_20260911102101_admin_sophia_satellite_pricing_report.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260911102101_admin_sophia_satellite_pricing_report.pdf\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: r8uP+pRypcXm/pUCuFGSn4Gaf3vEjxJmMt8JLjnK3MxJuKmnE+IzMOUr99Ih3klYY3poC4C911XxxnnTy3SbT5iess117ITlEj9qZhWxHR3hL7pcJVMbLMvXtNdYtJ7d0F29IrtY+2yTz7MZYLPRjhmjJatSi1oqUzbOi/EYKRSMLvLpQb3dMycGnMcEwdBDqq8vrZe1vrQf19vu3Uw54CT5R7e7yXiZAZNZ6uuphgiUEZv1NrUuT0l+KI4XVRLAVJXo6nBZfRR4nqRBdAiQdUy1q9asXtNzuJbn79EXO7YT8lJ7Q4JCIWOlDoKYXHvxIaTbNN/X1q4cT+wvDzTKng==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+        "rubric": "100TDG For every 1 hour of human effort",
+        "tdg_provisioned": "125",
+        "status": "Pending Review",
+        "tdg_issued": "0",
+        "status_date": "20260911",
+        "existing": "TRUE",
+        "reporter": "Edgar",
+        "scoring_hash": "QN0qAE7+AiuDOGCt5OZn",
         "reviewer_email": ""
       },
       {

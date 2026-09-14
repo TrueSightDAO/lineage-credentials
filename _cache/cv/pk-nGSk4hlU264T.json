@@ -1,0 +1,69 @@
+{
+  "slug": "pk-nGSk4hlU264T",
+  "display_name": "pk-nGSk4hlU264T",
+  "pk_hash": "pk-nGSk4hlU264T",
+  "identity": {},
+  "generated_at": "2026-09-14T05:47:58Z",
+  "has_elective_records": true,
+  "has_dao_contributions": false,
+  "programs": {
+    "truesight-grounding": {
+      "display_name": "TrueSight Grounding — Morning Oracle",
+      "lineage_root": null,
+      "source_pages": [
+        "https://oracle.truesight.me/draw.html"
+      ],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1miGUNuQF9T9PkGvgxNBsRH33L4wa5Z10ZG+AIdE3lDIEiSIKoIrM8/lfNG019/HoEZDO0ZfaMAzfiEvZ1IqaLwuab4Fz17xvfEE39Epptb6GsGFOZyio4SoM98JxmU98Nc0xK7wi8mjMkyOLDcDzmlA6Jjm53WAsw0BTtpOkfhNebNAwv65bGZnQC7O4/Zr3pLSEqdVKQzlHNh8pZpbOXxXhRQjrzo0l9ki53yXJtvlL4NUP7Uq4d5hVtXU82rGZCwqdHtB1/I8RZOdEdpOgnmiVeEivf0QpmnvL9FWyrMMjysawffSdDG4lXheLFMjG8ynNlR9a2QA7HTzpBq/awIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-nGSk4hlU264T",
+          "captured_at": "2026-09-14T05:39:14.347Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 16,
+                "name": "Y? / Enthusiasm",
+                "changing_lines": [
+                  1,
+                  5
+                ],
+                "relates_to": 17,
+                "relates_to_name": "Sui / Following"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 2026/9/14 13:39:13?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 16,\r\n        \"name\": \"Y? / Enthusiasm\",\r\n        \"changing_lines\": [\r\n          1,\r\n          5\r\n        ],\r\n        \"relates_to\": 17,\r\n        \"relates_to_name\": \"Sui / Following\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 2026/9/14 13:39:13?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1miGUNuQF9T9PkGvgxNBsRH33L4wa5Z10ZG+AIdE3lDIEiSIKoIrM8/lfNG019/HoEZDO0ZfaMAzfiEvZ1IqaLwuab4Fz17xvfEE39Epptb6GsGFOZyio4SoM98JxmU98Nc0xK7wi8mjMkyOLDcDzmlA6Jjm53WAsw0BTtpOkfhNebNAwv65bGZnQC7O4/Zr3pLSEqdVKQzlHNh8pZpbOXxXhRQjrzo0l9ki53yXJtvlL4NUP7Uq4d5hVtXU82rGZCwqdHtB1/I8RZOdEdpOgnmiVeEivf0QpmnvL9FWyrMMjysawffSdDG4lXheLFMjG8ynNlR9a2QA7HTzpBq/awIDAQAB",
+          "request_transaction_id": "juPqg/Jm6AI+Y3rycI4QJhngwCl4qkt3xoylG0YGqkCpE64Fpb/xNkHFgV1SrgE5HngSYRkGfouPnTFQjtgmhHYRuvkgG0zCANrA4dP3Eb83Fy3yf0DqZ5rZPBCPsKikFuzas8GsoRWpYHk9HFhD02opgfPqiOvkC3ushs/loYWLdCx8eMcm3MfG1u44yU+8G/AdJHytY4B50DEhXByEupExZbk+MmQjwudVd2tii6q03nr3DwxlK5xO7sj/d46RfZofVD2wU03XwZfcVbteaCMtRRqu+8KGGeNZKQCMDTr3an2RUhj6E5spbuIdPKUYcUpjCDOIQV/4XsVcp5EVIA==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260914053916_006",
+            "telegram_message_id": "Edgar_20260914053916_005",
+            "processed_at": "2026-09-14T05:47:22.444Z"
+          },
+          "_path": "programs/truesight-grounding/pk-nGSk4hlU264T/practice/2026-09-14T053914347Z-juPqgJm6AI.json"
+        }
+      ]
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-nGSk4hlU264T.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-nGSk4hlU264T"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

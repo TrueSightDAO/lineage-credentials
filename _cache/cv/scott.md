@@ -1,6 +1,6 @@
 # Scott
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-14T10:47:57Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-14T16:03:54Z*
 
 Scott made one contribution to the TrueSight DAO on March 12, 2022.
 

@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-16T22:29:09Z",
+  "generated_at": "2026-09-17T02:27:18Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -19,6 +19,7 @@
       "source_pages": [
         "https://era-professionals.com/butterfly-effect/"
       ],
+      "program_modes": [],
       "practice_count": 1,
       "total_practice_minutes": 0,
       "recent_events": [
@@ -47,7 +48,13 @@
           },
           "_path": "programs/butterfly-effect/pk-wR9zU8JMnEz1/practice/2026-05-18T120000000Z-demo-module-1.json"
         }
-      ]
+      ],
+      "sunmint_event_count": 0,
+      "trees_planted_count": 0,
+      "monitoring_events_count": 0,
+      "plots_registered_count": 0,
+      "last_sunmint_activity_at": "",
+      "sunmint_events": []
     },
     "capoeira-tribo-mirim": {
       "display_name": "Capoeira — Tribo Bahia Mirim",
@@ -55,6 +62,7 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
+      "program_modes": [],
       "practice_count": 50,
       "total_practice_minutes": 1446,
       "recent_events": [
@@ -840,7 +848,13 @@
           },
           "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-22T005843762Z-iPNtYEPTFs.json"
         }
-      ]
+      ],
+      "sunmint_event_count": 0,
+      "trees_planted_count": 0,
+      "monitoring_events_count": 0,
+      "plots_registered_count": 0,
+      "last_sunmint_activity_at": "",
+      "sunmint_events": []
     }
   },
   "dao_contributions": {

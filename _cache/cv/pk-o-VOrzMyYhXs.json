@@ -3,7 +3,7 @@
   "display_name": "pk-o-VOrzMyYhXs",
   "pk_hash": "pk-o-VOrzMyYhXs",
   "identity": {},
-  "generated_at": "2026-09-16T22:29:09Z",
+  "generated_at": "2026-09-17T02:27:18Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -13,6 +13,7 @@
       "source_pages": [
         "https://capoeira.agroverse.shop/practice.html"
       ],
+      "program_modes": [],
       "practice_count": 2,
       "total_practice_minutes": 84,
       "recent_events": [
@@ -133,7 +134,13 @@
           },
           "_path": "programs/capoeira-tribo-mirim/pk-o-VOrzMyYhXs/practice/2026-05-18T203215478Z-Svf6iO1mvU.json"
         }
-      ]
+      ],
+      "sunmint_event_count": 0,
+      "trees_planted_count": 0,
+      "monitoring_events_count": 0,
+      "plots_registered_count": 0,
+      "last_sunmint_activity_at": "",
+      "sunmint_events": []
     }
   },
   "qr_code": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T02:29:19Z",
+  "generated_at": "2026-09-17T03:27:45Z",
   "count": 494,
   "members": [
     {
@@ -17,7 +17,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "adi",
@@ -32,7 +35,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33.0,
       "total_contributions": 43,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "adrien",
@@ -47,7 +53,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 150.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aga-marecka",
@@ -62,7 +71,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 13731.0,
       "total_contributions": 60,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "agl15",
@@ -77,7 +89,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2471.0,
       "total_contributions": 14,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ahbinav",
@@ -92,7 +107,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 292.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ahmad-nawaz",
@@ -109,7 +127,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ahmed",
@@ -124,7 +145,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aihui-ong",
@@ -139,7 +163,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aima-fatima",
@@ -156,7 +183,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aiza-nasir",
@@ -173,7 +203,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aleksa-mil",
@@ -188,7 +221,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 44820.0,
       "total_contributions": 35,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alesha-bajwa",
@@ -205,7 +241,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alessandro-mele",
@@ -220,7 +259,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 957.0,
       "total_contributions": 13,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alex",
@@ -235,7 +277,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 600.0,
       "total_contributions": 13,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alex-circuit-labs",
@@ -250,7 +295,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alex-costa",
@@ -265,7 +313,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alexadoglio",
@@ -280,7 +331,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alexander-grau",
@@ -295,7 +349,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "alexandre-fernandes",
@@ -310,7 +367,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 400.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ali-ahmed",
@@ -327,7 +387,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "allison-d-laureano",
@@ -342,7 +405,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 319.0,
       "total_contributions": 9,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "allison-liu",
@@ -357,7 +423,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2600.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ambarish-malpani",
@@ -372,7 +441,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7502.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "amna-ata",
@@ -389,7 +461,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anabel",
@@ -404,7 +479,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anaya-haider",
@@ -421,7 +499,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "andrea-catalina-falcon-rios-de-pabst",
@@ -436,7 +517,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1558.0,
       "total_contributions": 17,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "andreas-quandt",
@@ -451,7 +535,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 283.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "andrew-shroomed",
@@ -466,7 +553,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "andrey-nayman",
@@ -481,7 +571,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1650.0,
       "total_contributions": 18,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "andy-choi",
@@ -496,7 +589,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 67.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "angela-hamit",
@@ -511,7 +607,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "angela-tseng",
@@ -526,7 +625,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1117.0,
       "total_contributions": 11,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "angeline-tan",
@@ -541,7 +643,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7358.0,
       "total_contributions": 12,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anika-giftge",
@@ -556,7 +661,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 37560.0,
       "total_contributions": 70,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anna-love",
@@ -571,7 +679,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anna-nguyenova",
@@ -586,7 +697,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anne-charboneau",
@@ -601,7 +715,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8410.0,
       "total_contributions": 18,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "annelaure-vuillermoz",
@@ -616,7 +733,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "annia-tsiupa",
@@ -631,7 +751,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8808.0,
       "total_contributions": 39,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "annie-teo",
@@ -646,7 +769,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anupa-dasgupta",
@@ -661,7 +787,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 19993.0,
       "total_contributions": 133,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "anupa-diya",
@@ -676,7 +805,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 123.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "apoorva-abhinav-colleague",
@@ -691,7 +823,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 267.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aqsa-arshad",
@@ -708,7 +843,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aravind-gandavadi",
@@ -723,7 +861,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "arham-ibrahim",
@@ -740,7 +881,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "arpt",
@@ -755,7 +899,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "arti",
@@ -770,7 +917,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 34.0,
       "total_contributions": 39,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "artiom-baloian",
@@ -785,7 +935,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "asifa-khan",
@@ -802,7 +955,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "assadullah-shabir",
@@ -819,7 +975,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "atheleah-nous",
@@ -834,7 +993,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 675.0,
       "total_contributions": 9,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ayesha-tabassum",
@@ -851,7 +1013,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "aymen-manzoor",
@@ -868,7 +1033,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "azqa-fatima",
@@ -885,7 +1053,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "baki71166714",
@@ -900,7 +1071,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bala-vishal",
@@ -915,7 +1089,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "barbara-sadini",
@@ -930,7 +1107,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3035.0,
       "total_contributions": 19,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bernard-leong",
@@ -945,7 +1125,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2155.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "betty",
@@ -960,7 +1143,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 12009.0,
       "total_contributions": 55,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bhavana",
@@ -975,7 +1161,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 425.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bilal",
@@ -992,7 +1181,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "biljana-sanev",
@@ -1007,7 +1199,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "billy-estoque",
@@ -1022,7 +1217,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bing",
@@ -1037,7 +1235,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 635.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bisma-ansar",
@@ -1054,7 +1255,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "black-izeek",
@@ -1069,7 +1273,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "blake",
@@ -1084,7 +1291,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bob-clark",
@@ -1099,7 +1309,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "boris-giftge",
@@ -1114,7 +1327,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 850.0,
       "total_contributions": 6,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bradley-hsu",
@@ -1129,7 +1345,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "brian-kennish",
@@ -1144,7 +1363,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7500.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "brian-naughton",
@@ -1159,7 +1381,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "brian-vedao",
@@ -1174,7 +1399,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "brian-wee",
@@ -1189,7 +1417,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "bruno-bethonico",
@@ -1204,7 +1435,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 717.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "byron-walker",
@@ -1219,7 +1453,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "carl-ftizgibbon",
@@ -1234,7 +1471,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1557.0,
       "total_contributions": 22,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "carlos",
@@ -1249,7 +1489,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "casey-oppenheim",
@@ -1264,7 +1507,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "catherine-he-limin",
@@ -1279,7 +1525,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "cepotx",
@@ -1294,7 +1543,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "chen-jianwen",
@@ -1309,7 +1561,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 501.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "chloe-gs",
@@ -1324,7 +1579,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "chris-arriola",
@@ -1339,7 +1597,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "chris-ye",
@@ -1354,7 +1615,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "christina-yu",
@@ -1369,7 +1633,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5100.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "cindy-cohen",
@@ -1384,7 +1651,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 525.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "claude",
@@ -1399,7 +1669,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 103.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "cliff",
@@ -1414,7 +1687,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "coach-remmie",
@@ -1429,7 +1705,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "coopercabruca",
@@ -1444,7 +1723,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1133.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "corrales-cachola",
@@ -1459,7 +1741,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "craig-henderson",
@@ -1474,7 +1759,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "cryptononymouseconomist",
@@ -1489,7 +1777,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dafu-onepiece-labs",
@@ -1504,7 +1795,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dan-cordie",
@@ -1519,7 +1813,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 498.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "daniel-prime",
@@ -1534,7 +1831,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 187.0,
       "total_contributions": 16,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "daniela-c-merlano",
@@ -1549,7 +1849,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "danielle-sunberg",
@@ -1564,7 +1867,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 368.0,
       "total_contributions": 12,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "david-berget",
@@ -1579,7 +1885,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7700.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "david-california-land-owner-davos",
@@ -1594,7 +1903,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "david-ghost-drive",
@@ -1609,7 +1921,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "david-hu",
@@ -1624,7 +1939,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "david-k-k-kwan",
@@ -1639,7 +1957,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dean-mao",
@@ -1654,7 +1975,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 541.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "deric-walintukan",
@@ -1669,7 +1993,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "derrek",
@@ -1684,7 +2011,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "deya",
@@ -1699,7 +2029,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "diana-gan",
@@ -1714,7 +2047,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dirk-watkins",
@@ -1729,7 +2065,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dita",
@@ -1744,7 +2083,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3550.0,
       "total_contributions": 13,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "doris-wang",
@@ -1759,7 +2101,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 6100.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dr-anita-lamprecht",
@@ -1774,7 +2119,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7642.0,
       "total_contributions": 49,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dr-denis",
@@ -1789,7 +2137,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dr-nike-schmidt",
@@ -1804,7 +2155,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 111.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dr-spencer-william-brown",
@@ -1819,7 +2173,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 625.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dragon",
@@ -1834,7 +2191,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1550.0,
       "total_contributions": 6,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dsb-5413",
@@ -1849,7 +2209,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dua-zahra",
@@ -1866,7 +2229,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dummy-e2e-test-2-cert",
@@ -1883,7 +2249,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dummy-e2e-test-3-voice",
@@ -1900,7 +2269,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dummy-e2e-test-4-v1-3",
@@ -1917,7 +2289,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "dummy-e2e-test-sophia",
@@ -1934,7 +2309,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ed",
@@ -1949,7 +2327,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 299,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "edge-and-node",
@@ -1964,7 +2345,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 4443.0,
       "total_contributions": 11,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "edi-hsu",
@@ -1979,7 +2363,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9805.0,
       "total_contributions": 20,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "edmund-wuu",
@@ -1994,7 +2381,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 400.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "edward",
@@ -2009,7 +2399,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "edwin",
@@ -2024,7 +2417,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 708.33,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "edwin-fireworkz",
@@ -2039,7 +2435,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "edwin-lun",
@@ -2054,7 +2453,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 600.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "elinor-janelle",
@@ -2069,7 +2471,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 4408.0,
       "total_contributions": 15,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "elizabeth-irizarry",
@@ -2084,7 +2489,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "elodie-carter",
@@ -2099,7 +2507,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "elora-eugene-oregon",
@@ -2114,7 +2525,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "elvisyong",
@@ -2129,7 +2543,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "eman-zakeer",
@@ -2146,7 +2563,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "emelin-frances-lisboa",
@@ -2161,7 +2581,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25621.0,
       "total_contributions": 356,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "emmanuel-nwanja",
@@ -2176,7 +2599,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "eric-founderhaus",
@@ -2191,7 +2617,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "eric-ly",
@@ -2206,7 +2635,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "eric-y-chen",
@@ -2221,7 +2653,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 6,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ervin-sarajevo",
@@ -2236,7 +2671,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1180.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ethan-bryan-ng",
@@ -2251,7 +2689,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 14650.0,
       "total_contributions": 22,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "evan-sui",
@@ -2266,7 +2707,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "evi",
@@ -2281,7 +2725,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 12,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ewerton-silva",
@@ -2296,7 +2743,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ezzah-shahzad",
@@ -2313,7 +2763,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fabien-aepli",
@@ -2328,7 +2781,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fadi",
@@ -2343,7 +2799,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fahad-hassan",
@@ -2360,7 +2819,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "faima-khatoon",
@@ -2377,7 +2839,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "falak-naz",
@@ -2394,7 +2859,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "faris-ali",
@@ -2411,7 +2879,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fark-kader",
@@ -2426,7 +2897,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 300.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fatima-tariq",
@@ -2443,7 +2917,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fatima-toledo",
@@ -2458,7 +2935,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 66186.0,
       "total_contributions": 247,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fatima-zafar",
@@ -2475,7 +2955,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "felix",
@@ -2490,7 +2973,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 325.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ferdinando-boninelli",
@@ -2505,7 +2991,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2233.0,
       "total_contributions": 14,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fizza-nasir",
@@ -2522,7 +3011,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "fleurish-quartz",
@@ -2537,7 +3029,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "florian-cornu",
@@ -2552,7 +3047,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "francine-cabral",
@@ -2567,7 +3065,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "franck-nouyrigat",
@@ -2582,7 +3083,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 23835.0,
       "total_contributions": 38,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "francois-renet",
@@ -2597,7 +3101,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8671.0,
       "total_contributions": 28,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "garis-pang",
@@ -2612,7 +3119,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 67662.0,
       "total_contributions": 139,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "gary-teh",
@@ -2630,7 +3140,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 1022292.0,
       "total_contributions": 3625,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "gautam-mittal",
@@ -2645,7 +3158,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33450.0,
       "total_contributions": 37,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "getdata-inc",
@@ -2660,7 +3176,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 1939,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "gilbert-zhuo",
@@ -2675,7 +3194,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "glenn-kowalsky",
@@ -2690,7 +3212,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "global-dao-alliance",
@@ -2705,7 +3230,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10250.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "gloria-chimelu",
@@ -2720,7 +3248,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "green-gulch-zen-monastery",
@@ -2735,7 +3266,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "guenther-dobrauz",
@@ -2750,7 +3284,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 601.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "gwendolyn-regina",
@@ -2765,7 +3302,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "h4n5",
@@ -2780,7 +3320,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hackerdojo",
@@ -2795,7 +3338,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1436.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hajira-sajjid",
@@ -2812,7 +3358,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hajra-bibi",
@@ -2829,7 +3378,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hamza-habib",
@@ -2846,7 +3398,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hans-martin-heierling",
@@ -2861,7 +3416,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3787.0,
       "total_contributions": 34,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "harram-gulfam",
@@ -2878,7 +3436,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hawkenzo1",
@@ -2893,7 +3454,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hoorain-chaudhary",
@@ -2910,7 +3474,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "horab-jamil",
@@ -2927,7 +3494,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "horacio",
@@ -2942,7 +3512,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "house-of-balance",
@@ -2957,7 +3530,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5425.0,
       "total_contributions": 9,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hubert-yee",
@@ -2972,7 +3548,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1780.0,
       "total_contributions": 19,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hughiegabriel",
@@ -2987,7 +3566,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "hussnain-mohiuddin",
@@ -3004,7 +3586,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ian",
@@ -3019,7 +3604,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9875.0,
       "total_contributions": 24,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ida",
@@ -3034,7 +3622,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ilya-voytov",
@@ -3049,7 +3640,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 6410.0,
       "total_contributions": 14,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "inza",
@@ -3064,7 +3658,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "irene-hsu",
@@ -3079,7 +3676,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 217.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "iris-m",
@@ -3094,7 +3694,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1535.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "isabela",
@@ -3109,7 +3712,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ishmam-nafees",
@@ -3126,7 +3732,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "itz-eazyboy",
@@ -3141,7 +3750,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "iwona-fluda",
@@ -3156,7 +3768,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5659.0,
       "total_contributions": 35,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jacki-roach",
@@ -3171,7 +3786,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1010.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jacob-m-hot-springs-montana-okanonga-barter-faire",
@@ -3186,7 +3804,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 57.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jacob-nelan",
@@ -3201,7 +3822,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 64175.0,
       "total_contributions": 62,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jalva-azhar",
@@ -3218,7 +3842,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "james-harvey",
@@ -3233,7 +3860,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "james-sheen",
@@ -3248,7 +3878,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "james-sung",
@@ -3263,7 +3896,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 608.0,
       "total_contributions": 10,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "janet-hob",
@@ -3278,7 +3914,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jannat-firdous",
@@ -3295,7 +3934,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jascha-martschenko",
@@ -3310,7 +3952,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11945.0,
       "total_contributions": 17,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jayan",
@@ -3325,7 +3970,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jeff",
@@ -3340,7 +3988,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3000.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jen-chan",
@@ -3355,7 +4006,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jenifer-runnion",
@@ -3370,7 +4024,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 863.0,
       "total_contributions": 13,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jeramy-dahl",
@@ -3385,7 +4042,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jeremy-chong",
@@ -3400,7 +4060,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jerry-luk",
@@ -3415,7 +4078,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8839.0,
       "total_contributions": 21,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jessica-jae-liu",
@@ -3430,7 +4096,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jim-white",
@@ -3445,7 +4114,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jinn-rajinder-jhol",
@@ -3460,7 +4132,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "joao-fouad",
@@ -3475,7 +4150,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "john-saadeh",
@@ -3490,7 +4168,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 500.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "john-tan",
@@ -3505,7 +4186,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9118.0,
       "total_contributions": 11,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "johnlingardr",
@@ -3520,7 +4204,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 21.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "johnny-browaeys",
@@ -3535,7 +4222,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "johnny-bueler",
@@ -3550,7 +4240,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "johnson-teh",
@@ -3565,7 +4258,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 38665.0,
       "total_contributions": 44,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jonathan",
@@ -3580,7 +4276,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3016.0,
       "total_contributions": 16,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "josh-brown",
@@ -3595,7 +4294,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 133.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "joshua-bishop",
@@ -3610,7 +4312,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "joshua-wee",
@@ -3625,7 +4330,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "josue-oscar-rodriguez",
@@ -3640,7 +4348,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "juan-bernabo",
@@ -3655,7 +4366,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 558.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "jules-kenton",
@@ -3670,7 +4384,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "junaid-khalid",
@@ -3685,7 +4402,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "june-jo",
@@ -3700,7 +4420,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2000.0,
       "total_contributions": 11,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "justine",
@@ -3715,7 +4438,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "juvairia-tayyab",
@@ -3732,7 +4458,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kainat-rehan",
@@ -3749,7 +4478,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kainat-rehan-2",
@@ -3764,7 +4496,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "karin-lanz",
@@ -3779,7 +4514,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3467.0,
       "total_contributions": 31,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "karin-lorez",
@@ -3794,7 +4532,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 351.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "karl",
@@ -3809,7 +4550,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kaspar-hidayat",
@@ -3824,7 +4568,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kathryn-gichini",
@@ -3839,7 +4586,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kelly-choo",
@@ -3854,7 +4604,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kelvin-chew",
@@ -3869,7 +4622,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58360.0,
       "total_contributions": 85,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kemartiti-2719",
@@ -3884,7 +4640,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ken-lee",
@@ -3899,7 +4658,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ken-nim",
@@ -3914,7 +4676,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9419.0,
       "total_contributions": 47,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kevin-deval",
@@ -3929,7 +4694,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11350.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "khak-e-ayesha",
@@ -3946,7 +4714,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kirsten-ritschel",
@@ -3961,7 +4732,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 21317.0,
       "total_contributions": 110,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kris-swims-like-fish",
@@ -3976,7 +4750,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "krishanthan-surendran",
@@ -3991,7 +4768,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "kuoloon",
@@ -4006,7 +4786,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10145.0,
       "total_contributions": 17,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lake",
@@ -4021,7 +4804,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7050.0,
       "total_contributions": 32,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lan",
@@ -4036,7 +4822,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 112,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "laura-hill",
@@ -4051,7 +4840,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "laura-liew",
@@ -4066,7 +4858,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "laura-solner",
@@ -4081,7 +4876,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lawrence",
@@ -4096,7 +4894,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "leslie-lim",
@@ -4111,7 +4912,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lester-barebottle-brewery",
@@ -4126,7 +4930,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 572.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "levi",
@@ -4141,7 +4948,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 40.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "linda-gorski",
@@ -4156,7 +4966,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "liz-george",
@@ -4171,7 +4984,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lori",
@@ -4186,7 +5002,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lorna-blount",
@@ -4201,7 +5020,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 800.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lorna-eclectic-india",
@@ -4216,7 +5038,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lucas-root",
@@ -4231,7 +5056,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 125.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "luigi",
@@ -4246,7 +5074,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lukas-bugla",
@@ -4261,7 +5092,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "lydia-huang",
@@ -4276,7 +5110,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1075.0,
       "total_contributions": 10,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-ali",
@@ -4293,7 +5130,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-hussnain",
@@ -4310,7 +5150,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-omer-farooq",
@@ -4327,7 +5170,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-rafay-hassan",
@@ -4344,7 +5190,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-taha-sarwan",
@@ -4361,7 +5210,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-taha-talha",
@@ -4378,7 +5230,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-umer-khan",
@@ -4395,7 +5250,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "m-zeekash-mehdi",
@@ -4412,7 +5270,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "maegan-gorbett",
@@ -4427,7 +5288,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 225.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "maggie",
@@ -4442,7 +5306,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "maira-mastoor",
@@ -4459,7 +5326,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "maira-rahat",
@@ -4476,7 +5346,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "malina-mohsin",
@@ -4493,7 +5366,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "manha-masood",
@@ -4510,7 +5386,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "marcell",
@@ -4525,7 +5404,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 102.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mark-montalban",
@@ -4540,7 +5422,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "marta-lopes",
@@ -4555,7 +5440,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "marta-poltorak",
@@ -4570,7 +5458,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1510.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "maryam-khalid",
@@ -4587,7 +5478,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "matheus-reis",
@@ -4602,7 +5496,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 29853.0,
       "total_contributions": 180,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "matt-baxter",
@@ -4617,7 +5514,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 750.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "matthew-kilkenny",
@@ -4632,7 +5532,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 20.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "matthias-gosser",
@@ -4647,7 +5550,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "maya-frost",
@@ -4662,7 +5568,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mayra-alexandra",
@@ -4677,7 +5586,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mehar-afaq",
@@ -4694,7 +5606,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "meir-s-simhi",
@@ -4709,7 +5624,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mercedes",
@@ -4724,7 +5642,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mestre-bico-duro",
@@ -4739,7 +5660,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 333.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "michael-flaxman",
@@ -4754,7 +5678,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1250.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "michael-lim",
@@ -4769,7 +5696,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mihai-hodisan",
@@ -4784,7 +5714,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "milena-smith",
@@ -4799,7 +5732,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8555.0,
       "total_contributions": 42,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mimrah-mahmood",
@@ -4814,7 +5750,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mmaisy-ward",
@@ -4829,7 +5768,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 20.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mohammad-balaj",
@@ -4846,7 +5788,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mohammad-muzammil",
@@ -4863,7 +5808,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mohammad-zohaib",
@@ -4880,7 +5828,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mohid-khan",
@@ -4897,7 +5848,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "momina-arif",
@@ -4914,7 +5868,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "momo-yamada",
@@ -4929,7 +5886,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 22383.0,
       "total_contributions": 18,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "muhammad-abbas",
@@ -4946,7 +5906,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mukarram-fareed",
@@ -4963,7 +5926,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mukiri-mwirigi",
@@ -4978,7 +5944,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1010.0,
       "total_contributions": 10,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "mulan-teh",
@@ -4993,7 +5962,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "murtaza",
@@ -5008,7 +5980,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2250.0,
       "total_contributions": 9,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "musa-ashraf",
@@ -5025,7 +6000,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nash",
@@ -5040,7 +6018,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nato",
@@ -5055,7 +6036,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 33.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "navier",
@@ -5070,7 +6054,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nayyan-ahmed-kiyani",
@@ -5087,7 +6074,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "neil-bergert",
@@ -5102,7 +6092,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "neil-berget",
@@ -5117,7 +6110,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 15400.0,
       "total_contributions": 11,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "neil-maxwell",
@@ -5132,7 +6128,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1218.0,
       "total_contributions": 10,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nelson",
@@ -5147,7 +6146,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2675.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "neo",
@@ -5162,7 +6164,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10266.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nick",
@@ -5177,7 +6182,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 330.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nicole-keller",
@@ -5192,7 +6200,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 990.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nima-kaz",
@@ -5207,7 +6218,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1705.0,
       "total_contributions": 18,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nishanth-sudharsanam",
@@ -5222,7 +6236,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8850.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nixxholas",
@@ -5237,7 +6254,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "noor-ul-huda",
@@ -5254,7 +6274,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nosheen-sarwat",
@@ -5271,7 +6294,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "nosonspot",
@@ -5286,7 +6312,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "olaf",
@@ -5301,7 +6330,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 324.0,
       "total_contributions": 6,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "oliver-scherenberg",
@@ -5316,7 +6348,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "orlantildes",
@@ -5331,7 +6366,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ozioma-chukwunyere",
@@ -5346,7 +6384,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5278.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "paloma",
@@ -5361,7 +6402,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 647.0,
       "total_contributions": 19,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "paul-liu",
@@ -5376,7 +6420,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "paulo-hernandez",
@@ -5391,7 +6438,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 225.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "peace-on-fifth",
@@ -5406,7 +6456,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "perry-tam",
@@ -5421,7 +6474,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 300.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "peter-gwee",
@@ -5436,7 +6492,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 3775.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "peter-peng",
@@ -5451,7 +6510,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 7730.0,
       "total_contributions": 15,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "philip",
@@ -5466,7 +6528,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 18260.0,
       "total_contributions": 19,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-33uzbpfIMqQv",
@@ -5483,7 +6548,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-4LBWHX9DJ_wH",
@@ -5500,7 +6568,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-7UXQC-bjVuBG",
@@ -5517,7 +6588,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-8YnflL11e6cj",
@@ -5534,7 +6608,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-8pjRAX1zYCsZ",
@@ -5551,7 +6628,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-FIwuW2G_hRuU",
@@ -5568,7 +6648,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-G0Q-GSnufn6_",
@@ -5585,7 +6668,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-Iajd1vguliva",
@@ -5602,7 +6688,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-RgVWT95jgyi7",
@@ -5619,7 +6708,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-Z0JW8FSap8qn",
@@ -5636,7 +6728,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-_153-rfF66BP",
@@ -5653,7 +6748,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-_p4LmoQpuPi5",
@@ -5670,7 +6768,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-gWkY7UOSOin5",
@@ -5687,7 +6788,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-iWL9OH9hpE_D",
@@ -5704,7 +6808,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-nGSk4hlU264T",
@@ -5721,7 +6828,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-nG_4MLNmsuED",
@@ -5738,7 +6848,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-o-VOrzMyYhXs",
@@ -5755,7 +6868,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-rFTMzAmwm7SC",
@@ -5772,7 +6888,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pk-sP3T97_iINz9",
@@ -5789,7 +6908,10 @@
       "has_elective_records": true,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "pooja-yousra-friend",
@@ -5804,7 +6926,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "priscilla-huang",
@@ -5819,7 +6944,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 58590.0,
       "total_contributions": 129,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "prithvi",
@@ -5834,7 +6962,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 75.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "qa-e2e-test-instructor",
@@ -5851,7 +6982,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rafay-aamir",
@@ -5868,7 +7002,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rafidah-jalil",
@@ -5883,7 +7020,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "raman",
@@ -5898,7 +7038,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rameesa-naseer-ud-din",
@@ -5913,7 +7056,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rameesa-naseer-ud-din-2",
@@ -5928,7 +7074,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rameesa-naseer-ud-din-3",
@@ -5945,7 +7094,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ramona-wong",
@@ -5960,7 +7112,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 155.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ranette-sorenson",
@@ -5975,7 +7130,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ranette-sorenson-raye-works",
@@ -5990,7 +7148,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "raphael-bouzy",
@@ -6005,7 +7166,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 800.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ray-wu",
@@ -6020,7 +7184,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 417.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "reuben",
@@ -6035,7 +7202,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1850.0,
       "total_contributions": 17,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "richard-chu",
@@ -6050,7 +7220,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 30243.0,
       "total_contributions": 25,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "riffat-latif",
@@ -6067,7 +7240,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rob-hutter",
@@ -6082,7 +7258,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rockey599204723",
@@ -6097,7 +7276,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rodney-wieck",
@@ -6112,7 +7294,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 158.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "romaiza-ishtiaq",
@@ -6129,7 +7314,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "romessa-shakeel",
@@ -6146,7 +7334,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "royston",
@@ -6161,7 +7352,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "rusty-bogart-pipevine-chocolate",
@@ -6176,7 +7370,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 375.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ryan-feathermen",
@@ -6191,7 +7388,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2500.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "ryansjjr",
@@ -6206,7 +7406,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 14850.0,
       "total_contributions": 25,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sacred-earth-farms",
@@ -6221,7 +7424,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 167.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "saemin-ahn",
@@ -6236,7 +7442,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9000.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "saif-ur-rehman",
@@ -6253,7 +7462,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "saima-khalid",
@@ -6270,7 +7482,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "saltwater-lunch",
@@ -6285,7 +7500,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "samiya-saleem",
@@ -6302,7 +7520,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "samiya-saleem-2",
@@ -6319,7 +7540,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "samuel-lambert",
@@ -6334,7 +7558,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sarah-h",
@@ -6349,7 +7576,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2979.0,
       "total_contributions": 15,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "satheesh-paddolker",
@@ -6364,7 +7594,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11661.0,
       "total_contributions": 20,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "scott",
@@ -6379,7 +7612,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shabeeh-fatima",
@@ -6396,7 +7632,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shadan",
@@ -6413,7 +7652,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shadi-atamne",
@@ -6428,7 +7670,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5433.0,
       "total_contributions": 19,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shamshad-haider",
@@ -6445,7 +7690,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shane-low",
@@ -6460,7 +7708,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1500.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sharvin-baindur",
@@ -6475,7 +7726,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1200.0,
       "total_contributions": 9,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shena-davenport",
@@ -6490,7 +7744,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9060.0,
       "total_contributions": 19,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sherwin",
@@ -6505,7 +7762,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1600.0,
       "total_contributions": 9,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shine-light",
@@ -6520,7 +7780,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 120.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "shino-ling",
@@ -6535,7 +7798,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11045.0,
       "total_contributions": 15,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "soniya-ahuja",
@@ -6550,7 +7816,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 967.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sonya-gorski",
@@ -6565,7 +7834,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 51.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sophia",
@@ -6580,7 +7852,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1260.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sophie-riegert",
@@ -6595,7 +7870,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 25.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "stanley-li",
@@ -6610,7 +7888,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 592.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "street-insights-llc",
@@ -6625,7 +7906,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "suhaimi-zainul",
@@ -6640,7 +7924,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5875.0,
       "total_contributions": 28,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "suheil",
@@ -6655,7 +7942,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 11061.0,
       "total_contributions": 78,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sujit-nair",
@@ -6670,7 +7960,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2592.0,
       "total_contributions": 6,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "sumbul-sikander",
@@ -6687,7 +7980,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "susan-oh",
@@ -6702,7 +7998,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 450.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "suzo",
@@ -6717,7 +8016,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 8.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "svet-svitlo",
@@ -6732,7 +8034,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 60.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tahleel-mir",
@@ -6749,7 +8054,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tayyaba-ieman",
@@ -6766,7 +8074,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "teck-chiong-lim",
@@ -6781,7 +8092,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tess-walkowski",
@@ -6796,7 +8110,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2670.0,
       "total_contributions": 57,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tessa-rosemary-eckerman",
@@ -6811,7 +8128,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5200.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "the2xld",
@@ -6826,7 +8146,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2259.9700000000003,
       "total_contributions": 28,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "theodl",
@@ -6841,7 +8164,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "thomas-gorissen",
@@ -6856,7 +8182,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1850.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "thomas-tang",
@@ -6871,7 +8200,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1100.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tiffany-harnsongkram",
@@ -6886,7 +8218,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 278.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tiffine-wang",
@@ -6901,7 +8236,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 14985.0,
       "total_contributions": 32,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tomas-bernabo",
@@ -6916,7 +8254,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 9820.0,
       "total_contributions": 31,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tres-garcia",
@@ -6931,7 +8272,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 6285.0,
       "total_contributions": 39,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "trex-d-designer",
@@ -6946,7 +8290,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 303.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tripp",
@@ -6961,7 +8308,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 653.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "truetech-inc",
@@ -6976,7 +8326,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 4964.0,
       "total_contributions": 209,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "tushar-sharma",
@@ -6991,7 +8344,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 608.0,
       "total_contributions": 9,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "val-lapidus",
@@ -7006,7 +8362,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 62303.0,
       "total_contributions": 258,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "valentine-stockdale",
@@ -7021,7 +8380,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 250.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vanessa-walach-shaman-better-daze",
@@ -7036,7 +8398,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vanja",
@@ -7051,7 +8416,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 504.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "varma-priyatham",
@@ -7066,7 +8434,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 77.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vibhu-mittal",
@@ -7081,7 +8452,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10161.0,
       "total_contributions": 25,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "victor-munoz",
@@ -7096,7 +8470,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5250.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "victor-pineda",
@@ -7111,7 +8488,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 403.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vina-e-microbio-de-bike",
@@ -7126,7 +8506,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vincent-song",
@@ -7141,7 +8524,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 317.0,
       "total_contributions": 8,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vinibitencourt",
@@ -7156,7 +8542,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 218.0,
       "total_contributions": 10,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vishvajit",
@@ -7171,7 +8560,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1235.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "vlatko-gigov",
@@ -7186,7 +8578,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50592.0,
       "total_contributions": 162,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "walter-punsapy",
@@ -7201,7 +8596,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1000.0,
       "total_contributions": 5,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "will-chen",
@@ -7216,7 +8614,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 335.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "windy-butler-ehry",
@@ -7231,7 +8632,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 17.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "won-kim",
@@ -7246,7 +8650,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "xenofon-kontouris",
@@ -7261,7 +8668,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "xiahong-lin",
@@ -7276,7 +8686,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "xjcaa",
@@ -7291,7 +8704,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 200.0,
       "total_contributions": 2,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "yasir-danish",
@@ -7308,7 +8724,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "yasmin",
@@ -7323,7 +8742,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 308.0,
       "total_contributions": 7,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "youna-kim",
@@ -7338,7 +8760,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1050.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "yousra-saad-kamoona",
@@ -7353,7 +8778,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 198.0,
       "total_contributions": 11,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "yousuf-mansoor",
@@ -7370,7 +8798,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "yuan-luo",
@@ -7385,7 +8816,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5000.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "yukihiro",
@@ -7400,7 +8834,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1300.0,
       "total_contributions": 4,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "yuval-wirzberger",
@@ -7415,7 +8852,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 150.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "zach-miltz",
@@ -7430,7 +8870,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "zach-roth",
@@ -7445,7 +8888,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 100.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "zack-franklin",
@@ -7460,7 +8906,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "zake-zephylia",
@@ -7475,7 +8924,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50.0,
       "total_contributions": 1,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "zoran",
@@ -7490,7 +8942,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 5100.0,
       "total_contributions": 3,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": "zoya-imran",
@@ -7507,7 +8962,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": "2026-09-17T02:27:18Z"
+      "last_updated": "2026-09-17T03:25:51Z",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7522,7 +8980,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 1199.99,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7537,7 +8998,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 50,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7552,7 +9016,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7567,7 +9034,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 125,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7582,7 +9052,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 0,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7597,7 +9070,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2170,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7612,7 +9088,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 10,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     },
     {
       "slug": null,
@@ -7627,7 +9106,10 @@
       "has_elective_records": false,
       "total_tdg_controlled": 2936.0,
       "total_contributions": 0,
-      "last_updated": ""
+      "last_updated": "",
+      "sunmint_trees_planted": 0,
+      "sunmint_plots_registered": 0,
+      "sunmint_last_activity_at": ""
     }
   ]
 }

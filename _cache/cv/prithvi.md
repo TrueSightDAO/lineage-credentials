@@ -1,6 +1,6 @@
 # Prithvi
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-18T11:08:02Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-09-18T13:58:48Z*
 
 Prithvi made one contribution to TrueSight DAO on February 19, 2025, in the category of 100 TDG for every 1 hour of human effort.
 

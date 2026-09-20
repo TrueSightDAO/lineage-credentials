@@ -9,7 +9,7 @@
     ],
     "note": "Practitioner key derived from Gary's dapp.truesight.me browser keypair. Slug 'gary-teh' will be picked up by build_cv_cache.py so practice events merge with the DAO contributor record under the same canonical slug."
   },
-  "generated_at": "2026-09-20T13:49:15Z",
+  "generated_at": "2026-09-20T14:37:57Z",
   "has_elective_records": true,
   "has_dao_contributions": true,
   "programs": {
@@ -63,9 +63,65 @@
         "https://capoeira.agroverse.shop/practice.html"
       ],
       "program_modes": [],
-      "practice_count": 50,
-      "total_practice_minutes": 1446,
+      "practice_count": 51,
+      "total_practice_minutes": 1485,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-wR9zU8JMnEz1",
+          "captured_at": "2026-09-20T14:35:54.486Z",
+          "source_url": "https://capoeira.agroverse.shop/practice.html",
+          "payload": {
+            "theme": "Defense",
+            "moves_practiced": [
+              {
+                "id": "ginga",
+                "name_pt": "Ginga",
+                "duration_seconds": 360
+              },
+              {
+                "id": "role_defesa",
+                "name_pt": "Defesa com rol?",
+                "duration_seconds": 480
+              },
+              {
+                "id": "role_esquiva_martelo",
+                "name_pt": "Esquiva para martelo com rol?",
+                "duration_seconds": 480
+              },
+              {
+                "id": "role_esquiva_para_tras",
+                "name_pt": "Esquiva para tr?s com rol?",
+                "duration_seconds": 480
+              },
+              {
+                "id": "role_negativa",
+                "name_pt": "Negativa com rol?",
+                "duration_seconds": 540
+              }
+            ],
+            "music_played": [
+              "010",
+              "004",
+              "001",
+              "005",
+              "002"
+            ],
+            "total_practice_minutes": 39
+          },
+          "raw_payload_json": "{\r\n    \"theme\": \"Defense\",\r\n    \"moves_practiced\": [\r\n      {\r\n        \"id\": \"ginga\",\r\n        \"name_pt\": \"Ginga\",\r\n        \"duration_seconds\": 360\r\n      },\r\n      {\r\n        \"id\": \"role_defesa\",\r\n        \"name_pt\": \"Defesa com rol?\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_esquiva_martelo\",\r\n        \"name_pt\": \"Esquiva para martelo com rol?\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_esquiva_para_tras\",\r\n        \"name_pt\": \"Esquiva para tr?s com rol?\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"role_negativa\",\r\n        \"name_pt\": \"Negativa com rol?\",\r\n        \"duration_seconds\": 540\r\n      }\r\n    ],\r\n    \"music_played\": [\r\n      \"010\",\r\n      \"004\",\r\n      \"001\",\r\n      \"005\",\r\n      \"002\"\r\n    ],\r\n    \"total_practice_minutes\": 39\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
+          "request_transaction_id": "fJaHClVnu9T5Kkf4Yr61wQL+FNDLzihwHESjAGVSovPlbslYeeh6MYRD92OVssof6eDo+8kLBHNSvyqJD/f3gs5NU1M5p9T5pE5Vrdj97rlqD42SHFCmJlWHCMlYgR3tHjrEiqNEdqh6DeSzEOkr6lM2UxRC5LKyeTR11MAL30kxtZCs0JsazMN6IWTP50E/ykW/VBDOjmWGjYa1VgK4/xF02RHpmct1MtpTx5JrN+tmflkk1JR7UTf064rnkSZSJ2cGDvfpsYME6+yOGImx863j0m382ThCXWfH9pD+84RFlJOihra76xHMuQ6QF3DD0N0zEEeUw6DIBaTsoJIZvg==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260920143555_054",
+            "telegram_message_id": "Edgar_20260920143555_053",
+            "processed_at": "2026-09-20T14:37:22.705Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-09-20T143554486Z-fJaHClVnu9.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",
@@ -827,26 +883,6 @@
             "reprocessed": true
           },
           "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-30T173541466Z-SzlCp5h5OB.json"
-        },
-        {
-          "program": "capoeira-tribo-mirim",
-          "practice_type": "training-session",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-wR9zU8JMnEz1",
-          "captured_at": "2026-06-22T00:58:43.762Z",
-          "source_url": "https://capoeira.agroverse.shop/practice.html",
-          "payload": null,
-          "raw_payload_json": "",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9ldqZG+FCoZQds2Y11G4VussyXeyt1hT3TJ/fGcS4V1GTQVt0rU0EMErBPZNRk08rljsLh6iAmmROhngGLLAClZK9NYri2TUlWCzta3y0Ax9Zki2mjDMWmv2ZDsS3Px42+3L1PM8z+1SBQm3NQhHV33iuUqPBF5vh+/PppSZxIgDAR2P++HSug9FGM18wkQuphNo3yc5LQdPQ4+TKHjhvJ/NI3PI88MurevKFFw0WpEujGBqt9Ez7VgOJ7ZRY7PkuYQRHrcmo/Xn0egMgW8iIcReQmDLcWVeiFjix6D4mTpoum7FTUIWK+AkVsn5ASY2BM/DoT+ghRN32LTqepfpwIDAQAB",
-          "request_transaction_id": "i+PNtYEPTFse5Bc77Gv+ok28BwxeCxUwO5sgEhDveOjEXViV9ST25WfE8ZBN4l8OxnVvFGjuJZ9MEhiB7SXUJInlsY8tTsAvpJuoH2kCZQXJh2lj1l6bf6p249Pf7Z0nNO4qYr4swn6+YhIMpeWx81aKRS9PqI9d+UFFNcq+6XtIyVUFRgVlHuDCIcWycdrCguirDRLF7aIreI2lKETcAI5IQ2/I5Y7ejoFhv0CL7kIQjSP/fz8qv8VlDsPfm7KKK/vJ/HfpLfCC7eBvHiWEk/3r4LsrF22DN1dB5MHD70W7OSPRbfSRUq+RafrhsX1dydN3CTzkApbOpKtdssZBAQ==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260622005844_025",
-            "telegram_message_id": "Edgar_20260622005844_026",
-            "processed_at": "2026-07-06T19:01:57.564Z",
-            "reprocessed": true
-          },
-          "_path": "programs/capoeira-tribo-mirim/pk-wR9zU8JMnEz1/practice/2026-06-22T005843762Z-iPNtYEPTFs.json"
         }
       ],
       "sunmint_event_count": 0,

@@ -1,0 +1,61 @@
+{
+  "program": "capoeira-tribo-mirim",
+  "practice_type": "training-session",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvVFk2fN3ju4og9GoYzjv2s8DqVhVN687pvyrW8ZayTPui54kZQCoQRjl+xh39671XKfLKA//qHn4YBAq1e69Bno9qzlRDHcvCqtH7QgAKEdBJU94cT8NRwlH32TKS1GIyaxpVaKHiSzet3F6Q1i+E/oUGmiyFPEwTQkwajuiabXu+WRnBcP4sZIlDL7bxvIxFg4dk48Jg2WrHKCpfmhRbl4v3+szUahnzozGJUnWN5qtb9bZKFkzIk+23KYJw8YY5wLQO7FJ45u/RGngLxwYk/d/g9cLHTj7sd9sv84M3dxbq2/BPKOILnvw9VnKMU1KY3Fxlyh01bU9tWhSPnUYtwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-M_mdruUcMHA-",
+  "captured_at": "2026-09-20T15:04:51.692Z",
+  "source_url": "https://capoeira.agroverse.shop/practice.html",
+  "payload": {
+    "theme": "Defense",
+    "moves_practiced": [
+      {
+        "id": "ginga",
+        "name_pt": "Ginga",
+        "duration_seconds": 360
+      },
+      {
+        "id": "cocorinha_negativa",
+        "name_pt": "Cocorinha negativa",
+        "duration_seconds": 480
+      },
+      {
+        "id": "defesa",
+        "name_pt": "Defesa",
+        "duration_seconds": 360
+      },
+      {
+        "id": "esquiva_lateral",
+        "name_pt": "Esquiva lateral",
+        "duration_seconds": 420
+      },
+      {
+        "id": "esquiva_para_tras",
+        "name_pt": "Esquiva para tr?s",
+        "duration_seconds": 420
+      },
+      {
+        "id": "queda_de_quatro",
+        "name_pt": "Queda de quatro",
+        "duration_seconds": 480
+      }
+    ],
+    "music_played": [
+      "007",
+      "005",
+      "011",
+      "009",
+      "004",
+      "002"
+    ],
+    "total_practice_minutes": 3
+  },
+  "raw_payload_json": "{\r\n    \"theme\": \"Defense\",\r\n    \"moves_practiced\": [\r\n      {\r\n        \"id\": \"ginga\",\r\n        \"name_pt\": \"Ginga\",\r\n        \"duration_seconds\": 360\r\n      },\r\n      {\r\n        \"id\": \"cocorinha_negativa\",\r\n        \"name_pt\": \"Cocorinha negativa\",\r\n        \"duration_seconds\": 480\r\n      },\r\n      {\r\n        \"id\": \"defesa\",\r\n        \"name_pt\": \"Defesa\",\r\n        \"duration_seconds\": 360\r\n      },\r\n      {\r\n        \"id\": \"esquiva_lateral\",\r\n        \"name_pt\": \"Esquiva lateral\",\r\n        \"duration_seconds\": 420\r\n      },\r\n      {\r\n        \"id\": \"esquiva_para_tras\",\r\n        \"name_pt\": \"Esquiva para tr?s\",\r\n        \"duration_seconds\": 420\r\n      },\r\n      {\r\n        \"id\": \"queda_de_quatro\",\r\n        \"name_pt\": \"Queda de quatro\",\r\n        \"duration_seconds\": 480\r\n      }\r\n    ],\r\n    \"music_played\": [\r\n      \"007\",\r\n      \"005\",\r\n      \"011\",\r\n      \"009\",\r\n      \"004\",\r\n      \"002\"\r\n    ],\r\n    \"total_practice_minutes\": 3\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvVFk2fN3ju4og9GoYzjv2s8DqVhVN687pvyrW8ZayTPui54kZQCoQRjl+xh39671XKfLKA//qHn4YBAq1e69Bno9qzlRDHcvCqtH7QgAKEdBJU94cT8NRwlH32TKS1GIyaxpVaKHiSzet3F6Q1i+E/oUGmiyFPEwTQkwajuiabXu+WRnBcP4sZIlDL7bxvIxFg4dk48Jg2WrHKCpfmhRbl4v3+szUahnzozGJUnWN5qtb9bZKFkzIk+23KYJw8YY5wLQO7FJ45u/RGngLxwYk/d/g9cLHTj7sd9sv84M3dxbq2/BPKOILnvw9VnKMU1KY3Fxlyh01bU9tWhSPnUYtwIDAQAB",
+  "request_transaction_id": "KhlXlPy9ffiWACVVhcs5VUQYiWetHXv33zxjmhli9qmAvvaKL098vgsCQTjYss36YZVo/0h1PsxERQv5yUIdVsK05pOCkuvpGqLZPMdFjviAnuj4yuD31bFmLg8cOvi3hiq73QKEbIYbTX3ixzSzcBXfKSrhM8GLtYtxZZm21Ou7id3mBcncj7wYeE9CLgeqttU2BivaMGz/g1bjwdxcTcPXXbj5Cd2hcv53RfPaKcO2p+SBBRpOJQcFMwS65/ovtEiCDhwXgPJVNHZwkg66/ecmTfwi7rx25xdKe0uFwYQLh1NJsLg7LzX/85Zt4HmpwgzHNtdIKJjd3E1BLtNQBw==",
+  "intake": {
+    "telegram_update_id": "Edgar_20260920150455_056",
+    "telegram_message_id": "Edgar_20260920150455_055",
+    "processed_at": "2026-09-20T15:07:22.387Z"
+  }
+}

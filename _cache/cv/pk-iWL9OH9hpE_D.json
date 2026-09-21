@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-09-21T09:25:43Z",
+  "generated_at": "2026-09-21T13:37:57Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,45 @@
         "https://oracle.truesight.me/draw.html"
       ],
       "program_modes": [],
-      "practice_count": 76,
+      "practice_count": 77,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-iWL9OH9hpE_D",
+          "captured_at": "2026-09-21T13:33:50.833Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 29,
+                "name": "K'an / The Abysmal",
+                "changing_lines": [
+                  2,
+                  4
+                ],
+                "relates_to": 45,
+                "relates_to_name": "Ts'ui / Gathering Together"
+              }
+            ],
+            "advisory_summary": "The Abysmal has you in its grip ? this is a time of genuine peril, not mere discomfort. Your DAO is navigating treacherous waters where trust is thin and every step feels like a potential fall. Yet the hexagram promises that sincerity, not clever strategy, is the only way through. The changing lines point to a hidden gathering force (hexagram 45) that will coalesce around those who act with integrity, not those who posture. Your treasury may feel drained and your governance strained, but the ora",
+            "qmdj_card": "Cast 9/21/2026, 10:33:50 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 29,\r\n        \"name\": \"K'an / The Abysmal\",\r\n        \"changing_lines\": [\r\n          2,\r\n          4\r\n        ],\r\n        \"relates_to\": 45,\r\n        \"relates_to_name\": \"Ts'ui / Gathering Together\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"The Abysmal has you in its grip ? this is a time of genuine peril, not mere discomfort. Your DAO is navigating treacherous waters where trust is thin and every step feels like a potential fall. Yet the hexagram promises that sincerity, not clever strategy, is the only way through. The changing lines point to a hidden gathering force (hexagram 45) that will coalesce around those who act with integrity, not those who posture. Your treasury may feel drained and your governance strained, but the ora\",\r\n    \"qmdj_card\": \"Cast 9/21/2026, 10:33:50 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "request_transaction_id": "meX8tI3+UlBFLl/gj3B1r7jRWhnJ9pGUxvNfhEeZfQs70wVb2l1aPMNRFNS9fBGyDPwEAHmBhQPRJQzz+SFKwshhgktyeEzmanEc+MHxM1afH+TXUspe6cM8D08rd8m1zRNcLFj20utreNnUZdxSz/+2JPbTvuUEWpDIdTpAoGqM42ZxtA75P95eNZqOgrXwFwsKT2hbMTXqNZWpfrDiitbm5eGMx/eh+IghR6xf8zZfgoiwz/WZZPCBwhTWwT83u8ESCbD1WhgpIXrOk3tafpvL4q9TTxRXqbb4dZqsXjsyO4H7ytIp7Gc1ETsmNpG2qdNhWY7xnDsa68jaI3cmMQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260921133353_072",
+            "telegram_message_id": "Edgar_20260921133353_071",
+            "processed_at": "2026-09-21T13:37:24.212Z"
+          },
+          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-09-21T133350833Z-meX8tI3UlB.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",
@@ -683,41 +719,6 @@
             "processed_at": "2026-08-30T21:07:30.239Z"
           },
           "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-08-30T205948539Z-RblgPnZiJP.json"
-        },
-        {
-          "program": "truesight-grounding",
-          "practice_type": "oracle-consultation",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-iWL9OH9hpE_D",
-          "captured_at": "2026-08-29T10:36:05.892Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": {
-            "hexagrams": [
-              {
-                "number": 27,
-                "name": "I / The Corners of the Mouth",
-                "changing_lines": [
-                  6
-                ],
-                "relates_to": 24,
-                "relates_to_name": "Fu / Return"
-              }
-            ],
-            "advisory_summary": "Morning oracle grounding session.",
-            "qmdj_card": "Cast 8/29/2026, 7:36:05 AM?? ?? ? ??? ??4??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8",
-            "total_minutes": 15,
-            "mood": "reflective"
-          },
-          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 27,\r\n        \"name\": \"I / The Corners of the Mouth\",\r\n        \"changing_lines\": [\r\n          6\r\n        ],\r\n        \"relates_to\": 24,\r\n        \"relates_to_name\": \"Fu / Return\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 8/29/2026, 7:36:05 AM?? ?? ? ??? ??4??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "request_transaction_id": "xsB8ujgFm0uwPMgdkjNza9+KmVM3Rb+u+BTAUo0XHJL8JwpQIL/xzatoLf8sIcPbx4wT1uk23wEKgaY2YKf+p8Ob6jrpurS1MRkGoMLyuP/a1JTcKfNt+xzs2OfWLX+tW0twr9ciWouBl3Mj2HPWfL0wWDGqx8rzf0YZBKmoDZeJSZs8JtRtUTF4cG7IrbwdVOZEc1KjlUQYQ8Tff30ZYAyS/sHoSJClKcOOjOTQ6lCsm3i+zazMAk6iJEYVYVu/C5JEWOMckYwxn4gezRXJZqLgL7lSf4awCOpoQm0TxhLHN6FI43I3wjeHRHgDxZVQ4J7J3GERUpgf30n+G8oMxA==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260829103608_065",
-            "telegram_message_id": "Edgar_20260829103608_066",
-            "processed_at": "2026-08-29T10:37:23.706Z"
-          },
-          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-08-29T103605892Z-xsB8ujgFm0.json"
         }
       ],
       "sunmint_event_count": 0,

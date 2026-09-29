@@ -1,0 +1,76 @@
+{
+  "slug": "pk-asBXDGWOvk1W",
+  "display_name": "pk-asBXDGWOvk1W",
+  "pk_hash": "pk-asBXDGWOvk1W",
+  "identity": {},
+  "generated_at": "2026-09-29T16:08:30Z",
+  "has_elective_records": true,
+  "has_dao_contributions": false,
+  "programs": {
+    "truesight-grounding": {
+      "display_name": "TrueSight Grounding — Morning Oracle",
+      "lineage_root": null,
+      "source_pages": [
+        "https://oracle.truesight.me/draw.html"
+      ],
+      "program_modes": [],
+      "practice_count": 1,
+      "total_practice_minutes": 0,
+      "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy8iRli7B+3AwzD701vjutrsMT5H43KOENn5j9XmC8SKpX1R1Vvx3bAwiaJHgALZyQyFNaPVsXqIignF1WFo7N2NRL4WkeLHFqiBzs2a+cFha7tGd66b8UzyL+GWIAi/bgvQiEluWw0E9AkeFUySVsmAsFrlPHNILiVDwNFSk01a1kBySxTKxuUKGN7O6uNgRLloALADr0FgiMCHOgWIYe/hAe/6geqm1e4b0Z9Ui2ZxN6kQg+HNHxijYNkQmD3xiq3PygD/IG1v0nVyrhmIf55zpZdfYx71vC9xmxhP4jQ1810zNgbwDpk5ApjJbUpCd7ilnhPNNeokCyFv5jh5cfwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-asBXDGWOvk1W",
+          "captured_at": "2026-09-29T15:58:55.890Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 27,
+                "name": "I / The Corners of the Mouth",
+                "changing_lines": [
+                  4,
+                  5
+                ],
+                "relates_to": 25,
+                "relates_to_name": "Wu Wang / Innocence"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 29/09/2026, 17:58:54?? ?? ? ??? ??1??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 27,\r\n        \"name\": \"I / The Corners of the Mouth\",\r\n        \"changing_lines\": [\r\n          4,\r\n          5\r\n        ],\r\n        \"relates_to\": 25,\r\n        \"relates_to_name\": \"Wu Wang / Innocence\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 29/09/2026, 17:58:54?? ?? ? ??? ??1??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy8iRli7B+3AwzD701vjutrsMT5H43KOENn5j9XmC8SKpX1R1Vvx3bAwiaJHgALZyQyFNaPVsXqIignF1WFo7N2NRL4WkeLHFqiBzs2a+cFha7tGd66b8UzyL+GWIAi/bgvQiEluWw0E9AkeFUySVsmAsFrlPHNILiVDwNFSk01a1kBySxTKxuUKGN7O6uNgRLloALADr0FgiMCHOgWIYe/hAe/6geqm1e4b0Z9Ui2ZxN6kQg+HNHxijYNkQmD3xiq3PygD/IG1v0nVyrhmIf55zpZdfYx71vC9xmxhP4jQ1810zNgbwDpk5ApjJbUpCd7ilnhPNNeokCyFv5jh5cfwIDAQAB",
+          "request_transaction_id": "DF9i7K27tQOSLkweu36bx6nflPKCwQrC+HlNaqf8GQxpPqBWAIGyir48SiSeMI6WwXMEsiMe2BUATGIW/qIfOoMC0Acbz9Y7mAzkzz+W6V+JzB9GMEuRCQNqEpmdUyYqlQramPidas3jOXHUPJybNO6T8clIN3wf7Q2ATq1h/txeaQPYwAPsfaJDxDKauK1QuFeV9gB26IMiAMh7UfCiD9qz3eLi7dXzBwB20YXHsTFKLjn39theHPAkbi2SyGn8rhuSG0fTgVPkekMpCxQAkYoyr4aIrfP5PNgHgLb3yhJwi7uTGmOtrhgUO/ma3HlBpzFMIURSgn8wvu/+b+VXQQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20260929155857_152",
+            "telegram_message_id": "Edgar_20260929155857_151",
+            "processed_at": "2026-09-29T16:07:59.620Z"
+          },
+          "_path": "programs/truesight-grounding/pk-asBXDGWOvk1W/practice/2026-09-29T155855890Z-DF9i7K27tQ.json"
+        }
+      ],
+      "sunmint_event_count": 0,
+      "trees_planted_count": 0,
+      "monitoring_events_count": 0,
+      "plots_registered_count": 0,
+      "last_sunmint_activity_at": "",
+      "sunmint_events": []
+    }
+  },
+  "qr_code": {
+    "path": "_cache/cv/pk-asBXDGWOvk1W.qr.png",
+    "target_url": "https://truesight.me/credentials/#pk-asBXDGWOvk1W"
+  },
+  "pending_contributions": {
+    "source_tab": "Scored Chatlogs",
+    "source_url": "https://docs.google.com/spreadsheets/d/1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo/edit",
+    "floor_date": "2024-12-13",
+    "entries": []
+  },
+  "_generator": "build_cv_cache"
+}

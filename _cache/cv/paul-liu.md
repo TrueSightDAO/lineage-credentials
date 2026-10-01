@@ -1,6 +1,6 @@
 # Paul Liu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-01T11:37:56Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-01T16:47:35Z*
 
 Paul Liu made one contribution to the DAO in August 2022 by attending a FaceTime meeting for the MoonShot project's Build Game - Strategy category.
 

@@ -1,6 +1,6 @@
 # Ida
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-05T16:39:32Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-05T23:29:03Z*
 
 Ida contributed to TrueSight DAO with five efforts from January 2022 to February 2025. Her contributions fell under the category of 100 TDG for every 1 hour of human effort, with one recorded instance.
 

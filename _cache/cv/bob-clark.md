@@ -1,6 +1,6 @@
 # Bob Clark
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-07T23:56:21Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-08T03:25:46Z*
 
 Bob Clark made one contribution to the TrueSight DAO.
 

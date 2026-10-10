@@ -1,6 +1,6 @@
 # Bernard Leong
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-10T10:15:28Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-10T12:17:51Z*
 
 Bernard Leong made 7 contributions to the TrueSight DAO between January 29 and February 1, 2022. His activity was concentrated in a short period at the DAO's early stage.
 

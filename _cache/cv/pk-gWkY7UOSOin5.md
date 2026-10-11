@@ -1,6 +1,6 @@
 # pk-gWkY7UOSOin5
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-10-11T16:03:39Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-10-11T20:39:04Z*
 
 ## Capoeira — Tribo Bahia Mirim
 

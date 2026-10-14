@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-10-14T14:47:06Z",
+  "generated_at": "2026-10-14T14:49:50Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,46 @@
         "https://oracle.truesight.me/draw.html"
       ],
       "program_modes": [],
-      "practice_count": 97,
+      "practice_count": 98,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-iWL9OH9hpE_D",
+          "captured_at": "2026-10-14T14:38:54.974Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 24,
+                "name": "Fu / Return",
+                "changing_lines": [
+                  3,
+                  4,
+                  5
+                ],
+                "relates_to": 49,
+                "relates_to_name": "Ko / Revolution"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 10/14/2026, 11:38:54 AM?? ?? ? ??? ??9??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 24,\r\n        \"name\": \"Fu / Return\",\r\n        \"changing_lines\": [\r\n          3,\r\n          4,\r\n          5\r\n        ],\r\n        \"relates_to\": 49,\r\n        \"relates_to_name\": \"Ko / Revolution\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 10/14/2026, 11:38:54 AM?? ?? ? ??? ??9??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "request_transaction_id": "KVLfDeiObwxcXR8/azYwL3vICMtbL+b17G3edxsGdo4r6rBtyJ/uRuel/fAmbnAyTCIjtzvp7BA8pm7zeysKxmzLdTbZkjoWI27Wk2+lDTgpqmCLXCTIH2l9Wj9jJLUfCNV3ZueTCW+HP6xcqQ2HdRezrb93LSSLmdo6Noxgl1fPhLpLqEMc+cuUWNRXmKn1+54bKiYti/0+ji2nL+XG7uDmdfrkaD9R87fDRQta1UV2bbD58I3jJDOt5opn7gdwqBxnvludnuYTb7eGqbm0k1MO4Usb8kubj1gDPQaX5EqqGF+Ys73F/+Wf+9I9YLKyi5gUvfFPVPoz1t8YZDH/3Q==",
+          "intake": {
+            "telegram_update_id": "Edgar_20261014143858_498",
+            "telegram_message_id": "Edgar_20261014143858_497",
+            "processed_at": "2026-10-14T14:47:23.078Z"
+          },
+          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-14T143854974Z-KVLfDeiObw.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",
@@ -660,41 +697,6 @@
             "processed_at": "2026-09-23T14:47:23.544Z"
           },
           "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-09-23T143948692Z-ETvPll5ShH.json"
-        },
-        {
-          "program": "truesight-grounding",
-          "practice_type": "oracle-consultation",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-iWL9OH9hpE_D",
-          "captured_at": "2026-09-22T12:34:19.440Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": {
-            "hexagrams": [
-              {
-                "number": 13,
-                "name": "T'ung J?n / Fellowship with Men",
-                "changing_lines": [
-                  5
-                ],
-                "relates_to": 30,
-                "relates_to_name": "Li / The Clinging"
-              }
-            ],
-            "advisory_summary": "Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.Hexagram 13 says fellowship happens in the open, and the fifth line adds the honest part: first the weeping and lament, then the laughter ? \"great armies meet,\" but only after something uncomfortable has been said out loud. So this isn't a day for quietly smoothing things over; it's a day for a direct, named, visible conversation, and to expect the first exchange to feel awkward before it feels good. ",
-            "qmdj_card": "Cast 9/22/2026, 9:34:18 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6",
-            "total_minutes": 15,
-            "mood": "reflective"
-          },
-          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 13,\r\n        \"name\": \"T'ung J?n / Fellowship with Men\",\r\n        \"changing_lines\": [\r\n          5\r\n        ],\r\n        \"relates_to\": 30,\r\n        \"relates_to_name\": \"Li / The Clinging\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.Hexagram 13 says fellowship happens in the open, and the fifth line adds the honest part: first the weeping and lament, then the laughter ? \\\"great armies meet,\\\" but only after something uncomfortable has been said out loud. So this isn't a day for quietly smoothing things over; it's a day for a direct, named, visible conversation, and to expect the first exchange to feel awkward before it feels good. \",\r\n    \"qmdj_card\": \"Cast 9/22/2026, 9:34:18 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "request_transaction_id": "JNoQSVEvr5IPawNUKkW337ZZ4OwUaVWlLk2IFcEpU2UiVET2j0oLoQYVM30GaT/XC6jTg57/J82yK+GnaMxV5/ZMrIJ/5Z7WchDdo1eWquc0+jY1J4lLdS604aSQMXfpg6q/WofMfGsYQaY4x11JybAAUF/p3VASM231TwrHbPfI1g6waqUMdULmtge/kMri6TJmYHcee+6uXqpwz9BkQwkui6Ct8c+0whzSoeWaxswQabrjVfwUmk2mO/jDbXixnga8xr05+X3HXjV+5bEcBJPBOsNIPmRJOI8D6VfzxkzvmPgPQFw2wwtTmF0u6XXvvwTiZ065acXDHGoGDE7+eg==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260922123422_004",
-            "telegram_message_id": "Edgar_20260922123422_003",
-            "processed_at": "2026-09-22T12:37:23.273Z"
-          },
-          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-09-22T123419440Z-JNoQSVEvr5.json"
         }
       ],
       "sunmint_event_count": 0,

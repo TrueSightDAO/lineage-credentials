@@ -1,0 +1,35 @@
+{
+  "program": "truesight-grounding",
+  "practice_type": "oracle-consultation",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-iWL9OH9hpE_D",
+  "captured_at": "2026-10-15T14:29:26.694Z",
+  "source_url": "https://oracle.truesight.me/",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 37,
+        "name": "Chia J?n / The Family",
+        "changing_lines": [
+          1,
+          6
+        ],
+        "relates_to": 39,
+        "relates_to_name": "Chien / Obstruction"
+      }
+    ],
+    "advisory_summary": "Morning oracle grounding session.",
+    "qmdj_card": "Cast 10/15/2026, 11:29:25 AM?? ?? ? ??? ??9??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2",
+    "total_minutes": 15,
+    "mood": "reflective"
+  },
+  "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 37,\r\n        \"name\": \"Chia J?n / The Family\",\r\n        \"changing_lines\": [\r\n          1,\r\n          6\r\n        ],\r\n        \"relates_to\": 39,\r\n        \"relates_to_name\": \"Chien / Obstruction\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 10/15/2026, 11:29:25 AM?? ?? ? ??? ??9??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 2\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+  "request_transaction_id": "jHhQqKXdt1lWjxEE2Jn3cNR5fxj8823/pNxqvWj2zzaGDmV3M8E0tKUNynRoaeGiDW1cnGDbkqhEvg3WbjUmjkA8zAONlxjlhzulmxLAReOKwbPlsfM6FjrAYFMMbXKq6drcjvKapqbuCN+4xUwsz+uhoXb6o9GsuLSLoQnubwVsvM7N2VTQu7SdbMa+4EHGCckJgkAnnX9DapraQZ94R1sF6O8QPJvlBshygBEcIqTLztKZasXDM6frY5S0iBBWNbvRu69awqZZsVAMs+oMn7cchKCHeaaJJGeYpkgozkzGA/Gjf16MAt4Spom7/7KuEw2kxYEkzehpIh41UVGpjg==",
+  "intake": {
+    "telegram_update_id": "Edgar_20261015142928_140",
+    "telegram_message_id": "Edgar_20261015142928_139",
+    "processed_at": "2026-10-15T14:37:28.824Z"
+  }
+}

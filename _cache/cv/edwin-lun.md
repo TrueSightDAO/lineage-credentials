@@ -1,6 +1,6 @@
 # Edwin Lun
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-19T09:25:50Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-19T16:42:52Z*
 
 Edwin Lun made two contributions to the TrueSight DAO in April 2022. He brought on a passive observer through the Bring Builders category. He also contributed reference material accompanied by an idea on how to apply it as a strategy extension in the Build Game - Strategy category.
 

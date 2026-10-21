@@ -1,6 +1,6 @@
 # Annie Teo
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-21T16:11:40Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-21T19:46:59Z*
 
 Annie Teo made one contribution to TrueSight DAO on March 2, 2025, earning 100 TDG under the category of 100TDG for every 1 hour of human effort.
 

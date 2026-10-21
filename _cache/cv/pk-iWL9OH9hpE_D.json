@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-10-20T22:49:41Z",
+  "generated_at": "2026-10-21T02:28:00Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,44 @@
         "https://oracle.truesight.me/draw.html"
       ],
       "program_modes": [],
-      "practice_count": 102,
+      "practice_count": 103,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-iWL9OH9hpE_D",
+          "captured_at": "2026-10-21T02:23:27.319Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 45,
+                "name": "Ts'ui / Gathering Together",
+                "changing_lines": [
+                  4
+                ],
+                "relates_to": 8,
+                "relates_to_name": "Pi / Holding Together"
+              }
+            ],
+            "advisory_summary": "Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.This is a convergence moment. Hexagram 45, Gathering Together, says gatherings succeed ? but the changing line (4) carries a condition: you are positioned to draw threads together, and that power is only blameless when it stays selfless, centered on the mission rather than on you. The relating hexagram, Holding Together (8), then asks the hard question: is this union sublime, constant, and persevering",
+            "qmdj_card": "Cast 10/21/2026, 10:23:26 AM?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 45,\r\n        \"name\": \"Ts'ui / Gathering Together\",\r\n        \"changing_lines\": [\r\n          4\r\n        ],\r\n        \"relates_to\": 8,\r\n        \"relates_to_name\": \"Pi / Holding Together\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.This is a convergence moment. Hexagram 45, Gathering Together, says gatherings succeed ? but the changing line (4) carries a condition: you are positioned to draw threads together, and that power is only blameless when it stays selfless, centered on the mission rather than on you. The relating hexagram, Holding Together (8), then asks the hard question: is this union sublime, constant, and persevering\",\r\n    \"qmdj_card\": \"Cast 10/21/2026, 10:23:26 AM?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "request_transaction_id": "Oa3Cjjujb7bfk8ni6MGavcb8H+cr3RyPKTVoqerIwJSA2t7L6+vyV/SXxxwWpoozor/Jo4wTN9+E6ddpHRHMeIaD/6iu3vRjLgnzrkqNPDb+HNrUO4QnO05G+qh3zjzVFsfxZOx7BLEKwSDSZl4xB8ggc6waSrUWdrHc3VgHUHxZcqfxUQ9VzVtW79Spv2HYatDSv4dHAUsOEho3AJrtuUGy5gOtMDf0xsIHUz2+Sp8IVr17g5oxaEx93ieDL/o8rrvkxpee6otK2u+iUsBakj0u8aXxIOCSzfVxn5xzq/dNypg9jmd/hQiRLtrFCYYYi+JExQ2v8DlJI6AvtkRzPA==",
+          "intake": {
+            "telegram_update_id": "Edgar_20261021022329_164",
+            "telegram_message_id": "Edgar_20261021022329_163",
+            "processed_at": "2026-10-21T02:27:23.712Z"
+          },
+          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-21T022327319Z-Oa3Cjjujb7.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",
@@ -665,42 +700,6 @@
             "processed_at": "2026-09-29T12:17:27.094Z"
           },
           "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-09-29T120950726Z-gOJQv9cBJB.json"
-        },
-        {
-          "program": "truesight-grounding",
-          "practice_type": "oracle-consultation",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-iWL9OH9hpE_D",
-          "captured_at": "2026-09-28T14:39:43.671Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": {
-            "hexagrams": [
-              {
-                "number": 1,
-                "name": "Ch'ien / The Creative",
-                "changing_lines": [
-                  1,
-                  6
-                ],
-                "relates_to": 28,
-                "relates_to_name": "Ta Kuo / Preponderance of the Great"
-              }
-            ],
-            "advisory_summary": "Morning oracle grounding session.",
-            "qmdj_card": "Cast 9/28/2026, 11:39:43 AM?? ?? ? ??? ??1??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8",
-            "total_minutes": 15,
-            "mood": "reflective"
-          },
-          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 1,\r\n        \"name\": \"Ch'ien / The Creative\",\r\n        \"changing_lines\": [\r\n          1,\r\n          6\r\n        ],\r\n        \"relates_to\": 28,\r\n        \"relates_to_name\": \"Ta Kuo / Preponderance of the Great\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 9/28/2026, 11:39:43 AM?? ?? ? ??? ??1??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "request_transaction_id": "HVeyOvvOdaoAcgWus0Poz4Y7o6kkS5tSeOi2y6u7ZsSdWcyN/g2mZxHRfgLE9C2nzQS9HVAJA8NgKvkCEDd6lAlkPRDMxnTUYZ3wMsD67LAhWMArpbqWK2K7NW4PX30eghIjqQc1AX5ybUhFuJ6Y5lKR6AlW1Gmm8fYP1cO1q5rpY2X4Iz4BEEkDVQG+swGPgg/uxdZz7g8tQlxEnwtR8fvq4cZbomw8rDC2cSLUG/dEhE2/TYPB4TjDLfYgsZmqz2y9Ay4dKBOIh3hfIzA/3lL6VOwNHAk/gVd2jR2vznS7G9cdidxqL4NrJ+uC7DhYTsTlG2PVwnDbZJgZlisqgw==",
-          "intake": {
-            "telegram_update_id": "Edgar_20260928143945_056",
-            "telegram_message_id": "Edgar_20260928143945_055",
-            "processed_at": "2026-09-28T14:47:26.871Z"
-          },
-          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-09-28T143943671Z-HVeyOvvOda.json"
         }
       ],
       "sunmint_event_count": 0,

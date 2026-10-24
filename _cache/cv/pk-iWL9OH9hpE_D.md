@@ -1,13 +1,14 @@
 # pk-iWL9OH9hpE_D
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-10-23T22:45:11Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-10-24T00:28:04Z*
 
 ## TrueSight Grounding — Morning Oracle
 
-- Practice sessions logged: **105**
+- Practice sessions logged: **106**
 - Total practice time: **0 minutes**
 
 ### Recent sessions
+- **2026-10-24T00:23:30.717Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-24T002330717Z-oPZr2Ra7VP.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-24T002330717Z-oPZr2Ra7VP.json)
 - **2026-10-23T00:41:29.569Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-23T004129569Z-RxturalQkd.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-23T004129569Z-RxturalQkd.json)
 - **2026-10-21T23:12:30.383Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-21T231230383Z-b2EzYYw1Vw.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-21T231230383Z-b2EzYYw1Vw.json)
 - **2026-10-21T02:23:27.319Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-21T022327319Z-Oa3Cjjujb7.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-21T022327319Z-Oa3Cjjujb7.json)
@@ -17,7 +18,6 @@
 - **2026-10-15T14:29:26.694Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-15T142926694Z-jHhQqKXdt1.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-15T142926694Z-jHhQqKXdt1.json)
 - **2026-10-14T14:38:54.974Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-14T143854974Z-KVLfDeiObw.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-14T143854974Z-KVLfDeiObw.json)
 - **2026-10-13T12:04:31.252Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-13T120431252Z-S5vy4MtT0B.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-13T120431252Z-S5vy4MtT0B.json)
-- **2026-10-12T14:51:28.015Z** — oracle-consultation (0 min) — [programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-12T145128015Z-rOLIMo18M5.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-12T145128015Z-rOLIMo18M5.json)
 
 ---
 

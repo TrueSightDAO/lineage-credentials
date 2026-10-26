@@ -1,6 +1,6 @@
 # Matthew Kilkenny
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-26T09:29:49Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-26T16:22:41Z*
 
 Matthew Kilkenny made two contributions to the Cypher Defense project in October 2020. Both were in the Build Game - Strategy category, where he participated in voting on an online poll.
 

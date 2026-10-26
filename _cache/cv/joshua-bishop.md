@@ -1,6 +1,6 @@
 # Joshua Bishop
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-26T09:29:49Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-26T16:22:41Z*
 
 Joshua Bishop made one contribution to the TrueSight DAO on September 20, 2021.
 

@@ -3,7 +3,7 @@
   "display_name": "pk-a4Fr_lmgUj1v",
   "pk_hash": "pk-a4Fr_lmgUj1v",
   "identity": {},
-  "generated_at": "2026-10-27T09:26:51Z",
+  "generated_at": "2026-10-27T14:18:08Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,40 @@
         "https://capoeira.agroverse.shop/practice.html"
       ],
       "program_modes": [],
-      "practice_count": 1,
-      "total_practice_minutes": 16,
+      "practice_count": 2,
+      "total_practice_minutes": 42,
       "recent_events": [
+        {
+          "program": "capoeira-tribo-mirim",
+          "practice_type": "training-session",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmvKKj7++sq2d4WeBajdVkS/4LrwacHxbnwzOChmaTM5Mmar4RnHML5br4jPT6S7Aj16EVtNmcwBc9vN7iwbCsb+RIJCRzc8Tj4t2A03ROV2XDrWCE9xiCXzAbg1auYPqfe1W1Oew/l42jQbSf1xDOL/apu2GXEpJk7MrmkDd5ZColWoJsGeimsePhjoCrUKyAcbqc5+H62TbQawPjj2BKvCZI/YxLLN44x/iQw2Wb519F+qdJkENUv9JYUby6L+kygEpKJVzyA7NjGkCHx6tc0+YYhH8DB9RXyq9r3a8mYIhTVpCzsRySMb3RUf88xqIg5oMPf8piMMCdouvdwIcSQIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-a4Fr_lmgUj1v",
+          "captured_at": "2026-10-27T14:12:14.312Z",
+          "source_url": "https://capoeira.agroverse.shop/roda.html",
+          "payload": {
+            "theme": "roda",
+            "moves_practiced": [],
+            "music_played": [
+              "002",
+              "007",
+              "010",
+              "001",
+              "003",
+              "004"
+            ],
+            "total_practice_minutes": 26
+          },
+          "raw_payload_json": "{\r\n    \"theme\": \"roda\",\r\n    \"moves_practiced\": [],\r\n    \"music_played\": [\r\n      \"002\",\r\n      \"007\",\r\n      \"010\",\r\n      \"001\",\r\n      \"003\",\r\n      \"004\"\r\n    ],\r\n    \"total_practice_minutes\": 26\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmvKKj7++sq2d4WeBajdVkS/4LrwacHxbnwzOChmaTM5Mmar4RnHML5br4jPT6S7Aj16EVtNmcwBc9vN7iwbCsb+RIJCRzc8Tj4t2A03ROV2XDrWCE9xiCXzAbg1auYPqfe1W1Oew/l42jQbSf1xDOL/apu2GXEpJk7MrmkDd5ZColWoJsGeimsePhjoCrUKyAcbqc5+H62TbQawPjj2BKvCZI/YxLLN44x/iQw2Wb519F+qdJkENUv9JYUby6L+kygEpKJVzyA7NjGkCHx6tc0+YYhH8DB9RXyq9r3a8mYIhTVpCzsRySMb3RUf88xqIg5oMPf8piMMCdouvdwIcSQIDAQAB",
+          "request_transaction_id": "cJf1NwO1uCYpQCbBDG0LvhGHUOte+InC+Wf0fp1y5f6q/uN74fU5TfLSanDx+dMzAUDi/c0WqcqMMWlp17DXvIL9HAizl0LZi7d3zlbItHiNYndmqj2vZm4aLsmjXeYlCRvEMdRYgFtvaYR2ccHLif5y7Vract4OanAs+oOf7PHEct+RZSaANtHeCUHxH7ozCZpFkX490uv12AgFDSUy0/4QtaUI13IF3mt4Py9OnRoi2hjFt9q4HfFBFqlvXL1Eks/CF2Z1bhcQFWBZpRiVI31xSrhDkRU2w4EX30vWoRjH5q1KVptbLaGUbOao5Uj15/XhOjbYT6EswADm4yrSRA==",
+          "intake": {
+            "telegram_update_id": "Edgar_20261027141216_2782",
+            "telegram_message_id": "Edgar_20261027141216_2781",
+            "processed_at": "2026-10-27T14:17:22.368Z"
+          },
+          "_path": "programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-10-27T141214312Z-cJf1NwO1uC.json"
+        },
         {
           "program": "capoeira-tribo-mirim",
           "practice_type": "training-session",

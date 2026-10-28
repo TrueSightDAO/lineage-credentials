@@ -1,6 +1,6 @@
 # Fabien Aepli
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-28T03:25:47Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-28T06:33:28Z*
 
 Fabien Aepli made one contribution to TrueSight DAO on June 26, 2023, attending a FaceTime meeting in the Build Game - Strategy category.
 

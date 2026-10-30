@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-10-30T14:41:47Z",
+  "generated_at": "2026-10-30T19:27:56Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,44 @@
         "https://oracle.truesight.me/draw.html"
       ],
       "program_modes": [],
-      "practice_count": 112,
+      "practice_count": 113,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-iWL9OH9hpE_D",
+          "captured_at": "2026-10-30T19:20:19.420Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 3,
+                "name": "Chun / Difficulty at the Beginning",
+                "changing_lines": [
+                  1
+                ],
+                "relates_to": 8,
+                "relates_to_name": "Pi / Holding Together"
+              }
+            ],
+            "advisory_summary": "Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.Hexagram 3 is the birth-throes hexagram ? the shoot pushing through frozen ground, tangled and slow ? and that is recognizably your moment: AGL7 is in motion but stuck in Brazilian tax-registration weeds, the China path is a stack of research, the Pr?spera entity is signed but not yet alive, and sales have gone quiet ($201 in July, nothing yet in August). The judgment's \"nothing should be undertaken\" ",
+            "qmdj_card": "Cast 10/31/2026, 3:20:18 AM?? ?? ? ??? ??8??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 3,\r\n        \"name\": \"Chun / Difficulty at the Beginning\",\r\n        \"changing_lines\": [\r\n          1\r\n        ],\r\n        \"relates_to\": 8,\r\n        \"relates_to_name\": \"Pi / Holding Together\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.Hexagram 3 is the birth-throes hexagram ? the shoot pushing through frozen ground, tangled and slow ? and that is recognizably your moment: AGL7 is in motion but stuck in Brazilian tax-registration weeds, the China path is a stack of research, the Pr?spera entity is signed but not yet alive, and sales have gone quiet ($201 in July, nothing yet in August). The judgment's \\\"nothing should be undertaken\\\" \",\r\n    \"qmdj_card\": \"Cast 10/31/2026, 3:20:18 AM?? ?? ? ??? ??8??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "request_transaction_id": "ikDiLLsHPNEpZnku0hbYpekyLMREB/zHItKeeqnxdi6+FyVK8EXl9ea9n8jo+HbG1tGPQyCRx/bc8pF1/FggB6Zfu8RvU6X0F04Sd/tnQEaTmEfFrSwsY1SxMr2qjWbuiOXI4Y2285r8+2iuEvFtHiKfI3gUlfxjDuGdlaAMcRU+nrmGd87YXaVhl0qY81zLnDLwjbKLAIfIhWDKCmm3xTBJUcperSJT6xrzEnghsF/gruMSHdRAsMphYl56q/K10HX7a5Zb5blvcncf3U0mbmOI4IvOpbYA04cF3cl1I3u/q1gh3xD3ODxB56X0YID0dfSX8ockd2843iS+XdpDQQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20261030192021_2874",
+            "telegram_message_id": "Edgar_20261030192021_2873",
+            "processed_at": "2026-10-30T19:27:24.493Z"
+          },
+          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-30T192019420Z-ikDiLLsHPN.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",
@@ -661,42 +696,6 @@
             "processed_at": "2026-10-10T12:17:22.901Z"
           },
           "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-10T120946708Z-pB8B8k93eh.json"
-        },
-        {
-          "program": "truesight-grounding",
-          "practice_type": "oracle-consultation",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-iWL9OH9hpE_D",
-          "captured_at": "2026-10-09T13:40:11.765Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": {
-            "hexagrams": [
-              {
-                "number": 16,
-                "name": "Y? / Enthusiasm",
-                "changing_lines": [
-                  5,
-                  6
-                ],
-                "relates_to": 12,
-                "relates_to_name": "P'i / Standstill"
-              }
-            ],
-            "advisory_summary": "Morning oracle grounding session.",
-            "qmdj_card": "Cast 10/9/2026, 10:40:11 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0",
-            "total_minutes": 15,
-            "mood": "reflective"
-          },
-          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 16,\r\n        \"name\": \"Y? / Enthusiasm\",\r\n        \"changing_lines\": [\r\n          5,\r\n          6\r\n        ],\r\n        \"relates_to\": 12,\r\n        \"relates_to_name\": \"P'i / Standstill\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 10/9/2026, 10:40:11 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 0\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "request_transaction_id": "Tkrt+PXqPg1hPjPfUZGoC5GAyvhrgzPzTL3rlIxkNiibsokxrYBCpORqisbxGjn3PcXVLy9PGAOYqwQWj8wXKVQkOK/FBcqWSqIKz0FBdTpEZXj1m0prXh47FfiJ55PIvZjZ5CWbcQC3b950Z/0f0WZlcsEmIEmWzuEtVJUkANbtJrGlMatszHljpiiQk+2awVIXK2cslkr9DmWFZhoIyugHTHPmKfGyDOHhAMK2MU85kegWllBP4SVe+Tx2Ib1cjCx9xxyZFuC656KU2NWbI0dwrzh8HJcEbrRIfZ89F92ZDImktiTjJh3v1AzUt8TpliRDkm3Xr12VRQZae1F7lw==",
-          "intake": {
-            "telegram_update_id": "Edgar_20261009134013_168",
-            "telegram_message_id": "Edgar_20261009134013_167",
-            "processed_at": "2026-10-09T13:47:20.681Z"
-          },
-          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-09T134011765Z-TkrtPXqPg1.json"
         }
       ],
       "sunmint_event_count": 0,

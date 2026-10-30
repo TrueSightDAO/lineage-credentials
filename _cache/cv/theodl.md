@@ -1,6 +1,6 @@
 # @TheoDL
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-30T07:53:48Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-10-30T14:41:47Z*
 
 @TheoDL contributed to TrueSight DAO with four contributions from March 2022 to September 2025. Their top category was -1TDG for every 1USDT sent, with one instance in that category.
 

@@ -1,6 +1,6 @@
 # Jessica Jae Liu
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-01T17:24:44Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-01T21:29:29Z*
 
 Jessica Jae Liu made one contribution to the TrueSight DAO on May 19, 2021.
 

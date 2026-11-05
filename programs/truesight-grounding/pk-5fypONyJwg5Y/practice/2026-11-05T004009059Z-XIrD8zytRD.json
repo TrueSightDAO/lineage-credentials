@@ -1,0 +1,34 @@
+{
+  "program": "truesight-grounding",
+  "practice_type": "oracle-consultation",
+  "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoLo/PqFEaVBV5nO5BYLXR39Zw/BgKDg93tn8+JzEJDmzGAxCZ1r2EBEaMf9cgFjDPIJ6hpBvGWHf01AtGx63bQdm0QAaOX6MAZ1JbFeKPScIaEev4HeTdm8NL/a3e8Li8mmwP/V0ec6BROtO/fY9aNxMa0ttvz2ybXVMJszDMgA0pSNBxYmOZSrix3h4tJPK11Nq4qJYdlE0rVdH+0AHPPSFQgYR5ND2k1UZTcfGPNaO0K8cvSfmMnLAOcK+R/ODc6DR2PzJYwJdzjFBD8uBJIA/7CDK9bGEXifFj5ozfSJG7x5365hIkDLQ2n9p+FE6lTltrGusLWVdVkYiPa8SYwIDAQAB",
+  "practitioner_name": "",
+  "slug": "pk-5fypONyJwg5Y",
+  "captured_at": "2026-11-05T00:40:09.059Z",
+  "source_url": "https://oracle.truesight.me/",
+  "payload": {
+    "hexagrams": [
+      {
+        "number": 15,
+        "name": "Ch'ien / Modesty",
+        "changing_lines": [
+          4
+        ],
+        "relates_to": 62,
+        "relates_to_name": "Hsiao Kuo / Preponderance of the Small"
+      }
+    ],
+    "advisory_summary": "Morning oracle grounding session.",
+    "qmdj_card": "Cast 11/5/2026, 8:40:08 AM?? ?? ? ??? ??2??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4",
+    "total_minutes": 15,
+    "mood": "reflective"
+  },
+  "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 15,\r\n        \"name\": \"Ch'ien / Modesty\",\r\n        \"changing_lines\": [\r\n          4\r\n        ],\r\n        \"relates_to\": 62,\r\n        \"relates_to_name\": \"Hsiao Kuo / Preponderance of the Small\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 11/5/2026, 8:40:08 AM?? ?? ? ??? ??2??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 4\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+  "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoLo/PqFEaVBV5nO5BYLXR39Zw/BgKDg93tn8+JzEJDmzGAxCZ1r2EBEaMf9cgFjDPIJ6hpBvGWHf01AtGx63bQdm0QAaOX6MAZ1JbFeKPScIaEev4HeTdm8NL/a3e8Li8mmwP/V0ec6BROtO/fY9aNxMa0ttvz2ybXVMJszDMgA0pSNBxYmOZSrix3h4tJPK11Nq4qJYdlE0rVdH+0AHPPSFQgYR5ND2k1UZTcfGPNaO0K8cvSfmMnLAOcK+R/ODc6DR2PzJYwJdzjFBD8uBJIA/7CDK9bGEXifFj5ozfSJG7x5365hIkDLQ2n9p+FE6lTltrGusLWVdVkYiPa8SYwIDAQAB",
+  "request_transaction_id": "XIrD8zytR+DOK/fW4olY2yqbB318zCqunzql1RbSbc3ZwvqTLkc2tfNn9V2be2o0Zm1L90PfOdT/P7XBWf9eHSTjIl0KeMTzZIGJaoyMPrvQpRFsazCklSz3KGl/6nxSCPx6H4ePzvFcVzR/PfKiMgPV9LbUDKErs1uhAvs7nJTUOIAFjKBA1g404kahVlO2U9JsFGG832KyBKmOIDntuYRuAJzcbQYbYr8g+XDR1oIDhuZz2fcU11vOMsni4a7ijVQl9gYJ/p3DDVFu2NaPwRAB9lLaZGydDCS6x+tAMaHmptX5YVYYdam+ZsIPctiwfceg+ztVBecy0tlJzamIfw==",
+  "intake": {
+    "telegram_update_id": "Edgar_20261105004011_2926",
+    "telegram_message_id": "Edgar_20261105004011_2925",
+    "processed_at": "2026-11-05T00:47:24.412Z"
+  }
+}

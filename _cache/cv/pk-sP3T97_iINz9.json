@@ -3,7 +3,7 @@
   "display_name": "pk-sP3T97_iINz9",
   "pk_hash": "pk-sP3T97_iINz9",
   "identity": {},
-  "generated_at": "2026-11-06T09:09:45Z",
+  "generated_at": "2026-11-06T10:17:55Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,47 @@
         "https://oracle.truesight.me/draw.html"
       ],
       "program_modes": [],
-      "practice_count": 2,
+      "practice_count": 3,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyEfLtF9J74O0fSXGL+qQ5vIOtSBOrgL1CI3PW5qRlRYBH7lIUJB4Oq7n0VIew0nlntXYMgzzorjWW/2G+hIqFZXfbbfVodqvKHM2rHFiiEjQS8jON97nypUquB1JrDS/OBC7rxpbQhBZ+lCrGpvNgzHQrnEaO4oPLmeQAiMU3WhtWz21kakDJKl8QU6/BzgS2Qrzt3zHvm1ygRMEr8jwjqNDamtv8tllfWSUER/dGCfxrHwZOHlL8+e/p+PW+be1QOLcwy97XqQlMHJ7xwRIgIoym9l4QFc+1Y+cGSe8fEXG2bARQjsrkYV34f5E61VCXCAl6dSpZDObEA1OrlujUwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-sP3T97_iINz9",
+          "captured_at": "2026-11-06T10:09:09.761Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 51,
+                "name": "Ch?n / The Arousing",
+                "changing_lines": [
+                  2,
+                  4,
+                  5,
+                  6
+                ],
+                "relates_to": 61,
+                "relates_to_name": "Chung Fu / Inner Truth"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 11/6/2026, 6:09:09 PM?? ?? ? ??? ??2??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 9",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 51,\r\n        \"name\": \"Ch?n / The Arousing\",\r\n        \"changing_lines\": [\r\n          2,\r\n          4,\r\n          5,\r\n          6\r\n        ],\r\n        \"relates_to\": 61,\r\n        \"relates_to_name\": \"Chung Fu / Inner Truth\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 11/6/2026, 6:09:09 PM?? ?? ? ??? ??2??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 9\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyEfLtF9J74O0fSXGL+qQ5vIOtSBOrgL1CI3PW5qRlRYBH7lIUJB4Oq7n0VIew0nlntXYMgzzorjWW/2G+hIqFZXfbbfVodqvKHM2rHFiiEjQS8jON97nypUquB1JrDS/OBC7rxpbQhBZ+lCrGpvNgzHQrnEaO4oPLmeQAiMU3WhtWz21kakDJKl8QU6/BzgS2Qrzt3zHvm1ygRMEr8jwjqNDamtv8tllfWSUER/dGCfxrHwZOHlL8+e/p+PW+be1QOLcwy97XqQlMHJ7xwRIgIoym9l4QFc+1Y+cGSe8fEXG2bARQjsrkYV34f5E61VCXCAl6dSpZDObEA1OrlujUwIDAQAB",
+          "request_transaction_id": "H6fJIY7/vEWepu0N/dkg8GxY0vpGPuUnMj+zDVrwMNbPlHg2uN/Yhkai1VyGuPlapsPn6VhRDGJXGe1qS39VzkuaF8rgX8jKfVUunA7DsHb5f1PECfAZpToltHeDmiTmT9voILyQwYM9AWjjd5JJc9VGSkebVLKmd8uyE7D+iHvA/kTIbJ+DIm+nI6qsScZcO8fJxZLaeSOfWvTIvPR/MVbNhzP58PNdaiigfzW1vAwW19N05GaHHtWJRw0SKOnW7OpUbW4JzdGl9lCMUeh+en0ExBDUrmKzlLTS2zzZW7epmw6vbGaeWO5bkI9U/oozqWU6QfDUbVF38KrnHXMqww==",
+          "intake": {
+            "telegram_update_id": "Edgar_20261106100912_2974",
+            "telegram_message_id": "Edgar_20261106100912_2973",
+            "processed_at": "2026-11-06T10:17:25.061Z"
+          },
+          "_path": "programs/truesight-grounding/pk-sP3T97_iINz9/practice/2026-11-06T100909761Z-H6fJIY7vEW.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",

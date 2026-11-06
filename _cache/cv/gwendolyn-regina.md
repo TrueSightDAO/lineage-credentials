@@ -1,6 +1,6 @@
 # Gwendolyn Regina
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-06T10:17:55Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-06T13:27:34Z*
 
 Gwendolyn Regina made two contributions to TrueSight DAO on September 20, 2024, both under the 100TDG For every 1 hour of human effort category.
 

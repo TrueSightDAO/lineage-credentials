@@ -1,6 +1,6 @@
 # Yuval Wirzberger
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-09T22:18:02Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-10T03:26:06Z*
 
 Yuval Wirzberger contributed to TrueSight DAO by attending a FaceTime meeting for the Build Game - Strategy category on September 12, 2023.
 

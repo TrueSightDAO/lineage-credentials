@@ -3,7 +3,7 @@
   "display_name": "pk-iWL9OH9hpE_D",
   "pk_hash": "pk-iWL9OH9hpE_D",
   "identity": {},
-  "generated_at": "2026-11-11T23:51:30Z",
+  "generated_at": "2026-11-12T00:27:58Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,45 @@
         "https://oracle.truesight.me/draw.html"
       ],
       "program_modes": [],
-      "practice_count": 123,
+      "practice_count": 124,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-iWL9OH9hpE_D",
+          "captured_at": "2026-11-12T00:17:55.473Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 47,
+                "name": "K'un / Oppression",
+                "changing_lines": [
+                  2,
+                  4
+                ],
+                "relates_to": 8,
+                "relates_to_name": "Pi / Holding Together"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 11/12/2026, 8:17:54 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 47,\r\n        \"name\": \"K'un / Oppression\",\r\n        \"changing_lines\": [\r\n          2,\r\n          4\r\n        ],\r\n        \"relates_to\": 8,\r\n        \"relates_to_name\": \"Pi / Holding Together\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 11/12/2026, 8:17:54 AM?? ?? ? ??? ??6??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 8\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "request_transaction_id": "RHCB/XZ3/y4hZkwS3aeBbkGQYmmdHqdlUjrxftTfFFK0C2hHSAaVlFLZOI1tBvj/J0lmRDkzGE2n5zT2kTlOCEDSBcl9eIKtBF2OTlIUwSGvkmq+V6o7+IgpMzR9F0zhCx0Rh7xvlyeGfKdc1fbai6TGpv2nHbzXfdCLqfbBHQq9fp47CCbxVZjsmxH7LdsRW+2zBT12Dt9WDSXqb1Cuv6AJK0uMj205yPaJQWfM4SrQaI5AfkBijkMvdvGeyDh8ZGNmhj8hY8G8Y/qSlD2OjQEEtx+KpqdTlaQvDp/OyHi2cpfnb5CuSfB/xJOiglj0EGg+3BIXWhNMSTbH3nD9rQ==",
+          "intake": {
+            "telegram_update_id": "Edgar_20261112001758_3080",
+            "telegram_message_id": "Edgar_20261112001758_3079",
+            "processed_at": "2026-11-12T00:27:22.748Z"
+          },
+          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-11-12T001755473Z-RHCBXZ3y4h.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",
@@ -674,37 +710,6 @@
             "processed_at": "2026-10-23T00:47:27.864Z"
           },
           "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-23T004129569Z-RxturalQkd.json"
-        },
-        {
-          "program": "truesight-grounding",
-          "practice_type": "oracle-consultation",
-          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "practitioner_name": "",
-          "slug": "pk-iWL9OH9hpE_D",
-          "captured_at": "2026-10-21T23:12:30.383Z",
-          "source_url": "https://oracle.truesight.me/",
-          "payload": {
-            "hexagrams": [
-              {
-                "number": 44,
-                "name": "Kou / Coming to Meet",
-                "changing_lines": []
-              }
-            ],
-            "advisory_summary": "Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.Hexagram 44, Coming to Meet: Heaven above, Wind below ? a single broken line slipping in beneath five solid ones. Nothing about this situation is loud, and that is precisely the warning. Something small has entered your field, it carries more force than its size suggests, and it is already exerting pull ? you did not summon it, and the judgment is blunt: do not marry such a maiden. Do not convert this",
-            "qmdj_card": "Cast 10/22/2026, 7:12:29 AM?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6",
-            "total_minutes": 15,
-            "mood": "reflective"
-          },
-          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 44,\r\n        \"name\": \"Kou / Coming to Meet\",\r\n        \"changing_lines\": []\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Personal reading for the operator ? an individual practice, not a decision on behalf of the DAO.Hexagram 44, Coming to Meet: Heaven above, Wind below ? a single broken line slipping in beneath five solid ones. Nothing about this situation is loud, and that is precisely the warning. Something small has entered your field, it carries more force than its size suggests, and it is already exerting pull ? you did not summon it, and the judgment is blunt: do not marry such a maiden. Do not convert this\",\r\n    \"qmdj_card\": \"Cast 10/22/2026, 7:12:29 AM?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 6\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
-          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
-          "request_transaction_id": "b2EzYYw1Vwtm/ZULluit8mA8lVcLRyonm9Q9r5CqymGPbSeHsimvxScx45khL0wO7HIpNZDEsLDnEIb49t3gqyH8YZpwzUHzNcjO8zWLT2gthcD0OZyYmu5cZ19KOMt2k7GOuzJcrf9ouM2raOw2EihiO7ANrlb1afkXhUKelYrviAToMLsD8XHBk2FW1furam9DkYt0rgkDn+7oQPcJSXEU6DJ/Nie6whJlpNmEIskd3/JalxqwSkJDqJRt5ai80AsFOKrRKWiayXcTA8FV2jRV/oTC7QkDt3J7ukLulvOuRirMkjLXoo1gqCZVBwdMlZg9EK0FmS71/jujqbSvag==",
-          "intake": {
-            "telegram_update_id": "Edgar_20261021231232_184",
-            "telegram_message_id": "Edgar_20261021231232_183",
-            "processed_at": "2026-10-21T23:17:22.264Z"
-          },
-          "_path": "programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/2026-10-21T231230383Z-b2EzYYw1Vw.json"
         }
       ],
       "sunmint_event_count": 0,

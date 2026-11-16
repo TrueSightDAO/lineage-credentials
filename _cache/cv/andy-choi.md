@@ -1,6 +1,6 @@
 # Andy Choi
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-16T03:26:29Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-16T03:51:13Z*
 
 Andy Choi made one contribution to the DAO via the telegram_chatlog project, earning recognition under the '100TDG For every 1 hour of human effort' category.
 

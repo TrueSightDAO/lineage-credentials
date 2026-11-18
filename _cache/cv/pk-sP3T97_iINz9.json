@@ -3,7 +3,7 @@
   "display_name": "pk-sP3T97_iINz9",
   "pk_hash": "pk-sP3T97_iINz9",
   "identity": {},
-  "generated_at": "2026-11-18T05:09:34Z",
+  "generated_at": "2026-11-18T05:47:50Z",
   "has_elective_records": true,
   "has_dao_contributions": false,
   "programs": {
@@ -14,9 +14,45 @@
         "https://oracle.truesight.me/draw.html"
       ],
       "program_modes": [],
-      "practice_count": 3,
+      "practice_count": 4,
       "total_practice_minutes": 0,
       "recent_events": [
+        {
+          "program": "truesight-grounding",
+          "practice_type": "oracle-consultation",
+          "practitioner_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyEfLtF9J74O0fSXGL+qQ5vIOtSBOrgL1CI3PW5qRlRYBH7lIUJB4Oq7n0VIew0nlntXYMgzzorjWW/2G+hIqFZXfbbfVodqvKHM2rHFiiEjQS8jON97nypUquB1JrDS/OBC7rxpbQhBZ+lCrGpvNgzHQrnEaO4oPLmeQAiMU3WhtWz21kakDJKl8QU6/BzgS2Qrzt3zHvm1ygRMEr8jwjqNDamtv8tllfWSUER/dGCfxrHwZOHlL8+e/p+PW+be1QOLcwy97XqQlMHJ7xwRIgIoym9l4QFc+1Y+cGSe8fEXG2bARQjsrkYV34f5E61VCXCAl6dSpZDObEA1OrlujUwIDAQAB",
+          "practitioner_name": "",
+          "slug": "pk-sP3T97_iINz9",
+          "captured_at": "2026-11-18T05:46:16.995Z",
+          "source_url": "https://oracle.truesight.me/",
+          "payload": {
+            "hexagrams": [
+              {
+                "number": 36,
+                "name": "Ming I / Darkening of the Light",
+                "changing_lines": [
+                  2,
+                  5
+                ],
+                "relates_to": 5,
+                "relates_to_name": "Hs? / Waiting"
+              }
+            ],
+            "advisory_summary": "Morning oracle grounding session.",
+            "qmdj_card": "Cast 11/18/2026, 1:46:16 PM?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 1",
+            "total_minutes": 15,
+            "mood": "reflective"
+          },
+          "raw_payload_json": "{\r\n    \"hexagrams\": [\r\n      {\r\n        \"number\": 36,\r\n        \"name\": \"Ming I / Darkening of the Light\",\r\n        \"changing_lines\": [\r\n          2,\r\n          5\r\n        ],\r\n        \"relates_to\": 5,\r\n        \"relates_to_name\": \"Hs? / Waiting\"\r\n      }\r\n    ],\r\n    \"advisory_summary\": \"Morning oracle grounding session.\",\r\n    \"qmdj_card\": \"Cast 11/18/2026, 1:46:16 PM?? ?? ? ??? ??3??? ?? ?? ?? ???? ?? @ ??? ?? @ ??? 1\",\r\n    \"total_minutes\": 15,\r\n    \"mood\": \"reflective\"\r\n  }",
+          "digital_signature": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyEfLtF9J74O0fSXGL+qQ5vIOtSBOrgL1CI3PW5qRlRYBH7lIUJB4Oq7n0VIew0nlntXYMgzzorjWW/2G+hIqFZXfbbfVodqvKHM2rHFiiEjQS8jON97nypUquB1JrDS/OBC7rxpbQhBZ+lCrGpvNgzHQrnEaO4oPLmeQAiMU3WhtWz21kakDJKl8QU6/BzgS2Qrzt3zHvm1ygRMEr8jwjqNDamtv8tllfWSUER/dGCfxrHwZOHlL8+e/p+PW+be1QOLcwy97XqQlMHJ7xwRIgIoym9l4QFc+1Y+cGSe8fEXG2bARQjsrkYV34f5E61VCXCAl6dSpZDObEA1OrlujUwIDAQAB",
+          "request_transaction_id": "VTJ20Ac0Afa0jsUq81fp2WYqtWxQ/jjkAA+B9wnqFCY9SfipEAxvuasPEZ/vS0A+GGrzDqdNWvIQXS0xqFKyG7/OTN40BGVuqHJXevzwL0laAivl0okzbENbfW2sf7PUOjtCIs5hZlVBuJ3IkETb12+FOd4nMr7gnqOgk8lgw2Uyaw5ccitbE/IDH2M2fdyynuy1PhtroDpcn++fKtW8bCKAYtrSPVqTQaJ9vAXxSOMTOYQuSYzHOIer4WmWydnmwhk7UGl4m+Og4IZ33odh6xW51uy6ZGe5r1P+gQOrE298urhzzXwc3RvzaZgbIjGqynxeMCOaoxrDGthxgavpIg==",
+          "intake": {
+            "telegram_update_id": "Edgar_20261118054621_3752",
+            "telegram_message_id": "Edgar_20261118054621_3751",
+            "processed_at": "2026-11-18T05:47:22.563Z"
+          },
+          "_path": "programs/truesight-grounding/pk-sP3T97_iINz9/practice/2026-11-18T054616995Z-VTJ20Ac0Af.json"
+        },
         {
           "program": "truesight-grounding",
           "practice_type": "oracle-consultation",

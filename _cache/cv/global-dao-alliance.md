@@ -1,6 +1,6 @@
 # Global DAO Alliance
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-18T05:09:34Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-18T05:47:50Z*
 
 Global DAO Alliance made 4 contributions to TrueSight DAO between May and June 2022, all in the Bring Liquidity category by paying for expenses in USD on behalf of the DAO.
 

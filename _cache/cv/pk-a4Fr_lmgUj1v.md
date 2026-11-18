@@ -1,14 +1,15 @@
 # pk-a4Fr_lmgUj1v
 
-*Practitioner · TrueSight DAO Credential Profile · generated 2026-11-18T00:58:16Z*
+*Practitioner · TrueSight DAO Credential Profile · generated 2026-11-18T03:18:17Z*
 
 ## Capoeira — Tribo Bahia Mirim
 
-- Practice sessions logged: **4**
-- Total practice time: **91 minutes**
+- Practice sessions logged: **5**
+- Total practice time: **112 minutes**
 - Lineage root: Bico Duro
 
 ### Recent sessions
+- **2026-11-18T03:10:52.261Z** — roda (21 min) — [programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-11-18T031052261Z-fdx2E4c7w2.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-11-18T031052261Z-fdx2E4c7w2.json)
 - **2026-11-13T23:46:32.914Z** — roda (19 min) — [programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-11-13T234632914Z-eWO7gBZ5FO.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-11-13T234632914Z-eWO7gBZ5FO.json)
 - **2026-10-28T10:26:49.212Z** — roda (30 min) — [programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-10-28T102649212Z-TAnyLSI70o.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-10-28T102649212Z-TAnyLSI70o.json)
 - **2026-10-27T14:12:14.312Z** — roda (26 min) — [programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-10-27T141214312Z-cJf1NwO1uC.json](https://github.com/TrueSightDAO/lineage-credentials/blob/main/programs/capoeira-tribo-mirim/pk-a4Fr_lmgUj1v/practice/2026-10-27T141214312Z-cJf1NwO1uC.json)

@@ -1,6 +1,6 @@
 # Ambarish Malpani
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-24T15:07:54Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-25T00:14:43Z*
 
 Ambarish Malpani contributed to the Agroverse project with two entries in the Build Game - Strategy category. He suggested a snippet of standalone insight associated with the DAO's work and contributed reference material by hyperlinking to a specific concept. These contributions occurred between May 2021 and November 2023.
 

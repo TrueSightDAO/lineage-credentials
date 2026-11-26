@@ -1,6 +1,6 @@
 # Nash
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-26T15:57:50Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-26T22:41:51Z*
 
 Nash made one contribution to the TrueSight DAO.
 

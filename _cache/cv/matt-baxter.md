@@ -1,6 +1,6 @@
 # Matt Baxter
 
-*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-28T05:31:45Z*
+*DAO Contributor · TrueSight DAO Credential Profile · generated 2026-11-28T07:27:52Z*
 
 Matt Baxter made three contributions to the TrueSight DAO on March 20, 2022.
 
